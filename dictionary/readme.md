@@ -6,6 +6,4 @@ These are the different dictionaries used to generate puzzles.
 
 `available8.txt`: All 8 letter words used as potential target words during generation
 
-`used8.txt`: All 8 letter words that exist in previously generated puzzles
-
 `nogood8.txt`: All 8 letter words that the generator has attempted to generate a puzzle from but cannot because no valid path exists from 3-8 letters

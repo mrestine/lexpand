@@ -15,7 +15,7 @@
 import {
   readFileSync,
   writeFileSync,
-  appendFileSync, // unused for now until testing completely verified
+  appendFileSync,
   existsSync,
   mkdirSync,
 } from 'fs'; // writeFileSync used for puzzle output
@@ -217,24 +217,19 @@ function main(): void {
     .map((w) => w.trim())
     .filter(Boolean);
 
-  // choose a random word, skipping any already in used8.txt or nogood8.txt
-  // used8 words have successfully been in puzzles.
-  // nogood8 words don't have valid paths down to 3 letters.
+  // skip words with no valid paths - they'll never produce a puzzle
   const nogood8Path = join(__dir, '../dictionary/nogood8.txt');
-  const used8Path = join(__dir, '../dictionary/used8.txt');
-  const usedWords = new Set(
-    [
-      ...(existsSync(nogood8Path)
-        ? readFileSync(nogood8Path, 'utf-8').split('\n')
-        : []),
-      ...(existsSync(used8Path)
-        ? readFileSync(used8Path, 'utf-8').split('\n')
-        : []),
-    ]
-      .map((w) => w.trim())
-      .filter(Boolean),
+  const nogoodWords = new Set(
+    existsSync(nogood8Path)
+      ? readFileSync(nogood8Path, 'utf-8')
+          .split('\n')
+          .map((w) => w.trim())
+          .filter(Boolean)
+      : [],
   );
-  const candidates = shuffled(available8, rng).filter((w) => !usedWords.has(w));
+  const candidates = shuffled(available8, rng).filter(
+    (w) => !nogoodWords.has(w),
+  );
 
   // purge available8 from memory
   available8 = [];
@@ -270,7 +265,7 @@ function main(): void {
 
     // if paths.length is 0, add the 8 letter word to nogood8.txt, try with a new word
     if (paths.length === 0) {
-      //appendFileSync(nogood8Path, targetWord + '\n');
+      appendFileSync(nogood8Path, targetWord + '\n');
       continue;
     }
 
@@ -290,9 +285,6 @@ function main(): void {
     console.error('No suitable word found — all candidates exhausted.');
     process.exit(1);
   }
-
-  // write to used8.txt
-  // appendFileSync(used8Path, selectedWord + '\n');
 
   const path = selectedPath;
   const steps: Step[] = [];
@@ -320,17 +312,28 @@ function main(): void {
       const nextKey = letterKey(currentKey + letter);
       const p = pathSoFar + letter;
       dictionary[p] = anagramIndex.get(nextKey) ?? [];
-      if (rungIdx < steps.length - 1) {
+      if (rungIdx < steps.length - 1 && dictionary[p].length > 0) {
         walk(rungIdx + 1, p, nextKey);
       }
     }
   }
   walk(0, '', path.keys[0]);
 
+  // collect all valid 8-letter words reachable via any path (correct or distractor)
+  const target = [
+    ...new Set(
+      Object.entries(dictionary)
+        .filter(
+          ([key, words]) => key.length === steps.length && words.length > 0,
+        )
+        .flatMap(([, words]) => words),
+    ),
+  ];
+
   // the full puzzle object. the start word is just the first of possible paths
   const puzzle: Puzzle = {
     start: (anagramIndex.get(path.keys[0]) ?? [selectedWord])[0],
-    target: anagramIndex.get(path.keys[5]) ?? [selectedWord],
+    target,
     steps,
     dictionary,
   };
