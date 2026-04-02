@@ -6,7 +6,7 @@
  * This script generates a puzzle json for a given date.
  * The json includes the target word, starting word, and all available steps.
  *
- * usage: npx generate <yyyy-mm-dd>
+ * usage: npm run generate <yyyy-mm-dd>
  *
  * The script should be deterministic and always generate the same word for a given date.
  * If a puzzle already exists in puzzles/ for the given date, no puzzle is generated.
@@ -43,8 +43,6 @@ interface Puzzle {
   steps: Step[];
   dictionary: Record<string, string[]>;
 }
-
-// ── Helpers ────────────────────────────────────────────────────────────────
 
 // returns the alphabetized letters of a word, good for anagrams
 function letterKey(word: string): string {
@@ -307,13 +305,13 @@ function main(): void {
   // recursively validate the puzzle by brute forcing all combinations
   // build the dictionary using only available characters
   const dictionary: Record<string, string[]> = {};
-  function walk(rungIdx: number, pathSoFar: string, currentKey: string): void {
-    for (const letter of steps[rungIdx].options.split('')) {
+  function walk(stepIdx: number, pathSoFar: string, currentKey: string): void {
+    for (const letter of steps[stepIdx].options.split('')) {
       const nextKey = letterKey(currentKey + letter);
       const p = pathSoFar + letter;
       dictionary[p] = anagramIndex.get(nextKey) ?? [];
-      if (rungIdx < steps.length - 1 && dictionary[p].length > 0) {
-        walk(rungIdx + 1, p, nextKey);
+      if (stepIdx < steps.length - 1 && dictionary[p].length > 0) {
+        walk(stepIdx + 1, p, nextKey);
       }
     }
   }

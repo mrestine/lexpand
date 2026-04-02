@@ -1,0 +1,166 @@
+{
+  "start": "ore",
+  "target": [
+    "overside",
+    "avodires",
+    "avoiders"
+  ],
+  "steps": [
+    {
+      "options": "szt"
+    },
+    {
+      "options": "iad"
+    },
+    {
+      "options": "eaj"
+    },
+    {
+      "options": "vxo"
+    },
+    {
+      "options": "xda"
+    }
+  ],
+  "dictionary": {
+    "s": [
+      "eros",
+      "ores",
+      "roes",
+      "rose",
+      "sore"
+    ],
+    "si": [
+      "osier"
+    ],
+    "sie": [
+      "soiree"
+    ],
+    "siev": [
+      "erosive"
+    ],
+    "sievx": [],
+    "sievd": [
+      "overside"
+    ],
+    "sieva": [],
+    "siex": [],
+    "sieo": [],
+    "sia": [
+      "ariose"
+    ],
+    "siav": [
+      "ovaries"
+    ],
+    "siavx": [],
+    "siavd": [
+      "avodires",
+      "avoiders"
+    ],
+    "siava": [],
+    "siax": [],
+    "siao": [],
+    "sij": [],
+    "sa": [
+      "arose"
+    ],
+    "sae": [],
+    "saa": [],
+    "saj": [],
+    "sd": [
+      "doers",
+      "doser",
+      "redos",
+      "resod",
+      "rosed"
+    ],
+    "sde": [
+      "erodes",
+      "redoes"
+    ],
+    "sdev": [],
+    "sdex": [
+      "redoxes"
+    ],
+    "sdexx": [],
+    "sdexd": [],
+    "sdexa": [],
+    "sdeo": [],
+    "sda": [
+      "adores",
+      "oreads",
+      "sarode",
+      "soared"
+    ],
+    "sdav": [
+      "oversad",
+      "savored"
+    ],
+    "sdavx": [],
+    "sdavd": [],
+    "sdava": [],
+    "sdax": [],
+    "sdao": [
+      "roadeos"
+    ],
+    "sdaox": [],
+    "sdaod": [],
+    "sdaoa": [],
+    "sdj": [],
+    "z": [
+      "zero"
+    ],
+    "zi": [],
+    "za": [],
+    "zd": [
+      "dozer"
+    ],
+    "zde": [
+      "zeroed"
+    ],
+    "zdev": [],
+    "zdex": [],
+    "zdeo": [],
+    "zda": [],
+    "zdj": [],
+    "t": [
+      "rote",
+      "tore"
+    ],
+    "ti": [],
+    "ta": [
+      "oater",
+      "orate"
+    ],
+    "tae": [],
+    "taa": [
+      "aortae"
+    ],
+    "taav": [],
+    "taax": [],
+    "taao": [],
+    "taj": [],
+    "td": [
+      "doter",
+      "trode"
+    ],
+    "tde": [
+      "teredo"
+    ],
+    "tdev": [
+      "revoted"
+    ],
+    "tdevx": [],
+    "tdevd": [],
+    "tdeva": [],
+    "tdex": [],
+    "tdeo": [],
+    "tda": [
+      "orated"
+    ],
+    "tdav": [],
+    "tdax": [],
+    "tdao": [],
+    "tdj": []
+  }
+}
