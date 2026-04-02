@@ -1,0 +1,596 @@
+{
+  "start": "ope",
+  "target": [
+    "outleapt"
+  ],
+  "steps": [
+    {
+      "options": "cdl"
+    },
+    {
+      "options": "urs"
+    },
+    {
+      "options": "itc"
+    },
+    {
+      "options": "dpa"
+    },
+    {
+      "options": "tif"
+    }
+  ],
+  "dictionary": {
+    "c": [
+      "cope"
+    ],
+    "cu": [
+      "coupe"
+    ],
+    "cui": [],
+    "cuid": [],
+    "cuidt": [],
+    "cuidi": [],
+    "cuidf": [],
+    "cuip": [],
+    "cuipt": [],
+    "cuipi": [],
+    "cuipf": [],
+    "cuia": [],
+    "cuiat": [],
+    "cuiai": [],
+    "cuiaf": [],
+    "cut": [],
+    "cutd": [],
+    "cutdt": [],
+    "cutdi": [],
+    "cutdf": [],
+    "cutp": [],
+    "cutpt": [],
+    "cutpi": [],
+    "cutpf": [],
+    "cuta": [
+      "outpace"
+    ],
+    "cutat": [],
+    "cutai": [],
+    "cutaf": [],
+    "cuc": [],
+    "cucd": [],
+    "cucdt": [],
+    "cucdi": [
+      "occupied"
+    ],
+    "cucdf": [],
+    "cucp": [],
+    "cucpt": [],
+    "cucpi": [],
+    "cucpf": [],
+    "cuca": [],
+    "cucat": [],
+    "cucai": [],
+    "cucaf": [],
+    "cr": [
+      "coper"
+    ],
+    "cri": [
+      "copier"
+    ],
+    "crid": [
+      "percoid"
+    ],
+    "cridt": [
+      "depictor"
+    ],
+    "cridi": [
+      "periodic"
+    ],
+    "cridf": [],
+    "crip": [
+      "croppie"
+    ],
+    "cript": [],
+    "cripi": [],
+    "cripf": [],
+    "cria": [],
+    "criat": [
+      "operatic"
+    ],
+    "criai": [],
+    "criaf": [],
+    "crt": [
+      "copter"
+    ],
+    "crtd": [],
+    "crtdt": [],
+    "crtdi": [
+      "depictor"
+    ],
+    "crtdf": [],
+    "crtp": [],
+    "crtpt": [],
+    "crtpi": [],
+    "crtpf": [],
+    "crta": [],
+    "crtat": [],
+    "crtai": [
+      "operatic"
+    ],
+    "crtaf": [],
+    "crc": [],
+    "crcd": [],
+    "crcdt": [],
+    "crcdi": [],
+    "crcdf": [],
+    "crcp": [],
+    "crcpt": [],
+    "crcpi": [],
+    "crcpf": [],
+    "crca": [],
+    "crcat": [
+      "acceptor"
+    ],
+    "crcai": [],
+    "crcaf": [],
+    "cs": [
+      "copes",
+      "copse",
+      "scope"
+    ],
+    "csi": [
+      "copies"
+    ],
+    "csid": [],
+    "csidt": [
+      "despotic"
+    ],
+    "csidi": [
+      "episodic"
+    ],
+    "csidf": [],
+    "csip": [],
+    "csipt": [],
+    "csipi": [],
+    "csipf": [],
+    "csia": [],
+    "csiat": [
+      "ectopias"
+    ],
+    "csiai": [],
+    "csiaf": [],
+    "cst": [],
+    "cstd": [],
+    "cstdt": [],
+    "cstdi": [
+      "despotic"
+    ],
+    "cstdf": [],
+    "cstp": [],
+    "cstpt": [],
+    "cstpi": [],
+    "cstpf": [],
+    "csta": [
+      "capotes",
+      "toecaps"
+    ],
+    "cstat": [],
+    "cstai": [
+      "ectopias"
+    ],
+    "cstaf": [
+      "postface"
+    ],
+    "csc": [],
+    "cscd": [],
+    "cscdt": [],
+    "cscdi": [],
+    "cscdf": [],
+    "cscp": [],
+    "cscpt": [],
+    "cscpi": [
+      "coppices"
+    ],
+    "cscpf": [],
+    "csca": [],
+    "cscat": [],
+    "cscai": [],
+    "cscaf": [],
+    "d": [
+      "dope",
+      "oped"
+    ],
+    "du": [],
+    "dui": [],
+    "duid": [],
+    "duidt": [],
+    "duidi": [],
+    "duidf": [],
+    "duip": [],
+    "duipt": [],
+    "duipi": [],
+    "duipf": [],
+    "duia": [],
+    "duiat": [],
+    "duiai": [],
+    "duiaf": [],
+    "dut": [
+      "pouted"
+    ],
+    "dutd": [],
+    "dutdt": [],
+    "dutdi": [],
+    "dutdf": [],
+    "dutp": [],
+    "dutpt": [],
+    "dutpi": [],
+    "dutpf": [],
+    "duta": [],
+    "dutat": [],
+    "dutai": [],
+    "dutaf": [],
+    "duc": [
+      "couped"
+    ],
+    "ducd": [],
+    "ducdt": [],
+    "ducdi": [],
+    "ducdf": [],
+    "ducp": [],
+    "ducpt": [],
+    "ducpi": [],
+    "ducpf": [],
+    "duca": [],
+    "ducat": [
+      "outpaced"
+    ],
+    "ducai": [],
+    "ducaf": [],
+    "dr": [
+      "doper",
+      "pedro",
+      "pored",
+      "roped"
+    ],
+    "dri": [
+      "dopier",
+      "period"
+    ],
+    "drid": [],
+    "dridt": [],
+    "dridi": [
+      "periodid"
+    ],
+    "dridf": [],
+    "drip": [],
+    "dript": [],
+    "dripi": [],
+    "dripf": [],
+    "dria": [],
+    "driat": [],
+    "driai": [],
+    "driaf": [],
+    "drt": [
+      "deport",
+      "ported",
+      "redtop"
+    ],
+    "drtd": [],
+    "drtdt": [],
+    "drtdi": [],
+    "drtdf": [],
+    "drtp": [],
+    "drtpt": [],
+    "drtpi": [],
+    "drtpf": [],
+    "drta": [
+      "adopter",
+      "readopt"
+    ],
+    "drtat": [
+      "tetrapod"
+    ],
+    "drtai": [],
+    "drtaf": [],
+    "drc": [],
+    "drcd": [],
+    "drcdt": [],
+    "drcdi": [],
+    "drcdf": [],
+    "drcp": [
+      "cropped"
+    ],
+    "drcpt": [],
+    "drcpi": [],
+    "drcpf": [],
+    "drca": [],
+    "drcat": [],
+    "drcai": [],
+    "drcaf": [],
+    "ds": [
+      "dopes",
+      "posed",
+      "spode"
+    ],
+    "dsi": [
+      "poised"
+    ],
+    "dsid": [],
+    "dsidt": [],
+    "dsidi": [
+      "diopside",
+      "dipodies"
+    ],
+    "dsidf": [],
+    "dsip": [],
+    "dsipt": [],
+    "dsipi": [],
+    "dsipf": [],
+    "dsia": [
+      "adipose"
+    ],
+    "dsiat": [
+      "dioptase"
+    ],
+    "dsiai": [],
+    "dsiaf": [],
+    "dst": [
+      "depots",
+      "despot",
+      "posted",
+      "stoped"
+    ],
+    "dstd": [],
+    "dstdt": [],
+    "dstdi": [],
+    "dstdf": [],
+    "dstp": [
+      "stopped"
+    ],
+    "dstpt": [],
+    "dstpi": [],
+    "dstpf": [],
+    "dsta": [
+      "podesta"
+    ],
+    "dstat": [
+      "postdate"
+    ],
+    "dstai": [
+      "dioptase"
+    ],
+    "dstaf": [],
+    "dsc": [
+      "scoped"
+    ],
+    "dscd": [],
+    "dscdt": [],
+    "dscdi": [],
+    "dscdf": [],
+    "dscp": [],
+    "dscpt": [],
+    "dscpi": [],
+    "dscpf": [],
+    "dsca": [
+      "peascod"
+    ],
+    "dscat": [],
+    "dscai": [],
+    "dscaf": [],
+    "l": [
+      "lope",
+      "pole"
+    ],
+    "lu": [
+      "loupe"
+    ],
+    "lui": [],
+    "luid": [
+      "euploid"
+    ],
+    "luidt": [],
+    "luidi": [],
+    "luidf": [],
+    "luip": [],
+    "luipt": [],
+    "luipi": [],
+    "luipf": [],
+    "luia": [],
+    "luiat": [],
+    "luiai": [],
+    "luiaf": [],
+    "lut": [
+      "tupelo"
+    ],
+    "lutd": [],
+    "lutdt": [],
+    "lutdi": [],
+    "lutdf": [],
+    "lutp": [],
+    "lutpt": [],
+    "lutpi": [],
+    "lutpf": [],
+    "luta": [
+      "outleap"
+    ],
+    "lutat": [
+      "outleapt"
+    ],
+    "lutai": [],
+    "lutaf": [],
+    "luc": [
+      "couple"
+    ],
+    "lucd": [
+      "coupled"
+    ],
+    "lucdt": [
+      "octupled"
+    ],
+    "lucdi": [
+      "clupeoid",
+      "upcoiled"
+    ],
+    "lucdf": [],
+    "lucp": [],
+    "lucpt": [],
+    "lucpi": [],
+    "lucpf": [],
+    "luca": [
+      "copulae"
+    ],
+    "lucat": [
+      "copulate"
+    ],
+    "lucai": [],
+    "lucaf": [],
+    "lr": [
+      "loper",
+      "poler",
+      "prole"
+    ],
+    "lri": [],
+    "lrid": [
+      "leporid"
+    ],
+    "lridt": [],
+    "lridi": [],
+    "lridf": [
+      "profiled"
+    ],
+    "lrip": [
+      "loppier"
+    ],
+    "lript": [],
+    "lripi": [],
+    "lripf": [
+      "floppier"
+    ],
+    "lria": [
+      "peloria"
+    ],
+    "lriat": [
+      "petiolar"
+    ],
+    "lriai": [],
+    "lriaf": [],
+    "lrt": [
+      "petrol",
+      "replot"
+    ],
+    "lrtd": [
+      "droplet"
+    ],
+    "lrtdt": [],
+    "lrtdi": [],
+    "lrtdf": [],
+    "lrtp": [],
+    "lrtpt": [],
+    "lrtpi": [],
+    "lrtpf": [],
+    "lrta": [
+      "prolate"
+    ],
+    "lrtat": [],
+    "lrtai": [
+      "petiolar"
+    ],
+    "lrtaf": [],
+    "lrc": [],
+    "lrcd": [],
+    "lrcdt": [],
+    "lrcdi": [],
+    "lrcdf": [],
+    "lrcp": [],
+    "lrcpt": [],
+    "lrcpi": [],
+    "lrcpf": [],
+    "lrca": [],
+    "lrcat": [
+      "pectoral"
+    ],
+    "lrcai": [
+      "capriole"
+    ],
+    "lrcaf": [],
+    "ls": [
+      "lopes",
+      "poles",
+      "slope"
+    ],
+    "lsi": [
+      "pilose",
+      "poleis"
+    ],
+    "lsid": [
+      "despoil",
+      "diploes",
+      "dipoles",
+      "spoiled"
+    ],
+    "lsidt": [
+      "pistoled"
+    ],
+    "lsidi": [
+      "ploidies"
+    ],
+    "lsidf": [],
+    "lsip": [],
+    "lsipt": [
+      "loppiest"
+    ],
+    "lsipi": [],
+    "lsipf": [
+      "floppies"
+    ],
+    "lsia": [],
+    "lsiat": [
+      "spoliate"
+    ],
+    "lsiai": [],
+    "lsiaf": [],
+    "lst": [],
+    "lstd": [],
+    "lstdt": [],
+    "lstdi": [
+      "pistoled"
+    ],
+    "lstdf": [],
+    "lstp": [
+      "stopple",
+      "topples"
+    ],
+    "lstpt": [],
+    "lstpi": [
+      "loppiest"
+    ],
+    "lstpf": [],
+    "lsta": [
+      "apostle",
+      "pelotas"
+    ],
+    "lstat": [
+      "paletots"
+    ],
+    "lstai": [
+      "spoliate"
+    ],
+    "lstaf": [],
+    "lsc": [],
+    "lscd": [],
+    "lscdt": [],
+    "lscdi": [],
+    "lscdf": [],
+    "lscp": [],
+    "lscpt": [],
+    "lscpi": [],
+    "lscpf": [],
+    "lsca": [
+      "escalop"
+    ],
+    "lscat": [
+      "polecats"
+    ],
+    "lscai": [],
+    "lscaf": []
+  }
+}
