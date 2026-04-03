@@ -195,7 +195,7 @@ function pickDistractors(
  */
 function main(): void {
   const dateArg = process.argv[2] ?? new Date().toISOString().slice(0, 10);
-  const outDir = join(__dir, '../puzzles');
+  const outDir = join(__dir, '../public/puzzles');
   const outPath = join(outDir, `${dateArg}.json`);
 
   // Don't generate a puzzle if one already exists
