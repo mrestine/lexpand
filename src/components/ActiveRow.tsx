@@ -3,7 +3,7 @@ import { STEP_PROPS, type BoxStatus } from '../types';
 import { LetterBox } from './LetterBox';
 
 export function ActiveRow({ onFocusRequest }: { onFocusRequest: () => void }) {
-  const { puzzle, activeStep, history, typed, error } = useGame();
+  const { puzzle, activeStep, history, typed, error, isDeadEnd } = useGame();
   const theme = STEP_PROPS[history.length].theme;
   const wordLength = (puzzle?.start.length ?? 0) + activeStep + 1;
 
@@ -19,7 +19,11 @@ export function ActiveRow({ onFocusRequest }: { onFocusRequest: () => void }) {
           return <LetterBox key={i} letter={ch} status={status} />;
         })}
       </div>
-      {error ? (
+      {isDeadEnd ? (
+        <p className={`text-[11px] font-medium text-center ${theme.error}`}>
+          Uh oh, dead end! None of these letters will make a valid word from here.
+        </p>
+      ) : error ? (
         <p className={`text-[11px] font-medium h-4 ${theme.error}`}>{error}</p>
       ) : (
         <p className={`text-[11px] h-4 ${theme.hint}`}>

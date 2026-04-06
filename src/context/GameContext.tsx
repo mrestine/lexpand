@@ -27,6 +27,7 @@ interface GameContextValue {
   history: StepResult[];
   activeStep: number;
   complete: boolean;
+  isDeadEnd: boolean;
   error: string | null;
   typed: string;
   gaveUp: boolean;
@@ -62,6 +63,12 @@ export function GameProvider({ children }: { children: ReactNode }) {
     history.length > 0
       ? history[history.length - 1]!.word
       : (puzzle?.start ?? '');
+
+  const isDeadEnd =
+    !complete &&
+    !!puzzle?.steps[activeStep]?.options
+      .split('')
+      .every((opt) => (puzzle.dictionary[[...history.map((r) => r.letter), opt].join('')] ?? []).length === 0);
 
   const handleSubmit = useCallback(
     (input: string) => {
@@ -141,6 +148,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
         history,
         activeStep,
         complete,
+        isDeadEnd,
         error,
         typed,
         gaveUp,
