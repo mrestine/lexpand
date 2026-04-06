@@ -5,17 +5,15 @@ export function StepOptions({
   chosenLetter,
   correctLetter,
   dimmed,
-  accentClass,
   theme,
 }: {
   options: string;
   chosenLetter?: string;
   correctLetter?: string; // set on give-up to reveal the right answer
   dimmed: boolean;
-  accentClass: string;
   theme: ScoreTheme;
 }) {
-  const accentBg = accentClass.replace('text-', 'bg-').replace('-700', '-500');
+  const accentBg = theme.accent.replace('text-', 'bg-');
 
   return (
     <div className='flex justify-center gap-6 my-1'>

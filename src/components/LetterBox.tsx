@@ -16,7 +16,7 @@ export function LetterBox({
     'w-9 h-9 flex items-center justify-center rounded font-bold text-sm uppercase tracking-wide transition-all duration-300 select-none';
 
   const staticStyles: Partial<Record<BoxStatus, string>> = {
-    start: 'bg-stone-800 text-white shadow-md',
+    start: 'bg-stone-200 text-stone-700 shadow-md',
     solved: 'bg-white/80 border-2 border-current text-current shadow-sm',
     typing: 'bg-white border-2 border-current text-current shadow-md',
     cursor:

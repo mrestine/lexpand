@@ -14,7 +14,6 @@ export default function App() {
     history,
     activeStep,
     complete,
-    error,
     typed,
     gaveUp,
     setTyped,
@@ -133,7 +132,6 @@ export default function App() {
                 options={step.options}
                 chosenLetter={result?.letter}
                 dimmed={!isSolved && !isActive && !gaveUp}
-                accentClass={theme.accent}
                 theme={theme}
               />
 
@@ -145,13 +143,7 @@ export default function App() {
                   onClick={() => handleBacktrackTo(stepIdx)}
                 />
               ) : isActive ? (
-                <ActiveRow
-                  wordLength={wordLength}
-                  typed={typed}
-                  error={error}
-                  theme={theme}
-                  onFocusRequest={focusInput}
-                />
+                <ActiveRow onFocusRequest={focusInput} />
               ) : (
                 <div className='flex gap-1'>
                   {Array.from({ length: puzzle.start.length + stepIdx + 1 }).map((_, i) => (

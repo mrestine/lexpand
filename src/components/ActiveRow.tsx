@@ -1,20 +1,12 @@
-import { type ScoreTheme } from '../types';
-import { BoxStatus } from '../types';
+import { useGame } from '../context/GameContext';
+import { STEP_PROPS, type BoxStatus } from '../types';
 import { LetterBox } from './LetterBox';
 
-export function ActiveRow({
-  wordLength,
-  typed,
-  error,
-  theme,
-  onFocusRequest,
-}: {
-  wordLength: number;
-  typed: string;
-  error: string | null;
-  theme: ScoreTheme;
-  onFocusRequest: () => void;
-}) {
+export function ActiveRow({ onFocusRequest }: { onFocusRequest: () => void }) {
+  const { puzzle, activeStep, history, typed, error } = useGame();
+  const theme = STEP_PROPS[history.length].theme;
+  const wordLength = (puzzle?.start.length ?? 0) + activeStep + 1;
+
   return (
     <div className='flex flex-col items-center gap-1.5'>
       <div className='flex gap-1 cursor-text' onClick={onFocusRequest}>
