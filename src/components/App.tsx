@@ -6,6 +6,7 @@ import { ActiveRow } from './ActiveRow';
 import { Tile } from './Tile';
 import { StepOptions } from './StepOptions';
 import { Connector } from './Connector';
+import { Tutorial } from './Tutorial';
 
 export default function App() {
   const {
@@ -57,7 +58,9 @@ export default function App() {
       <div
         className={`min-h-screen bg-gradient-to-br ${theme.background} flex items-center justify-center`}
       >
-        <p className={`text-sm font-medium uppercase tracking-widest ${theme.subtitle}`}>
+        <p
+          className={`text-sm font-medium uppercase tracking-widest ${theme.subtitle}`}
+        >
           Loading…
         </p>
       </div>
@@ -78,9 +81,10 @@ export default function App() {
 
   return (
     <div
-      className={`min-h-screen bg-gradient-to-br ${theme.background} flex flex-col items-center py-8 px-4 transition-all duration-[2000ms]`}
+      className={`min-h-screen bg-gradient-to-br ${theme.background} flex flex-col items-center py-8 px-4 transition-colors duration-[2000ms]`}
       onClick={focusInput}
     >
+      <Tutorial />
       {/* Hidden input */}
       <input
         ref={hiddenInputRef}
@@ -117,8 +121,13 @@ export default function App() {
       </p>
 
       {/* Ladder */}
-      <div className='flex flex-col items-center w-full max-w-xs'>
-        <Tile word={puzzle.start} status='start' />
+      <div
+        data-tutorial='ladder'
+        className='flex flex-col items-center w-full max-w-xs'
+      >
+        <div data-tutorial='start-word'>
+          <Tile word={puzzle.start} status='start' />
+        </div>
         <Connector theme={theme} />
 
         {puzzle.steps.map((step, stepIdx) => {
@@ -128,12 +137,16 @@ export default function App() {
 
           return (
             <div key={stepIdx} className='w-full flex flex-col items-center'>
-              <StepOptions
-                options={step.options}
-                chosenLetter={result?.letter}
-                dimmed={!isSolved && !isActive && !gaveUp}
-                theme={theme}
-              />
+              <div
+                {...(stepIdx === 0 ? { 'data-tutorial': 'step-options' } : {})}
+              >
+                <StepOptions
+                  options={step.options}
+                  chosenLetter={result?.letter}
+                  dimmed={!isSolved && !isActive && !gaveUp}
+                  theme={theme}
+                />
+              </div>
 
               {isSolved ? (
                 <Tile
@@ -146,7 +159,9 @@ export default function App() {
                 <ActiveRow onFocusRequest={focusInput} />
               ) : (
                 <div className='flex gap-1'>
-                  {Array.from({ length: puzzle.start.length + stepIdx + 1 }).map((_, i) => (
+                  {Array.from({
+                    length: puzzle.start.length + stepIdx + 1,
+                  }).map((_, i) => (
                     <LetterBox
                       key={i}
                       letter=''
@@ -204,9 +219,6 @@ export default function App() {
       {/* Completion */}
       {complete && (
         <div className='mt-8 flex flex-col items-center gap-3'>
-          <p className={`font-bold text-xl uppercase tracking-widest ${theme.completionWord}`}>
-            {history[history.length - 1]?.word}
-          </p>
           <p className={`text-sm font-medium ${theme.completionBody}`}>
             Come back tomorrow for a new puzzle!
           </p>

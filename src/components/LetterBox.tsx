@@ -36,7 +36,7 @@ export function LetterBox({
       {status === 'cursor' || status === 'empty'
         ? ''
         : status === 'pending' || status === 'target'
-          ? '·'
+          ? ''
           : letter}
     </div>
   );

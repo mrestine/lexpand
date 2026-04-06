@@ -21,15 +21,16 @@ export function ActiveRow({ onFocusRequest }: { onFocusRequest: () => void }) {
       </div>
       {isDeadEnd ? (
         <p className={`text-[11px] font-medium text-center ${theme.error}`}>
-          Uh oh, dead end! None of these letters will make a valid word from here.
+          Uh oh, dead end! None of these letters will make a valid word from
+          here.
         </p>
       ) : error ? (
         <p className={`text-[11px] font-medium h-4 ${theme.error}`}>{error}</p>
-      ) : (
+      ) : activeStep === 0 ? (
         <p className={`text-[11px] h-4 ${theme.hint}`}>
           type your word · enter to submit
         </p>
-      )}
+      ) : null}
     </div>
   );
 }
