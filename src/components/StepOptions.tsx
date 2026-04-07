@@ -1,4 +1,4 @@
-import { type ScoreTheme } from '../types';
+import { type ScoreTheme, TRANSITION_CLASS } from '../types';
 
 export function StepOptions({
   options,
@@ -13,8 +13,6 @@ export function StepOptions({
   dimmed: boolean;
   theme: ScoreTheme;
 }) {
-  const accentBg = theme.accent.replace('text-', 'bg-');
-
   return (
     <div className='flex justify-center gap-6 my-1'>
       {options.split('').map((opt) => {
@@ -24,12 +22,12 @@ export function StepOptions({
           <span
             key={opt}
             className={[
-              'w-8 h-8 flex items-center justify-center rounded-full text-sm font-bold uppercase transition-all duration-300',
+              `w-8 h-8 flex items-center justify-center rounded-full text-sm font-bold uppercase transition-all ${TRANSITION_CLASS}`,
               dimmed
                 ? theme.optionDimmed
                 : highlight
                   ? 'bg-white/60 text-stone-700 shadow-sm'
-                  : `${accentBg} text-stone-500`,
+                  : theme.optionActive,
             ].join(' ')}
           >
             {opt}

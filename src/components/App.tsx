@@ -1,6 +1,6 @@
 import { useRef, useEffect, useCallback, useState } from 'react';
 import { useGame } from '../context/GameContext';
-import { STEP_PROPS } from '../types';
+import { STEP_PROPS, TRANSITION_CLASS } from '../types';
 import { LetterBox } from './LetterBox';
 import { ActiveRow } from './ActiveRow';
 import { Tile } from './Tile';
@@ -8,6 +8,7 @@ import { StepOptions } from './StepOptions';
 import { Connector } from './Connector';
 import { Tutorial } from './Tutorial';
 import { Header } from './Header';
+import { ScoreDisplay } from './ScoreDisplay';
 import { ArchiveModal } from './ArchiveModal';
 
 export default function App() {
@@ -33,7 +34,7 @@ export default function App() {
   const [showArchive, setShowArchive] = useState(false);
   const [showTutorial, setShowTutorial] = useState(false);
 
-  const { scoreLabel, theme } = STEP_PROPS[history.length];
+  const { theme } = STEP_PROPS[history.length];
   const wordLength = (puzzle?.start.length ?? 0) + activeStep + 1;
   const isArchiveDate = currentDate !== todayDate;
 
@@ -110,7 +111,7 @@ export default function App() {
 
   return (
     <div
-      className={`min-h-screen bg-gradient-to-br ${theme.background} flex flex-col items-center pt-14 pb-8 px-4 transition-colors duration-[2000ms]`}
+      className={`min-h-screen bg-gradient-to-br ${theme.background} flex flex-col items-center pt-14 pb-8 px-4 transition-colors ${TRANSITION_CLASS}`}
       onClick={focusInput}
     >
       <Header
@@ -146,13 +147,9 @@ export default function App() {
         disabled={complete}
       />
 
-      {/* Header content */}
-      <div className='flex flex-col items-center mt-6 mb-4'>
-        <p
-          className={`text-sm font-medium transition-colors duration-[2000ms] ${theme.description}`}
-        >
-          {scoreLabel}
-        </p>
+      {/* Score */}
+      <div className='mt-6 mb-4'>
+        <ScoreDisplay />
       </div>
 
       {/* Ladder */}
@@ -167,7 +164,7 @@ export default function App() {
 
         {puzzle.steps.map((step, stepIdx) => {
           const isSolved = stepIdx < history.length;
-          const isActive = stepIdx === activeStep && !complete;
+          const isActive = stepIdx === activeStep && !complete && !gaveUp;
           const result = history[stepIdx];
 
           return (
@@ -222,7 +219,7 @@ export default function App() {
                 e.stopPropagation();
                 handleBacktrack();
               }}
-              className={`px-5 py-2 font-bold rounded-full text-sm uppercase tracking-widest transition-all ${theme.playAgainBtn}`}
+              className={`px-5 py-2 font-bold rounded-full text-sm uppercase tracking-widest transition-all ${theme.actionBtn}`}
             >
               ← Backtrack
             </button>
@@ -232,7 +229,7 @@ export default function App() {
               e.stopPropagation();
               handleGiveUp();
             }}
-            className={`px-5 py-2 font-bold rounded-full text-sm uppercase tracking-widest transition-all ${theme.playAgainBtn}`}
+            className={`px-5 py-2 font-bold rounded-full text-sm uppercase tracking-widest transition-all ${theme.actionBtn}`}
           >
             Give up
           </button>
@@ -240,7 +237,7 @@ export default function App() {
       )}
 
       {gaveUp && !complete && (
-        <p className={`mt-6 text-sm font-medium ${theme.completionBody}`}>
+        <p className={`mt-6 text-m font-medium ${theme.subtitle}`}>
           Better luck tomorrow!
         </p>
       )}
@@ -248,12 +245,7 @@ export default function App() {
       {/* Completion */}
       {complete && (
         <div className='mt-8 flex flex-col items-center gap-3'>
-          <p
-            className={`font-bold text-xl uppercase tracking-widest ${theme.completionWord}`}
-          >
-            {history[history.length - 1]?.word}
-          </p>
-          <p className={`text-sm font-medium ${theme.completionBody}`}>
+          <p className={`text-m font-medium ${theme.subtitle}`}>
             {isArchiveDate
               ? 'Nice work on this one!'
               : 'Come back tomorrow for a new puzzle!'}

@@ -34,18 +34,15 @@ export interface StepResult {
 export interface ScoreTheme {
   background: string;
   accent: string;
-  title: string;
+  scoreColor: string;
   subtitle: string;
-  description: string;
   hint: string;
   error: string;
   connector: string;
-  backtrackkBtn: string;
+  optionActive: string;
   optionDimmed: string;
   pendingBox: string;
-  completionWord: string;
-  completionBody: string;
-  playAgainBtn: string;
+  actionBtn: string;
 }
 
 export interface StepProperty {
@@ -54,6 +51,9 @@ export interface StepProperty {
 }
 
 export const ARCHIVE_START = '2026-04-01';
+
+export const TRANSITION_DURATION_MS = 1400;
+export const TRANSITION_CLASS = `duration-[${TRANSITION_DURATION_MS}ms]`;
 
 export interface SavedGameState {
   history: StepResult[];
@@ -89,56 +89,47 @@ export const STEP_PROPS: StepProperty[] = [
     theme: {
       background: 'from-[#f7f4ef] to-[#ede9e0]',
       accent: 'text-stone-700',
-      title: 'text-stone-800',
+      scoreColor: '#1c1917',
       subtitle: 'text-stone-500',
-      description: 'text-stone-500',
       hint: 'text-stone-400',
       error: 'text-red-600',
       connector: 'bg-stone-400/40',
-      backtrackkBtn: 'text-stone-400 hover:text-stone-700',
+      optionActive: 'bg-stone-300 text-stone-700',
       optionDimmed: 'bg-stone-300/80 text-stone-500',
       pendingBox: 'bg-black/[0.06] border border-black/10',
-      completionWord: 'text-stone-800',
-      completionBody: 'text-stone-500',
-      playAgainBtn: 'bg-stone-800/10 hover:bg-stone-800/20 text-stone-700',
+      actionBtn: 'bg-stone-800/10 hover:bg-stone-800/20 text-stone-700',
     },
   },
   {
     scoreLabel: 'YOU GOT ONE',
     theme: {
-      background: 'from-amber-100 to-amber-200',
-      accent: 'text-amber-700',
-      title: 'text-amber-950',
-      subtitle: 'text-amber-700',
-      description: 'text-amber-700',
-      hint: 'text-amber-600',
+      background: 'from-orange-200 to-orange-300',
+      accent: 'text-orange-700',
+      scoreColor: '#7c2d12',
+      subtitle: 'text-orange-700',
+      hint: 'text-orange-600',
       error: 'text-red-700',
-      connector: 'bg-amber-500/35',
-      backtrackkBtn: 'text-amber-600 hover:text-amber-900',
-      optionDimmed: 'bg-amber-200/70 text-amber-500',
-      pendingBox: 'bg-amber-400/[0.12] border border-amber-500/20',
-      completionWord: 'text-amber-950',
-      completionBody: 'text-amber-700',
-      playAgainBtn: 'bg-amber-900/10 hover:bg-amber-900/20 text-amber-950',
+      connector: 'bg-orange-500/35',
+      optionActive: 'bg-orange-300 text-orange-900',
+      optionDimmed: 'bg-orange-200/70 text-orange-500',
+      pendingBox: 'bg-orange-400/[0.12] border border-orange-500/20',
+      actionBtn: 'bg-orange-900/10 hover:bg-orange-900/20 text-orange-950',
     },
   },
   {
     scoreLabel: 'GOOD',
     theme: {
-      background: 'from-yellow-100 to-yellow-300',
+      background: 'from-yellow-200 to-yellow-400',
       accent: 'text-yellow-700',
-      title: 'text-yellow-950',
-      subtitle: 'text-yellow-700',
-      description: 'text-yellow-700',
-      hint: 'text-yellow-600',
+      scoreColor: '#713f12',
+      subtitle: 'text-yellow-800',
+      hint: 'text-yellow-700',
       error: 'text-red-700',
       connector: 'bg-yellow-600/35',
-      backtrackkBtn: 'text-yellow-600 hover:text-yellow-950',
-      optionDimmed: 'bg-yellow-200/70 text-yellow-500',
+      optionActive: 'bg-yellow-300 text-yellow-900',
+      optionDimmed: 'bg-yellow-300/70 text-yellow-600',
       pendingBox: 'bg-yellow-500/[0.12] border border-yellow-600/20',
-      completionWord: 'text-yellow-950',
-      completionBody: 'text-yellow-700',
-      playAgainBtn: 'bg-yellow-900/10 hover:bg-yellow-900/20 text-yellow-950',
+      actionBtn: 'bg-yellow-900/10 hover:bg-yellow-900/20 text-yellow-950',
     },
   },
   {
@@ -146,18 +137,15 @@ export const STEP_PROPS: StepProperty[] = [
     theme: {
       background: 'from-green-100 to-green-300',
       accent: 'text-green-700',
-      title: 'text-green-950',
+      scoreColor: '#14532d',
       subtitle: 'text-green-700',
-      description: 'text-green-700',
       hint: 'text-green-600',
       error: 'text-red-700',
       connector: 'bg-green-500/40',
-      backtrackkBtn: 'text-green-600 hover:text-green-950',
+      optionActive: 'bg-green-300 text-green-800',
       optionDimmed: 'bg-green-200/70 text-green-500',
       pendingBox: 'bg-green-500/[0.12] border border-green-600/20',
-      completionWord: 'text-green-950',
-      completionBody: 'text-green-700',
-      playAgainBtn: 'bg-green-900/10 hover:bg-green-900/20 text-green-950',
+      actionBtn: 'bg-green-900/10 hover:bg-green-900/20 text-green-950',
     },
   },
   {
@@ -165,18 +153,15 @@ export const STEP_PROPS: StepProperty[] = [
     theme: {
       background: 'from-teal-100 to-teal-300',
       accent: 'text-teal-700',
-      title: 'text-teal-950',
+      scoreColor: '#134e4a',
       subtitle: 'text-teal-700',
-      description: 'text-teal-700',
       hint: 'text-teal-600',
       error: 'text-red-700',
       connector: 'bg-teal-500/40',
-      backtrackkBtn: 'text-teal-600 hover:text-teal-950',
+      optionActive: 'bg-teal-300 text-teal-800',
       optionDimmed: 'bg-teal-200/70 text-teal-500',
       pendingBox: 'bg-teal-500/[0.12] border border-teal-600/20',
-      completionWord: 'text-teal-950',
-      completionBody: 'text-teal-700',
-      playAgainBtn: 'bg-teal-900/10 hover:bg-teal-900/20 text-teal-950',
+      actionBtn: 'bg-teal-900/10 hover:bg-teal-900/20 text-teal-950',
     },
   },
   {
@@ -184,18 +169,15 @@ export const STEP_PROPS: StepProperty[] = [
     theme: {
       background: 'from-violet-200 to-purple-400',
       accent: 'text-violet-700',
-      title: 'text-white',
-      subtitle: 'text-white/70',
-      description: 'text-white/70',
+      scoreColor: '#4c1d95',
+      subtitle: 'text-stone-900',
       hint: 'text-white/45',
       error: 'text-red-200',
       connector: 'bg-white/25',
-      backtrackkBtn: 'text-white/55 hover:text-white/90',
+      optionActive: 'bg-violet-300 text-violet-900',
       optionDimmed: 'bg-white/25 text-white/40',
       pendingBox: 'bg-white/20 border border-white/35',
-      completionWord: 'text-white',
-      completionBody: 'text-white/70',
-      playAgainBtn: 'bg-white/20 hover:bg-white/30 text-white',
+      actionBtn: 'bg-white/20 hover:bg-white/30 text-white',
     },
   },
 ];

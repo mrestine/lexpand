@@ -13,9 +13,13 @@ export function ActiveRow({ onFocusRequest }: { onFocusRequest: () => void }) {
         {Array.from({ length: wordLength }).map((_, i) => {
           const ch = typed[i] ?? '';
           let status: BoxStatus;
-          if (i < typed.length) status = 'typing';
-          else if (i === typed.length) status = 'cursor';
-          else status = 'empty';
+          if (i < typed.length) {
+            status = 'typing';
+          } else if (i === typed.length) {
+            status = 'cursor';
+          } else {
+            status = 'empty';
+          }
           return <LetterBox key={i} letter={ch} status={status} />;
         })}
       </div>
@@ -25,10 +29,12 @@ export function ActiveRow({ onFocusRequest }: { onFocusRequest: () => void }) {
           here.
         </p>
       ) : error ? (
-        <p className={`text-[11px] font-medium h-4 ${theme.error}`}>{error}</p>
+        <p className={`text-[11px] font-medium text-center h-4 ${theme.error}`}>
+          {error}
+        </p>
       ) : activeStep === 0 ? (
-        <p className={`text-[11px] h-4 ${theme.hint}`}>
-          type your word · enter to submit
+        <p className={`text-[11px] text-center h-4 ${theme.hint}`}>
+          type your word. enter to submit
         </p>
       ) : null}
     </div>
