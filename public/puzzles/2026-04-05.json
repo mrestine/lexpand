@@ -1,0 +1,86 @@
+{
+  "start": "nog",
+  "target": ["flogging", "frogging"],
+  "steps": [
+    {
+      "options": "gob"
+    },
+    {
+      "options": "kis"
+    },
+    {
+      "options": "lrs"
+    },
+    {
+      "options": "guy"
+    },
+    {
+      "options": "kfu"
+    }
+  ],
+  "dictionary": {
+    "g": ["gong", "nogg"],
+    "gk": [],
+    "gi": ["going"],
+    "gil": ["ogling"],
+    "gilg": ["logging"],
+    "gilgk": [],
+    "gilgf": ["flogging"],
+    "gilgu": [],
+    "gilu": [],
+    "gily": [],
+    "gir": ["goring", "gringo"],
+    "girg": ["gorging"],
+    "girgk": [],
+    "girgf": ["frogging"],
+    "girgu": [],
+    "giru": ["roguing", "rouging"],
+    "giruk": [],
+    "giruf": [],
+    "giruu": [],
+    "giry": [],
+    "gis": ["goings"],
+    "gisg": [],
+    "gisu": [],
+    "gisy": [],
+    "gs": ["gongs", "noggs"],
+    "gsl": [],
+    "gsr": [],
+    "gss": [],
+    "o": ["goon"],
+    "ok": [],
+    "oi": [],
+    "os": ["goons"],
+    "osl": [],
+    "osr": [],
+    "oss": [],
+    "b": ["bong"],
+    "bk": [],
+    "bi": ["bingo", "boing"],
+    "bil": ["globin", "goblin"],
+    "bilg": ["globing"],
+    "bilgk": [],
+    "bilgf": [],
+    "bilgu": [],
+    "bilu": [],
+    "bily": ["ignobly"],
+    "bilyk": [],
+    "bilyf": [],
+    "bilyu": [],
+    "bir": ["boring", "orbing", "robing"],
+    "birg": [],
+    "biru": [],
+    "biry": [],
+    "bis": ["bingos", "gibson"],
+    "bisg": [],
+    "bisu": ["bousing"],
+    "bisuk": [],
+    "bisuf": [],
+    "bisuu": [],
+    "bisy": [],
+    "bs": ["bongs"],
+    "bsl": [],
+    "bsr": [],
+    "bss": []
+  }
+}

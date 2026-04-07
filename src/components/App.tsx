@@ -1,4 +1,4 @@
-import { useRef, useEffect, useCallback } from 'react';
+import { useRef, useEffect, useCallback, useState } from 'react';
 import { useGame } from '../context/GameContext';
 import { STEP_PROPS } from '../types';
 import { LetterBox } from './LetterBox';
@@ -7,6 +7,8 @@ import { Tile } from './Tile';
 import { StepOptions } from './StepOptions';
 import { Connector } from './Connector';
 import { Tutorial } from './Tutorial';
+import { Header } from './Header';
+import { ArchiveModal } from './ArchiveModal';
 
 export default function App() {
   const {
@@ -17,18 +19,23 @@ export default function App() {
     complete,
     typed,
     gaveUp,
+    currentDate,
+    todayDate,
     setTyped,
     handleSubmit,
     handleBacktrack,
     handleBacktrackTo,
     handleGiveUp,
-    handleReset,
+    loadDate,
   } = useGame();
 
   const hiddenInputRef = useRef<HTMLInputElement>(null);
+  const [showArchive, setShowArchive] = useState(false);
+  const [showTutorial, setShowTutorial] = useState(false);
 
   const { scoreLabel, theme } = STEP_PROPS[history.length];
   const wordLength = (puzzle?.start.length ?? 0) + activeStep + 1;
+  const isArchiveDate = currentDate !== todayDate;
 
   useEffect(() => {
     if (!complete) hiddenInputRef.current?.focus();
@@ -53,38 +60,74 @@ export default function App() {
     [typed, handleSubmit],
   );
 
+  // Format date for display: "April 3, 2026"
+  const formatDate = (dateStr: string) => {
+    const d = new Date(dateStr + 'T00:00:00');
+    return d.toLocaleDateString('en-US', {
+      month: 'long',
+      day: 'numeric',
+      year: 'numeric',
+    });
+  };
+
   if (loading) {
     return (
-      <div
-        className={`min-h-screen bg-gradient-to-br ${theme.background} flex items-center justify-center`}
-      >
-        <p
-          className={`text-sm font-medium uppercase tracking-widest ${theme.subtitle}`}
+      <>
+        <Header
+          onArchive={() => setShowArchive(true)}
+          onTutorial={() => setShowTutorial(true)}
+        />
+        <div
+          className={`min-h-screen pt-14 bg-gradient-to-br ${theme.background} flex items-center justify-center`}
         >
-          Loading…
-        </p>
-      </div>
+          <p
+            className={`text-sm font-medium uppercase tracking-widest ${theme.subtitle}`}
+          >
+            Loading...
+          </p>
+        </div>
+      </>
     );
   }
 
   if (!puzzle) {
     return (
-      <div
-        className={`min-h-screen bg-gradient-to-br ${theme.background} flex items-center justify-center`}
-      >
-        <p className={`text-sm font-medium ${theme.error}`}>
-          No puzzle found for today. Check back later.
-        </p>
-      </div>
+      <>
+        <Header
+          onArchive={() => setShowArchive(true)}
+          onTutorial={() => setShowTutorial(true)}
+        />
+        <div
+          className={`min-h-screen pt-14 bg-gradient-to-br ${theme.background} flex items-center justify-center`}
+        >
+          <p className={`text-sm font-medium ${theme.error}`}>
+            No puzzle found for today. Check back later.
+          </p>
+        </div>
+      </>
     );
   }
 
   return (
     <div
-      className={`min-h-screen bg-gradient-to-br ${theme.background} flex flex-col items-center py-8 px-4 transition-colors duration-[2000ms]`}
+      className={`min-h-screen bg-gradient-to-br ${theme.background} flex flex-col items-center pt-14 pb-8 px-4 transition-colors duration-[2000ms]`}
       onClick={focusInput}
     >
-      <Tutorial />
+      <Header
+        onArchive={() => setShowArchive(true)}
+        onTutorial={() => setShowTutorial(true)}
+        archiveDate={isArchiveDate ? formatDate(currentDate) : undefined}
+      />
+
+      <Tutorial show={showTutorial} onClose={() => setShowTutorial(false)} />
+
+      <ArchiveModal
+        isOpen={showArchive}
+        onClose={() => setShowArchive(false)}
+        currentDate={currentDate}
+        onSelectDate={loadDate}
+      />
+
       {/* Hidden input */}
       <input
         ref={hiddenInputRef}
@@ -103,22 +146,14 @@ export default function App() {
         disabled={complete}
       />
 
-      {/* Header */}
-      <h1
-        className={`text-4xl font-black uppercase tracking-[0.2em] mb-1 transition-colors duration-[2000ms] ${theme.title}`}
-      >
-        Lexpand
-      </h1>
-      <p
-        className={`text-xs font-medium uppercase tracking-widest mb-2 transition-colors duration-[2000ms] ${theme.subtitle}`}
-      >
-        Grow the word · Find the path
-      </p>
-      <p
-        className={`text-sm font-medium mb-4 transition-colors duration-[2000ms] ${theme.description}`}
-      >
-        {scoreLabel}
-      </p>
+      {/* Header content */}
+      <div className='flex flex-col items-center mt-6 mb-4'>
+        <p
+          className={`text-sm font-medium transition-colors duration-[2000ms] ${theme.description}`}
+        >
+          {scoreLabel}
+        </p>
+      </div>
 
       {/* Ladder */}
       <div
@@ -180,14 +215,14 @@ export default function App() {
 
       {/* Controls */}
       {!complete && !gaveUp && (
-        <div className='mt-6 flex gap-6'>
+        <div className='mt-6 flex gap-3'>
           {history.length > 0 && (
             <button
               onClick={(e) => {
                 e.stopPropagation();
                 handleBacktrack();
               }}
-              className={`text-xs font-medium uppercase tracking-widest transition-colors ${theme.backtrackkBtn}`}
+              className={`px-5 py-2 font-bold rounded-full text-sm uppercase tracking-widest transition-all ${theme.playAgainBtn}`}
             >
               ← Backtrack
             </button>
@@ -197,7 +232,7 @@ export default function App() {
               e.stopPropagation();
               handleGiveUp();
             }}
-            className={`text-xs font-medium uppercase tracking-widest transition-colors ${theme.backtrackkBtn}`}
+            className={`px-5 py-2 font-bold rounded-full text-sm uppercase tracking-widest transition-all ${theme.playAgainBtn}`}
           >
             Give up
           </button>
@@ -205,32 +240,24 @@ export default function App() {
       )}
 
       {gaveUp && !complete && (
-        <button
-          onClick={(e) => {
-            e.stopPropagation();
-            handleReset();
-          }}
-          className={`mt-6 px-6 py-2 font-bold rounded-full text-sm uppercase tracking-widest transition-all ${theme.playAgainBtn}`}
-        >
-          Try again
-        </button>
+        <p className={`mt-6 text-sm font-medium ${theme.completionBody}`}>
+          Better luck tomorrow!
+        </p>
       )}
 
       {/* Completion */}
       {complete && (
         <div className='mt-8 flex flex-col items-center gap-3'>
-          <p className={`text-sm font-medium ${theme.completionBody}`}>
-            Come back tomorrow for a new puzzle!
-          </p>
-          <button
-            onClick={(e) => {
-              e.stopPropagation();
-              handleReset();
-            }}
-            className={`mt-2 px-6 py-2 font-bold rounded-full text-sm uppercase tracking-widest transition-all ${theme.playAgainBtn}`}
+          <p
+            className={`font-bold text-xl uppercase tracking-widest ${theme.completionWord}`}
           >
-            Play again
-          </button>
+            {history[history.length - 1]?.word}
+          </p>
+          <p className={`text-sm font-medium ${theme.completionBody}`}>
+            {isArchiveDate
+              ? 'Nice work on this one!'
+              : 'Come back tomorrow for a new puzzle!'}
+          </p>
         </div>
       )}
     </div>

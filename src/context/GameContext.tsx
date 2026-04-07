@@ -6,18 +6,34 @@ import {
   useCallback,
   type ReactNode,
 } from 'react';
-import type { PuzzleData, StepResult } from '../types';
+import type { PuzzleData, StepResult, SavedGameState } from '../types';
+import { getLocalDateString } from '../types';
+
+const GAME_KEY = (date: string) => `lexpand_game_${date}`;
+
+function saveGame(date: string, state: SavedGameState) {
+  localStorage.setItem(GAME_KEY(date), JSON.stringify(state));
+}
+
+function loadGame(date: string): SavedGameState | null {
+  const raw = localStorage.getItem(GAME_KEY(date));
+  if (!raw) {
+    return null;
+  }
+  try {
+    return JSON.parse(raw) as SavedGameState;
+  } catch {
+    return null;
+  }
+}
 
 function letterKey(s: string) {
   return s.toLowerCase().split('').sort().join('');
 }
 
-async function loadTodaysPuzzle(): Promise<PuzzleData> {
-  const date = new Date().toISOString().slice(0, 10);
+async function fetchPuzzle(date: string): Promise<PuzzleData> {
   const res = await fetch(`/puzzles/${date}.json`);
-  if (!res.ok) {
-    throw new Error(`No puzzle found for ${date}`);
-  }
+  if (!res.ok) throw new Error(`No puzzle found for ${date}`);
   return res.json() as Promise<PuzzleData>;
 }
 
@@ -31,20 +47,25 @@ interface GameContextValue {
   error: string | null;
   typed: string;
   gaveUp: boolean;
+  currentDate: string;
+  todayDate: string;
   setTyped: (v: string) => void;
   handleSubmit: (word: string) => void;
   handleBacktrack: () => void;
   handleBacktrackTo: (stepIndex: number) => void;
   handleGiveUp: () => void;
   handleReset: () => void;
+  loadDate: (date: string) => void;
 }
 
 const GameContext = createContext<GameContextValue | null>(null);
 
 export function GameProvider({ children }: { children: ReactNode }) {
+  const [todayDate] = useState(getLocalDateString);
+  const [currentDate, setCurrentDate] = useState(getLocalDateString);
+
   const [puzzle, setPuzzle] = useState<PuzzleData | null>(null);
   const [loading, setLoading] = useState(true);
-
   const [history, setHistory] = useState<StepResult[]>([]);
   const [activeStep, setActiveStep] = useState(0);
   const [complete, setComplete] = useState(false);
@@ -52,12 +73,30 @@ export function GameProvider({ children }: { children: ReactNode }) {
   const [typed, setTyped] = useState('');
   const [gaveUp, setGaveUp] = useState(false);
 
+  // Load puzzle and restore saved state whenever currentDate changes
   useEffect(() => {
-    loadTodaysPuzzle()
+    setLoading(true);
+    setPuzzle(null);
+    setError(null);
+    setTyped('');
+
+    const saved = loadGame(currentDate);
+    setHistory(saved?.history ?? []);
+    setActiveStep(saved?.activeStep ?? 0);
+    setComplete(saved?.complete ?? false);
+    setGaveUp(saved?.gaveUp ?? false);
+
+    fetchPuzzle(currentDate)
       .then(setPuzzle)
       .catch((err) => console.error('Failed to load puzzle:', err))
       .finally(() => setLoading(false));
-  }, []);
+  }, [currentDate]);
+
+  // Persist game state whenever it changes (only after puzzle is loaded)
+  useEffect(() => {
+    if (!puzzle) return;
+    saveGame(currentDate, { history, activeStep, complete, gaveUp });
+  }, [puzzle, currentDate, history, activeStep, complete, gaveUp]);
 
   const currentLetters =
     history.length > 0
@@ -68,7 +107,14 @@ export function GameProvider({ children }: { children: ReactNode }) {
     !complete &&
     !!puzzle?.steps[activeStep]?.options
       .split('')
-      .every((opt) => (puzzle.dictionary[[...history.map((r) => r.letter), opt].join('')] ?? []).length === 0);
+      .every(
+        (opt) =>
+          (
+            puzzle.dictionary[
+              [...history.map((r) => r.letter), opt].join('')
+            ] ?? []
+          ).length === 0,
+      );
 
   const handleSubmit = useCallback(
     (input: string) => {
@@ -132,12 +178,17 @@ export function GameProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const handleReset = useCallback(() => {
+    localStorage.removeItem(GAME_KEY(currentDate));
     setHistory([]);
     setActiveStep(0);
     setComplete(false);
     setError(null);
     setTyped('');
     setGaveUp(false);
+  }, [currentDate]);
+
+  const loadDate = useCallback((date: string) => {
+    setCurrentDate(date);
   }, []);
 
   return (
@@ -152,12 +203,15 @@ export function GameProvider({ children }: { children: ReactNode }) {
         error,
         typed,
         gaveUp,
+        currentDate,
+        todayDate,
         setTyped,
         handleSubmit,
         handleBacktrack,
         handleBacktrackTo,
         handleGiveUp,
         handleReset,
+        loadDate,
       }}
     >
       {children}
@@ -167,8 +221,6 @@ export function GameProvider({ children }: { children: ReactNode }) {
 
 export function useGame(): GameContextValue {
   const ctx = useContext(GameContext);
-  if (!ctx) {
-    throw new Error('useGame must be used within a GameProvider');
-  }
+  if (!ctx) throw new Error('useGame must be used within a GameProvider');
   return ctx;
 }

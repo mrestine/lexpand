@@ -1,11 +1,6 @@
 {
   "start": "ait",
-  "target": [
-    "antinuke",
-    "insurant",
-    "stingray",
-    "straying"
-  ],
+  "target": ["antinuke", "insurant", "stingray", "straying"],
   "steps": [
     {
       "options": "nkf"
@@ -24,215 +19,111 @@
     }
   ],
   "dictionary": {
-    "n": [
-      "anti",
-      "tain"
-    ],
-    "nk": [
-      "takin"
-    ],
-    "nku": [
-      "tanuki"
-    ],
+    "n": ["anti", "tain"],
+    "nk": ["takin"],
+    "nku": ["tanuki"],
     "nkua": [],
-    "nkue": [
-      "unakite"
-    ],
+    "nkue": ["unakite"],
     "nkuez": [],
-    "nkuen": [
-      "antinuke"
-    ],
+    "nkuen": ["antinuke"],
     "nkuey": [],
-    "nkus": [
-      "tanukis"
-    ],
+    "nkus": ["tanukis"],
     "nkusz": [],
     "nkusn": [],
     "nkusy": [],
-    "nkc": [
-      "antick",
-      "catkin"
-    ],
-    "nkca": [
-      "katcina"
-    ],
+    "nkc": ["antick", "catkin"],
+    "nkca": ["katcina"],
     "nkcaz": [],
     "nkcan": [],
     "nkcay": [],
     "nkce": [],
-    "nkcs": [
-      "anticks",
-      "catkins"
-    ],
+    "nkcs": ["anticks", "catkins"],
     "nkcsz": [],
     "nkcsn": [],
     "nkcsy": [],
-    "nkg": [
-      "taking"
-    ],
+    "nkg": ["taking"],
     "nkga": [],
     "nkge": [],
-    "nkgs": [
-      "skating",
-      "staking",
-      "takings",
-      "tasking"
-    ],
+    "nkgs": ["skating", "staking", "takings", "tasking"],
     "nkgsz": [],
     "nkgsn": [],
     "nkgsy": [],
-    "nr": [
-      "riant",
-      "train"
-    ],
-    "nru": [
-      "nutria"
-    ],
+    "nr": ["riant", "train"],
+    "nru": ["nutria"],
     "nrua": [],
-    "nrue": [
-      "ruinate",
-      "taurine",
-      "uranite",
-      "urinate"
-    ],
+    "nrue": ["ruinate", "taurine", "uranite", "urinate"],
     "nruez": [],
     "nruen": [],
     "nruey": [],
-    "nrus": [
-      "nutrias"
-    ],
+    "nrus": ["nutrias"],
     "nrusz": [],
-    "nrusn": [
-      "insurant"
-    ],
+    "nrusn": ["insurant"],
     "nrusy": [],
     "nrc": [],
-    "nrg": [
-      "gratin",
-      "rating",
-      "taring"
-    ],
-    "nrga": [
-      "granita"
-    ],
+    "nrg": ["gratin", "rating", "taring"],
+    "nrga": ["granita"],
     "nrgaz": [],
     "nrgan": [],
     "nrgay": [],
-    "nrge": [
-      "granite",
-      "gratine",
-      "ingrate",
-      "tangier",
-      "tearing"
-    ],
+    "nrge": ["granite", "gratine", "ingrate", "tangier", "tearing"],
     "nrgez": [],
     "nrgen": [],
     "nrgey": [],
-    "nrgs": [
-      "gastrin",
-      "gratins",
-      "ratings",
-      "staring"
-    ],
+    "nrgs": ["gastrin", "gratins", "ratings", "staring"],
     "nrgsz": [],
     "nrgsn": [],
-    "nrgsy": [
-      "stingray",
-      "straying"
-    ],
+    "nrgsy": ["stingray", "straying"],
     "nn": [],
-    "k": [
-      "ikat"
-    ],
+    "k": ["ikat"],
     "kk": [],
-    "kr": [
-      "krait",
-      "traik"
-    ],
+    "kr": ["krait", "traik"],
     "kru": [],
     "krc": [],
     "krg": [],
-    "kn": [
-      "takin"
-    ],
-    "knu": [
-      "tanuki"
-    ],
+    "kn": ["takin"],
+    "knu": ["tanuki"],
     "knua": [],
-    "knue": [
-      "unakite"
-    ],
+    "knue": ["unakite"],
     "knuez": [],
-    "knuen": [
-      "antinuke"
-    ],
+    "knuen": ["antinuke"],
     "knuey": [],
-    "knus": [
-      "tanukis"
-    ],
+    "knus": ["tanukis"],
     "knusz": [],
     "knusn": [],
     "knusy": [],
-    "knc": [
-      "antick",
-      "catkin"
-    ],
-    "knca": [
-      "katcina"
-    ],
+    "knc": ["antick", "catkin"],
+    "knca": ["katcina"],
     "kncaz": [],
     "kncan": [],
     "kncay": [],
     "knce": [],
-    "kncs": [
-      "anticks",
-      "catkins"
-    ],
+    "kncs": ["anticks", "catkins"],
     "kncsz": [],
     "kncsn": [],
     "kncsy": [],
-    "kng": [
-      "taking"
-    ],
+    "kng": ["taking"],
     "knga": [],
     "knge": [],
-    "kngs": [
-      "skating",
-      "staking",
-      "takings",
-      "tasking"
-    ],
+    "kngs": ["skating", "staking", "takings", "tasking"],
     "kngsz": [],
     "kngsn": [],
     "kngsy": [],
-    "f": [
-      "fiat"
-    ],
+    "f": ["fiat"],
     "fk": [],
-    "fr": [
-      "afrit"
-    ],
+    "fr": ["afrit"],
     "fru": [],
-    "frc": [
-      "fracti"
-    ],
+    "frc": ["fracti"],
     "frca": [],
     "frce": [],
     "frcs": [],
     "frg": [],
-    "fn": [
-      "faint"
-    ],
+    "fn": ["faint"],
     "fnu": [],
     "fnc": [],
-    "fng": [
-      "fating"
-    ],
+    "fng": ["fating"],
     "fnga": [],
     "fnge": [],
-    "fngs": [
-      "fasting"
-    ],
+    "fngs": ["fasting"],
     "fngsz": [],
     "fngsn": [],
     "fngsy": []

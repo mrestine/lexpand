@@ -53,6 +53,36 @@ export interface StepProperty {
   theme: ScoreTheme;
 }
 
+export const ARCHIVE_START = '2026-04-01';
+
+export interface SavedGameState {
+  history: StepResult[];
+  activeStep: number;
+  complete: boolean;
+  gaveUp: boolean;
+}
+
+export type PuzzleProgress = 'none' | 'started' | 'complete' | 'gave_up';
+
+export function getLocalDateString(): string {
+  const now = new Date();
+  return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+}
+
+export function getProgressForDate(date: string): PuzzleProgress {
+  const raw = localStorage.getItem(`lexpand_game_${date}`);
+  if (!raw) return 'none';
+  try {
+    const state = JSON.parse(raw) as SavedGameState;
+    if (state.complete) return 'complete';
+    if (state.gaveUp) return 'gave_up';
+    if (state.history?.length > 0) return 'started';
+  } catch {
+    /* ignore */
+  }
+  return 'none';
+}
+
 export const STEP_PROPS: StepProperty[] = [
   {
     scoreLabel: 'START',

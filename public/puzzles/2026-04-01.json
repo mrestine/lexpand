@@ -1,0 +1,77 @@
+{
+  "start": "pus",
+  "target": ["couplets", "octuples", "potlucks"],
+  "steps": [
+    {
+      "options": "toc"
+    },
+    {
+      "options": "osl"
+    },
+    {
+      "options": "ekx"
+    },
+    {
+      "options": "weo"
+    },
+    {
+      "options": "emt"
+    }
+  ],
+  "dictionary": {
+    "t": ["puts", "tups"],
+    "to": ["pouts", "spout", "stoup"],
+    "toe": [],
+    "tok": [],
+    "tox": [],
+    "ts": [],
+    "tl": [],
+    "o": ["opus", "soup"],
+    "oo": [],
+    "os": ["soups"],
+    "ose": ["opuses", "spouse"],
+    "osew": [],
+    "osee": ["espouse"],
+    "oseee": [],
+    "oseem": [],
+    "oseet": [],
+    "oseo": [],
+    "osk": [],
+    "osx": [],
+    "ol": ["loups"],
+    "ole": ["loupes"],
+    "olew": [],
+    "olee": [],
+    "oleo": [],
+    "olk": [],
+    "olx": [],
+    "c": ["cups", "cusp", "scup"],
+    "co": ["coups"],
+    "coe": ["coupes"],
+    "coew": [],
+    "coee": [],
+    "coeo": [],
+    "cok": [],
+    "cox": [],
+    "cs": ["cusps", "scups"],
+    "cse": [],
+    "csk": [],
+    "csx": [],
+    "cl": ["sculp"],
+    "cle": ["cupels"],
+    "clew": [],
+    "clee": [],
+    "cleo": ["couples"],
+    "cleoe": [],
+    "cleom": [],
+    "cleot": ["couplets", "octuples"],
+    "clk": ["plucks"],
+    "clkw": [],
+    "clke": [],
+    "clko": ["lockups"],
+    "clkoe": [],
+    "clkom": [],
+    "clkot": ["potlucks"],
+    "clx": []
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "start": "eon",
+  "target": [
+    "misenrol",
+    "incloser",
+    "licensor",
+    "bohemian",
+    "baronies",
+    "searobin",
+    "cabezons"
+  ],
+  "steps": [
+    {
+      "options": "nla"
+    },
+    {
+      "options": "ubr"
+    },
+    {
+      "options": "mrs"
+    },
+    {
+      "options": "csh"
+    },
+    {
+      "options": "zip"
+    }
+  ],
+  "dictionary": {
+    "n": ["neon", "none"],
+    "nu": [],
+    "nb": ["bonne"],
+    "nbm": [],
+    "nbr": [],
+    "nbs": ["bonnes"],
+    "nbsc": [],
+    "nbss": [],
+    "nbsh": [],
+    "nr": [],
+    "l": ["enol", "leno", "lone", "noel"],
+    "lu": [],
+    "lb": ["noble"],
+    "lbm": [],
+    "lbr": ["nobler"],
+    "lbrc": [],
+    "lbrs": [],
+    "lbrh": [],
+    "lbs": ["nobles"],
+    "lbsc": [],
+    "lbss": [],
+    "lbsh": [],
+    "lr": ["enrol", "loner", "nerol"],
+    "lrm": ["merlon"],
+    "lrmc": [],
+    "lrms": ["merlons"],
+    "lrmsz": [],
+    "lrmsi": ["misenrol"],
+    "lrmsp": [],
+    "lrmh": [],
+    "lrr": [],
+    "lrs": ["enrols", "loners", "nerols"],
+    "lrsc": ["cloners", "cornels"],
+    "lrscz": [],
+    "lrsci": ["incloser", "licensor"],
+    "lrscp": [],
+    "lrss": [],
+    "lrsh": [],
+    "a": ["aeon"],
+    "au": [],
+    "ab": ["beano"],
+    "abm": ["bemoan"],
+    "abmc": [],
+    "abms": ["ambones", "bemoans"],
+    "abmsz": [],
+    "abmsi": [],
+    "abmsp": [],
+    "abmh": ["hambone"],
+    "abmhz": [],
+    "abmhi": ["bohemian"],
+    "abmhp": [],
+    "abr": ["borane"],
+    "abrc": [],
+    "abrs": ["boranes"],
+    "abrsz": [],
+    "abrsi": ["baronies", "searobin"],
+    "abrsp": [],
+    "abrh": [],
+    "abs": ["beanos"],
+    "absc": ["beacons"],
+    "abscz": ["cabezons"],
+    "absci": [],
+    "abscp": [],
+    "abss": [],
+    "absh": [],
+    "ar": []
+  }
+}

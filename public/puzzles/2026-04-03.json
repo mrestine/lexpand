@@ -33,236 +33,112 @@
     }
   ],
   "dictionary": {
-    "c": [
-      "cope"
-    ],
-    "cu": [
-      "coupe"
-    ],
+    "c": ["cope"],
+    "cu": ["coupe"],
     "cui": [],
     "cut": [],
     "cuc": [],
-    "cr": [
-      "coper"
-    ],
-    "cri": [
-      "copier"
-    ],
-    "crid": [
-      "percoid"
-    ],
-    "cridt": [
-      "depictor"
-    ],
-    "cridi": [
-      "periodic"
-    ],
+    "cr": ["coper"],
+    "cri": ["copier"],
+    "crid": ["percoid"],
+    "cridt": ["depictor"],
+    "cridi": ["periodic"],
     "cridf": [],
-    "crip": [
-      "croppie"
-    ],
+    "crip": ["croppie"],
     "cript": [],
     "cripi": [],
     "cripf": [],
     "cria": [],
-    "crt": [
-      "copter"
-    ],
+    "crt": ["copter"],
     "crtd": [],
     "crtp": [],
     "crta": [],
     "crc": [],
-    "cs": [
-      "copes",
-      "copse",
-      "scope"
-    ],
-    "csi": [
-      "copies"
-    ],
+    "cs": ["copes", "copse", "scope"],
+    "csi": ["copies"],
     "csid": [],
     "csip": [],
     "csia": [],
     "cst": [],
     "csc": [],
-    "d": [
-      "dope",
-      "oped"
-    ],
+    "d": ["dope", "oped"],
     "du": [],
-    "dr": [
-      "doper",
-      "pedro",
-      "pored",
-      "roped"
-    ],
-    "dri": [
-      "dopier",
-      "period"
-    ],
+    "dr": ["doper", "pedro", "pored", "roped"],
+    "dri": ["dopier", "period"],
     "drid": [],
     "drip": [],
     "dria": [],
-    "drt": [
-      "deport",
-      "ported",
-      "redtop"
-    ],
+    "drt": ["deport", "ported", "redtop"],
     "drtd": [],
     "drtp": [],
-    "drta": [
-      "adopter",
-      "readopt"
-    ],
-    "drtat": [
-      "tetrapod"
-    ],
+    "drta": ["adopter", "readopt"],
+    "drtat": ["tetrapod"],
     "drtai": [],
     "drtaf": [],
     "drc": [],
-    "ds": [
-      "dopes",
-      "posed",
-      "spode"
-    ],
-    "dsi": [
-      "poised"
-    ],
+    "ds": ["dopes", "posed", "spode"],
+    "dsi": ["poised"],
     "dsid": [],
     "dsip": [],
-    "dsia": [
-      "adipose"
-    ],
-    "dsiat": [
-      "dioptase"
-    ],
+    "dsia": ["adipose"],
+    "dsiat": ["dioptase"],
     "dsiai": [],
     "dsiaf": [],
-    "dst": [
-      "depots",
-      "despot",
-      "posted",
-      "stoped"
-    ],
+    "dst": ["depots", "despot", "posted", "stoped"],
     "dstd": [],
-    "dstp": [
-      "stopped"
-    ],
+    "dstp": ["stopped"],
     "dstpt": [],
     "dstpi": [],
     "dstpf": [],
-    "dsta": [
-      "podesta"
-    ],
-    "dstat": [
-      "postdate"
-    ],
-    "dstai": [
-      "dioptase"
-    ],
+    "dsta": ["podesta"],
+    "dstat": ["postdate"],
+    "dstai": ["dioptase"],
     "dstaf": [],
-    "dsc": [
-      "scoped"
-    ],
+    "dsc": ["scoped"],
     "dscd": [],
     "dscp": [],
-    "dsca": [
-      "peascod"
-    ],
+    "dsca": ["peascod"],
     "dscat": [],
     "dscai": [],
     "dscaf": [],
-    "l": [
-      "lope",
-      "pole"
-    ],
-    "lu": [
-      "loupe"
-    ],
+    "l": ["lope", "pole"],
+    "lu": ["loupe"],
     "lui": [],
-    "lut": [
-      "tupelo"
-    ],
+    "lut": ["tupelo"],
     "lutd": [],
     "lutp": [],
-    "luta": [
-      "outleap"
-    ],
-    "lutat": [
-      "outleapt"
-    ],
+    "luta": ["outleap"],
+    "lutat": ["outleapt"],
     "lutai": [],
     "lutaf": [],
-    "luc": [
-      "couple"
-    ],
-    "lucd": [
-      "coupled"
-    ],
-    "lucdt": [
-      "octupled"
-    ],
-    "lucdi": [
-      "clupeoid",
-      "upcoiled"
-    ],
+    "luc": ["couple"],
+    "lucd": ["coupled"],
+    "lucdt": ["octupled"],
+    "lucdi": ["clupeoid", "upcoiled"],
     "lucdf": [],
     "lucp": [],
-    "luca": [
-      "copulae"
-    ],
-    "lucat": [
-      "copulate"
-    ],
+    "luca": ["copulae"],
+    "lucat": ["copulate"],
     "lucai": [],
     "lucaf": [],
-    "lr": [
-      "loper",
-      "poler",
-      "prole"
-    ],
+    "lr": ["loper", "poler", "prole"],
     "lri": [],
-    "lrt": [
-      "petrol",
-      "replot"
-    ],
-    "lrtd": [
-      "droplet"
-    ],
+    "lrt": ["petrol", "replot"],
+    "lrtd": ["droplet"],
     "lrtdt": [],
     "lrtdi": [],
     "lrtdf": [],
     "lrtp": [],
-    "lrta": [
-      "prolate"
-    ],
+    "lrta": ["prolate"],
     "lrtat": [],
-    "lrtai": [
-      "petiolar"
-    ],
+    "lrtai": ["petiolar"],
     "lrtaf": [],
     "lrc": [],
-    "ls": [
-      "lopes",
-      "poles",
-      "slope"
-    ],
-    "lsi": [
-      "pilose",
-      "poleis"
-    ],
-    "lsid": [
-      "despoil",
-      "diploes",
-      "dipoles",
-      "spoiled"
-    ],
-    "lsidt": [
-      "pistoled"
-    ],
-    "lsidi": [
-      "ploidies"
-    ],
+    "ls": ["lopes", "poles", "slope"],
+    "lsi": ["pilose", "poleis"],
+    "lsid": ["despoil", "diploes", "dipoles", "spoiled"],
+    "lsidt": ["pistoled"],
+    "lsidi": ["ploidies"],
     "lsidf": [],
     "lsip": [],
     "lsia": [],

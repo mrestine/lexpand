@@ -28,8 +28,8 @@ export function StepOptions({
               dimmed
                 ? theme.optionDimmed
                 : highlight
-                  ? `${accentBg} text-stone-500`
-                  : 'bg-white/60 text-stone-700 shadow-sm',
+                  ? 'bg-white/60 text-stone-700 shadow-sm'
+                  : `${accentBg} text-stone-500`,
             ].join(' ')}
           >
             {opt}

@@ -1,0 +1,100 @@
+{
+  "start": "old",
+  "target": [
+    "melodies",
+    "melodise",
+    "modelers",
+    "morseled",
+    "remodels",
+    "delouser",
+    "urodeles",
+    "dolesome",
+    "rowelled",
+    "welldoer"
+  ],
+  "steps": [
+    {
+      "options": "srw"
+    },
+    {
+      "options": "iro"
+    },
+    {
+      "options": "iez"
+    },
+    {
+      "options": "red"
+    },
+    {
+      "options": "mul"
+    }
+  ],
+  "dictionary": {
+    "s": ["dols", "olds", "sold"],
+    "si": ["diols", "idols", "lidos", "sloid", "soldi", "solid"],
+    "sii": ["solidi"],
+    "siir": [],
+    "siie": ["doilies", "idolise"],
+    "siiem": [],
+    "siieu": [],
+    "siiel": [],
+    "siid": [],
+    "sie": ["oldies", "siloed", "soiled"],
+    "sier": ["soldier", "solider"],
+    "sierm": [],
+    "sieru": [],
+    "sierl": [],
+    "siee": ["oilseed"],
+    "sieem": ["melodies", "melodise"],
+    "sieeu": [],
+    "sieel": [],
+    "sied": ["dildoes"],
+    "siedm": [],
+    "siedu": [],
+    "siedl": [],
+    "siz": [],
+    "sr": ["lords"],
+    "sri": [],
+    "sre": ["dorsel", "resold", "solder"],
+    "srer": [],
+    "sree": ["resoled"],
+    "sreem": ["modelers", "morseled", "remodels"],
+    "sreeu": ["delouser", "urodeles"],
+    "sreel": [],
+    "sred": [],
+    "srz": [],
+    "so": ["soldo"],
+    "soi": [],
+    "soe": ["loosed", "oodles", "soloed"],
+    "soer": [],
+    "soee": ["doolees"],
+    "soeem": ["dolesome"],
+    "soeeu": [],
+    "soeel": [],
+    "soed": ["doodles"],
+    "soedm": [],
+    "soedu": [],
+    "soedl": [],
+    "soz": [],
+    "r": ["lord"],
+    "ri": [],
+    "rr": [],
+    "ro": ["dolor", "drool"],
+    "roi": [],
+    "roe": [],
+    "roz": [],
+    "w": ["wold"],
+    "wi": [],
+    "wr": ["world"],
+    "wri": [],
+    "wre": ["weldor"],
+    "wrer": [],
+    "wree": ["lowered", "roweled"],
+    "wreem": [],
+    "wreeu": [],
+    "wreel": ["rowelled", "welldoer"],
+    "wred": [],
+    "wrz": [],
+    "wo": []
+  }
+}

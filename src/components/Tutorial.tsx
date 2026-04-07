@@ -30,11 +30,24 @@ const steps: TutorialStep[] = [
   },
 ];
 
-export function Tutorial() {
+export function Tutorial({
+  show,
+  onClose,
+}: {
+  show?: boolean;
+  onClose?: () => void;
+}) {
   const [step, setStep] = useState(() =>
-    localStorage.getItem(STORAGE_KEY) ? -1 : 0,
+    show || !localStorage.getItem(STORAGE_KEY) ? 0 : -1,
   );
   const [rect, setRect] = useState<DOMRect | null>(null);
+
+  useEffect(() => {
+    if (show) {
+      setStep(0);
+      setRect(null);
+    }
+  }, [show]);
 
   useEffect(() => {
     localStorage.setItem(STORAGE_KEY, 'true');
@@ -87,13 +100,20 @@ export function Tutorial() {
 
         <div className='flex items-center justify-between'>
           <button
-            onClick={() => setStep(-1)}
+            onClick={() => {
+              setStep(-1);
+              onClose?.();
+            }}
             className='text-xs text-stone-400 hover:text-stone-600 transition-colors'
           >
             Skip
           </button>
           <button
-            onClick={() => setStep((s) => s + 1)}
+            onClick={() => {
+              const next = step + 1;
+              setStep(next);
+              if (next >= steps.length) onClose?.();
+            }}
             className='text-sm font-semibold text-stone-700 hover:text-stone-900 transition-colors'
           >
             {isLast ? 'Done' : 'Next →'}
