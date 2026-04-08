@@ -1,0 +1,239 @@
+{
+  "start": "err",
+  "target": [
+    "redwares",
+    "reframes",
+    "earworms",
+    "forearms",
+    "forbears",
+    "absorber",
+    "reabsorb",
+    "raftered",
+    "bartered",
+    "purebred",
+    "bourtree"
+  ],
+  "steps": [
+    {
+      "options": "aus"
+    },
+    {
+      "options": "spt"
+    },
+    {
+      "options": "deo"
+    },
+    {
+      "options": "emb"
+    },
+    {
+      "options": "wfb"
+    }
+  ],
+  "dictionary": {
+    "a": [
+      "rare",
+      "rear"
+    ],
+    "as": [
+      "rares",
+      "raser",
+      "rears"
+    ],
+    "asd": [
+      "darers",
+      "drears"
+    ],
+    "asde": [
+      "readers",
+      "redears",
+      "rereads"
+    ],
+    "asdew": [
+      "redwares"
+    ],
+    "asdef": [],
+    "asdeb": [],
+    "asdm": [],
+    "asdb": [],
+    "ase": [
+      "eraser",
+      "searer"
+    ],
+    "asee": [],
+    "asem": [
+      "reamers",
+      "smearer"
+    ],
+    "asemw": [],
+    "asemf": [
+      "reframes"
+    ],
+    "asemb": [],
+    "aseb": [
+      "bearers"
+    ],
+    "asebw": [],
+    "asebf": [],
+    "asebb": [],
+    "aso": [
+      "soarer"
+    ],
+    "asoe": [],
+    "asom": [
+      "remoras",
+      "roamers"
+    ],
+    "asomw": [
+      "earworms"
+    ],
+    "asomf": [
+      "forearms"
+    ],
+    "asomb": [],
+    "asob": [
+      "arbores"
+    ],
+    "asobw": [],
+    "asobf": [
+      "forbears"
+    ],
+    "asobb": [
+      "absorber",
+      "reabsorb"
+    ],
+    "ap": [
+      "parer",
+      "raper"
+    ],
+    "apd": [
+      "draper",
+      "parred"
+    ],
+    "apde": [],
+    "apdm": [],
+    "apdb": [],
+    "ape": [
+      "reaper"
+    ],
+    "apee": [],
+    "apem": [],
+    "apeb": [],
+    "apo": [],
+    "at": [
+      "rater",
+      "tarre",
+      "terra"
+    ],
+    "atd": [
+      "darter",
+      "retard",
+      "tarred",
+      "trader"
+    ],
+    "atde": [
+      "retread",
+      "treader"
+    ],
+    "atdew": [],
+    "atdef": [
+      "raftered"
+    ],
+    "atdeb": [
+      "bartered"
+    ],
+    "atdm": [],
+    "atdb": [],
+    "ate": [
+      "retear",
+      "tearer",
+      "terrae"
+    ],
+    "atee": [],
+    "atem": [],
+    "ateb": [
+      "rebater"
+    ],
+    "atebw": [],
+    "atebf": [],
+    "atebb": [],
+    "ato": [],
+    "u": [
+      "ruer"
+    ],
+    "us": [
+      "ruers",
+      "surer"
+    ],
+    "usd": [],
+    "use": [],
+    "uso": [
+      "rouser",
+      "sourer"
+    ],
+    "usoe": [],
+    "usom": [],
+    "usob": [],
+    "up": [
+      "purer"
+    ],
+    "upd": [
+      "purred"
+    ],
+    "upde": [
+      "perdure"
+    ],
+    "updew": [],
+    "updef": [],
+    "updeb": [
+      "purebred"
+    ],
+    "updm": [],
+    "updb": [],
+    "upe": [],
+    "upo": [
+      "pourer",
+      "repour"
+    ],
+    "upoe": [],
+    "upom": [],
+    "upob": [],
+    "ut": [
+      "truer"
+    ],
+    "utd": [],
+    "ute": [
+      "ureter"
+    ],
+    "utee": [],
+    "utem": [],
+    "uteb": [],
+    "uto": [
+      "router",
+      "tourer"
+    ],
+    "utoe": [
+      "reroute"
+    ],
+    "utoew": [],
+    "utoef": [],
+    "utoeb": [
+      "bourtree"
+    ],
+    "utom": [],
+    "utob": [],
+    "s": [
+      "errs"
+    ],
+    "ss": [],
+    "sp": [],
+    "st": []
+  },
+  "scoreTokens": [
+    "31e0ab66d84808c3ee2d5ffd5269d1cee54dec8130e1c5f2b6d14aa540e257ee",
+    "6d93a7fd1b913af8b9aab7bdffcb92cdbfaeed4048e4257f51e7c32a8d2ac7b5",
+    "7479d4696f49272508e476c414ab05b4b184f61cc19903fb7fa928a1da47b893",
+    "211b7cb598b41452ddd50ef4a6cefc0d5b6d57ae3705f1b06991a89f8f6a6234",
+    "169ae3b563705039a3b356e45ee3e8a73918f50a03e4fbb45834bf44491e2ee1"
+  ]
+}
