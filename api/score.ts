@@ -1,6 +1,6 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { createHmac, timingSafeEqual } from 'crypto';
-import { sql } from './_db';
+import { sql } from './_db.js';
 
 function verifyToken(date: string, score: number, token: string): boolean {
   const secret = process.env.PUZZLE_SECRET;
