@@ -3,8 +3,8 @@ import { STEP_PROPS, type BoxStatus } from '../types';
 import { LetterBox } from './LetterBox';
 
 export function ActiveRow({ onFocusRequest }: { onFocusRequest: () => void }) {
-  const { puzzle, activeStep, history, typed, error, isDeadEnd } = useGame();
-  const theme = STEP_PROPS[history.length].theme;
+  const { puzzle, activeStep, typed, error, isDeadEnd } = useGame();
+  const theme = STEP_PROPS[activeStep].theme;
   const wordLength = (puzzle?.start.length ?? 0) + activeStep + 1;
 
   return (

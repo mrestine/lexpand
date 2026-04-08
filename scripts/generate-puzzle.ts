@@ -21,6 +21,7 @@ import {
 } from 'fs'; // writeFileSync used for puzzle output
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { createHmac } from 'crypto';
 
 const __dir = dirname(fileURLToPath(import.meta.url));
 const ALPHA = 'abcdefghijklmnopqrstuvwxyz'.split('');
@@ -42,6 +43,7 @@ interface Puzzle {
   target: string[];
   steps: Step[];
   dictionary: Record<string, string[]>;
+  scoreTokens: string[];
 }
 
 // returns the alphabetized letters of a word, good for anagrams
@@ -328,12 +330,26 @@ function main(): void {
     ),
   ];
 
+  // Generate HMAC score tokens — one per score level (1–5)
+  // These allow the client to prove a score was legitimately achieved without
+  // the server needing to know puzzle contents.
+  const puzzleSecret = process.env.PUZZLE_SECRET;
+  if (!puzzleSecret) {
+    console.error('PUZZLE_SECRET env var is not set — score tokens will be empty strings.');
+  }
+  const scoreTokens = Array.from({ length: steps.length }, (_, i) =>
+    puzzleSecret
+      ? createHmac('sha256', puzzleSecret).update(`${dateArg}|${i + 1}`).digest('hex')
+      : '',
+  );
+
   // the full puzzle object. the start word is just the first of possible paths
   const puzzle: Puzzle = {
     start: (anagramIndex.get(path.keys[0]) ?? [selectedWord])[0],
     target,
     steps,
     dictionary,
+    scoreTokens,
   };
 
   writeFileSync(outPath, JSON.stringify(puzzle, null, 2));

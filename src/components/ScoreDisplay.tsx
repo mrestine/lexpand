@@ -5,8 +5,8 @@ const TOTAL = STEP_PROPS.length; // 6
 const INACTIVE_COLOR = '#d6d3d1'; // stone-300
 
 export function ScoreDisplay() {
-  const { history } = useGame();
-  const score = history.length; // 0–5
+  const { activeStep } = useGame();
+  const score = activeStep; // 0–5
   const { scoreLabel, theme } = STEP_PROPS[score];
   const activeColor = theme.scoreColor;
 

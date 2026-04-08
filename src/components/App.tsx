@@ -22,6 +22,7 @@ export default function App() {
     gaveUp,
     currentDate,
     todayDate,
+    scoreDistribution,
     setTyped,
     handleSubmit,
     handleBacktrack,
@@ -34,9 +35,21 @@ export default function App() {
   const [showArchive, setShowArchive] = useState(false);
   const [showTutorial, setShowTutorial] = useState(false);
 
-  const { theme } = STEP_PROPS[history.length];
+  const { theme } = STEP_PROPS[activeStep];
   const wordLength = (puzzle?.start.length ?? 0) + activeStep + 1;
   const isArchiveDate = currentDate !== todayDate;
+
+  // Compute "better than X% of players" from score distribution
+  const percentileLine = (() => {
+    if (!scoreDistribution || scoreDistribution.total === 0) return null;
+    const userScore = activeStep;
+    if (userScore === 0) return null;
+    const below = Object.entries(scoreDistribution.distribution)
+      .filter(([s]) => Number(s) < userScore)
+      .reduce((sum, [, n]) => sum + n, 0);
+    const pct = Math.round((below / scoreDistribution.total) * 100);
+    return `Better than ${pct}% of players today`;
+  })();
 
   useEffect(() => {
     if (!complete) hiddenInputRef.current?.focus();
@@ -163,7 +176,7 @@ export default function App() {
         <Connector theme={theme} />
 
         {puzzle.steps.map((step, stepIdx) => {
-          const isSolved = stepIdx < history.length;
+          const isSolved = stepIdx < activeStep;
           const isActive = stepIdx === activeStep && !complete && !gaveUp;
           const result = history[stepIdx];
 
@@ -213,7 +226,7 @@ export default function App() {
       {/* Controls */}
       {!complete && !gaveUp && (
         <div className='mt-6 flex gap-3'>
-          {history.length > 0 && (
+          {activeStep > 0 && (
             <button
               onClick={(e) => {
                 e.stopPropagation();
@@ -237,19 +250,27 @@ export default function App() {
       )}
 
       {gaveUp && !complete && (
-        <p className={`mt-6 text-m font-medium ${theme.subtitle}`}>
-          Better luck tomorrow!
-        </p>
+        <div className='mt-6 flex flex-col items-center gap-1'>
+          <p className={`text-m font-medium ${theme.subtitle}`}>
+            Better luck tomorrow!
+          </p>
+          {percentileLine && (
+            <p className={`text-xs ${theme.hint}`}>{percentileLine}</p>
+          )}
+        </div>
       )}
 
       {/* Completion */}
       {complete && (
-        <div className='mt-8 flex flex-col items-center gap-3'>
+        <div className='mt-8 flex flex-col items-center gap-1'>
           <p className={`text-m font-medium ${theme.subtitle}`}>
             {isArchiveDate
               ? 'Nice work on this one!'
               : 'Come back tomorrow for a new puzzle!'}
           </p>
+          {percentileLine && (
+            <p className={`text-xs ${theme.hint}`}>{percentileLine}</p>
+          )}
         </div>
       )}
     </div>

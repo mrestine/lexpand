@@ -6,6 +6,7 @@ export interface PuzzleData {
   target: string[];
   steps: Step[];
   dictionary: Record<string, string[]>;
+  scoreTokens?: string[];
 }
 
 export type BoxStatus =
@@ -60,9 +61,15 @@ export interface SavedGameState {
   activeStep: number;
   complete: boolean;
   gaveUp: boolean;
+  highestScoreSent?: number;
 }
 
 export type PuzzleProgress = 'none' | 'started' | 'complete' | 'gave_up';
+
+export interface ScoreDistribution {
+  distribution: Record<number, number>; // max_score -> count of users
+  total: number;
+}
 
 export function getLocalDateString(): string {
   const now = new Date();
