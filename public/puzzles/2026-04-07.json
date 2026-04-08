@@ -1,5 +1,5 @@
 {
-  "start": "old",
+  "start": "dol",
   "target": [
     "melodies",
     "melodise",
@@ -30,71 +30,152 @@
     }
   ],
   "dictionary": {
-    "s": ["dols", "olds", "sold"],
-    "si": ["diols", "idols", "lidos", "sloid", "soldi", "solid"],
-    "sii": ["solidi"],
+    "s": [
+      "dols",
+      "olds",
+      "sold"
+    ],
+    "si": [
+      "diols",
+      "idols",
+      "lidos",
+      "sloid",
+      "soldi",
+      "solid"
+    ],
+    "sii": [
+      "solidi"
+    ],
     "siir": [],
-    "siie": ["doilies", "idolise"],
+    "siie": [
+      "doilies",
+      "idolise"
+    ],
     "siiem": [],
     "siieu": [],
     "siiel": [],
     "siid": [],
-    "sie": ["oldies", "siloed", "soiled"],
-    "sier": ["soldier", "solider"],
+    "sie": [
+      "oldies",
+      "siloed",
+      "soiled"
+    ],
+    "sier": [
+      "soldier",
+      "solider"
+    ],
     "sierm": [],
     "sieru": [],
     "sierl": [],
-    "siee": ["oilseed"],
-    "sieem": ["melodies", "melodise"],
+    "siee": [
+      "oilseed"
+    ],
+    "sieem": [
+      "melodies",
+      "melodise"
+    ],
     "sieeu": [],
     "sieel": [],
-    "sied": ["dildoes"],
+    "sied": [
+      "dildoes"
+    ],
     "siedm": [],
     "siedu": [],
     "siedl": [],
     "siz": [],
-    "sr": ["lords"],
+    "sr": [
+      "lords"
+    ],
     "sri": [],
-    "sre": ["dorsel", "resold", "solder"],
+    "sre": [
+      "dorsel",
+      "resold",
+      "solder"
+    ],
     "srer": [],
-    "sree": ["resoled"],
-    "sreem": ["modelers", "morseled", "remodels"],
-    "sreeu": ["delouser", "urodeles"],
+    "sree": [
+      "resoled"
+    ],
+    "sreem": [
+      "modelers",
+      "morseled",
+      "remodels"
+    ],
+    "sreeu": [
+      "delouser",
+      "urodeles"
+    ],
     "sreel": [],
     "sred": [],
     "srz": [],
-    "so": ["soldo"],
+    "so": [
+      "soldo"
+    ],
     "soi": [],
-    "soe": ["loosed", "oodles", "soloed"],
+    "soe": [
+      "loosed",
+      "oodles",
+      "soloed"
+    ],
     "soer": [],
-    "soee": ["doolees"],
-    "soeem": ["dolesome"],
+    "soee": [
+      "doolees"
+    ],
+    "soeem": [
+      "dolesome"
+    ],
     "soeeu": [],
     "soeel": [],
-    "soed": ["doodles"],
+    "soed": [
+      "doodles"
+    ],
     "soedm": [],
     "soedu": [],
     "soedl": [],
     "soz": [],
-    "r": ["lord"],
+    "r": [
+      "lord"
+    ],
     "ri": [],
     "rr": [],
-    "ro": ["dolor", "drool"],
+    "ro": [
+      "dolor",
+      "drool"
+    ],
     "roi": [],
     "roe": [],
     "roz": [],
-    "w": ["wold"],
+    "w": [
+      "wold"
+    ],
     "wi": [],
-    "wr": ["world"],
+    "wr": [
+      "world"
+    ],
     "wri": [],
-    "wre": ["weldor"],
+    "wre": [
+      "weldor"
+    ],
     "wrer": [],
-    "wree": ["lowered", "roweled"],
+    "wree": [
+      "lowered",
+      "roweled"
+    ],
     "wreem": [],
     "wreeu": [],
-    "wreel": ["rowelled", "welldoer"],
+    "wreel": [
+      "rowelled",
+      "welldoer"
+    ],
     "wred": [],
     "wrz": [],
     "wo": []
-  }
+  },
+  "scoreTokens": [
+    "87414df2e5ccaa0d1836e36382bd2e04015da75ffe86531ecab97108429141cd",
+    "f61216bb95b10a7ff4987167c2ed5af8e1cb0934c3f483f89028c2a6922b758d",
+    "3fff1b5bae871039bc1b934367861f87cf0b9195e55c71a78480d475b9d4fb8c",
+    "86615e8cf5ebed3e143591a5c94eb3c4a14899b42c8c91d4169fda79aa5066e3",
+    "001794cc1f81d380280b4bbf42b8a023bb0acef1358ff0b4f0779d54d37c7e83"
+  ]
 }

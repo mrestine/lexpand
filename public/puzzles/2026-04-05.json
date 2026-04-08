@@ -1,6 +1,9 @@
 {
   "start": "nog",
-  "target": ["flogging", "frogging"],
+  "target": [
+    "flogging",
+    "frogging"
+  ],
   "steps": [
     {
       "options": "gob"
@@ -19,68 +22,128 @@
     }
   ],
   "dictionary": {
-    "g": ["gong", "nogg"],
+    "g": [
+      "gong",
+      "nogg"
+    ],
     "gk": [],
-    "gi": ["going"],
-    "gil": ["ogling"],
-    "gilg": ["logging"],
+    "gi": [
+      "going"
+    ],
+    "gil": [
+      "ogling"
+    ],
+    "gilg": [
+      "logging"
+    ],
     "gilgk": [],
-    "gilgf": ["flogging"],
+    "gilgf": [
+      "flogging"
+    ],
     "gilgu": [],
     "gilu": [],
     "gily": [],
-    "gir": ["goring", "gringo"],
-    "girg": ["gorging"],
+    "gir": [
+      "goring",
+      "gringo"
+    ],
+    "girg": [
+      "gorging"
+    ],
     "girgk": [],
-    "girgf": ["frogging"],
+    "girgf": [
+      "frogging"
+    ],
     "girgu": [],
-    "giru": ["roguing", "rouging"],
+    "giru": [
+      "roguing",
+      "rouging"
+    ],
     "giruk": [],
     "giruf": [],
     "giruu": [],
     "giry": [],
-    "gis": ["goings"],
+    "gis": [
+      "goings"
+    ],
     "gisg": [],
     "gisu": [],
     "gisy": [],
-    "gs": ["gongs", "noggs"],
+    "gs": [
+      "gongs",
+      "noggs"
+    ],
     "gsl": [],
     "gsr": [],
     "gss": [],
-    "o": ["goon"],
+    "o": [
+      "goon"
+    ],
     "ok": [],
     "oi": [],
-    "os": ["goons"],
+    "os": [
+      "goons"
+    ],
     "osl": [],
     "osr": [],
     "oss": [],
-    "b": ["bong"],
+    "b": [
+      "bong"
+    ],
     "bk": [],
-    "bi": ["bingo", "boing"],
-    "bil": ["globin", "goblin"],
-    "bilg": ["globing"],
+    "bi": [
+      "bingo",
+      "boing"
+    ],
+    "bil": [
+      "globin",
+      "goblin"
+    ],
+    "bilg": [
+      "globing"
+    ],
     "bilgk": [],
     "bilgf": [],
     "bilgu": [],
     "bilu": [],
-    "bily": ["ignobly"],
+    "bily": [
+      "ignobly"
+    ],
     "bilyk": [],
     "bilyf": [],
     "bilyu": [],
-    "bir": ["boring", "orbing", "robing"],
+    "bir": [
+      "boring",
+      "orbing",
+      "robing"
+    ],
     "birg": [],
     "biru": [],
     "biry": [],
-    "bis": ["bingos", "gibson"],
+    "bis": [
+      "bingos",
+      "gibson"
+    ],
     "bisg": [],
-    "bisu": ["bousing"],
+    "bisu": [
+      "bousing"
+    ],
     "bisuk": [],
     "bisuf": [],
     "bisuu": [],
     "bisy": [],
-    "bs": ["bongs"],
+    "bs": [
+      "bongs"
+    ],
     "bsl": [],
     "bsr": [],
     "bss": []
-  }
+  },
+  "scoreTokens": [
+    "a500715c360b03cd953ee75a2c945034c74b4f9071c7cae5a720ce1503c6ba51",
+    "f8ddb923a8094de46d221163c93a56c70bee9661a112cb74d6337461c0b3d91f",
+    "cb8b5ad14ad4cd094a9133e6c37213bbd561e7e7926541486d2a7af5746246cd",
+    "e083128381f95c8bd99c3f540b8a9fde5ef48c88d00f29e3802c13794203a870",
+    "420c1c017ae518f40443abd9fbdf74765de246a45f43384a88ee973673898971"
+  ]
 }

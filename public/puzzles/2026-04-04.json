@@ -27,71 +27,142 @@
     }
   ],
   "dictionary": {
-    "n": ["neon", "none"],
+    "n": [
+      "neon",
+      "none"
+    ],
     "nu": [],
-    "nb": ["bonne"],
+    "nb": [
+      "bonne"
+    ],
     "nbm": [],
     "nbr": [],
-    "nbs": ["bonnes"],
+    "nbs": [
+      "bonnes"
+    ],
     "nbsc": [],
     "nbss": [],
     "nbsh": [],
     "nr": [],
-    "l": ["enol", "leno", "lone", "noel"],
+    "l": [
+      "enol",
+      "leno",
+      "lone",
+      "noel"
+    ],
     "lu": [],
-    "lb": ["noble"],
+    "lb": [
+      "noble"
+    ],
     "lbm": [],
-    "lbr": ["nobler"],
+    "lbr": [
+      "nobler"
+    ],
     "lbrc": [],
     "lbrs": [],
     "lbrh": [],
-    "lbs": ["nobles"],
+    "lbs": [
+      "nobles"
+    ],
     "lbsc": [],
     "lbss": [],
     "lbsh": [],
-    "lr": ["enrol", "loner", "nerol"],
-    "lrm": ["merlon"],
+    "lr": [
+      "enrol",
+      "loner",
+      "nerol"
+    ],
+    "lrm": [
+      "merlon"
+    ],
     "lrmc": [],
-    "lrms": ["merlons"],
+    "lrms": [
+      "merlons"
+    ],
     "lrmsz": [],
-    "lrmsi": ["misenrol"],
+    "lrmsi": [
+      "misenrol"
+    ],
     "lrmsp": [],
     "lrmh": [],
     "lrr": [],
-    "lrs": ["enrols", "loners", "nerols"],
-    "lrsc": ["cloners", "cornels"],
+    "lrs": [
+      "enrols",
+      "loners",
+      "nerols"
+    ],
+    "lrsc": [
+      "cloners",
+      "cornels"
+    ],
     "lrscz": [],
-    "lrsci": ["incloser", "licensor"],
+    "lrsci": [
+      "incloser",
+      "licensor"
+    ],
     "lrscp": [],
     "lrss": [],
     "lrsh": [],
-    "a": ["aeon"],
+    "a": [
+      "aeon"
+    ],
     "au": [],
-    "ab": ["beano"],
-    "abm": ["bemoan"],
+    "ab": [
+      "beano"
+    ],
+    "abm": [
+      "bemoan"
+    ],
     "abmc": [],
-    "abms": ["ambones", "bemoans"],
+    "abms": [
+      "ambones",
+      "bemoans"
+    ],
     "abmsz": [],
     "abmsi": [],
     "abmsp": [],
-    "abmh": ["hambone"],
+    "abmh": [
+      "hambone"
+    ],
     "abmhz": [],
-    "abmhi": ["bohemian"],
+    "abmhi": [
+      "bohemian"
+    ],
     "abmhp": [],
-    "abr": ["borane"],
+    "abr": [
+      "borane"
+    ],
     "abrc": [],
-    "abrs": ["boranes"],
+    "abrs": [
+      "boranes"
+    ],
     "abrsz": [],
-    "abrsi": ["baronies", "searobin"],
+    "abrsi": [
+      "baronies",
+      "searobin"
+    ],
     "abrsp": [],
     "abrh": [],
-    "abs": ["beanos"],
-    "absc": ["beacons"],
-    "abscz": ["cabezons"],
+    "abs": [
+      "beanos"
+    ],
+    "absc": [
+      "beacons"
+    ],
+    "abscz": [
+      "cabezons"
+    ],
     "absci": [],
     "abscp": [],
     "abss": [],
     "absh": [],
     "ar": []
-  }
+  },
+  "scoreTokens": [
+    "59e5724f45ede9532b392cdabbe667182fe075feae3952b799fb9af287b63fc2",
+    "eaf9ab35ca0424de482dfedb9985207ad7e2b84362cf35d3775ce0b0bb70cdef",
+    "34d205e94415a4dced6ed1e7a769ccd239cfbe81d6b075295578d5a649fc7909",
+    "9bafef9395fc46926b5ab09ea4400dd69cd1ce6df9f186321836cbf2aa6e5de8",
+    "3db41e2838409914673f3db444bda846f4b9b1e25297246633f866429b26e557"
+  ]
 }

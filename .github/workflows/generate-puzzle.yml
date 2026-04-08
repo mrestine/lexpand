@@ -1,0 +1,51 @@
+name: Generate Daily Puzzle
+
+on:
+  schedule:
+    # Runs at 06:00 UTC daily — well before any timezone hits the new day
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Date to generate puzzle for (YYYY-MM-DD). Defaults to today.'
+        required: false
+        type: string
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Generate puzzle
+        env:
+          PUZZLE_SECRET: ${{ secrets.PUZZLE_SECRET }}
+        run: |
+          DATE="${{ inputs.date }}"
+          if [ -z "$DATE" ]; then
+            DATE=$(date -u -d "+1 day" +%Y-%m-%d)
+          fi
+          echo "Generating puzzle for $DATE"
+          npm run generate "$DATE"
+
+      - name: Commit puzzle if new
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/puzzles/
+          if git diff --staged --quiet; then
+            echo "No new puzzle to commit."
+          else
+            git commit -m "chore: add puzzle for $(date -u +%Y-%m-%d)"
+            git push
+          fi

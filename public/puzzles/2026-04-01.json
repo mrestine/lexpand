@@ -1,6 +1,10 @@
 {
   "start": "pus",
-  "target": ["couplets", "octuples", "potlucks"],
+  "target": [
+    "couplets",
+    "octuples",
+    "potlucks"
+  ],
   "steps": [
     {
       "options": "toc"
@@ -19,59 +23,113 @@
     }
   ],
   "dictionary": {
-    "t": ["puts", "tups"],
-    "to": ["pouts", "spout", "stoup"],
+    "t": [
+      "puts",
+      "tups"
+    ],
+    "to": [
+      "pouts",
+      "spout",
+      "stoup"
+    ],
     "toe": [],
     "tok": [],
     "tox": [],
     "ts": [],
     "tl": [],
-    "o": ["opus", "soup"],
+    "o": [
+      "opus",
+      "soup"
+    ],
     "oo": [],
-    "os": ["soups"],
-    "ose": ["opuses", "spouse"],
+    "os": [
+      "soups"
+    ],
+    "ose": [
+      "opuses",
+      "spouse"
+    ],
     "osew": [],
-    "osee": ["espouse"],
+    "osee": [
+      "espouse"
+    ],
     "oseee": [],
     "oseem": [],
     "oseet": [],
     "oseo": [],
     "osk": [],
     "osx": [],
-    "ol": ["loups"],
-    "ole": ["loupes"],
+    "ol": [
+      "loups"
+    ],
+    "ole": [
+      "loupes"
+    ],
     "olew": [],
     "olee": [],
     "oleo": [],
     "olk": [],
     "olx": [],
-    "c": ["cups", "cusp", "scup"],
-    "co": ["coups"],
-    "coe": ["coupes"],
+    "c": [
+      "cups",
+      "cusp",
+      "scup"
+    ],
+    "co": [
+      "coups"
+    ],
+    "coe": [
+      "coupes"
+    ],
     "coew": [],
     "coee": [],
     "coeo": [],
     "cok": [],
     "cox": [],
-    "cs": ["cusps", "scups"],
+    "cs": [
+      "cusps",
+      "scups"
+    ],
     "cse": [],
     "csk": [],
     "csx": [],
-    "cl": ["sculp"],
-    "cle": ["cupels"],
+    "cl": [
+      "sculp"
+    ],
+    "cle": [
+      "cupels"
+    ],
     "clew": [],
     "clee": [],
-    "cleo": ["couples"],
+    "cleo": [
+      "couples"
+    ],
     "cleoe": [],
     "cleom": [],
-    "cleot": ["couplets", "octuples"],
-    "clk": ["plucks"],
+    "cleot": [
+      "couplets",
+      "octuples"
+    ],
+    "clk": [
+      "plucks"
+    ],
     "clkw": [],
     "clke": [],
-    "clko": ["lockups"],
+    "clko": [
+      "lockups"
+    ],
     "clkoe": [],
     "clkom": [],
-    "clkot": ["potlucks"],
+    "clkot": [
+      "potlucks"
+    ],
     "clx": []
-  }
+  },
+  "scoreTokens": [
+    "feb29ee2d04c5bba5c6dbba575b4bbe0c7bf3929d668ed1d682a8f066ba49764",
+    "7c4ab87f1a0fe7d58b3cbdf88b8b8fdb04ef5aa86b8515f1cf226ec317575a97",
+    "04abcb15749426c4b46414163b1a1c72e227ad57e9bc5d3345b6ba1b942bd104",
+    "75f1c08817719affd7a72d2eea5615a326bddb00100a524c773e3ec80a4f814f",
+    "b7c031633628ec5fee19723f9e515d9861827d2cf26c740de7d5716f67b0133b"
+  ]
 }
