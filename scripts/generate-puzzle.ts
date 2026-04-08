@@ -22,6 +22,10 @@ import {
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { createHmac } from 'crypto';
+import { config as loadEnv } from 'dotenv';
+
+// Load .env if present (no-op in CI/GHA where env vars are injected directly)
+loadEnv();
 
 const __dir = dirname(fileURLToPath(import.meta.url));
 const ALPHA = 'abcdefghijklmnopqrstuvwxyz'.split('');
