@@ -67,8 +67,7 @@ export interface SavedGameState {
 export type PuzzleProgress = 'none' | 'started' | 'complete' | 'gave_up';
 
 export interface ScoreDistribution {
-  distribution: Record<number, number>; // max_score -> count of users
-  total: number;
+  distribution: Record<number, number>; // score level -> count of submissions
 }
 
 export function getLocalDateString(): string {

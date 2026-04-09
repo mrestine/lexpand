@@ -9,6 +9,7 @@ import { Connector } from './Connector';
 import { Tutorial } from './Tutorial';
 import { Header } from './Header';
 import { ScoreDisplay } from './ScoreDisplay';
+import { ScoreReport } from './ScoreReport';
 import { ArchiveModal } from './ArchiveModal';
 
 export default function App() {
@@ -38,18 +39,6 @@ export default function App() {
   const { theme } = STEP_PROPS[activeStep];
   const wordLength = (puzzle?.start.length ?? 0) + activeStep + 1;
   const isArchiveDate = currentDate !== todayDate;
-
-  // Compute "better than X% of players" from score distribution
-  const percentileLine = (() => {
-    if (!scoreDistribution || scoreDistribution.total === 0) return null;
-    const userScore = activeStep;
-    if (userScore === 0) return null;
-    const below = Object.entries(scoreDistribution.distribution)
-      .filter(([s]) => Number(s) < userScore)
-      .reduce((sum, [, n]) => sum + n, 0);
-    const pct = Math.round((below / scoreDistribution.total) * 100);
-    return `Better than ${pct}% of players today`;
-  })();
 
   useEffect(() => {
     if (!complete) hiddenInputRef.current?.focus();
@@ -249,30 +238,25 @@ export default function App() {
         </div>
       )}
 
-      {gaveUp && !complete && (
-        <div className='mt-6 flex flex-col items-center gap-1'>
-          <p className={`text-m font-medium ${theme.subtitle}`}>
-            Better luck tomorrow!
-          </p>
-          {percentileLine && (
-            <p className={`text-xs ${theme.hint}`}>{percentileLine}</p>
-          )}
-        </div>
-      )}
-
       {/* Completion */}
-      {complete && (
-        <div className='mt-8 flex flex-col items-center gap-1'>
-          <p className={`text-m font-medium ${theme.subtitle}`}>
-            {isArchiveDate
-              ? 'Nice work on this one!'
-              : 'Come back tomorrow for a new puzzle!'}
-          </p>
-          {percentileLine && (
-            <p className={`text-xs ${theme.hint}`}>{percentileLine}</p>
-          )}
-        </div>
-      )}
+      {gaveUp ||
+        (complete && (
+          <div className='mt-8 flex flex-col items-center gap-3'>
+            <p className={`text-m font-medium ${theme.subtitle}`}>
+              {complete
+                ? isArchiveDate
+                  ? 'Nice work on this one!'
+                  : 'Come back tomorrow for a new puzzle!'
+                : 'Better luck tomorrow!'}
+            </p>
+            {scoreDistribution && (
+              <ScoreReport
+                distribution={scoreDistribution}
+                userScore={activeStep}
+              />
+            )}
+          </div>
+        ))}
     </div>
   );
 }

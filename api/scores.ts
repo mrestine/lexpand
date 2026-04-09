@@ -11,33 +11,19 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     return res.status(400).end();
   }
 
-  // Count unique users per max score achieved
+  // Return total count of each score level recorded for the day
   const result = await sql`
-    WITH max_scores AS (
-      SELECT client_id, MAX(score) AS max_score
-      FROM scores
-      WHERE date = ${date}
-      GROUP BY client_id
-    )
-    SELECT max_score AS score, COUNT(*)::int AS count
-    FROM max_scores
-    GROUP BY max_score
-    ORDER BY max_score
+    SELECT score, COUNT(*)::int AS count
+    FROM scores
+    WHERE date = ${date}
+    GROUP BY score
+    ORDER BY score
   `;
 
-  const distribution: Record<number, number> = {
-    0: 0,
-    1: 0,
-    2: 0,
-    3: 0,
-    4: 0,
-    5: 0,
-  };
-  let total = 0;
+  const distribution: Record<number, number> = { 0: 0, 1: 0, 2: 0, 3: 0, 4: 0, 5: 0 };
   for (const row of result.rows) {
     distribution[row.score] = row.count;
-    total += row.count;
   }
 
-  return res.status(200).json({ distribution, total });
+  return res.status(200).json({ distribution });
 }
