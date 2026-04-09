@@ -239,24 +239,18 @@ export default function App() {
       )}
 
       {/* Completion */}
-      {gaveUp ||
-        (complete && (
-          <div className='mt-8 flex flex-col items-center gap-3'>
-            <p className={`text-m font-medium ${theme.subtitle}`}>
-              {complete
-                ? isArchiveDate
-                  ? 'Nice work on this one!'
-                  : 'Come back tomorrow for a new puzzle!'
-                : 'Better luck tomorrow!'}
-            </p>
-            {scoreDistribution && (
-              <ScoreReport
-                distribution={scoreDistribution}
-                userScore={activeStep}
-              />
-            )}
-          </div>
-        ))}
+      {gaveUp || complete ? (
+        <div className='mt-8 flex flex-col items-center gap-3'>
+          <p className={`text-m font-medium ${theme.subtitle}`}>
+            {complete
+              ? isArchiveDate
+                ? 'Nice work on this one!'
+                : 'Come back tomorrow for a new puzzle!'
+              : 'Better luck tomorrow!'}
+          </p>
+          <ScoreReport userScore={activeStep} />
+        </div>
+      ) : null}
     </div>
   );
 }

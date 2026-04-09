@@ -1,21 +1,36 @@
-import { STEP_PROPS, type ScoreDistribution } from '../types';
+import { useGame } from '../context/GameContext';
+import { STEP_PROPS } from '../types';
 
 export function ScoreReport({
-  distribution,
   userScore,
 }: {
-  distribution: ScoreDistribution;
   userScore: number; // activeStep at time of completion/give-up
 }) {
-  const baseline = distribution.distribution[0] ?? 0;
-  if (baseline === 0) {
-    return null;
+  const { scoreDistribution, scoresLoading } = useGame();
+  const baseline = scoreDistribution?.distribution[0] ?? 0;
+  if (scoresLoading) {
+    return (
+      <div className='flex gap-1.5 mt-4'>
+        {[0, 150, 300].map((delay) => (
+          <div
+            key={delay}
+            className='w-2 h-2 rounded-full bg-black/20 animate-bounce'
+            style={{ animationDelay: `${delay}ms` }}
+          />
+        ))}
+      </div>
+    );
+  }
+  if (!scoreDistribution || baseline === 0) {
+    return (
+      <div className='mt-3 text-sm text-stone-500'>No scores available.</div>
+    );
   }
 
   return (
     <div className='flex flex-col gap-1.5 w-60 mt-3'>
       {([1, 2, 3, 4, 5] as const).map((score) => {
-        const count = distribution.distribution[score] ?? 0;
+        const count = scoreDistribution.distribution[score] ?? 0;
         const pct = Math.round((count / baseline) * 100);
         const isUser = score === userScore;
         const { theme } = STEP_PROPS[score];

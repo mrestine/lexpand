@@ -85,6 +85,7 @@ interface GameContextValue {
   currentDate: string;
   todayDate: string;
   scoreDistribution: ScoreDistribution | null;
+  scoresLoading: boolean;
   handleTyped: (v: string) => void;
   handleSubmit: (word: string) => void;
   handleBacktrack: () => void;
@@ -110,6 +111,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
   const [typed, setTyped] = useState('');
   const [gaveUp, setGaveUp] = useState(false);
   const [highestScoreSent, setHighestScoreSent] = useState(-1);
+  const [scoresLoading, setScoresLoading] = useState(false);
   const [scoreDistribution, setScoreDistribution] =
     useState<ScoreDistribution | null>(null);
 
@@ -148,14 +150,22 @@ export function GameProvider({ children }: { children: ReactNode }) {
 
   // Fetch score distribution when the game ends
   useEffect(() => {
-    if (!complete && !gaveUp) return;
+    if (!complete && !gaveUp) {
+      return;
+    }
+    setScoresLoading(true);
     const delay = setTimeout(() => {
       fetch(`/api/scores?date=${currentDate}`)
         .then((r) => (r.ok ? r.json() : null))
         .then((data) => {
-          if (data) setScoreDistribution(data as ScoreDistribution);
+          if (data) {
+            setScoreDistribution(data as ScoreDistribution);
+          }
         })
-        .catch(() => {});
+        .catch(() => {})
+        .finally(() => {
+          setScoresLoading(false);
+        });
     }, 800); // brief delay to let final score submission commit
     return () => clearTimeout(delay);
   }, [complete, gaveUp, currentDate]);
@@ -257,13 +267,16 @@ export function GameProvider({ children }: { children: ReactNode }) {
     setGaveUp(false);
   }, []);
 
-  const handleTyped = useCallback((v: string) => {
-    if (v.length === 1 && highestScoreSent < 0) {
-      submitScore(clientId, currentDate, 0);
-      setHighestScoreSent(0);
-    }
-    setTyped(v);
-  }, [clientId, currentDate, highestScoreSent]);
+  const handleTyped = useCallback(
+    (v: string) => {
+      if (v.length === 1 && highestScoreSent < 0) {
+        submitScore(clientId, currentDate, 0);
+        setHighestScoreSent(0);
+      }
+      setTyped(v);
+    },
+    [clientId, currentDate, highestScoreSent],
+  );
 
   const handleGiveUp = useCallback(() => {
     setGaveUp(true);
@@ -299,6 +312,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
         currentDate,
         todayDate,
         scoreDistribution,
+        scoresLoading,
         handleTyped,
         handleSubmit,
         handleBacktrack,
