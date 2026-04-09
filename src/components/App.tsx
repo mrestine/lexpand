@@ -23,7 +23,6 @@ export default function App() {
     gaveUp,
     currentDate,
     todayDate,
-    scoreDistribution,
     handleTyped,
     handleSubmit,
     handleBacktrack,
