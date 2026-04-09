@@ -242,11 +242,20 @@ export default function App() {
       {gaveUp || complete ? (
         <div className='mt-8 flex flex-col items-center gap-3'>
           <p className={`text-m font-medium ${theme.subtitle}`}>
-            {complete
-              ? isArchiveDate
-                ? 'Nice work on this one!'
-                : 'Come back tomorrow for a new puzzle!'
-              : 'Better luck tomorrow!'}
+            {complete ? (
+              isArchiveDate ? (
+                'Nice work on this one!'
+              ) : (
+                'Come back tomorrow for a new puzzle!'
+              )
+            ) : (
+              <>
+                <div className='text-center max-w-xs mb-2'>
+                  Possible solutions: {puzzle.target.join(', ')}
+                </div>
+                <div className='text-center'>Better luck tomorrow!</div>
+              </>
+            )}
           </p>
           <ScoreReport userScore={activeStep} />
         </div>
