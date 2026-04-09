@@ -1,0 +1,293 @@
+{
+  "start": "ire",
+  "target": [
+    "resiling",
+    "riesling",
+    "pineries",
+    "speiring",
+    "spiering",
+    "drearies",
+    "reraised",
+    "earrings",
+    "grainers",
+    "retiling",
+    "tinglier",
+    "retainer",
+    "inertiae"
+  ],
+  "steps": [
+    {
+      "options": "swt"
+    },
+    {
+      "options": "lpa"
+    },
+    {
+      "options": "dny"
+    },
+    {
+      "options": "rqi"
+    },
+    {
+      "options": "eqg"
+    }
+  ],
+  "dictionary": {
+    "s": [
+      "ires",
+      "reis",
+      "rise",
+      "sire"
+    ],
+    "sl": [
+      "liers",
+      "riels",
+      "riles",
+      "slier"
+    ],
+    "sld": [
+      "idlers",
+      "sidler",
+      "slider"
+    ],
+    "sldr": [],
+    "sldq": [],
+    "sldi": [],
+    "sln": [
+      "liners"
+    ],
+    "slnr": [],
+    "slnq": [],
+    "slni": [
+      "inliers"
+    ],
+    "slnie": [],
+    "slniq": [],
+    "slnig": [
+      "resiling",
+      "riesling"
+    ],
+    "sly": [],
+    "sp": [
+      "peris",
+      "piers",
+      "pries",
+      "prise",
+      "ripes",
+      "speir",
+      "spier",
+      "spire"
+    ],
+    "spd": [
+      "prides",
+      "prised",
+      "redips",
+      "spider",
+      "spired"
+    ],
+    "spdr": [],
+    "spdq": [],
+    "spdi": [],
+    "spn": [
+      "repins",
+      "ripens",
+      "sniper"
+    ],
+    "spnr": [],
+    "spnq": [],
+    "spni": [
+      "inspire",
+      "spinier"
+    ],
+    "spnie": [
+      "pineries"
+    ],
+    "spniq": [],
+    "spnig": [
+      "speiring",
+      "spiering"
+    ],
+    "spy": [],
+    "sa": [
+      "arise",
+      "raise",
+      "serai"
+    ],
+    "sad": [
+      "aiders",
+      "deairs",
+      "irades",
+      "raised",
+      "redias",
+      "resaid"
+    ],
+    "sadr": [
+      "raiders"
+    ],
+    "sadre": [
+      "drearies",
+      "reraised"
+    ],
+    "sadrq": [],
+    "sadrg": [],
+    "sadq": [],
+    "sadi": [
+      "dairies",
+      "diaries"
+    ],
+    "sadie": [],
+    "sadiq": [],
+    "sadig": [],
+    "san": [
+      "arisen",
+      "arsine"
+    ],
+    "sanr": [
+      "sierran"
+    ],
+    "sanre": [],
+    "sanrq": [],
+    "sanrg": [
+      "earrings",
+      "grainers"
+    ],
+    "sanq": [],
+    "sani": [
+      "senarii"
+    ],
+    "sanie": [],
+    "saniq": [],
+    "sanig": [],
+    "say": [],
+    "w": [
+      "weir",
+      "wire"
+    ],
+    "wl": [],
+    "wp": [
+      "wiper"
+    ],
+    "wpd": [],
+    "wpn": [],
+    "wpy": [],
+    "wa": [],
+    "t": [
+      "rite",
+      "tier",
+      "tire"
+    ],
+    "tl": [
+      "liter",
+      "litre",
+      "relit",
+      "tiler"
+    ],
+    "tld": [
+      "tirled"
+    ],
+    "tldr": [],
+    "tldq": [],
+    "tldi": [],
+    "tln": [
+      "linter"
+    ],
+    "tlnr": [],
+    "tlnq": [],
+    "tlni": [
+      "lintier",
+      "nitrile"
+    ],
+    "tlnie": [],
+    "tlniq": [],
+    "tlnig": [
+      "retiling",
+      "tinglier"
+    ],
+    "tly": [],
+    "tp": [
+      "tripe"
+    ],
+    "tpd": [
+      "redipt",
+      "trepid"
+    ],
+    "tpdr": [],
+    "tpdq": [],
+    "tpdi": [
+      "riptide",
+      "tiderip"
+    ],
+    "tpdie": [],
+    "tpdiq": [],
+    "tpdig": [],
+    "tpn": [
+      "pterin"
+    ],
+    "tpnr": [
+      "printer",
+      "reprint"
+    ],
+    "tpnre": [],
+    "tpnrq": [],
+    "tpnrg": [],
+    "tpnq": [],
+    "tpni": [],
+    "tpy": [
+      "pyrite",
+      "typier"
+    ],
+    "tpyr": [],
+    "tpyq": [],
+    "tpyi": [],
+    "ta": [
+      "irate",
+      "retia",
+      "terai"
+    ],
+    "tad": [
+      "airted",
+      "tirade"
+    ],
+    "tadr": [
+      "tardier",
+      "tarried"
+    ],
+    "tadre": [],
+    "tadrq": [],
+    "tadrg": [],
+    "tadq": [],
+    "tadi": [],
+    "tan": [
+      "ratine",
+      "retain",
+      "retina"
+    ],
+    "tanr": [
+      "retrain",
+      "terrain",
+      "trainer"
+    ],
+    "tanre": [
+      "retainer"
+    ],
+    "tanrq": [],
+    "tanrg": [],
+    "tanq": [],
+    "tani": [
+      "inertia"
+    ],
+    "tanie": [
+      "inertiae"
+    ],
+    "taniq": [],
+    "tanig": [],
+    "tay": []
+  },
+  "scoreTokens": [
+    "425784823a76d8302d22d596a43201fa823653834d4628988390fc810f8e35fd",
+    "58cc6d88cfe11a2a33e99626be191b7570eb5a9423006e9ab50c36fbdafac242",
+    "3182e6480d1f0068de6ff927e4f100a46760e79a4c4dcab1c1f9587da02fe009",
+    "ddde1e7e0637790a85dc3cd876769a6483f4f2f80d20d814c261beac9ab2daac",
+    "7a493e01ecfb4eacacb3addda153b6bed0a7402f735914aa889488f17add42e2"
+  ]
+}
