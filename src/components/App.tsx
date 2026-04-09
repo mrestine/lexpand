@@ -78,6 +78,7 @@ export default function App() {
         <Header
           onArchive={() => setShowArchive(true)}
           onTutorial={() => setShowTutorial(true)}
+          archiveDate={isArchiveDate ? formatDate(currentDate) : undefined}
         />
         <div
           className={`min-h-screen pt-14 bg-gradient-to-br ${theme.background} flex items-center justify-center`}
@@ -98,6 +99,7 @@ export default function App() {
         <Header
           onArchive={() => setShowArchive(true)}
           onTutorial={() => setShowTutorial(true)}
+          archiveDate={isArchiveDate ? formatDate(currentDate) : undefined}
         />
         <div
           className={`min-h-screen pt-14 bg-gradient-to-br ${theme.background} flex items-center justify-center`}
@@ -250,7 +252,8 @@ export default function App() {
             ) : (
               <>
                 <div className='text-center max-w-xs mb-2'>
-                  Possible solutions: {puzzle.target.join(', ')}
+                  Possible solution{puzzle.target.length > 1 ? 's' : ''}:{' '}
+                  {puzzle.target.join(', ')}
                 </div>
                 <div className='text-center'>Better luck tomorrow!</div>
               </>

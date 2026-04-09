@@ -1,3 +1,5 @@
+import { useGame } from '../context/GameContext';
+
 export function Header({
   onArchive,
   onTutorial,
@@ -7,11 +9,27 @@ export function Header({
   onTutorial: () => void;
   archiveDate?: string;
 }) {
+  const { loading } = useGame();
+
   return (
     <header className='fixed top-0 inset-x-0 z-30 h-14 bg-white border-b border-stone-100 flex items-center px-4'>
-      <span className='flex-1 text-xl font-black uppercase tracking-[0.2em] text-stone-800'>
-        Lexpand
-      </span>
+      <div className='flex-1 flex items-baseline gap-2'>
+        <span className='text-xl font-black uppercase tracking-[0.2em] text-stone-800'>
+          Lexpand
+        </span>
+        {!loading && !archiveDate && (
+          <span className='text-xs text-stone-400 font-medium'>
+            by{' '}
+            <a
+              href='https://www.linkedin.com/in/mrestine/'
+              target='_blank'
+              className='underline'
+            >
+              Matt Restine
+            </a>
+          </span>
+        )}
+      </div>
       {archiveDate && (
         <span className='absolute left-1/2 -translate-x-1/2 text-xs font-semibold text-stone-500 tracking-wide'>
           {archiveDate}
