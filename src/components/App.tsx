@@ -24,7 +24,7 @@ export default function App() {
     currentDate,
     todayDate,
     scoreDistribution,
-    setTyped,
+    handleTyped,
     handleSubmit,
     handleBacktrack,
     handleBacktrackTo,
@@ -51,9 +51,9 @@ export default function App() {
   const handleInputChange = useCallback(
     (e: React.ChangeEvent<HTMLInputElement>) => {
       const raw = e.target.value.toUpperCase().replace(/[^A-Z]/g, '');
-      setTyped(raw.slice(0, wordLength));
+      handleTyped(raw.slice(0, wordLength));
     },
-    [wordLength, setTyped],
+    [wordLength, handleTyped],
   );
 
   const handleKeyDown = useCallback(

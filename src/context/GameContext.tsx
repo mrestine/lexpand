@@ -85,7 +85,7 @@ interface GameContextValue {
   currentDate: string;
   todayDate: string;
   scoreDistribution: ScoreDistribution | null;
-  setTyped: (v: string) => void;
+  handleTyped: (v: string) => void;
   handleSubmit: (word: string) => void;
   handleBacktrack: () => void;
   handleBacktrackTo: (stepIndex: number) => void;
@@ -189,11 +189,6 @@ export function GameProvider({ children }: { children: ReactNode }) {
         return;
       }
 
-      // Report score 0 at first attempt, regardless of success
-      if (0 > highestScoreSent) {
-        submitScore(clientId, currentDate, 0);
-      }
-
       const letter =
         step.options
           .split('')
@@ -262,6 +257,14 @@ export function GameProvider({ children }: { children: ReactNode }) {
     setGaveUp(false);
   }, []);
 
+  const handleTyped = useCallback((v: string) => {
+    if (v.length === 1 && highestScoreSent < 0) {
+      submitScore(clientId, currentDate, 0);
+      setHighestScoreSent(0);
+    }
+    setTyped(v);
+  }, [clientId, currentDate, highestScoreSent]);
+
   const handleGiveUp = useCallback(() => {
     setGaveUp(true);
   }, []);
@@ -296,7 +299,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
         currentDate,
         todayDate,
         scoreDistribution,
-        setTyped,
+        handleTyped,
         handleSubmit,
         handleBacktrack,
         handleBacktrackTo,
