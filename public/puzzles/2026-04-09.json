@@ -1,0 +1,133 @@
+{
+  "start": "sol",
+  "target": [
+    "lowlifes"
+  ],
+  "steps": [
+    {
+      "options": "ihm"
+    },
+    {
+      "options": "fek"
+    },
+    {
+      "options": "pse"
+    },
+    {
+      "options": "nbl"
+    },
+    {
+      "options": "zwo"
+    }
+  ],
+  "dictionary": {
+    "i": [
+      "oils",
+      "silo",
+      "soil",
+      "soli"
+    ],
+    "if": [
+      "filos",
+      "foils"
+    ],
+    "ifp": [],
+    "ifs": [
+      "fossil"
+    ],
+    "ifsn": [],
+    "ifsb": [],
+    "ifsl": [],
+    "ife": [
+      "filose"
+    ],
+    "ifen": [
+      "olefins"
+    ],
+    "ifenz": [],
+    "ifenw": [],
+    "ifeno": [],
+    "ifeb": [
+      "foibles"
+    ],
+    "ifebz": [],
+    "ifebw": [],
+    "ifebo": [],
+    "ifel": [
+      "follies"
+    ],
+    "ifelz": [],
+    "ifelw": [
+      "lowlifes"
+    ],
+    "ifelo": [],
+    "ie": [
+      "solei"
+    ],
+    "iep": [
+      "pilose",
+      "poleis"
+    ],
+    "iepn": [
+      "epsilon",
+      "pinoles"
+    ],
+    "iepnz": [],
+    "iepnw": [],
+    "iepno": [],
+    "iepb": [],
+    "iepl": [],
+    "ies": [],
+    "iee": [],
+    "ik": [
+      "kilos"
+    ],
+    "ikp": [],
+    "iks": [],
+    "ike": [],
+    "h": [
+      "hols"
+    ],
+    "hf": [],
+    "he": [
+      "helos",
+      "holes",
+      "hosel",
+      "sheol"
+    ],
+    "hep": [],
+    "hes": [
+      "hosels",
+      "sheols"
+    ],
+    "hesn": [],
+    "hesb": [],
+    "hesl": [],
+    "hee": [],
+    "hk": [
+      "holks",
+      "kohls"
+    ],
+    "hkp": [],
+    "hks": [],
+    "hke": [],
+    "m": [
+      "mols"
+    ],
+    "mf": [],
+    "me": [
+      "moles"
+    ],
+    "mep": [],
+    "mes": [],
+    "mee": [],
+    "mk": []
+  },
+  "scoreTokens": [
+    "e1739441f4ca63daad8b921181e8886e5dbdfc34111b92c7b8e4110a1477acd5",
+    "65e8d7a3819d7f1a0de1649d1718ba0e1ff931a4e8b3683cd28dd758c92606c1",
+    "bc12cf59c610f771a84d461a7c0b2c4a256c171e49e8dfa139010aa10f19eabf",
+    "fdbb6ed75d37e2ca85456c5677c324b4b73ef5883d2a116f106646af3418bdf7",
+    "a9d478dbd20b252b44517844c33ecaff7cde584b949b27024b3f98a16d2ca7de"
+  ]
+}
