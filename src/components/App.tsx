@@ -253,7 +253,7 @@ export default function App() {
               <>
                 <div className='text-center max-w-xs mb-2'>
                   Possible solution{puzzle.target.length > 1 ? 's' : ''}:{' '}
-                  {puzzle.target.join(', ')}
+                  {puzzle.target.map((t) => t.toUpperCase()).join(', ')}
                 </div>
                 <div className='text-center'>Better luck tomorrow!</div>
               </>
