@@ -1,0 +1,226 @@
+{
+  "start": "nit",
+  "target": [
+    "thespian",
+    "gahnites",
+    "estating",
+    "tangiest",
+    "mangiest",
+    "mintages",
+    "misagent",
+    "steaming",
+    "steapsin"
+  ],
+  "steps": [
+    {
+      "options": "asp"
+    },
+    {
+      "options": "mks"
+    },
+    {
+      "options": "hta"
+    },
+    {
+      "options": "pxg"
+    },
+    {
+      "options": "yez"
+    }
+  ],
+  "dictionary": {
+    "a": [
+      "anti",
+      "tain"
+    ],
+    "am": [
+      "matin"
+    ],
+    "amh": [],
+    "amt": [
+      "mattin",
+      "titman"
+    ],
+    "amtp": [],
+    "amtx": [],
+    "amtg": [
+      "matting"
+    ],
+    "amtgy": [],
+    "amtge": [],
+    "amtgz": [],
+    "ama": [],
+    "ak": [
+      "takin"
+    ],
+    "akh": [],
+    "akt": [],
+    "aka": [],
+    "as": [
+      "antis",
+      "saint",
+      "satin",
+      "stain",
+      "tains"
+    ],
+    "ash": [
+      "shanti"
+    ],
+    "ashp": [
+      "hatpins"
+    ],
+    "ashpy": [],
+    "ashpe": [
+      "thespian"
+    ],
+    "ashpz": [],
+    "ashx": [],
+    "ashg": [
+      "hasting"
+    ],
+    "ashgy": [],
+    "ashge": [
+      "gahnites"
+    ],
+    "ashgz": [],
+    "ast": [
+      "taints",
+      "tanist",
+      "titans"
+    ],
+    "astp": [],
+    "astx": [],
+    "astg": [
+      "stating",
+      "tasting"
+    ],
+    "astgy": [],
+    "astge": [
+      "estating",
+      "tangiest"
+    ],
+    "astgz": [],
+    "asa": [],
+    "s": [
+      "nits",
+      "snit",
+      "tins"
+    ],
+    "sm": [
+      "mints"
+    ],
+    "smh": [],
+    "smt": [],
+    "sma": [
+      "mantis",
+      "matins"
+    ],
+    "smap": [
+      "pitmans"
+    ],
+    "smapy": [],
+    "smape": [],
+    "smapz": [],
+    "smax": [],
+    "smag": [
+      "masting",
+      "matings"
+    ],
+    "smagy": [],
+    "smage": [
+      "mangiest",
+      "mintages",
+      "misagent",
+      "steaming"
+    ],
+    "smagz": [],
+    "sk": [
+      "knits",
+      "skint",
+      "stink"
+    ],
+    "skh": [
+      "thinks"
+    ],
+    "skhp": [],
+    "skhx": [],
+    "skhg": [
+      "knights"
+    ],
+    "skhgy": [],
+    "skhge": [],
+    "skhgz": [],
+    "skt": [],
+    "ska": [
+      "takins"
+    ],
+    "skap": [],
+    "skax": [],
+    "skag": [
+      "skating",
+      "staking",
+      "takings",
+      "tasking"
+    ],
+    "skagy": [],
+    "skage": [],
+    "skagz": [],
+    "ss": [
+      "snits"
+    ],
+    "ssh": [],
+    "sst": [
+      "stints"
+    ],
+    "sstp": [],
+    "sstx": [],
+    "sstg": [],
+    "ssa": [
+      "saints",
+      "satins",
+      "stains"
+    ],
+    "ssap": [
+      "pissant",
+      "ptisans"
+    ],
+    "ssapy": [],
+    "ssape": [
+      "steapsin"
+    ],
+    "ssapz": [],
+    "ssax": [],
+    "ssag": [],
+    "p": [
+      "pint"
+    ],
+    "pm": [],
+    "pk": [],
+    "ps": [
+      "pints"
+    ],
+    "psh": [],
+    "pst": [],
+    "psa": [
+      "paints",
+      "patins",
+      "pintas",
+      "ptisan"
+    ],
+    "psap": [],
+    "psax": [],
+    "psag": [
+      "pasting"
+    ],
+    "psagy": [],
+    "psage": [],
+    "psagz": []
+  },
+  "scoreTokens": [
+    "9f40906a85e11e6fdfdf8f22e4f4f31440401c8312af11ea098714ccd828e2df",
+    "795ba490572570e925b43b1fdc8faa9eac52b26cf926c320adb2474490290f04",
+    "8659c92547de3187f15cc52140c2d25f100035c3234d445f7beaa4ee6ae55b8f",
+    "1a5aaf6668d677d39ffe92884938bcd441568afe95074db14d1bb2d8f120ce00",
+    "fa09e379142d5d6c29b2daf892b6232cb41524ad0b07277ecd955a88406df3d5"
+  ]
+}
