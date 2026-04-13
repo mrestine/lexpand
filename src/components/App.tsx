@@ -32,6 +32,7 @@ export default function App() {
   } = useGame();
 
   const hiddenInputRef = useRef<HTMLInputElement>(null);
+  const activeRowRef = useRef<HTMLDivElement>(null);
   const [showArchive, setShowArchive] = useState(false);
   const [showTutorial, setShowTutorial] = useState(false);
 
@@ -39,13 +40,34 @@ export default function App() {
   const wordLength = (puzzle?.start.length ?? 0) + activeStep + 1;
   const isArchiveDate = currentDate !== todayDate;
 
+  const scrollActiveRowIntoView = useCallback(() => {
+    const el = activeRowRef.current;
+    if (!el) return;
+    const vvHeight = window.visualViewport?.height ?? window.innerHeight;
+    const rect = el.getBoundingClientRect();
+    if (rect.bottom > vvHeight - 20) {
+      window.scrollBy({ top: rect.bottom - vvHeight + 40, behavior: 'smooth' });
+    }
+  }, []);
+
   useEffect(() => {
-    if (!complete) hiddenInputRef.current?.focus({ preventScroll: true });
-  }, [activeStep, complete]);
+    const vv = window.visualViewport;
+    if (!vv) return;
+    vv.addEventListener('resize', scrollActiveRowIntoView);
+    return () => vv.removeEventListener('resize', scrollActiveRowIntoView);
+  }, [scrollActiveRowIntoView]);
+
+  useEffect(() => {
+    if (!complete) {
+      hiddenInputRef.current?.focus({ preventScroll: true });
+      requestAnimationFrame(scrollActiveRowIntoView);
+    }
+  }, [activeStep, complete, scrollActiveRowIntoView]);
 
   const focusInput = useCallback(() => {
     hiddenInputRef.current?.focus({ preventScroll: true });
-  }, []);
+    requestAnimationFrame(scrollActiveRowIntoView);
+  }, [scrollActiveRowIntoView]);
 
   const handleInputChange = useCallback(
     (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -171,7 +193,7 @@ export default function App() {
           const result = history[stepIdx];
 
           return (
-            <div key={stepIdx} className='w-full flex flex-col items-center'>
+            <div key={stepIdx} ref={isActive ? activeRowRef : undefined} className='w-full flex flex-col items-center'>
               <div
                 {...(stepIdx === 0 ? { 'data-tutorial': 'step-options' } : {})}
               >
