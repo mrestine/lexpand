@@ -32,7 +32,6 @@ export default function App() {
   } = useGame();
 
   const hiddenInputRef = useRef<HTMLInputElement>(null);
-  const activeRowRef = useRef<HTMLDivElement>(null);
   const [showArchive, setShowArchive] = useState(false);
   const [showTutorial, setShowTutorial] = useState(false);
 
@@ -40,34 +39,13 @@ export default function App() {
   const wordLength = (puzzle?.start.length ?? 0) + activeStep + 1;
   const isArchiveDate = currentDate !== todayDate;
 
-  const scrollActiveRowIntoView = useCallback(() => {
-    const el = activeRowRef.current;
-    if (!el) return;
-    const vvHeight = window.visualViewport?.height ?? window.innerHeight;
-    const rect = el.getBoundingClientRect();
-    if (rect.bottom > vvHeight - 20) {
-      window.scrollBy({ top: rect.bottom - vvHeight + 40, behavior: 'smooth' });
-    }
-  }, []);
-
   useEffect(() => {
-    const vv = window.visualViewport;
-    if (!vv) return;
-    vv.addEventListener('resize', scrollActiveRowIntoView);
-    return () => vv.removeEventListener('resize', scrollActiveRowIntoView);
-  }, [scrollActiveRowIntoView]);
-
-  useEffect(() => {
-    if (!complete) {
-      hiddenInputRef.current?.focus({ preventScroll: true });
-      requestAnimationFrame(scrollActiveRowIntoView);
-    }
-  }, [activeStep, complete, scrollActiveRowIntoView]);
+    if (!complete) hiddenInputRef.current?.focus();
+  }, [activeStep, complete]);
 
   const focusInput = useCallback(() => {
-    hiddenInputRef.current?.focus({ preventScroll: true });
-    requestAnimationFrame(scrollActiveRowIntoView);
-  }, [scrollActiveRowIntoView]);
+    hiddenInputRef.current?.focus();
+  }, []);
 
   const handleInputChange = useCallback(
     (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -154,24 +132,6 @@ export default function App() {
         onSelectDate={loadDate}
       />
 
-      {/* Hidden input */}
-      <input
-        ref={hiddenInputRef}
-        value={typed}
-        onChange={handleInputChange}
-        onKeyDown={handleKeyDown}
-        className='fixed top-0 left-0 w-px h-px opacity-0 pointer-events-none'
-        inputMode='text'
-        enterKeyHint='go'
-        autoCapitalize='characters'
-        autoComplete='off'
-        autoCorrect='off'
-        spellCheck={false}
-        aria-label='Type your word'
-        tabIndex={0}
-        disabled={complete}
-      />
-
       {/* Score */}
       <div className='mt-6 mb-4'>
         <ScoreDisplay />
@@ -193,7 +153,7 @@ export default function App() {
           const result = history[stepIdx];
 
           return (
-            <div key={stepIdx} ref={isActive ? activeRowRef : undefined} className='w-full flex flex-col items-center'>
+            <div key={stepIdx} className='relative w-full flex flex-col items-center'>
               <div
                 {...(stepIdx === 0 ? { 'data-tutorial': 'step-options' } : {})}
               >
@@ -213,7 +173,24 @@ export default function App() {
                   onClick={() => handleBacktrackTo(stepIdx)}
                 />
               ) : isActive ? (
-                <ActiveRow onFocusRequest={focusInput} />
+                <>
+                  <input
+                    ref={hiddenInputRef}
+                    value={typed}
+                    onChange={handleInputChange}
+                    onKeyDown={handleKeyDown}
+                    className='absolute top-1/2 left-0 w-px h-px opacity-0 pointer-events-none'
+                    inputMode='text'
+                    enterKeyHint='go'
+                    autoCapitalize='characters'
+                    autoComplete='off'
+                    autoCorrect='off'
+                    spellCheck={false}
+                    aria-label='Type your word'
+                    tabIndex={0}
+                  />
+                  <ActiveRow onFocusRequest={focusInput} />
+                </>
               ) : (
                 <div className='flex gap-1'>
                   {Array.from({
