@@ -40,11 +40,11 @@ export default function App() {
   const isArchiveDate = currentDate !== todayDate;
 
   useEffect(() => {
-    if (!complete) hiddenInputRef.current?.focus();
+    if (!complete) hiddenInputRef.current?.focus({ preventScroll: true });
   }, [activeStep, complete]);
 
   const focusInput = useCallback(() => {
-    hiddenInputRef.current?.focus();
+    hiddenInputRef.current?.focus({ preventScroll: true });
   }, []);
 
   const handleInputChange = useCallback(
@@ -138,7 +138,7 @@ export default function App() {
         value={typed}
         onChange={handleInputChange}
         onKeyDown={handleKeyDown}
-        className='fixed bottom-0 left-0 w-px h-px opacity-0 pointer-events-none'
+        className='fixed top-0 left-0 w-px h-px opacity-0 pointer-events-none'
         inputMode='text'
         enterKeyHint='go'
         autoCapitalize='characters'
