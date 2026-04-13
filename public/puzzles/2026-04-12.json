@@ -1,0 +1,135 @@
+{
+  "start": "are",
+  "target": [
+    "allergic"
+  ],
+  "steps": [
+    {
+      "options": "gka"
+    },
+    {
+      "options": "ilp"
+    },
+    {
+      "options": "kid"
+    },
+    {
+      "options": "hcf"
+    },
+    {
+      "options": "lku"
+    }
+  ],
+  "dictionary": {
+    "g": [
+      "ager",
+      "gear",
+      "rage"
+    ],
+    "gi": [],
+    "gl": [
+      "argle",
+      "glare",
+      "lager",
+      "large",
+      "regal"
+    ],
+    "glk": [],
+    "gli": [
+      "glaire"
+    ],
+    "glih": [],
+    "glic": [
+      "glacier",
+      "gracile"
+    ],
+    "glicl": [
+      "allergic"
+    ],
+    "glick": [],
+    "glicu": [],
+    "glif": [
+      "fragile"
+    ],
+    "glifl": [],
+    "glifk": [],
+    "glifu": [],
+    "gld": [
+      "argled",
+      "glared"
+    ],
+    "gldh": [],
+    "gldc": [],
+    "gldf": [],
+    "gp": [
+      "gaper",
+      "grape",
+      "pager",
+      "parge"
+    ],
+    "gpk": [],
+    "gpi": [],
+    "gpd": [
+      "parged"
+    ],
+    "gpdh": [
+      "graphed"
+    ],
+    "gpdhl": [],
+    "gpdhk": [],
+    "gpdhu": [],
+    "gpdc": [],
+    "gpdf": [],
+    "k": [
+      "rake"
+    ],
+    "ki": [],
+    "kl": [
+      "laker"
+    ],
+    "klk": [],
+    "kli": [
+      "lakier"
+    ],
+    "klih": [],
+    "klic": [],
+    "klif": [
+      "flakier"
+    ],
+    "klifl": [],
+    "klifk": [],
+    "klifu": [],
+    "kld": [
+      "darkle",
+      "larked"
+    ],
+    "kldh": [],
+    "kldc": [],
+    "kldf": [],
+    "kp": [],
+    "a": [
+      "area"
+    ],
+    "ai": [],
+    "al": [
+      "areal"
+    ],
+    "alk": [],
+    "ali": [
+      "aerial",
+      "realia"
+    ],
+    "alih": [],
+    "alic": [],
+    "alif": [],
+    "ald": [],
+    "ap": []
+  },
+  "scoreTokens": [
+    "caa4affa9710a4af6f25411e12ab8a849dc03eca8ac732733db44148cbbcdd3e",
+    "5dc55921654b268eeedd8867ba1f76d48f3463f796f8a64b138907803fd777c6",
+    "dc6194727b62b56a4c72183b2536aa354de24f6e2462d4650246d24a40888188",
+    "4bf0c826324dc67540d8d0452c1af5017f5d7c71c0b18beb1ded3281c9f371f5",
+    "253433b234d9152da86d2bf9af00a0e65614a550e004ec30d8ba305ed08ff22a"
+  ]
+}
