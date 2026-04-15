@@ -1,0 +1,144 @@
+{
+  "start": "ate",
+  "target": [
+    "exactest"
+  ],
+  "steps": [
+    {
+      "options": "tws"
+    },
+    {
+      "options": "tqs"
+    },
+    {
+      "options": "jex"
+    },
+    {
+      "options": "oct"
+    },
+    {
+      "options": "xyo"
+    }
+  ],
+  "dictionary": {
+    "t": [
+      "tate",
+      "teat"
+    ],
+    "tt": [],
+    "tq": [],
+    "ts": [
+      "state",
+      "taste",
+      "tates",
+      "teats",
+      "testa"
+    ],
+    "tsj": [],
+    "tse": [
+      "estate",
+      "testae"
+    ],
+    "tseo": [],
+    "tsec": [
+      "casette"
+    ],
+    "tsecx": [
+      "exactest"
+    ],
+    "tsecy": [],
+    "tseco": [],
+    "tset": [
+      "testate"
+    ],
+    "tsetx": [],
+    "tsety": [],
+    "tseto": [],
+    "tsx": [],
+    "w": [
+      "twae"
+    ],
+    "wt": [],
+    "wq": [],
+    "ws": [
+      "sweat",
+      "tawse",
+      "twaes",
+      "waste"
+    ],
+    "wsj": [],
+    "wse": [],
+    "wsx": [],
+    "s": [
+      "ates",
+      "east",
+      "eats",
+      "etas",
+      "sate",
+      "seat",
+      "seta",
+      "teas"
+    ],
+    "st": [
+      "state",
+      "taste",
+      "tates",
+      "teats",
+      "testa"
+    ],
+    "stj": [],
+    "ste": [
+      "estate",
+      "testae"
+    ],
+    "steo": [],
+    "stec": [
+      "casette"
+    ],
+    "stecx": [
+      "exactest"
+    ],
+    "stecy": [],
+    "steco": [],
+    "stet": [
+      "testate"
+    ],
+    "stetx": [],
+    "stety": [],
+    "steto": [],
+    "stx": [],
+    "sq": [],
+    "ss": [
+      "asset",
+      "easts",
+      "sates",
+      "seats",
+      "tasse"
+    ],
+    "ssj": [],
+    "sse": [
+      "teases"
+    ],
+    "sseo": [],
+    "ssec": [
+      "ectases"
+    ],
+    "ssecx": [],
+    "ssecy": [],
+    "sseco": [],
+    "sset": [
+      "estates"
+    ],
+    "ssetx": [],
+    "ssety": [],
+    "sseto": [],
+    "ssx": []
+  },
+  "scoreTokens": [
+    "49a2eb72e28a2b25f8f5640c7c759403abddb0884b301ab3aaa045da8438f0e9",
+    "dd90925e0e17026c259952588b5b9f64bb67ffa73c364c9340f8e5ae44728dc0",
+    "3fda316b8c69dc697386e89273237e01e4645aa7b54691ffbc33e10f6e102d21",
+    "6353231142d32004d4bc43d89f772509c57d2a9287adb37b324927bb3d7be0ed",
+    "192e2ad9d093271b926c73d17dda76237062ea5477e38ec40a87de101009a74f"
+  ]
+}
