@@ -1,0 +1,167 @@
+{
+  "start": "uts",
+  "target": [
+    "crustier",
+    "recruits",
+    "courters"
+  ],
+  "steps": [
+    {
+      "options": "ior"
+    },
+    {
+      "options": "der"
+    },
+    {
+      "options": "ryi"
+    },
+    {
+      "options": "rzk"
+    },
+    {
+      "options": "wco"
+    }
+  ],
+  "dictionary": {
+    "i": [
+      "suit",
+      "tuis"
+    ],
+    "id": [
+      "duits"
+    ],
+    "idr": [],
+    "idy": [],
+    "idi": [],
+    "ie": [
+      "etuis",
+      "suite"
+    ],
+    "ier": [
+      "suiter"
+    ],
+    "ierr": [
+      "rustier"
+    ],
+    "ierrw": [],
+    "ierrc": [
+      "crustier",
+      "recruits"
+    ],
+    "ierro": [],
+    "ierz": [],
+    "ierk": [],
+    "iey": [],
+    "iei": [],
+    "ir": [],
+    "o": [
+      "oust",
+      "outs"
+    ],
+    "od": [],
+    "oe": [
+      "touse"
+    ],
+    "oer": [
+      "ouster",
+      "outers",
+      "routes",
+      "souter",
+      "stoure"
+    ],
+    "oerr": [
+      "rouster",
+      "routers",
+      "tourers",
+      "trouser"
+    ],
+    "oerrw": [],
+    "oerrc": [
+      "courters"
+    ],
+    "oerro": [],
+    "oerz": [],
+    "oerk": [],
+    "oey": [],
+    "oei": [],
+    "or": [
+      "roust",
+      "routs",
+      "stour",
+      "torus",
+      "tours"
+    ],
+    "orr": [],
+    "ory": [
+      "stoury"
+    ],
+    "oryr": [],
+    "oryz": [],
+    "oryk": [],
+    "ori": [
+      "suitor"
+    ],
+    "orir": [],
+    "oriz": [],
+    "orik": [
+      "turkois"
+    ],
+    "orikw": [],
+    "orikc": [],
+    "oriko": [],
+    "r": [
+      "rust",
+      "ruts"
+    ],
+    "rd": [
+      "durst",
+      "turds"
+    ],
+    "rdr": [],
+    "rdy": [
+      "sturdy"
+    ],
+    "rdyr": [],
+    "rdyz": [],
+    "rdyk": [],
+    "rdi": [],
+    "re": [
+      "trues"
+    ],
+    "rer": [],
+    "rey": [
+      "surety",
+      "tuyers"
+    ],
+    "reyr": [],
+    "reyz": [],
+    "reyk": [
+      "turkeys"
+    ],
+    "reykw": [],
+    "reykc": [],
+    "reyko": [],
+    "rei": [
+      "suiter"
+    ],
+    "reir": [
+      "rustier"
+    ],
+    "reirw": [],
+    "reirc": [
+      "crustier",
+      "recruits"
+    ],
+    "reiro": [],
+    "reiz": [],
+    "reik": [],
+    "rr": []
+  },
+  "scoreTokens": [
+    "40e482b55bc6b9f404eb477b0077b81fd180548e81112b6827e36979dacf0fd2",
+    "71913bc3320d701cdc442348c4746eb3722004241fa51575d9d769a4f51e6634",
+    "b772afe6e3aeb8dabcfddc612df0dab80a4a7f7f4b0997e15702f6c6afed1dc8",
+    "d5e7f92244a2140701ea3d2b5d4945b3e46b708bf63810e716e89beff7adeb10",
+    "952523376db41b1ac4bb24f6a1d3e14695569b0626750fefbf21f30826176e5f"
+  ]
+}
