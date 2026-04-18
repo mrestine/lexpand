@@ -1,0 +1,137 @@
+{
+  "start": "nap",
+  "target": [
+    "graphing",
+    "ralphing",
+    "prawning",
+    "pauldron"
+  ],
+  "steps": [
+    {
+      "options": "igu"
+    },
+    {
+      "options": "gln"
+    },
+    {
+      "options": "dhg"
+    },
+    {
+      "options": "wor"
+    },
+    {
+      "options": "hkr"
+    }
+  ],
+  "dictionary": {
+    "i": [
+      "nipa",
+      "pain",
+      "pian",
+      "pina"
+    ],
+    "ig": [
+      "aping"
+    ],
+    "igd": [],
+    "igh": [],
+    "igg": [
+      "gaping",
+      "paging"
+    ],
+    "iggw": [
+      "gawping"
+    ],
+    "iggwh": [],
+    "iggwk": [],
+    "iggwr": [],
+    "iggo": [],
+    "iggr": [
+      "parging"
+    ],
+    "iggrh": [
+      "graphing"
+    ],
+    "iggrk": [],
+    "iggrr": [],
+    "il": [
+      "lapin",
+      "plain"
+    ],
+    "ild": [],
+    "ilh": [],
+    "ilg": [
+      "paling"
+    ],
+    "ilgw": [
+      "lapwing"
+    ],
+    "ilgwh": [],
+    "ilgwk": [],
+    "ilgwr": [],
+    "ilgo": [],
+    "ilgr": [
+      "graplin",
+      "parling"
+    ],
+    "ilgrh": [
+      "ralphing"
+    ],
+    "ilgrk": [],
+    "ilgrr": [],
+    "in": [
+      "pinna"
+    ],
+    "ind": [],
+    "inh": [],
+    "ing": [
+      "pinang"
+    ],
+    "ingw": [
+      "pawning"
+    ],
+    "ingwh": [],
+    "ingwk": [],
+    "ingwr": [
+      "prawning"
+    ],
+    "ingo": [],
+    "ingr": [],
+    "g": [
+      "pang"
+    ],
+    "gg": [],
+    "gl": [],
+    "gn": [],
+    "u": [
+      "puna"
+    ],
+    "ug": [],
+    "ul": [
+      "ulpan"
+    ],
+    "uld": [
+      "upland"
+    ],
+    "uldw": [],
+    "uldo": [
+      "poundal"
+    ],
+    "uldoh": [],
+    "uldok": [],
+    "uldor": [
+      "pauldron"
+    ],
+    "uldr": [],
+    "ulh": [],
+    "ulg": [],
+    "un": []
+  },
+  "scoreTokens": [
+    "8534d87df42f1cc7a675adcdb918d89ccb511d0c51d7e3793b18bf7ac9980520",
+    "9bbf1a8486d7ff218fb6e7a32e8df4953a5c1bc9f49ddd93c9c61c789ae428ed",
+    "51076e4d972044ae2de1d03fef1fa0108215eb67f8b79a1b3b07899918afb5a1",
+    "c94e05ecc1165b6d744fc67ed370b6cadb35505ae554146f5cdf12750daa7fa5",
+    "d88e47de30c25d15df4948d4c2e798554fb441219053d22cf6ac255ee4963a39"
+  ]
+}
