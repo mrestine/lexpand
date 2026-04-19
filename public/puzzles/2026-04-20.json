@@ -1,0 +1,182 @@
+{
+  "start": "eon",
+  "target": [
+    "bornites",
+    "burstone",
+    "betonies",
+    "ebonites",
+    "tubenose",
+    "introrse",
+    "oneriest",
+    "serotine",
+    "emersion",
+    "newsroom"
+  ],
+  "steps": [
+    {
+      "options": "vsk"
+    },
+    {
+      "options": "bgr"
+    },
+    {
+      "options": "tmo"
+    },
+    {
+      "options": "rwe"
+    },
+    {
+      "options": "imu"
+    }
+  ],
+  "dictionary": {
+    "v": [
+      "oven"
+    ],
+    "vb": [],
+    "vg": [],
+    "vr": [
+      "roven"
+    ],
+    "vrt": [],
+    "vrm": [],
+    "vro": [],
+    "s": [
+      "eons",
+      "noes",
+      "nose",
+      "ones",
+      "sone"
+    ],
+    "sb": [
+      "bones",
+      "ebons"
+    ],
+    "sbt": [
+      "betons"
+    ],
+    "sbtr": [
+      "sorbent"
+    ],
+    "sbtri": [
+      "bornites"
+    ],
+    "sbtrm": [],
+    "sbtru": [
+      "burstone"
+    ],
+    "sbtw": [],
+    "sbte": [
+      "boneset"
+    ],
+    "sbtei": [
+      "betonies",
+      "ebonites"
+    ],
+    "sbtem": [],
+    "sbteu": [
+      "tubenose"
+    ],
+    "sbm": [],
+    "sbo": [],
+    "sg": [
+      "segno"
+    ],
+    "sgt": [],
+    "sgm": [
+      "genoms",
+      "gnomes"
+    ],
+    "sgmr": [
+      "mongers",
+      "morgens"
+    ],
+    "sgmri": [],
+    "sgmrm": [],
+    "sgmru": [],
+    "sgmw": [],
+    "sgme": [
+      "genomes"
+    ],
+    "sgmei": [],
+    "sgmem": [],
+    "sgmeu": [],
+    "sgo": [],
+    "sr": [
+      "senor",
+      "snore"
+    ],
+    "srt": [
+      "nestor",
+      "noters",
+      "stoner",
+      "tenors",
+      "tensor",
+      "toners",
+      "trones"
+    ],
+    "srtr": [
+      "snorter"
+    ],
+    "srtri": [
+      "introrse"
+    ],
+    "srtrm": [],
+    "srtru": [],
+    "srtw": [],
+    "srte": [
+      "estrone"
+    ],
+    "srtei": [
+      "oneriest",
+      "serotine"
+    ],
+    "srtem": [],
+    "srteu": [],
+    "srm": [
+      "sermon"
+    ],
+    "srmr": [],
+    "srmw": [],
+    "srme": [
+      "moreens"
+    ],
+    "srmei": [
+      "emersion"
+    ],
+    "srmem": [],
+    "srmeu": [],
+    "sro": [
+      "nooser",
+      "sooner"
+    ],
+    "sror": [],
+    "srow": [
+      "swooner"
+    ],
+    "srowi": [],
+    "srowm": [
+      "newsroom"
+    ],
+    "srowu": [],
+    "sroe": [],
+    "k": [
+      "keno"
+    ],
+    "kb": [],
+    "kg": [],
+    "kr": [
+      "krone"
+    ],
+    "krt": [],
+    "krm": [],
+    "kro": []
+  },
+  "scoreTokens": [
+    "f16dcd9ff5934f99782e1d66c21e9f5e45011fd313f7ddb08449d8fa9615514b",
+    "6fc4a1676c68f3efa28bf712d88d6387a1bfac6e34dfcda88fdfd5e7961883df",
+    "1658797292aad25e5f8463c01d06dcc975521ba4278430cda7f4ab67141894df",
+    "5d5cd95e3ef5a9edcd976c046c7d6960dcd43c38117e9eaafaa48e5028a3a0f4",
+    "ce50b6cd384ff422ccc00fda9dafd1eed8cddd31abc594569c8367c5a3f63bff"
+  ]
+}
