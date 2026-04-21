@@ -1,0 +1,131 @@
+{
+  "start": "rye",
+  "target": [
+    "crousely"
+  ],
+  "steps": [
+    {
+      "options": "dly"
+    },
+    {
+      "options": "xbs"
+    },
+    {
+      "options": "tco"
+    },
+    {
+      "options": "xbu"
+    },
+    {
+      "options": "icu"
+    }
+  ],
+  "dictionary": {
+    "d": [
+      "dyer"
+    ],
+    "dx": [],
+    "db": [
+      "derby"
+    ],
+    "dbt": [],
+    "dbc": [],
+    "dbo": [
+      "rebody"
+    ],
+    "dbox": [],
+    "dbob": [],
+    "dbou": [],
+    "ds": [
+      "dyers"
+    ],
+    "dst": [
+      "dryest"
+    ],
+    "dstx": [],
+    "dstb": [],
+    "dstu": [
+      "restudy"
+    ],
+    "dstui": [],
+    "dstuc": [],
+    "dstuu": [],
+    "dsc": [
+      "cyders",
+      "descry"
+    ],
+    "dscx": [],
+    "dscb": [],
+    "dscu": [],
+    "dso": [],
+    "l": [
+      "lyre",
+      "rely"
+    ],
+    "lx": [],
+    "lb": [
+      "beryl"
+    ],
+    "lbt": [
+      "trebly"
+    ],
+    "lbtx": [],
+    "lbtb": [],
+    "lbtu": [
+      "brutely",
+      "butlery"
+    ],
+    "lbtui": [],
+    "lbtuc": [],
+    "lbtuu": [],
+    "lbc": [],
+    "lbo": [],
+    "ls": [
+      "lyres",
+      "slyer"
+    ],
+    "lst": [
+      "styler"
+    ],
+    "lstx": [],
+    "lstb": [],
+    "lstu": [],
+    "lsc": [
+      "cresyl"
+    ],
+    "lscx": [],
+    "lscb": [],
+    "lscu": [],
+    "lso": [
+      "sorely"
+    ],
+    "lsox": [],
+    "lsob": [
+      "soberly"
+    ],
+    "lsobi": [],
+    "lsobc": [],
+    "lsobu": [],
+    "lsou": [
+      "elusory"
+    ],
+    "lsoui": [],
+    "lsouc": [
+      "crousely"
+    ],
+    "lsouu": [],
+    "y": [
+      "eyry"
+    ],
+    "yx": [],
+    "yb": [],
+    "ys": []
+  },
+  "scoreTokens": [
+    "49a820385231333520733de922dc89ee535496755b30caf8110f9ef55711cfea",
+    "f82a58114b8019f028774bd29b53d636f1762403869fc7d07f9f8ecf99ba50ab",
+    "1931b41a2095a0ecad1578bb6be149ba553228685e0a74040118fac8754450a8",
+    "d3cad3cc196b871f128237e4410c209ec579ed132d1841ae675ea3b5751e0ad6",
+    "3bf8d0d155f477493143c85dfcb4328de5f9026053b343306165ecdb91f74285"
+  ]
+}
