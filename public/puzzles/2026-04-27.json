@@ -1,0 +1,146 @@
+{
+  "start": "ars",
+  "target": [
+    "varnishy",
+    "sharking"
+  ],
+  "steps": [
+    {
+      "options": "vku"
+    },
+    {
+      "options": "ixa"
+    },
+    {
+      "options": "onh"
+    },
+    {
+      "options": "nyu"
+    },
+    {
+      "options": "agy"
+    }
+  ],
+  "dictionary": {
+    "v": [
+      "vars"
+    ],
+    "vi": [
+      "vairs"
+    ],
+    "vio": [
+      "savior"
+    ],
+    "vion": [],
+    "vioy": [],
+    "viou": [
+      "saviour",
+      "various"
+    ],
+    "vioua": [],
+    "vioug": [],
+    "viouy": [],
+    "vin": [
+      "invars",
+      "ravins"
+    ],
+    "vinn": [],
+    "viny": [],
+    "vinu": [],
+    "vih": [
+      "ravish"
+    ],
+    "vihn": [
+      "varnish"
+    ],
+    "vihna": [],
+    "vihng": [],
+    "vihny": [
+      "varnishy"
+    ],
+    "vihy": [],
+    "vihu": [],
+    "vx": [],
+    "va": [
+      "varas"
+    ],
+    "vao": [],
+    "van": [
+      "navars",
+      "varnas"
+    ],
+    "vann": [],
+    "vany": [],
+    "vanu": [],
+    "vah": [],
+    "k": [
+      "arks",
+      "sark"
+    ],
+    "ki": [
+      "rakis"
+    ],
+    "kio": [],
+    "kin": [],
+    "kih": [
+      "rakish",
+      "shikar"
+    ],
+    "kihn": [
+      "rankish"
+    ],
+    "kihna": [],
+    "kihng": [
+      "sharking"
+    ],
+    "kihny": [],
+    "kihy": [],
+    "kihu": [],
+    "kx": [],
+    "ka": [
+      "araks"
+    ],
+    "kao": [],
+    "kan": [],
+    "kah": [],
+    "u": [
+      "sura",
+      "ursa"
+    ],
+    "ui": [
+      "auris"
+    ],
+    "uio": [
+      "souari"
+    ],
+    "uion": [],
+    "uioy": [],
+    "uiou": [],
+    "uin": [],
+    "uih": [],
+    "ux": [],
+    "ua": [
+      "auras"
+    ],
+    "uao": [],
+    "uan": [
+      "ruanas"
+    ],
+    "uann": [
+      "anurans"
+    ],
+    "uanna": [],
+    "uanng": [],
+    "uanny": [],
+    "uany": [],
+    "uanu": [],
+    "uah": []
+  },
+  "scoreTokens": [
+    "1771b6e0333048dfbecb6bec7a3056447848a182d9c0be0cf8eaff9aae01ca03",
+    "bf2811b9c52f82c719a5a869748e9f3a1eebf8b0c0db1c688d04d84566098695",
+    "fcf3e1f3c818cefb236ef73895ec2882b0a9dc6b917fc10723a871ff19809a23",
+    "e7c87377742ca688c3f83b6a8650b98eeb1d8e560669b47025529da7eb2aa9da",
+    "9fa6ed3d9a6ab9930fa6f79c817bfc27ee1edef68d47ec2b555bbfdd6fa90245"
+  ]
+}
