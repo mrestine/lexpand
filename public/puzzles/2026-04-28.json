@@ -1,0 +1,110 @@
+{
+  "start": "dal",
+  "target": [
+    "blockade"
+  ],
+  "steps": [
+    {
+      "options": "yro"
+    },
+    {
+      "options": "cuh"
+    },
+    {
+      "options": "qte"
+    },
+    {
+      "options": "iwb"
+    },
+    {
+      "options": "zky"
+    }
+  ],
+  "dictionary": {
+    "y": [
+      "lady",
+      "yald"
+    ],
+    "yc": [],
+    "yu": [
+      "yauld"
+    ],
+    "yuq": [],
+    "yut": [],
+    "yue": [],
+    "yh": [],
+    "r": [
+      "lard"
+    ],
+    "rc": [],
+    "ru": [
+      "dural"
+    ],
+    "ruq": [],
+    "rut": [],
+    "rue": [
+      "aulder",
+      "lauder"
+    ],
+    "ruei": [
+      "uredial"
+    ],
+    "rueiz": [],
+    "rueik": [],
+    "rueiy": [],
+    "ruew": [],
+    "rueb": [
+      "durable"
+    ],
+    "ruebz": [],
+    "ruebk": [],
+    "rueby": [],
+    "rh": [],
+    "o": [
+      "load"
+    ],
+    "oc": [
+      "acold"
+    ],
+    "ocq": [],
+    "oct": [],
+    "oce": [
+      "coaled",
+      "colead"
+    ],
+    "ocei": [],
+    "ocew": [],
+    "oceb": [
+      "codable"
+    ],
+    "ocebz": [],
+    "ocebk": [
+      "blockade"
+    ],
+    "oceby": [],
+    "ou": [
+      "aloud"
+    ],
+    "ouq": [],
+    "out": [],
+    "oue": [],
+    "oh": [
+      "ahold"
+    ],
+    "ohq": [],
+    "oht": [],
+    "ohe": [
+      "haloed"
+    ],
+    "ohei": [],
+    "ohew": [],
+    "oheb": []
+  },
+  "scoreTokens": [
+    "d0d8fdf9450214485c41aea68a9d608ea32f39f216883d5cf1f7ee6b8bfb1b3f",
+    "9dcce243dddab8b2caee378b565f246a31744603dd13734759612583452ba491",
+    "1202bd3ca003654e7567fdf939b947f38d295e76fa76eb9cc44bb2f49bdab71c",
+    "39e97027ae2c98b28a8d797c0c929819a0a50d83b02f7d6559177a925e50b7cb",
+    "afb4464e5d4c660fea79251fe0e609e54cab658ff94cfbb393f21745dab7a46a"
+  ]
+}
