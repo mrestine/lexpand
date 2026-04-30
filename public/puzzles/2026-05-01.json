@@ -1,0 +1,213 @@
+{
+  "start": "gin",
+  "target": [
+    "dingiest",
+    "deliming",
+    "sideling",
+    "bruiting",
+    "stroking",
+    "ignitors"
+  ],
+  "steps": [
+    {
+      "options": "ewr"
+    },
+    {
+      "options": "udo"
+    },
+    {
+      "options": "tlm"
+    },
+    {
+      "options": "msb"
+    },
+    {
+      "options": "kji"
+    }
+  ],
+  "dictionary": {
+    "e": [
+      "gien"
+    ],
+    "eu": [],
+    "ed": [
+      "deign",
+      "dinge"
+    ],
+    "edt": [
+      "nidget",
+      "tinged"
+    ],
+    "edtm": [],
+    "edts": [
+      "nidgets"
+    ],
+    "edtsk": [],
+    "edtsj": [],
+    "edtsi": [
+      "dingiest"
+    ],
+    "edtb": [],
+    "edl": [
+      "dingle",
+      "engild"
+    ],
+    "edlm": [
+      "melding",
+      "mingled"
+    ],
+    "edlmk": [],
+    "edlmj": [],
+    "edlmi": [
+      "deliming"
+    ],
+    "edls": [
+      "dingles",
+      "engilds",
+      "singled"
+    ],
+    "edlsk": [],
+    "edlsj": [],
+    "edlsi": [
+      "sideling"
+    ],
+    "edlb": [],
+    "edm": [],
+    "eo": [],
+    "w": [
+      "wing"
+    ],
+    "wu": [],
+    "wd": [],
+    "wo": [
+      "owing"
+    ],
+    "wot": [
+      "towing"
+    ],
+    "wotm": [],
+    "wots": [
+      "stowing"
+    ],
+    "wotsk": [],
+    "wotsj": [],
+    "wotsi": [],
+    "wotb": [],
+    "wol": [
+      "lowing"
+    ],
+    "wolm": [],
+    "wols": [
+      "lowings",
+      "slowing"
+    ],
+    "wolsk": [],
+    "wolsj": [],
+    "wolsi": [],
+    "wolb": [
+      "blowing",
+      "bowling"
+    ],
+    "wolbk": [],
+    "wolbj": [],
+    "wolbi": [],
+    "wom": [
+      "mowing"
+    ],
+    "womm": [],
+    "woms": [
+      "mowings"
+    ],
+    "womsk": [],
+    "womsj": [],
+    "womsi": [],
+    "womb": [],
+    "r": [
+      "girn",
+      "grin",
+      "ring"
+    ],
+    "ru": [
+      "ruing",
+      "unrig"
+    ],
+    "rut": [
+      "truing",
+      "ungirt"
+    ],
+    "rutm": [],
+    "ruts": [
+      "rusting"
+    ],
+    "rutsk": [],
+    "rutsj": [],
+    "rutsi": [],
+    "rutb": [
+      "bruting"
+    ],
+    "rutbk": [],
+    "rutbj": [],
+    "rutbi": [
+      "bruiting"
+    ],
+    "rul": [
+      "luring",
+      "ruling"
+    ],
+    "rulm": [],
+    "ruls": [
+      "rulings"
+    ],
+    "rulsk": [],
+    "rulsj": [],
+    "rulsi": [],
+    "rulb": [
+      "burling"
+    ],
+    "rulbk": [],
+    "rulbj": [],
+    "rulbi": [],
+    "rum": [
+      "muring"
+    ],
+    "rumm": [],
+    "rums": [],
+    "rumb": [],
+    "rd": [
+      "grind"
+    ],
+    "rdt": [],
+    "rdl": [],
+    "rdm": [],
+    "ro": [
+      "giron",
+      "groin"
+    ],
+    "rot": [
+      "trigon"
+    ],
+    "rotm": [],
+    "rots": [
+      "sorting",
+      "storing",
+      "trigons"
+    ],
+    "rotsk": [
+      "stroking"
+    ],
+    "rotsj": [],
+    "rotsi": [
+      "ignitors"
+    ],
+    "rotb": [],
+    "rol": [],
+    "rom": []
+  },
+  "scoreTokens": [
+    "a222d3bdc06d2a728eeb08302ced917e782b2d6fe110345415addc8a9b3110ec",
+    "160025515cedb7a3bd9cad41bb3436e765ce0434f8933feb0a1d7989bf5dbc2b",
+    "7c48842a301b2156b3bcd334a1c45bc44e25a6f9df2b787a81f49d69e2f52eb1",
+    "5436805bf9f79e251ebbfd49f7c74a983e78aab808c491da22eaeb242851fcf2",
+    "faf5a52dbcc5271d06f7520ef9ba0be67e284b211f41851b76e6840495598bba"
+  ]
+}
