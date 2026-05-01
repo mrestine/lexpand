@@ -1,0 +1,162 @@
+{
+  "start": "ore",
+  "target": [
+    "unforged"
+  ],
+  "steps": [
+    {
+      "options": "zcd"
+    },
+    {
+      "options": "xnp"
+    },
+    {
+      "options": "nuk"
+    },
+    {
+      "options": "vgu"
+    },
+    {
+      "options": "fjq"
+    }
+  ],
+  "dictionary": {
+    "z": [
+      "zero"
+    ],
+    "zx": [],
+    "zn": [
+      "zoner"
+    ],
+    "znn": [],
+    "znu": [],
+    "znk": [],
+    "zp": [],
+    "c": [
+      "cero",
+      "core"
+    ],
+    "cx": [],
+    "cn": [
+      "crone",
+      "recon"
+    ],
+    "cnn": [
+      "conner"
+    ],
+    "cnnv": [],
+    "cnng": [],
+    "cnnu": [],
+    "cnu": [],
+    "cnk": [
+      "conker",
+      "reckon"
+    ],
+    "cnkv": [],
+    "cnkg": [],
+    "cnku": [],
+    "cp": [
+      "coper"
+    ],
+    "cpn": [
+      "crepon"
+    ],
+    "cpnv": [],
+    "cpng": [],
+    "cpnu": [
+      "pouncer"
+    ],
+    "cpnuf": [],
+    "cpnuj": [],
+    "cpnuq": [],
+    "cpu": [
+      "croupe",
+      "recoup"
+    ],
+    "cpuv": [
+      "coverup"
+    ],
+    "cpuvf": [],
+    "cpuvj": [],
+    "cpuvq": [],
+    "cpug": [],
+    "cpuu": [],
+    "cpk": [],
+    "d": [
+      "doer",
+      "dore",
+      "redo",
+      "rode"
+    ],
+    "dx": [
+      "redox"
+    ],
+    "dxn": [],
+    "dxu": [],
+    "dxk": [],
+    "dn": [
+      "drone",
+      "redon"
+    ],
+    "dnn": [],
+    "dnu": [
+      "enduro",
+      "undoer"
+    ],
+    "dnuv": [],
+    "dnug": [
+      "guerdon",
+      "undergo"
+    ],
+    "dnugf": [
+      "unforged"
+    ],
+    "dnugj": [],
+    "dnugq": [],
+    "dnuu": [],
+    "dnk": [],
+    "dp": [
+      "doper",
+      "pedro",
+      "pored",
+      "roped"
+    ],
+    "dpn": [
+      "ponder"
+    ],
+    "dpnv": [],
+    "dpng": [
+      "pronged"
+    ],
+    "dpngf": [],
+    "dpngj": [],
+    "dpngq": [],
+    "dpnu": [
+      "pounder",
+      "unroped"
+    ],
+    "dpnuf": [],
+    "dpnuj": [],
+    "dpnuq": [],
+    "dpu": [
+      "poured",
+      "rouped"
+    ],
+    "dpuv": [],
+    "dpug": [
+      "grouped"
+    ],
+    "dpugf": [],
+    "dpugj": [],
+    "dpugq": [],
+    "dpuu": [],
+    "dpk": []
+  },
+  "scoreTokens": [
+    "475d3f7ae186a3d915dc386e4d7eab7d0548fa4b68e804ee0816574b38b0a9ca",
+    "14cc091b3cea7cb3171ea7826f1812bb2db887d8f44c211fc9daa94f0c522c5f",
+    "27c5c8e65e8e3b8c88683cfd6a8c376d4121337abb77030bf2d9a0e2dd6f7da1",
+    "d5e37cde0cd59cb78723635a49d76d438ee60cb19b007dddeee535aa3171d0d9",
+    "272cb6786f89328cafe61fb8f4590673b2bf3b6e124383d4221cf95c6392c4c1"
+  ]
+}
