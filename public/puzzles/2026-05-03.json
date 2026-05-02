@@ -1,0 +1,231 @@
+{
+  "start": "ere",
+  "target": [
+    "wergelts",
+    "nettlers",
+    "puttered",
+    "whetters"
+  ],
+  "steps": [
+    {
+      "options": "pft"
+    },
+    {
+      "options": "ldh"
+    },
+    {
+      "options": "mgt"
+    },
+    {
+      "options": "ums"
+    },
+    {
+      "options": "wnp"
+    }
+  ],
+  "dictionary": {
+    "p": [
+      "peer",
+      "pree"
+    ],
+    "pl": [
+      "leper",
+      "repel"
+    ],
+    "plm": [],
+    "plg": [],
+    "plt": [
+      "pelter",
+      "petrel"
+    ],
+    "pltu": [],
+    "pltm": [],
+    "plts": [
+      "pelters",
+      "petrels",
+      "respelt",
+      "spelter"
+    ],
+    "pltsw": [],
+    "pltsn": [],
+    "pltsp": [],
+    "pd": [
+      "preed"
+    ],
+    "pdm": [
+      "deperm",
+      "permed",
+      "premed"
+    ],
+    "pdmu": [],
+    "pdmm": [],
+    "pdms": [
+      "deperms",
+      "premeds"
+    ],
+    "pdmsw": [],
+    "pdmsn": [],
+    "pdmsp": [],
+    "pdg": [],
+    "pdt": [],
+    "ph": [],
+    "f": [
+      "fere",
+      "free",
+      "reef"
+    ],
+    "fl": [
+      "fleer",
+      "refel"
+    ],
+    "flm": [],
+    "flg": [],
+    "flt": [
+      "lefter",
+      "refelt",
+      "reflet",
+      "telfer"
+    ],
+    "fltu": [],
+    "fltm": [],
+    "flts": [
+      "reflets",
+      "telfers"
+    ],
+    "fltsw": [],
+    "fltsn": [],
+    "fltsp": [],
+    "fd": [
+      "defer",
+      "freed",
+      "refed"
+    ],
+    "fdm": [],
+    "fdg": [],
+    "fdt": [
+      "defter"
+    ],
+    "fdtu": [
+      "refuted"
+    ],
+    "fdtuw": [],
+    "fdtun": [],
+    "fdtup": [],
+    "fdtm": [],
+    "fdts": [],
+    "fh": [],
+    "t": [
+      "rete",
+      "tree"
+    ],
+    "tl": [
+      "relet"
+    ],
+    "tlm": [
+      "melter",
+      "remelt"
+    ],
+    "tlmu": [],
+    "tlmm": [],
+    "tlms": [
+      "melters",
+      "remelts",
+      "resmelt",
+      "smelter"
+    ],
+    "tlmsw": [],
+    "tlmsn": [],
+    "tlmsp": [],
+    "tlg": [
+      "reglet"
+    ],
+    "tlgu": [],
+    "tlgm": [],
+    "tlgs": [
+      "reglets"
+    ],
+    "tlgsw": [
+      "wergelts"
+    ],
+    "tlgsn": [],
+    "tlgsp": [],
+    "tlt": [
+      "letter"
+    ],
+    "tltu": [],
+    "tltm": [],
+    "tlts": [
+      "letters",
+      "settler",
+      "sterlet",
+      "trestle"
+    ],
+    "tltsw": [],
+    "tltsn": [
+      "nettlers"
+    ],
+    "tltsp": [],
+    "td": [
+      "deter",
+      "treed"
+    ],
+    "tdm": [
+      "metred",
+      "termed"
+    ],
+    "tdmu": [],
+    "tdmm": [],
+    "tdms": [],
+    "tdg": [],
+    "tdt": [
+      "retted"
+    ],
+    "tdtu": [
+      "uttered"
+    ],
+    "tdtuw": [],
+    "tdtun": [],
+    "tdtup": [
+      "puttered"
+    ],
+    "tdtm": [],
+    "tdts": [],
+    "th": [
+      "ether",
+      "there",
+      "three"
+    ],
+    "thm": [
+      "therme"
+    ],
+    "thmu": [],
+    "thmm": [],
+    "thms": [
+      "thermes"
+    ],
+    "thmsw": [],
+    "thmsn": [],
+    "thmsp": [],
+    "thg": [],
+    "tht": [
+      "tether"
+    ],
+    "thtu": [],
+    "thtm": [],
+    "thts": [
+      "tethers"
+    ],
+    "thtsw": [
+      "whetters"
+    ],
+    "thtsn": [],
+    "thtsp": []
+  },
+  "scoreTokens": [
+    "580f1b6c83b682fab6ce517d60d0ba607a75938c8d9b2c7310e77b052f1dbcf8",
+    "db07090199d993d8601f7b37d7c6e22cfd0d7311d3745be020e3d28ed02ecb49",
+    "cf21a98b1fb56087ff8cc9d6e0d99ec62037207056716d42349cc2a0977d47cb",
+    "29b801ada3274f94dda3e628e55256cf97916d750a84a298073a87e1dc21a11e",
+    "2d4c397fc20f6b8772dbd4766c6097e661515d51d734fca939413b6057456e94"
+  ]
+}
