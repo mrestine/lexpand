@@ -1,0 +1,136 @@
+{
+  "start": "ait",
+  "target": [
+    "digamist",
+    "airthing"
+  ],
+  "steps": [
+    {
+      "options": "bkg"
+    },
+    {
+      "options": "san"
+    },
+    {
+      "options": "rmv"
+    },
+    {
+      "options": "ijq"
+    },
+    {
+      "options": "udh"
+    }
+  ],
+  "dictionary": {
+    "b": [
+      "bait"
+    ],
+    "bs": [
+      "baits"
+    ],
+    "bsr": [],
+    "bsm": [
+      "ambits"
+    ],
+    "bsmi": [],
+    "bsmj": [],
+    "bsmq": [],
+    "bsv": [],
+    "ba": [],
+    "bn": [],
+    "k": [
+      "ikat"
+    ],
+    "ks": [
+      "ikats"
+    ],
+    "ksr": [
+      "kraits",
+      "traiks"
+    ],
+    "ksri": [],
+    "ksrj": [],
+    "ksrq": [],
+    "ksm": [
+      "kismat"
+    ],
+    "ksmi": [],
+    "ksmj": [],
+    "ksmq": [],
+    "ksv": [],
+    "ka": [],
+    "kn": [
+      "takin"
+    ],
+    "knr": [],
+    "knm": [],
+    "knv": [],
+    "g": [
+      "gait"
+    ],
+    "gs": [
+      "agist",
+      "gaits",
+      "staig"
+    ],
+    "gsr": [
+      "gratis"
+    ],
+    "gsri": [],
+    "gsrj": [],
+    "gsrq": [],
+    "gsm": [
+      "stigma"
+    ],
+    "gsmi": [
+      "imagist"
+    ],
+    "gsmiu": [],
+    "gsmid": [
+      "digamist"
+    ],
+    "gsmih": [],
+    "gsmj": [],
+    "gsmq": [],
+    "gsv": [],
+    "ga": [
+      "taiga"
+    ],
+    "gar": [],
+    "gam": [],
+    "gav": [],
+    "gn": [
+      "giant"
+    ],
+    "gnr": [
+      "gratin",
+      "rating",
+      "taring"
+    ],
+    "gnri": [
+      "airting"
+    ],
+    "gnriu": [],
+    "gnrid": [],
+    "gnrih": [
+      "airthing"
+    ],
+    "gnrj": [],
+    "gnrq": [],
+    "gnm": [
+      "mating",
+      "taming"
+    ],
+    "gnmi": [],
+    "gnmj": [],
+    "gnmq": [],
+    "gnv": []
+  },
+  "scoreTokens": [
+    "38cb6a72ac41e141069f7859aae4c7d6b19b0f4242c694273761cb0393a62072",
+    "ba621e1f9859de14341c17fc7b8e842f3ee33968dc84b9fb28e87ef174292e14",
+    "81041e9ae3d83ddca270b01d178f63ddfc0584e7639398f94385136f41e8cfc4",
+    "6eea2744eb7d628850187e1fbfeaeb55a97f400542c65011fb3fc311169708c1",
+    "1a5ea44f6e1518ddafd87d4658d2300d5d0bcbea4c2c7876ee007363c313dee4"
+  ]
+}
