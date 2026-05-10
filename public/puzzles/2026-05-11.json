@@ -1,0 +1,125 @@
+{
+  "start": "ana",
+  "target": [
+    "thanatos",
+    "phantasm",
+    "mantissa",
+    "satanism",
+    "staminas"
+  ],
+  "steps": [
+    {
+      "options": "nom"
+    },
+    {
+      "options": "syi"
+    },
+    {
+      "options": "opt"
+    },
+    {
+      "options": "ikt"
+    },
+    {
+      "options": "phs"
+    }
+  ],
+  "dictionary": {
+    "n": [
+      "anna",
+      "naan",
+      "nana"
+    ],
+    "ns": [
+      "annas",
+      "naans",
+      "nanas"
+    ],
+    "nso": [],
+    "nsp": [],
+    "nst": [],
+    "ny": [],
+    "ni": [],
+    "o": [
+      "anoa"
+    ],
+    "os": [
+      "anoas"
+    ],
+    "oso": [],
+    "osp": [],
+    "ost": [
+      "sonata"
+    ],
+    "osti": [],
+    "ostk": [],
+    "ostt": [
+      "anattos"
+    ],
+    "osttp": [],
+    "ostth": [
+      "thanatos"
+    ],
+    "ostts": [],
+    "oy": [],
+    "oi": [],
+    "m": [
+      "mana"
+    ],
+    "ms": [
+      "manas"
+    ],
+    "mso": [],
+    "msp": [
+      "sampan"
+    ],
+    "mspi": [],
+    "mspk": [],
+    "mspt": [
+      "tampans"
+    ],
+    "msptp": [],
+    "mspth": [
+      "phantasm"
+    ],
+    "mspts": [],
+    "mst": [
+      "atmans",
+      "mantas"
+    ],
+    "msti": [
+      "stamina"
+    ],
+    "mstip": [],
+    "mstih": [],
+    "mstis": [
+      "mantissa",
+      "satanism",
+      "staminas"
+    ],
+    "mstk": [],
+    "mstt": [],
+    "my": [
+      "mayan"
+    ],
+    "myo": [],
+    "myp": [],
+    "myt": [],
+    "mi": [
+      "amain",
+      "amnia",
+      "anima",
+      "mania"
+    ],
+    "mio": [],
+    "mip": [],
+    "mit": []
+  },
+  "scoreTokens": [
+    "20ab5e3552b8d85720876ca95c7d413fb5f8864fa4fb78ff6701396a686f51c4",
+    "cd789253fcf6fc288d77ec231e66899dcf699817ea2dc0b9f26909371c156e82",
+    "aad37c1fc5b2c3563fe31da879fd8b4cd53af7b88d8e5064538a24f7904ee854",
+    "d6dcfbf02ef6f74e49ea04bbc12ce1af9065adac869d5f7114ddf89677dee77a",
+    "a6690e2ac8e1a553502300a37a26d4fd8623ee8e1e16a98b07a94f718bb30068"
+  ]
+}
