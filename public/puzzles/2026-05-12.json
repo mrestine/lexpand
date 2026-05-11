@@ -1,0 +1,224 @@
+{
+  "start": "ain",
+  "target": [
+    "capelins",
+    "panicles",
+    "pelicans",
+    "carlines",
+    "lanciers",
+    "radicand",
+    "candider",
+    "riddance",
+    "sprained",
+    "drainers",
+    "serranid"
+  ],
+  "steps": [
+    {
+      "options": "ucr"
+    },
+    {
+      "options": "ldb"
+    },
+    {
+      "options": "dsb"
+    },
+    {
+      "options": "rae"
+    },
+    {
+      "options": "prj"
+    }
+  ],
+  "dictionary": {
+    "u": [
+      "unai"
+    ],
+    "ul": [],
+    "ud": [],
+    "ub": [
+      "nubia"
+    ],
+    "ubd": [],
+    "ubs": [
+      "nubias"
+    ],
+    "ubsr": [],
+    "ubsa": [],
+    "ubse": [],
+    "ubb": [],
+    "c": [
+      "cain"
+    ],
+    "cl": [
+      "linac"
+    ],
+    "cld": [],
+    "cls": [
+      "linacs"
+    ],
+    "clsr": [
+      "carlins"
+    ],
+    "clsrp": [],
+    "clsrr": [],
+    "clsrj": [],
+    "clsa": [],
+    "clse": [
+      "inlaces",
+      "sanicle",
+      "scaleni"
+    ],
+    "clsep": [
+      "capelins",
+      "panicles",
+      "pelicans"
+    ],
+    "clser": [
+      "carlines",
+      "lanciers"
+    ],
+    "clsej": [],
+    "clb": [],
+    "cd": [
+      "canid",
+      "nicad"
+    ],
+    "cdd": [
+      "candid"
+    ],
+    "cddr": [],
+    "cdda": [
+      "candida"
+    ],
+    "cddap": [],
+    "cddar": [
+      "radicand"
+    ],
+    "cddaj": [],
+    "cdde": [
+      "candied"
+    ],
+    "cddep": [],
+    "cdder": [
+      "candider",
+      "riddance"
+    ],
+    "cddej": [],
+    "cds": [
+      "canids",
+      "nicads"
+    ],
+    "cdsr": [],
+    "cdsa": [
+      "scandia"
+    ],
+    "cdsap": [],
+    "cdsar": [],
+    "cdsaj": [],
+    "cdse": [
+      "candies",
+      "incased"
+    ],
+    "cdsep": [],
+    "cdser": [],
+    "cdsej": [],
+    "cdb": [],
+    "cb": [
+      "cabin"
+    ],
+    "cbd": [],
+    "cbs": [
+      "cabins"
+    ],
+    "cbsr": [],
+    "cbsa": [],
+    "cbse": [],
+    "cbb": [],
+    "r": [
+      "airn",
+      "rain",
+      "rani"
+    ],
+    "rl": [],
+    "rd": [
+      "dinar",
+      "drain",
+      "nadir",
+      "ranid"
+    ],
+    "rdd": [],
+    "rds": [
+      "dinars",
+      "drains",
+      "nadirs",
+      "ranids"
+    ],
+    "rdsr": [],
+    "rdsa": [
+      "radians"
+    ],
+    "rdsap": [],
+    "rdsar": [],
+    "rdsaj": [],
+    "rdse": [
+      "randies",
+      "sandier",
+      "sardine"
+    ],
+    "rdsep": [
+      "sprained"
+    ],
+    "rdser": [
+      "drainers",
+      "serranid"
+    ],
+    "rdsej": [],
+    "rdb": [
+      "riband"
+    ],
+    "rdbr": [],
+    "rdba": [],
+    "rdbe": [
+      "brained"
+    ],
+    "rdbep": [],
+    "rdber": [],
+    "rdbej": [],
+    "rb": [
+      "bairn",
+      "brain"
+    ],
+    "rbd": [
+      "riband"
+    ],
+    "rbdr": [],
+    "rbda": [],
+    "rbde": [
+      "brained"
+    ],
+    "rbdep": [],
+    "rbder": [],
+    "rbdej": [],
+    "rbs": [
+      "bairns",
+      "brains"
+    ],
+    "rbsr": [],
+    "rbsa": [],
+    "rbse": [],
+    "rbb": [
+      "rabbin"
+    ],
+    "rbbr": [],
+    "rbba": [],
+    "rbbe": []
+  },
+  "scoreTokens": [
+    "9c2f8f010b518d7a51835109e199e47a4aceb5ecef67431b9766a91289fcf7c6",
+    "a317c7cc08aaf235a0a606a9979ff60e0e0b419e7911fbfa4db58645df34220a",
+    "b12c424cdba05cd358472acefe385202c1d30b749530d6a35bb81f34d1dccd9c",
+    "bc7b324b627ac6c798277c5e4a8f6c1b4ecb0b8325c6638963d06e5358fdd1ac",
+    "d5e40c95f8b1d9ec8411003f16fbe83a9f5eee2336e3ca03fa89863ab2fe1035"
+  ]
+}
