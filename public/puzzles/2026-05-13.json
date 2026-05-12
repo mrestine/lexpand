@@ -1,0 +1,170 @@
+{
+  "start": "man",
+  "target": [
+    "gamesman",
+    "gamesmen"
+  ],
+  "steps": [
+    {
+      "options": "oea"
+    },
+    {
+      "options": "jys"
+    },
+    {
+      "options": "aeg"
+    },
+    {
+      "options": "vug"
+    },
+    {
+      "options": "zmy"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "mano",
+      "moan",
+      "noma"
+    ],
+    "oj": [],
+    "oy": [
+      "anomy"
+    ],
+    "oya": [],
+    "oye": [
+      "yeoman"
+    ],
+    "oyev": [],
+    "oyeu": [],
+    "oyeg": [],
+    "oyg": [],
+    "os": [
+      "manos",
+      "mason",
+      "moans",
+      "monas",
+      "nomas"
+    ],
+    "osa": [],
+    "ose": [],
+    "osg": [
+      "mangos"
+    ],
+    "osgv": [],
+    "osgu": [],
+    "osgg": [],
+    "e": [
+      "amen",
+      "mane",
+      "mean",
+      "name",
+      "nema"
+    ],
+    "ej": [],
+    "ey": [
+      "meany",
+      "yamen"
+    ],
+    "eya": [],
+    "eye": [],
+    "eyg": [
+      "mangey"
+    ],
+    "eygv": [],
+    "eygu": [],
+    "eygg": [
+      "yeggman"
+    ],
+    "eyggz": [],
+    "eyggm": [],
+    "eyggy": [],
+    "es": [
+      "amens",
+      "manes",
+      "manse",
+      "means",
+      "mensa",
+      "names",
+      "nemas"
+    ],
+    "esa": [
+      "seaman"
+    ],
+    "esav": [],
+    "esau": [],
+    "esag": [
+      "manages",
+      "sagamen"
+    ],
+    "esagz": [],
+    "esagm": [
+      "gamesman"
+    ],
+    "esagy": [],
+    "ese": [
+      "enemas",
+      "mensae",
+      "seamen"
+    ],
+    "esev": [],
+    "eseu": [],
+    "eseg": [
+      "maneges",
+      "menages"
+    ],
+    "esegz": [],
+    "esegm": [
+      "gamesmen"
+    ],
+    "esegy": [],
+    "esg": [
+      "gasmen",
+      "manges"
+    ],
+    "esgv": [],
+    "esgu": [],
+    "esgg": [],
+    "a": [
+      "mana"
+    ],
+    "aj": [],
+    "ay": [
+      "mayan"
+    ],
+    "aya": [],
+    "aye": [],
+    "ayg": [],
+    "as": [
+      "manas"
+    ],
+    "asa": [],
+    "ase": [
+      "seaman"
+    ],
+    "asev": [],
+    "aseu": [],
+    "aseg": [
+      "manages",
+      "sagamen"
+    ],
+    "asegz": [],
+    "asegm": [
+      "gamesman"
+    ],
+    "asegy": [],
+    "asg": [
+      "gasman"
+    ],
+    "asgv": [],
+    "asgu": [],
+    "asgg": []
+  },
+  "scoreTokens": [
+    "2d0f8d4954e268ec1c1808f55802dad845f67c229aa9bcb6061df7ab2c319e87",
+    "d815a438996d6741524e55a869fc73ec6058625952d71293b486d5342039efbf",
+    "eafe3c904beb2d40036e05eea12e51e3766964036142a7858696da8789adb656",
+    "03131aa935b17f03c969eb8980ab8a0900eb326a6988fcb5ba206e47abab7029",
+    "e3c64e892d3e4d3f8230ba40b4a4411e9f3bdecfbb5d6ced15c141284d2630ca"
+  ]
+}
