@@ -1,0 +1,145 @@
+{
+  "start": "rin",
+  "target": [
+    "carpings",
+    "scarping",
+    "scraping",
+    "impregns"
+  ],
+  "steps": [
+    {
+      "options": "obs"
+    },
+    {
+      "options": "awe"
+    },
+    {
+      "options": "pqx"
+    },
+    {
+      "options": "gxu"
+    },
+    {
+      "options": "mfc"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "inro",
+      "iron",
+      "noir",
+      "nori"
+    ],
+    "oa": [
+      "noria"
+    ],
+    "oap": [],
+    "oaq": [],
+    "oax": [],
+    "ow": [],
+    "oe": [
+      "irone"
+    ],
+    "oep": [
+      "orpine"
+    ],
+    "oepg": [
+      "perigon",
+      "pirogen"
+    ],
+    "oepgm": [],
+    "oepgf": [],
+    "oepgc": [],
+    "oepx": [],
+    "oepu": [],
+    "oeq": [],
+    "oex": [],
+    "b": [
+      "brin"
+    ],
+    "ba": [
+      "bairn",
+      "brain"
+    ],
+    "bap": [],
+    "baq": [],
+    "bax": [],
+    "bw": [],
+    "be": [
+      "brine"
+    ],
+    "bep": [],
+    "beq": [],
+    "bex": [],
+    "s": [
+      "rins"
+    ],
+    "sa": [
+      "airns",
+      "naris",
+      "rains",
+      "ranis",
+      "sarin"
+    ],
+    "sap": [
+      "sprain"
+    ],
+    "sapg": [
+      "parings",
+      "parsing",
+      "rasping",
+      "sparing"
+    ],
+    "sapgm": [],
+    "sapgf": [],
+    "sapgc": [
+      "carpings",
+      "scarping",
+      "scraping"
+    ],
+    "sapx": [],
+    "sapu": [],
+    "saq": [],
+    "sax": [],
+    "sw": [],
+    "se": [
+      "reins",
+      "resin",
+      "rinse",
+      "risen",
+      "serin",
+      "siren"
+    ],
+    "sep": [
+      "repins",
+      "ripens",
+      "sniper"
+    ],
+    "sepg": [
+      "pingers",
+      "springe"
+    ],
+    "sepgm": [
+      "impregns"
+    ],
+    "sepgf": [],
+    "sepgc": [],
+    "sepx": [],
+    "sepu": [
+      "purines",
+      "uprisen"
+    ],
+    "sepum": [],
+    "sepuf": [],
+    "sepuc": [],
+    "seq": [],
+    "sex": []
+  },
+  "scoreTokens": [
+    "cefcb09ea144a2958228aa0073c2ce92e673aeab2abbcfa124cbcec0c75bc2cc",
+    "00f2bab887a968607756c034b31f0cc4d96100b430ccee74faf76e076b700fa1",
+    "37941c3ea433f919f155cf7b564c39132f7e60d36ec10ca26e18e6e7182a9319",
+    "9387ff11efef0fd81001c3459257fd332299477be34f6806d02fc375521c3946",
+    "c5ff036ddfa34209187aad85d6fb28af8177ad37f36c2485e2d0b22c445c749b"
+  ]
+}
