@@ -1,0 +1,142 @@
+{
+  "start": "aas",
+  "target": [
+    "alanines",
+    "tantalus",
+    "magentas",
+    "magnates",
+    "nametags",
+    "magnesia"
+  ],
+  "steps": [
+    {
+      "options": "ehn"
+    },
+    {
+      "options": "lmo"
+    },
+    {
+      "options": "nug"
+    },
+    {
+      "options": "jte"
+    },
+    {
+      "options": "jti"
+    }
+  ],
+  "dictionary": {
+    "e": [
+      "asea"
+    ],
+    "el": [],
+    "em": [],
+    "eo": [],
+    "h": [
+      "aahs"
+    ],
+    "hl": [],
+    "hm": [
+      "amahs"
+    ],
+    "hmn": [
+      "ashman",
+      "shaman"
+    ],
+    "hmnj": [],
+    "hmnt": [],
+    "hmne": [],
+    "hmu": [],
+    "hmg": [],
+    "ho": [],
+    "n": [
+      "anas",
+      "ansa"
+    ],
+    "nl": [
+      "alans",
+      "anlas",
+      "nasal"
+    ],
+    "nln": [
+      "annals"
+    ],
+    "nlnj": [],
+    "nlnt": [],
+    "nlne": [
+      "anneals"
+    ],
+    "nlnej": [],
+    "nlnet": [],
+    "nlnei": [
+      "alanines"
+    ],
+    "nlu": [
+      "lauans"
+    ],
+    "nluj": [],
+    "nlut": [
+      "sultana"
+    ],
+    "nlutj": [],
+    "nlutt": [
+      "tantalus"
+    ],
+    "nluti": [],
+    "nlue": [],
+    "nlg": [
+      "lagans"
+    ],
+    "nlgj": [],
+    "nlgt": [],
+    "nlge": [
+      "anlages",
+      "galenas",
+      "lasagne"
+    ],
+    "nlgej": [],
+    "nlget": [],
+    "nlgei": [],
+    "nm": [
+      "manas"
+    ],
+    "nmn": [
+      "mannas"
+    ],
+    "nmnj": [],
+    "nmnt": [],
+    "nmne": [],
+    "nmu": [],
+    "nmg": [
+      "gasman"
+    ],
+    "nmgj": [],
+    "nmgt": [],
+    "nmge": [
+      "manages",
+      "sagamen"
+    ],
+    "nmgej": [],
+    "nmget": [
+      "magentas",
+      "magnates",
+      "nametags"
+    ],
+    "nmgei": [
+      "magnesia"
+    ],
+    "no": [
+      "anoas"
+    ],
+    "non": [],
+    "nou": [],
+    "nog": []
+  },
+  "scoreTokens": [
+    "d1bc6fc568170ac3fb3c586131c6bed44db878491285bd018ef1ba81026f1344",
+    "1d0ff7c00e6cb5daf78581e7fa94c04fa9581df4f9eec03c5a4e9734b259206a",
+    "b7ca0b0fc7a6fc3655bd4d9d3bf4f25b9d3cff56b42d40fc46053e3103ec50b0",
+    "05cfa5c56b17b7b9eb833475f241f9c73c2e7fb4a3d4de6cb50f3346f0a471ec",
+    "20bb7909c340e7d5e4aa23949f0fdec076a0aa5efcd19e42cdf97e1139ee7dc2"
+  ]
+}
