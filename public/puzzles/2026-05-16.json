@@ -1,0 +1,84 @@
+{
+  "start": "hit",
+  "target": [
+    "holibuts"
+  ],
+  "steps": [
+    {
+      "options": "csk"
+    },
+    {
+      "options": "qlb"
+    },
+    {
+      "options": "okj"
+    },
+    {
+      "options": "jau"
+    },
+    {
+      "options": "bjf"
+    }
+  ],
+  "dictionary": {
+    "c": [
+      "chit",
+      "itch"
+    ],
+    "cq": [],
+    "cl": [
+      "licht"
+    ],
+    "clo": [],
+    "clk": [],
+    "clj": [],
+    "cb": [
+      "bitch"
+    ],
+    "cbo": [],
+    "cbk": [],
+    "cbj": [],
+    "s": [
+      "hist",
+      "hits",
+      "shit",
+      "sith",
+      "this"
+    ],
+    "sq": [],
+    "sl": [
+      "hilts"
+    ],
+    "slo": [
+      "holist",
+      "lithos",
+      "thiols"
+    ],
+    "sloj": [],
+    "sloa": [],
+    "slou": [
+      "loutish"
+    ],
+    "sloub": [
+      "holibuts"
+    ],
+    "slouj": [],
+    "slouf": [],
+    "slk": [],
+    "slj": [],
+    "sb": [],
+    "k": [
+      "kith"
+    ],
+    "kq": [],
+    "kl": [],
+    "kb": []
+  },
+  "scoreTokens": [
+    "45a57ca0e5b25e1fa55c86304eb5e77657c51684c1ff3698b3b8fc903e69e362",
+    "55961ffde911971717ef45302f8205d58419ce1c45d10dbdbbb4f79faa7ac2c2",
+    "e2bd95bc254d7d644c9a781983f2ebf3d85d742bf34d8169aa784d5c7f0458e6",
+    "ccf769e52366f4225c2d5e52dcf891438d5f85b6b24adc0aae0b7de2a54b9b9b",
+    "4b989c594cb87e5e92502a76eb0b6446e3070b3e8e708e2cbfa26310561c9ec4"
+  ]
+}
