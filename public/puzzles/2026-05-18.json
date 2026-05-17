@@ -1,0 +1,301 @@
+{
+  "start": "ers",
+  "target": [
+    "personas",
+    "responsa",
+    "reseason",
+    "seasoner",
+    "senhores",
+    "rehoused",
+    "aspersed",
+    "repassed",
+    "respades",
+    "respaded",
+    "degasser",
+    "dressage",
+    "deranges",
+    "grandees",
+    "grenades",
+    "degrades"
+  ],
+  "steps": [
+    {
+      "options": "oeg"
+    },
+    {
+      "options": "ahq"
+    },
+    {
+      "options": "sdu"
+    },
+    {
+      "options": "pze"
+    },
+    {
+      "options": "njd"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "eros",
+      "ores",
+      "roes",
+      "rose",
+      "sore"
+    ],
+    "oa": [
+      "arose"
+    ],
+    "oas": [
+      "serosa"
+    ],
+    "oasp": [
+      "soapers"
+    ],
+    "oaspn": [
+      "personas",
+      "responsa"
+    ],
+    "oaspj": [],
+    "oaspd": [],
+    "oasz": [],
+    "oase": [
+      "serosae"
+    ],
+    "oasen": [
+      "reseason",
+      "seasoner"
+    ],
+    "oasej": [],
+    "oased": [],
+    "oad": [
+      "adores",
+      "oreads",
+      "sarode",
+      "soared"
+    ],
+    "oadp": [],
+    "oadz": [],
+    "oade": [],
+    "oau": [
+      "arouse"
+    ],
+    "oaup": [],
+    "oauz": [],
+    "oaue": [],
+    "oh": [
+      "heros",
+      "hoers",
+      "horse",
+      "shoer",
+      "shore"
+    ],
+    "ohs": [
+      "horses",
+      "shoers",
+      "shores"
+    ],
+    "ohsp": [],
+    "ohsz": [],
+    "ohse": [
+      "reshoes"
+    ],
+    "ohsen": [
+      "senhores"
+    ],
+    "ohsej": [],
+    "ohsed": [],
+    "ohd": [
+      "hordes",
+      "horsed",
+      "reshod",
+      "shored"
+    ],
+    "ohdp": [],
+    "ohdz": [],
+    "ohde": [],
+    "ohu": [
+      "houser"
+    ],
+    "ohup": [
+      "uphroes"
+    ],
+    "ohupn": [],
+    "ohupj": [],
+    "ohupd": [],
+    "ohuz": [],
+    "ohue": [
+      "rehouse"
+    ],
+    "ohuen": [],
+    "ohuej": [],
+    "ohued": [
+      "rehoused"
+    ],
+    "oq": [],
+    "e": [
+      "rees",
+      "seer",
+      "sere"
+    ],
+    "ea": [
+      "erase",
+      "saree"
+    ],
+    "eas": [
+      "erases",
+      "sarees"
+    ],
+    "easp": [
+      "asperse",
+      "pareses",
+      "serapes"
+    ],
+    "easpn": [],
+    "easpj": [],
+    "easpd": [
+      "aspersed",
+      "repassed",
+      "respades"
+    ],
+    "easz": [],
+    "ease": [],
+    "ead": [
+      "erased",
+      "reseda",
+      "seared"
+    ],
+    "eadp": [
+      "respade",
+      "speared"
+    ],
+    "eadpn": [],
+    "eadpj": [],
+    "eadpd": [
+      "respaded"
+    ],
+    "eadz": [],
+    "eade": [],
+    "eau": [
+      "reseau",
+      "urease"
+    ],
+    "eaup": [],
+    "eauz": [],
+    "eaue": [],
+    "eh": [
+      "heres",
+      "sheer"
+    ],
+    "ehs": [
+      "reshes",
+      "sheers"
+    ],
+    "ehsp": [
+      "spheres"
+    ],
+    "ehspn": [],
+    "ehspj": [],
+    "ehspd": [],
+    "ehsz": [],
+    "ehse": [],
+    "ehd": [
+      "heders"
+    ],
+    "ehdp": [
+      "sphered"
+    ],
+    "ehdpn": [],
+    "ehdpj": [],
+    "ehdpd": [],
+    "ehdz": [],
+    "ehde": [
+      "heeders",
+      "heredes",
+      "sheered"
+    ],
+    "ehden": [],
+    "ehdej": [],
+    "ehded": [],
+    "ehu": [
+      "rushee"
+    ],
+    "ehup": [],
+    "ehuz": [],
+    "ehue": [],
+    "eq": [],
+    "g": [
+      "ergs",
+      "regs"
+    ],
+    "ga": [
+      "agers",
+      "gears",
+      "rages",
+      "sager",
+      "sarge"
+    ],
+    "gas": [
+      "gasser",
+      "sarges"
+    ],
+    "gasp": [
+      "gaspers",
+      "sparges"
+    ],
+    "gaspn": [],
+    "gaspj": [],
+    "gaspd": [],
+    "gasz": [],
+    "gase": [
+      "greases"
+    ],
+    "gasen": [],
+    "gasej": [],
+    "gased": [
+      "degasser",
+      "dressage"
+    ],
+    "gad": [
+      "grades"
+    ],
+    "gadp": [
+      "grasped",
+      "sparged"
+    ],
+    "gadpn": [],
+    "gadpj": [],
+    "gadpd": [],
+    "gadz": [],
+    "gade": [
+      "dragees",
+      "greased"
+    ],
+    "gaden": [
+      "deranges",
+      "grandees",
+      "grenades"
+    ],
+    "gadej": [],
+    "gaded": [
+      "degrades"
+    ],
+    "gau": [
+      "argues",
+      "augers",
+      "sauger"
+    ],
+    "gaup": [],
+    "gauz": [],
+    "gaue": [],
+    "gh": [],
+    "gq": []
+  },
+  "scoreTokens": [
+    "7e014a315a2c0ad32bbf3355c9dd146e437ff226626a36c7962f3a98a6ac3559",
+    "ce67bbc2936e4b271b4114faed012f17f819e963b3158a40fdd427535251103b",
+    "a0431af7febfe737048ad1474ec02433613ef317629c6838569fc6dbe7bc1423",
+    "84867509b4b7e6a25ff591762be096afbe704b445c57ce7e4f916661f6931b30",
+    "501dadf3498f4d1d365a3fcd8dee5ccb7d29d62fdcd7bf22ad63b266c9f866d7"
+  ]
+}
