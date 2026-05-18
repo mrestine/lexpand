@@ -1,0 +1,90 @@
+{
+  "start": "oat",
+  "target": [
+    "myotonia"
+  ],
+  "steps": [
+    {
+      "options": "mub"
+    },
+    {
+      "options": "znv"
+    },
+    {
+      "options": "ihz"
+    },
+    {
+      "options": "owf"
+    },
+    {
+      "options": "cwy"
+    }
+  ],
+  "dictionary": {
+    "m": [
+      "atom",
+      "moat"
+    ],
+    "mz": [
+      "matzo"
+    ],
+    "mzi": [],
+    "mzh": [
+      "matzoh"
+    ],
+    "mzho": [],
+    "mzhw": [],
+    "mzhf": [],
+    "mzz": [],
+    "mn": [
+      "toman"
+    ],
+    "mni": [
+      "manito"
+    ],
+    "mnio": [
+      "amotion"
+    ],
+    "mnioc": [],
+    "mniow": [],
+    "mnioy": [
+      "myotonia"
+    ],
+    "mniw": [],
+    "mnif": [],
+    "mnh": [],
+    "mnz": [],
+    "mv": [],
+    "u": [
+      "auto"
+    ],
+    "uz": [],
+    "un": [],
+    "uv": [],
+    "b": [
+      "boat",
+      "bota"
+    ],
+    "bz": [],
+    "bn": [
+      "baton"
+    ],
+    "bni": [
+      "bonita",
+      "obtain"
+    ],
+    "bnio": [],
+    "bniw": [],
+    "bnif": [],
+    "bnh": [],
+    "bnz": [],
+    "bv": []
+  },
+  "scoreTokens": [
+    "cf449fbbf1d3745edc94f74e153c29ee4747fb60b7d7774ccc46a5b6290516e9",
+    "94e015bb20aa75c790ec21cc2967fe58e16a0d9547b5ed1b1c09950c47c2c688",
+    "8f85c111a2cb25148d5865acb6ffc0356be7df1cf39288c37246b168b37610b3",
+    "7bc477a66293a1fe76658c499bef188f9aa5dfc2945b025d030da32e6e67edd7",
+    "4e06d500aede0457c512f7ebccbf6f463f00078fec4c000cebd04bf5ca495fde"
+  ]
+}
