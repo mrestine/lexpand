@@ -1,0 +1,86 @@
+{
+  "start": "our",
+  "target": [
+    "unproved"
+  ],
+  "steps": [
+    {
+      "options": "dxp"
+    },
+    {
+      "options": "nek"
+    },
+    {
+      "options": "vfn"
+    },
+    {
+      "options": "pxj"
+    },
+    {
+      "options": "rvg"
+    }
+  ],
+  "dictionary": {
+    "d": [
+      "dour",
+      "duro"
+    ],
+    "dn": [
+      "round"
+    ],
+    "dnv": [],
+    "dnf": [],
+    "dnn": [],
+    "de": [
+      "uredo"
+    ],
+    "dev": [
+      "devour"
+    ],
+    "devp": [],
+    "devx": [],
+    "devj": [],
+    "def": [],
+    "den": [
+      "enduro",
+      "undoer"
+    ],
+    "denp": [
+      "pounder",
+      "unroped"
+    ],
+    "denpr": [],
+    "denpv": [
+      "unproved"
+    ],
+    "denpg": [],
+    "denx": [],
+    "denj": [],
+    "dk": [
+      "drouk"
+    ],
+    "dkv": [],
+    "dkf": [],
+    "dkn": [],
+    "x": [
+      "roux"
+    ],
+    "xn": [],
+    "xe": [],
+    "xk": [],
+    "p": [
+      "pour",
+      "roup"
+    ],
+    "pn": [],
+    "pe": [],
+    "pk": []
+  },
+  "scoreTokens": [
+    "8521ccea102913c9bc88e2b41f98ea51faea3056bfa3834e9f119770e4198956",
+    "25c979968dfc9aa7b8e346f7a5f1f9a003d69d391e0487b5cc42a1fa696e8750",
+    "e32992a77c95a37b401b945cc2ef5ae5c7bdd082f30b99298efff2171b3efe2c",
+    "e437910c91a99b08512ba9fa2f56c9200e5e72c2023f2001e45a1d5d6d0afc83",
+    "e8acb0207e4f56e1b9ead4b600564408a9077f6bc5d974828ec5293fdb66301f"
+  ]
+}
