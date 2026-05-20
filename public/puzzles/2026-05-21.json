@@ -1,0 +1,139 @@
+{
+  "start": "hat",
+  "target": [
+    "heatless",
+    "hastened",
+    "sheathed",
+    "headsets"
+  ],
+  "steps": [
+    {
+      "options": "pet"
+    },
+    {
+      "options": "lqd"
+    },
+    {
+      "options": "nes"
+    },
+    {
+      "options": "gsa"
+    },
+    {
+      "options": "geh"
+    }
+  ],
+  "dictionary": {
+    "p": [
+      "path",
+      "phat"
+    ],
+    "pl": [],
+    "pq": [],
+    "pd": [],
+    "e": [
+      "eath",
+      "haet",
+      "hate",
+      "heat",
+      "thae"
+    ],
+    "el": [
+      "lathe"
+    ],
+    "eln": [
+      "hantle",
+      "thenal"
+    ],
+    "elng": [],
+    "elns": [
+      "hantles"
+    ],
+    "elnsg": [],
+    "elnse": [],
+    "elnsh": [],
+    "elna": [],
+    "ele": [],
+    "els": [
+      "halest",
+      "haslet",
+      "lathes",
+      "shelta"
+    ],
+    "elsg": [],
+    "elss": [
+      "haslets",
+      "hatless",
+      "sheltas"
+    ],
+    "elssg": [],
+    "elsse": [
+      "heatless"
+    ],
+    "elssh": [],
+    "elsa": [
+      "altheas"
+    ],
+    "elsag": [],
+    "elsae": [],
+    "elsah": [],
+    "eq": [],
+    "ed": [
+      "death",
+      "hated"
+    ],
+    "edn": [
+      "hanted"
+    ],
+    "edng": [],
+    "edns": [
+      "handset"
+    ],
+    "ednsg": [],
+    "ednse": [
+      "hastened"
+    ],
+    "ednsh": [],
+    "edna": [],
+    "ede": [
+      "heated"
+    ],
+    "edeg": [],
+    "edes": [
+      "headset"
+    ],
+    "edesg": [],
+    "edese": [],
+    "edesh": [
+      "sheathed"
+    ],
+    "edea": [],
+    "eds": [
+      "deaths",
+      "hasted"
+    ],
+    "edsg": [],
+    "edss": [
+      "stashed"
+    ],
+    "edssg": [],
+    "edsse": [
+      "headsets"
+    ],
+    "edssh": [],
+    "edsa": [],
+    "t": [
+      "that"
+    ],
+    "tl": [],
+    "tq": [],
+    "td": []
+  },
+  "scoreTokens": [
+    "ce4694acc52f1618a710f2ba2394116a9387d58a09d9cdb5740e15dfb62d496d",
+    "5c6da749f2c79435fe1bc3317b5fb5f5f592370ca926e5b63c3e907340907374",
+    "2bd88c2cee7ddc04a334657cf958382221f88c8f20b3a4865ceab49db0b7baa4",
+    "fe8955d6848e5222bb391ea88390da53c70e98b41b7d8fa59a10f09ffc266e2a",
+    "987d1c11eb9ca538bffaac7d0a5cba8e3275ee73210122f888cd3185c71bd876"
+  ]
+}
