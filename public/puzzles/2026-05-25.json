@@ -1,0 +1,143 @@
+{
+  "start": "sae",
+  "target": [
+    "lesbians",
+    "kissable",
+    "melanics",
+    "meniscal",
+    "gaminess"
+  ],
+  "steps": [
+    {
+      "options": "bme"
+    },
+    {
+      "options": "csa"
+    },
+    {
+      "options": "jgi"
+    },
+    {
+      "options": "yil"
+    },
+    {
+      "options": "nkv"
+    }
+  ],
+  "dictionary": {
+    "b": [
+      "base",
+      "sabe"
+    ],
+    "bc": [],
+    "bs": [
+      "bases",
+      "sabes"
+    ],
+    "bsj": [],
+    "bsg": [],
+    "bsi": [
+      "biases"
+    ],
+    "bsiy": [],
+    "bsii": [],
+    "bsil": [
+      "abseils"
+    ],
+    "bsiln": [
+      "lesbians"
+    ],
+    "bsilk": [
+      "kissable"
+    ],
+    "bsilv": [],
+    "ba": [
+      "abase"
+    ],
+    "baj": [],
+    "bag": [
+      "seabag"
+    ],
+    "bagy": [],
+    "bagi": [],
+    "bagl": [],
+    "bai": [],
+    "m": [
+      "maes",
+      "mesa",
+      "same",
+      "seam"
+    ],
+    "mc": [
+      "acmes",
+      "cames",
+      "maces"
+    ],
+    "mcj": [],
+    "mcg": [],
+    "mci": [
+      "amices",
+      "camise"
+    ],
+    "mciy": [],
+    "mcii": [],
+    "mcil": [
+      "malices"
+    ],
+    "mciln": [
+      "melanics",
+      "meniscal"
+    ],
+    "mcilk": [],
+    "mcilv": [],
+    "ms": [
+      "masse",
+      "mesas",
+      "seams"
+    ],
+    "msj": [],
+    "msg": [
+      "megass"
+    ],
+    "msgy": [],
+    "msgi": [
+      "ageisms"
+    ],
+    "msgin": [
+      "gaminess"
+    ],
+    "msgik": [],
+    "msgiv": [],
+    "msgl": [],
+    "msi": [],
+    "ma": [],
+    "e": [
+      "ease"
+    ],
+    "ec": [
+      "cease"
+    ],
+    "ecj": [],
+    "ecg": [],
+    "eci": [],
+    "es": [
+      "eases"
+    ],
+    "esj": [],
+    "esg": [],
+    "esi": [
+      "easies"
+    ],
+    "esiy": [],
+    "esii": [],
+    "esil": [],
+    "ea": []
+  },
+  "scoreTokens": [
+    "5c39968ff08782aa3a748ed95daa1e2bf0018a698db15565c309591fc341bba9",
+    "ec9a67d6fecd7b1b3b41c9eb6516154dff7b3ef53c20933e45f98c0ea628f243",
+    "8c9cb838ef4ba30fb7e1aba718ef7daeff5ae32a9aeb1a8639720428e124e995",
+    "75f809a0bb944f93decca98efb62e60af3ecf8c5582e76c19d94277300c1ceac",
+    "50c8f9b6ae69aa97d9b50750e1f7e8c482fd41bd51fea0a6e1924771d568ab17"
+  ]
+}
