@@ -1,0 +1,233 @@
+{
+  "start": "ern",
+  "target": [
+    "greyhens",
+    "yestreen",
+    "greenish",
+    "rehinges",
+    "sheering",
+    "sheenier"
+  ],
+  "steps": [
+    {
+      "options": "sue"
+    },
+    {
+      "options": "gsu"
+    },
+    {
+      "options": "sti"
+    },
+    {
+      "options": "yhu"
+    },
+    {
+      "options": "geh"
+    }
+  ],
+  "dictionary": {
+    "s": [
+      "erns"
+    ],
+    "sg": [],
+    "ss": [],
+    "su": [
+      "nurse",
+      "runes"
+    ],
+    "sus": [
+      "nurses"
+    ],
+    "susy": [],
+    "sush": [],
+    "susu": [],
+    "sut": [
+      "tuners",
+      "unrest"
+    ],
+    "suty": [],
+    "suth": [
+      "hunters",
+      "shunter"
+    ],
+    "suthg": [],
+    "suthe": [],
+    "suthh": [],
+    "sutu": [],
+    "sui": [
+      "insure",
+      "inures",
+      "rusine",
+      "urines",
+      "ursine"
+    ],
+    "suiy": [],
+    "suih": [],
+    "suiu": [],
+    "u": [
+      "rune"
+    ],
+    "ug": [],
+    "us": [
+      "nurse",
+      "runes"
+    ],
+    "uss": [
+      "nurses"
+    ],
+    "ussy": [],
+    "ussh": [],
+    "ussu": [],
+    "ust": [
+      "tuners",
+      "unrest"
+    ],
+    "usty": [],
+    "usth": [
+      "hunters",
+      "shunter"
+    ],
+    "usthg": [],
+    "usthe": [],
+    "usthh": [],
+    "ustu": [],
+    "usi": [
+      "insure",
+      "inures",
+      "rusine",
+      "urines",
+      "ursine"
+    ],
+    "usiy": [],
+    "usih": [],
+    "usiu": [],
+    "uu": [],
+    "e": [
+      "erne"
+    ],
+    "eg": [
+      "genre",
+      "green"
+    ],
+    "egs": [
+      "genres",
+      "greens"
+    ],
+    "egsy": [
+      "gyrenes"
+    ],
+    "egsyg": [],
+    "egsye": [],
+    "egsyh": [
+      "greyhens"
+    ],
+    "egsh": [],
+    "egsu": [],
+    "egt": [
+      "gerent",
+      "regent"
+    ],
+    "egty": [],
+    "egth": [
+      "greenth"
+    ],
+    "egthg": [],
+    "egthe": [],
+    "egthh": [],
+    "egtu": [],
+    "egi": [],
+    "es": [
+      "ernes",
+      "sneer"
+    ],
+    "ess": [
+      "sneers"
+    ],
+    "essy": [],
+    "essh": [],
+    "essu": [
+      "ensures"
+    ],
+    "essug": [],
+    "essue": [],
+    "essuh": [],
+    "est": [
+      "enters",
+      "nester",
+      "renest",
+      "rentes",
+      "resent",
+      "tenser",
+      "ternes",
+      "treens"
+    ],
+    "esty": [
+      "styrene",
+      "yestern"
+    ],
+    "estyg": [],
+    "estye": [
+      "yestreen"
+    ],
+    "estyh": [],
+    "esth": [],
+    "estu": [
+      "neuters",
+      "retunes",
+      "tenures",
+      "tureens"
+    ],
+    "estug": [],
+    "estue": [],
+    "estuh": [],
+    "esi": [
+      "nereis",
+      "seiner",
+      "serein",
+      "serine"
+    ],
+    "esiy": [],
+    "esih": [
+      "henries",
+      "inheres",
+      "reshine"
+    ],
+    "esihg": [
+      "greenish",
+      "rehinges",
+      "sheering"
+    ],
+    "esihe": [
+      "sheenier"
+    ],
+    "esihh": [],
+    "esiu": [],
+    "eu": [
+      "enure"
+    ],
+    "eus": [
+      "ensure",
+      "enures"
+    ],
+    "eusy": [],
+    "eush": [],
+    "eusu": [],
+    "eut": [
+      "neuter",
+      "retune",
+      "tenure",
+      "tureen"
+    ],
+    "euty": [],
+    "euth": [],
+    "eutu": [],
+    "eui": []
+  },
+  "scoreTokens": [
+    "76c7a0249a765bc5cbd2fa630300e79fbaee8dbaf93c5c6abc62f1509f6e718b",
+    "c5af5054f15df48b98d500fd3d93a7a1a4ed5fff6ae1e64a0ef66175f0a0f51d",
+    "39fe9460454a66858e6809661518cd8ab9868c5cf89f60ec951acc63da67bb7c",
+    "405f8fe57c6aabc95a8e78716fb506265d88ed76a6f30d71bca7268a33c14cee",
+    "1a730c71373b44338231e5f9ca42efca3c7f89a48ea73295b8e68a2c61479f4c"
+  ]
+}
