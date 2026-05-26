@@ -1,0 +1,170 @@
+{
+  "start": "ess",
+  "target": [
+    "sleights",
+    "pishoges"
+  ],
+  "steps": [
+    {
+      "options": "tgi"
+    },
+    {
+      "options": "tep"
+    },
+    {
+      "options": "lot"
+    },
+    {
+      "options": "hjg"
+    },
+    {
+      "options": "qbg"
+    }
+  ],
+  "dictionary": {
+    "t": [
+      "sets"
+    ],
+    "tt": [
+      "setts",
+      "stets",
+      "tests"
+    ],
+    "ttl": [],
+    "tto": [],
+    "ttt": [],
+    "te": [],
+    "tp": [
+      "pests",
+      "septs",
+      "steps"
+    ],
+    "tpl": [
+      "spelts"
+    ],
+    "tplh": [],
+    "tplj": [],
+    "tplg": [],
+    "tpo": [
+      "estops",
+      "pestos",
+      "posset",
+      "ptoses",
+      "stopes"
+    ],
+    "tpoh": [
+      "poshest"
+    ],
+    "tpohq": [],
+    "tpohb": [],
+    "tpohg": [],
+    "tpoj": [],
+    "tpog": [],
+    "tpt": [],
+    "g": [
+      "segs"
+    ],
+    "gt": [
+      "gests"
+    ],
+    "gtl": [],
+    "gto": [],
+    "gtt": [],
+    "ge": [],
+    "gp": [],
+    "i": [
+      "seis"
+    ],
+    "it": [
+      "sites",
+      "sties"
+    ],
+    "itl": [
+      "islets",
+      "istles",
+      "sliest",
+      "stiles"
+    ],
+    "itlh": [
+      "hitless"
+    ],
+    "itlhq": [],
+    "itlhb": [],
+    "itlhg": [
+      "sleights"
+    ],
+    "itlj": [],
+    "itlg": [
+      "legists"
+    ],
+    "itlgq": [],
+    "itlgb": [],
+    "itlgg": [],
+    "ito": [],
+    "itt": [
+      "testis"
+    ],
+    "itth": [
+      "theists"
+    ],
+    "itthq": [],
+    "itthb": [],
+    "itthg": [],
+    "ittj": [],
+    "ittg": [],
+    "ie": [
+      "seise"
+    ],
+    "iel": [],
+    "ieo": [],
+    "iet": [],
+    "ip": [
+      "sipes",
+      "spies"
+    ],
+    "ipl": [
+      "plisse",
+      "slipes",
+      "speils",
+      "spiels",
+      "spiles"
+    ],
+    "iplh": [
+      "hipless"
+    ],
+    "iplhq": [],
+    "iplhb": [],
+    "iplhg": [],
+    "iplj": [],
+    "iplg": [],
+    "ipo": [
+      "poises",
+      "posies"
+    ],
+    "ipoh": [
+      "sophies"
+    ],
+    "ipohq": [],
+    "ipohb": [],
+    "ipohg": [
+      "pishoges"
+    ],
+    "ipoj": [],
+    "ipog": [],
+    "ipt": [
+      "pistes",
+      "spites",
+      "stipes"
+    ],
+    "ipth": [],
+    "iptj": [],
+    "iptg": []
+  },
+  "scoreTokens": [
+    "48ee436c80e8e06565dfa179e4f9801a88310c07b6a9942b97c2e085059c01c0",
+    "a5a69ce90d2b4abe36ec63d584bd56dbd0f46cd32847b6493ec1e4da5a3f27b5",
+    "486f75230818a871ae75dc7ecd7d36052e70f13a3b2f5f2e8bc5258ca930e086",
+    "3a565953fbcff52ed550483f384c52381c6239a581168fe5a244e94d9dd379d0",
+    "12ddd4c2add019717ce1372bfd49a43c924bce417c56261c4b462294b8412866"
+  ]
+}
