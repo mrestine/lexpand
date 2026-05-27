@@ -1,0 +1,183 @@
+{
+  "start": "ens",
+  "target": [
+    "bonspiel",
+    "speiling",
+    "spieling",
+    "flensing",
+    "fleshing"
+  ],
+  "steps": [
+    {
+      "options": "iyg"
+    },
+    {
+      "options": "oig"
+    },
+    {
+      "options": "lzj"
+    },
+    {
+      "options": "nhp"
+    },
+    {
+      "options": "gbf"
+    }
+  ],
+  "dictionary": {
+    "i": [
+      "sine"
+    ],
+    "io": [
+      "eosin",
+      "noise"
+    ],
+    "iol": [
+      "eloins",
+      "insole",
+      "lesion",
+      "oleins"
+    ],
+    "ioln": [],
+    "iolh": [],
+    "iolp": [
+      "epsilon",
+      "pinoles"
+    ],
+    "iolpg": [],
+    "iolpb": [
+      "bonspiel"
+    ],
+    "iolpf": [],
+    "ioz": [
+      "sozine"
+    ],
+    "iozn": [],
+    "iozh": [],
+    "iozp": [],
+    "ioj": [],
+    "ii": [
+      "nisei"
+    ],
+    "iil": [
+      "sileni"
+    ],
+    "iiln": [],
+    "iilh": [],
+    "iilp": [
+      "splenii"
+    ],
+    "iilpg": [
+      "speiling",
+      "spieling"
+    ],
+    "iilpb": [],
+    "iilpf": [],
+    "iiz": [
+      "seizin"
+    ],
+    "iizn": [],
+    "iizh": [],
+    "iizp": [],
+    "iij": [],
+    "ig": [
+      "segni",
+      "sengi",
+      "singe"
+    ],
+    "igl": [
+      "ingles",
+      "single"
+    ],
+    "igln": [
+      "lensing"
+    ],
+    "iglng": [],
+    "iglnb": [],
+    "iglnf": [
+      "flensing"
+    ],
+    "iglh": [
+      "english",
+      "shingle"
+    ],
+    "iglhg": [],
+    "iglhb": [],
+    "iglhf": [
+      "fleshing"
+    ],
+    "iglp": [],
+    "igz": [],
+    "igj": [],
+    "y": [
+      "snye",
+      "syne",
+      "yens"
+    ],
+    "yo": [
+      "nosey"
+    ],
+    "yol": [],
+    "yoz": [],
+    "yoj": [
+      "enjoys"
+    ],
+    "yojn": [],
+    "yojh": [],
+    "yojp": [],
+    "yi": [],
+    "yg": [],
+    "g": [
+      "engs",
+      "gens"
+    ],
+    "go": [
+      "segno"
+    ],
+    "gol": [
+      "longes"
+    ],
+    "goln": [],
+    "golh": [],
+    "golp": [],
+    "goz": [],
+    "goj": [],
+    "gi": [
+      "segni",
+      "sengi",
+      "singe"
+    ],
+    "gil": [
+      "ingles",
+      "single"
+    ],
+    "giln": [
+      "lensing"
+    ],
+    "gilng": [],
+    "gilnb": [],
+    "gilnf": [
+      "flensing"
+    ],
+    "gilh": [
+      "english",
+      "shingle"
+    ],
+    "gilhg": [],
+    "gilhb": [],
+    "gilhf": [
+      "fleshing"
+    ],
+    "gilp": [],
+    "giz": [],
+    "gij": [],
+    "gg": []
+  },
+  "scoreTokens": [
+    "ec7d2f9677e6395caf46c58f5ae0868c99d20f649513a8fc55404f63769b1381",
+    "21af1e83da822860b19ed679fe04aea1f86198dd6fe2437316ec12e8c6f9801a",
+    "79ec1faa74eb8abd149d1e7cef1cfb285b51995abd6c638cddd202d348eac3d3",
+    "eac82a9fb37558e545e965a4c4b9603f0b6da809609942c7089b78f905887f16",
+    "6190a5bdee15fc496f1ffdd42c1a15fbf6a3646a3ea5dd2f8406f52847b7601b"
+  ]
+}
