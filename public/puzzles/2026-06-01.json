@@ -1,0 +1,151 @@
+{
+  "start": "doe",
+  "target": [
+    "unatoned",
+    "denoting",
+    "anointed",
+    "antinode",
+    "modulate"
+  ],
+  "steps": [
+    {
+      "options": "nzl"
+    },
+    {
+      "options": "myn"
+    },
+    {
+      "options": "pmt"
+    },
+    {
+      "options": "uiy"
+    },
+    {
+      "options": "gja"
+    }
+  ],
+  "dictionary": {
+    "n": [
+      "done",
+      "node"
+    ],
+    "nm": [
+      "demon",
+      "monde"
+    ],
+    "nmp": [],
+    "nmm": [],
+    "nmt": [],
+    "ny": [
+      "doyen"
+    ],
+    "nyp": [],
+    "nym": [],
+    "nyt": [],
+    "nn": [
+      "donne"
+    ],
+    "nnp": [],
+    "nnm": [],
+    "nnt": [
+      "tendon"
+    ],
+    "nntu": [
+      "unnoted"
+    ],
+    "nntug": [],
+    "nntuj": [],
+    "nntua": [
+      "unatoned"
+    ],
+    "nnti": [
+      "intoned"
+    ],
+    "nntig": [
+      "denoting"
+    ],
+    "nntij": [],
+    "nntia": [
+      "anointed",
+      "antinode"
+    ],
+    "nnty": [],
+    "z": [
+      "doze"
+    ],
+    "zm": [],
+    "zy": [],
+    "zn": [
+      "dozen",
+      "zoned"
+    ],
+    "znp": [],
+    "znm": [],
+    "znt": [],
+    "l": [
+      "dole",
+      "lode"
+    ],
+    "lm": [
+      "model"
+    ],
+    "lmp": [],
+    "lmm": [],
+    "lmt": [
+      "molted"
+    ],
+    "lmtu": [
+      "moulted"
+    ],
+    "lmtug": [],
+    "lmtuj": [],
+    "lmtua": [
+      "modulate"
+    ],
+    "lmti": [],
+    "lmty": [],
+    "ly": [
+      "odyle",
+      "yodel",
+      "yodle"
+    ],
+    "lyp": [
+      "deploy",
+      "ployed"
+    ],
+    "lypu": [],
+    "lypi": [],
+    "lypy": [],
+    "lym": [
+      "melody"
+    ],
+    "lymu": [],
+    "lymi": [
+      "myeloid"
+    ],
+    "lymig": [],
+    "lymij": [],
+    "lymia": [],
+    "lymy": [],
+    "lyt": [],
+    "ln": [
+      "loden",
+      "olden"
+    ],
+    "lnp": [],
+    "lnm": [
+      "dolmen"
+    ],
+    "lnmu": [],
+    "lnmi": [],
+    "lnmy": [],
+    "lnt": []
+  },
+  "scoreTokens": [
+    "1774eadab3a4d913befb6e673f7890b241e677e0e9d54d224e0df73e75728da2",
+    "45cf272b025b838eed179469f62b369f78950767839cb502f6b29bd2ae638d3c",
+    "f7dd1cfc905965799a76f65dcd5bc045eccbc1bc5bbe2c7c6d4e9514ecd5f252",
+    "0387a5b7a46a449dfd215fed10e8fb64c0c762a207d89058479f46cfa0314f90",
+    "43faef011ccc32c81e3cc400bc7e09aa01d63167f9af9a110f7f9d373fb4f15d"
+  ]
+}
