@@ -1,0 +1,172 @@
+{
+  "start": "ess",
+  "target": [
+    "seamarks",
+    "asterism",
+    "misrates",
+    "smarties",
+    "emissary",
+    "etatisms",
+    "misstate",
+    "atheisms"
+  ],
+  "steps": [
+    {
+      "options": "rta"
+    },
+    {
+      "options": "hja"
+    },
+    {
+      "options": "zom"
+    },
+    {
+      "options": "kji"
+    },
+    {
+      "options": "tya"
+    }
+  ],
+  "dictionary": {
+    "r": [
+      "sers"
+    ],
+    "rh": [],
+    "rj": [],
+    "ra": [
+      "arses",
+      "rases",
+      "sears"
+    ],
+    "raz": [],
+    "rao": [
+      "serosa"
+    ],
+    "raok": [
+      "arkoses",
+      "resoaks",
+      "soakers"
+    ],
+    "raokt": [],
+    "raoky": [],
+    "raoka": [],
+    "raoj": [],
+    "raoi": [],
+    "ram": [
+      "marses",
+      "masers",
+      "smears"
+    ],
+    "ramk": [
+      "maskers"
+    ],
+    "ramkt": [],
+    "ramky": [],
+    "ramka": [
+      "seamarks"
+    ],
+    "ramj": [],
+    "rami": [
+      "massier"
+    ],
+    "ramit": [
+      "asterism",
+      "misrates",
+      "smarties"
+    ],
+    "ramiy": [
+      "emissary"
+    ],
+    "ramia": [],
+    "t": [
+      "sets"
+    ],
+    "th": [
+      "hests"
+    ],
+    "thz": [],
+    "tho": [
+      "shotes",
+      "toshes"
+    ],
+    "thok": [],
+    "thoj": [],
+    "thoi": [],
+    "thm": [],
+    "tj": [
+      "jests"
+    ],
+    "tjz": [],
+    "tjo": [],
+    "tjm": [],
+    "ta": [
+      "asset",
+      "easts",
+      "sates",
+      "seats",
+      "tasse"
+    ],
+    "taz": [],
+    "tao": [],
+    "tam": [
+      "steams"
+    ],
+    "tamk": [],
+    "tamj": [
+      "jetsams"
+    ],
+    "tamjt": [],
+    "tamjy": [],
+    "tamja": [],
+    "tami": [
+      "miseats",
+      "misseat",
+      "samites",
+      "tamises"
+    ],
+    "tamit": [
+      "etatisms",
+      "misstate"
+    ],
+    "tamiy": [],
+    "tamia": [],
+    "a": [
+      "seas"
+    ],
+    "ah": [
+      "ashes",
+      "sheas"
+    ],
+    "ahz": [],
+    "aho": [],
+    "ahm": [
+      "mashes",
+      "shames"
+    ],
+    "ahmk": [
+      "samekhs"
+    ],
+    "ahmkt": [],
+    "ahmky": [],
+    "ahmka": [],
+    "ahmj": [],
+    "ahmi": [
+      "mashies",
+      "messiah"
+    ],
+    "ahmit": [
+      "atheisms"
+    ],
+    "ahmiy": [],
+    "ahmia": [],
+    "aj": [],
+    "aa": []
+  },
+  "scoreTokens": [
+    "2b0b46a0af5eb09855d5d7f819890fd15d8ecf899c518d3efd4b51ea255ee5f4",
+    "db77a9ff0990de507158f4c66264413b002f2f416a01cce36a6c9a7e00541234",
+    "803f9fb0a63d6d67d3181ad90a7bb9a60b4f73436bef737b946ea967e9d2c3c4",
+    "359958803cec479108b41ac6ad8eea38ca52762ff5ec9ba56400d3803bd7c2ba",
+    "f31c4eafd487f3bd8a27053dc3060c729944d330b630395aba241a904253d9a3"
+  ]
+}
