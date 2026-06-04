@@ -1,0 +1,120 @@
+{
+  "start": "nit",
+  "target": [
+    "sanative"
+  ],
+  "steps": [
+    {
+      "options": "dso"
+    },
+    {
+      "options": "euo"
+    },
+    {
+      "options": "aho"
+    },
+    {
+      "options": "qaj"
+    },
+    {
+      "options": "kvu"
+    }
+  ],
+  "dictionary": {
+    "d": [
+      "dint"
+    ],
+    "de": [
+      "teind",
+      "tined"
+    ],
+    "dea": [
+      "detain"
+    ],
+    "deaq": [],
+    "deaa": [],
+    "deaj": [],
+    "deh": [
+      "hinted"
+    ],
+    "dehq": [],
+    "deha": [],
+    "dehj": [],
+    "deo": [],
+    "du": [],
+    "do": [
+      "tondi"
+    ],
+    "doa": [],
+    "doh": [],
+    "doo": [],
+    "s": [
+      "nits",
+      "snit",
+      "tins"
+    ],
+    "se": [
+      "inset",
+      "neist",
+      "nites",
+      "senti",
+      "stein",
+      "tines"
+    ],
+    "sea": [
+      "tenias",
+      "tineas",
+      "tisane"
+    ],
+    "seaq": [],
+    "seaa": [
+      "entasia",
+      "taenias"
+    ],
+    "seaak": [],
+    "seaav": [
+      "sanative"
+    ],
+    "seaau": [],
+    "seaj": [],
+    "seh": [
+      "theins"
+    ],
+    "sehq": [],
+    "seha": [
+      "sheitan",
+      "sthenia"
+    ],
+    "sehak": [],
+    "sehav": [],
+    "sehau": [],
+    "sehj": [],
+    "seo": [],
+    "su": [
+      "suint",
+      "units"
+    ],
+    "sua": [],
+    "suh": [],
+    "suo": [
+      "outsin"
+    ],
+    "suoq": [],
+    "suoa": [],
+    "suoj": [],
+    "so": [],
+    "o": [
+      "into"
+    ],
+    "oe": [],
+    "ou": [],
+    "oo": []
+  },
+  "scoreTokens": [
+    "3387310c1a1df6a51f4d19f9dc4d88827977b6194eafda542643d8357c7d8266",
+    "83c03f94d7d69be88fb7b7ee4d3f6dbf4d2c85f877fcdbeba2d51ecad8e3e34b",
+    "906e818bd8676f1160885edc3f288fa9d472e8e6e2ec38c5ca6752bdc5170002",
+    "5bc44eafa7b1622499e5e85dc2d5ca396a6d2b2da2690a611d465e5bfea9a5d2",
+    "5369f23bf52bcbd1e2dc5da35392e3b843a71980a2eb95527cb19e9c88734b1e"
+  ]
+}
