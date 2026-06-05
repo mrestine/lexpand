@@ -1,0 +1,92 @@
+{
+  "start": "mig",
+  "target": [
+    "maskings"
+  ],
+  "steps": [
+    {
+      "options": "arg"
+    },
+    {
+      "options": "cnt"
+    },
+    {
+      "options": "ukr"
+    },
+    {
+      "options": "pbs"
+    },
+    {
+      "options": "jgs"
+    }
+  ],
+  "dictionary": {
+    "a": [
+      "magi"
+    ],
+    "ac": [
+      "gamic",
+      "magic"
+    ],
+    "acu": [],
+    "ack": [],
+    "acr": [],
+    "an": [
+      "gamin"
+    ],
+    "anu": [],
+    "ank": [
+      "making"
+    ],
+    "ankp": [],
+    "ankb": [],
+    "anks": [
+      "makings",
+      "masking"
+    ],
+    "anksj": [],
+    "anksg": [],
+    "ankss": [
+      "maskings"
+    ],
+    "anr": [
+      "arming",
+      "margin"
+    ],
+    "anrp": [
+      "gripman",
+      "ramping"
+    ],
+    "anrpj": [],
+    "anrpg": [],
+    "anrps": [],
+    "anrb": [],
+    "anrs": [
+      "armings",
+      "margins"
+    ],
+    "anrsj": [],
+    "anrsg": [],
+    "anrss": [],
+    "at": [],
+    "r": [
+      "grim"
+    ],
+    "rc": [],
+    "rn": [],
+    "rt": [],
+    "g": [
+      "migg"
+    ],
+    "gc": [],
+    "gn": [],
+    "gt": []
+  },
+  "scoreTokens": [
+    "e91099de1f9029316f767e08c920a9e3d41fff12f9be359b1bc638e10c073b00",
+    "6a4b44cadaed08fdc61125b87f99aeb960eeeb0f24d90d3a25bf15f0702c6401",
+    "dc8a34b4d4a82d6daedad2288c61fbb811be8dbcf83b6a9d3865a591c1bc7dab",
+    "2f18e5bea71b347823b3767f0ceea427d29bd7e39590ef4326792ee650ea6924",
+    "51c38b5d6fe3712ac4f1792fc37b40960694880178865fa57e385aabbe2b21a2"
+  ]
+}
