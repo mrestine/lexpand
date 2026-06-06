@@ -1,0 +1,222 @@
+{
+  "start": "ais",
+  "target": [
+    "haviours",
+    "tovarish",
+    "virtuosa",
+    "hairnets",
+    "inearths",
+    "ruinates",
+    "taurines",
+    "uranites",
+    "urinates",
+    "alunites",
+    "insulate",
+    "ventails",
+    "uraniums",
+    "natriums",
+    "naturism",
+    "varmints"
+  ],
+  "steps": [
+    {
+      "options": "kvn"
+    },
+    {
+      "options": "oem"
+    },
+    {
+      "options": "frl"
+    },
+    {
+      "options": "utz"
+    },
+    {
+      "options": "huv"
+    }
+  ],
+  "dictionary": {
+    "k": [
+      "saki"
+    ],
+    "ko": [
+      "askoi"
+    ],
+    "kof": [],
+    "kor": [],
+    "kol": [],
+    "ke": [],
+    "km": [],
+    "v": [
+      "visa"
+    ],
+    "vo": [
+      "aviso"
+    ],
+    "vof": [],
+    "vor": [
+      "savior"
+    ],
+    "voru": [
+      "saviour",
+      "various"
+    ],
+    "voruh": [
+      "haviours"
+    ],
+    "voruu": [],
+    "voruv": [],
+    "vort": [
+      "travois",
+      "viators"
+    ],
+    "vorth": [
+      "tovarish"
+    ],
+    "vortu": [
+      "virtuosa"
+    ],
+    "vortv": [],
+    "vorz": [],
+    "vol": [
+      "violas"
+    ],
+    "volu": [],
+    "volt": [],
+    "volz": [],
+    "ve": [],
+    "vm": [
+      "mavis"
+    ],
+    "vmf": [
+      "favism"
+    ],
+    "vmfu": [
+      "fauvism"
+    ],
+    "vmfuh": [],
+    "vmfuu": [],
+    "vmfuv": [],
+    "vmft": [],
+    "vmfz": [],
+    "vmr": [],
+    "vml": [],
+    "n": [
+      "ains",
+      "anis",
+      "sain"
+    ],
+    "no": [],
+    "ne": [
+      "anise"
+    ],
+    "nef": [],
+    "ner": [
+      "arisen",
+      "arsine"
+    ],
+    "neru": [],
+    "nert": [
+      "anestri",
+      "antsier",
+      "nastier",
+      "ratines",
+      "retains",
+      "retinas",
+      "retsina",
+      "stainer",
+      "stearin"
+    ],
+    "nerth": [
+      "hairnets",
+      "inearths"
+    ],
+    "nertu": [
+      "ruinates",
+      "taurines",
+      "uranites",
+      "urinates"
+    ],
+    "nertv": [],
+    "nerz": [],
+    "nel": [
+      "aliens",
+      "alines",
+      "elains",
+      "lianes",
+      "saline",
+      "silane"
+    ],
+    "nelu": [
+      "inulase"
+    ],
+    "neluh": [],
+    "neluu": [],
+    "neluv": [],
+    "nelt": [
+      "elastin",
+      "entails",
+      "nailset",
+      "salient",
+      "saltine",
+      "slainte",
+      "tenails"
+    ],
+    "nelth": [],
+    "neltu": [
+      "alunites",
+      "insulate"
+    ],
+    "neltv": [
+      "ventails"
+    ],
+    "nelz": [],
+    "nm": [
+      "amins",
+      "mains",
+      "minas"
+    ],
+    "nmf": [],
+    "nmr": [
+      "inarms"
+    ],
+    "nmru": [
+      "uranism"
+    ],
+    "nmruh": [],
+    "nmruu": [
+      "uraniums"
+    ],
+    "nmruv": [],
+    "nmrt": [
+      "martins"
+    ],
+    "nmrth": [],
+    "nmrtu": [
+      "natriums",
+      "naturism"
+    ],
+    "nmrtv": [
+      "varmints"
+    ],
+    "nmrz": [],
+    "nml": [
+      "limans"
+    ],
+    "nmlu": [
+      "alumins"
+    ],
+    "nmluh": [],
+    "nmluu": [],
+    "nmluv": [],
+    "nmlt": [],
+    "nmlz": []
+  },
+  "scoreTokens": [
+    "19e07619a3193f6b4e23bc630a94f516a9d0f896f21c43e5380702438a5ae9d4",
+    "07b2aba1638461ae05c7211e9bf5635c4a9355a455187b3cad7324416e7699a4",
+    "33531a4c5b7647327537215e4e516855839818cc51c34f1776a3d6b1594b49f3",
+    "3e33fe44d1f069c98cc08910d0de174b052ef3ed2a806ec73e96761cb1c15a29",
+    "0071c6f627ebaa91eaa646567f4ed8e256d92f3e35bf4f7dab72d811bf6c2d1f"
+  ]
+}
