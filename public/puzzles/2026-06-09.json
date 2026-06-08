@@ -1,0 +1,659 @@
+{
+  "start": "ret",
+  "target": [
+    "purities",
+    "imprests",
+    "pursiest",
+    "emptiers",
+    "imposter",
+    "roupiest",
+    "stompers",
+    "outpress",
+    "postures",
+    "spouters",
+    "superhot",
+    "ceramist",
+    "matrices",
+    "mistrace",
+    "scimetar",
+    "suricate",
+    "cremates",
+    "secateur",
+    "rhematic",
+    "watchers",
+    "matchers",
+    "wisteria",
+    "airtimes",
+    "seriatim",
+    "waisters",
+    "waitress",
+    "wastries",
+    "asterism",
+    "misrates",
+    "smarties",
+    "sweatier",
+    "wasterie",
+    "weariest",
+    "emirates",
+    "steamier",
+    "sweaters",
+    "masseter",
+    "seamster",
+    "steamers",
+    "waterish",
+    "thesauri",
+    "swathers",
+    "hamsters",
+    "weathers",
+    "wreathes",
+    "minsters",
+    "trimness",
+    "misenter",
+    "esurient",
+    "retinues",
+    "reunites",
+    "westerns",
+    "trueness",
+    "routines",
+    "snoutier",
+    "monsters",
+    "tonsures",
+    "southern",
+    "hereunto"
+  ],
+  "steps": [
+    {
+      "options": "pan"
+    },
+    {
+      "options": "cso"
+    },
+    {
+      "options": "ish"
+    },
+    {
+      "options": "ise"
+    },
+    {
+      "options": "wmu"
+    }
+  ],
+  "dictionary": {
+    "p": [
+      "pert"
+    ],
+    "pc": [
+      "crept"
+    ],
+    "pci": [],
+    "pcs": [],
+    "pch": [],
+    "ps": [
+      "prest",
+      "strep"
+    ],
+    "psi": [
+      "esprit",
+      "priest",
+      "ripest",
+      "sprite",
+      "stripe",
+      "tripes"
+    ],
+    "psii": [
+      "pitiers",
+      "tipsier"
+    ],
+    "psiiw": [],
+    "psiim": [],
+    "psiiu": [
+      "purities"
+    ],
+    "psis": [
+      "esprits",
+      "persist",
+      "priests",
+      "spriest",
+      "sprites",
+      "stirpes",
+      "stripes"
+    ],
+    "psisw": [],
+    "psism": [
+      "imprests"
+    ],
+    "psisu": [
+      "pursiest"
+    ],
+    "psie": [
+      "pestier",
+      "respite"
+    ],
+    "psiew": [],
+    "psiem": [
+      "emptiers"
+    ],
+    "psieu": [],
+    "pss": [
+      "prests",
+      "streps"
+    ],
+    "pssi": [
+      "esprits",
+      "persist",
+      "priests",
+      "spriest",
+      "sprites",
+      "stirpes",
+      "stripes"
+    ],
+    "pssiw": [],
+    "pssim": [
+      "imprests"
+    ],
+    "pssiu": [
+      "pursiest"
+    ],
+    "psss": [],
+    "psse": [
+      "pesters",
+      "presets"
+    ],
+    "pssew": [],
+    "pssem": [],
+    "psseu": [],
+    "psh": [],
+    "po": [
+      "repot",
+      "toper",
+      "trope"
+    ],
+    "poi": [
+      "protei"
+    ],
+    "poii": [],
+    "pois": [
+      "prostie",
+      "reposit",
+      "riposte",
+      "ropiest"
+    ],
+    "poisw": [],
+    "poism": [
+      "imposter"
+    ],
+    "poisu": [
+      "roupiest"
+    ],
+    "poie": [],
+    "pos": [
+      "poster",
+      "presto",
+      "repots",
+      "respot",
+      "stoper",
+      "topers",
+      "tropes"
+    ],
+    "posi": [
+      "prostie",
+      "reposit",
+      "riposte",
+      "ropiest"
+    ],
+    "posiw": [],
+    "posim": [
+      "imposter"
+    ],
+    "posiu": [
+      "roupiest"
+    ],
+    "poss": [
+      "posters",
+      "prestos",
+      "respots",
+      "stopers"
+    ],
+    "possw": [],
+    "possm": [
+      "stompers"
+    ],
+    "possu": [
+      "outpress",
+      "postures",
+      "spouters"
+    ],
+    "pose": [],
+    "poh": [
+      "pother",
+      "thorpe"
+    ],
+    "pohi": [],
+    "pohs": [
+      "pothers",
+      "strophe",
+      "thorpes"
+    ],
+    "pohsw": [],
+    "pohsm": [],
+    "pohsu": [
+      "superhot"
+    ],
+    "pohe": [],
+    "a": [
+      "rate",
+      "tare",
+      "tear"
+    ],
+    "ac": [
+      "caret",
+      "carte",
+      "cater",
+      "crate",
+      "react",
+      "recta",
+      "trace"
+    ],
+    "aci": [],
+    "acs": [
+      "carets",
+      "cartes",
+      "caster",
+      "caters",
+      "crates",
+      "reacts",
+      "recast",
+      "traces"
+    ],
+    "acsi": [
+      "cristae",
+      "raciest",
+      "stearic"
+    ],
+    "acsiw": [],
+    "acsim": [
+      "ceramist",
+      "matrices",
+      "mistrace",
+      "scimetar"
+    ],
+    "acsiu": [
+      "suricate"
+    ],
+    "acss": [
+      "actress",
+      "casters",
+      "recasts"
+    ],
+    "acssw": [],
+    "acssm": [],
+    "acssu": [],
+    "acse": [
+      "cerates",
+      "creates",
+      "ecartes"
+    ],
+    "acsew": [],
+    "acsem": [
+      "cremates"
+    ],
+    "acseu": [
+      "secateur"
+    ],
+    "ach": [
+      "rachet"
+    ],
+    "achi": [
+      "theriac"
+    ],
+    "achiw": [],
+    "achim": [
+      "rhematic"
+    ],
+    "achiu": [],
+    "achs": [
+      "chaster",
+      "rachets",
+      "ratches"
+    ],
+    "achsw": [
+      "watchers"
+    ],
+    "achsm": [
+      "matchers"
+    ],
+    "achsu": [],
+    "ache": [
+      "cheater",
+      "hectare",
+      "recheat",
+      "reteach",
+      "teacher"
+    ],
+    "achew": [],
+    "achem": [],
+    "acheu": [],
+    "as": [
+      "aster",
+      "rates",
+      "stare",
+      "tares",
+      "tears"
+    ],
+    "asi": [
+      "airest",
+      "satire",
+      "striae",
+      "terais"
+    ],
+    "asii": [
+      "airiest"
+    ],
+    "asiiw": [
+      "wisteria"
+    ],
+    "asiim": [
+      "airtimes",
+      "seriatim"
+    ],
+    "asiiu": [],
+    "asis": [
+      "satires"
+    ],
+    "asisw": [
+      "waisters",
+      "waitress",
+      "wastries"
+    ],
+    "asism": [
+      "asterism",
+      "misrates",
+      "smarties"
+    ],
+    "asisu": [],
+    "asie": [
+      "aeriest",
+      "seriate"
+    ],
+    "asiew": [
+      "sweatier",
+      "wasterie",
+      "weariest"
+    ],
+    "asiem": [
+      "emirates",
+      "steamier"
+    ],
+    "asieu": [],
+    "ass": [
+      "assert",
+      "asters",
+      "stares"
+    ],
+    "assi": [
+      "satires"
+    ],
+    "assiw": [
+      "waisters",
+      "waitress",
+      "wastries"
+    ],
+    "assim": [
+      "asterism",
+      "misrates",
+      "smarties"
+    ],
+    "assiu": [],
+    "asss": [
+      "asserts",
+      "trasses"
+    ],
+    "asssw": [],
+    "asssm": [],
+    "asssu": [],
+    "asse": [
+      "easters",
+      "reseats",
+      "searest",
+      "seaters",
+      "teasers",
+      "tessera"
+    ],
+    "assew": [
+      "sweaters"
+    ],
+    "assem": [
+      "masseter",
+      "seamster",
+      "steamers"
+    ],
+    "asseu": [],
+    "ash": [
+      "earths",
+      "haters",
+      "hearts"
+    ],
+    "ashi": [
+      "hastier"
+    ],
+    "ashiw": [
+      "waterish"
+    ],
+    "ashim": [],
+    "ashiu": [
+      "thesauri"
+    ],
+    "ashs": [
+      "rashest",
+      "trashes"
+    ],
+    "ashsw": [
+      "swathers"
+    ],
+    "ashsm": [
+      "hamsters"
+    ],
+    "ashsu": [],
+    "ashe": [
+      "aethers",
+      "heaters",
+      "reheats"
+    ],
+    "ashew": [
+      "weathers",
+      "wreathes"
+    ],
+    "ashem": [],
+    "asheu": [],
+    "ao": [
+      "oater",
+      "orate"
+    ],
+    "aoi": [],
+    "aos": [
+      "oaters",
+      "orates"
+    ],
+    "aosi": [],
+    "aoss": [],
+    "aose": [
+      "roseate"
+    ],
+    "aosew": [],
+    "aosem": [],
+    "aoseu": [],
+    "aoh": [],
+    "n": [
+      "rent",
+      "tern"
+    ],
+    "nc": [],
+    "ns": [
+      "nerts",
+      "rents",
+      "stern",
+      "terns"
+    ],
+    "nsi": [
+      "estrin",
+      "inerts",
+      "insert",
+      "inters",
+      "niters",
+      "nitres",
+      "sinter",
+      "triens",
+      "trines"
+    ],
+    "nsii": [],
+    "nsis": [
+      "estrins",
+      "inserts",
+      "sinters"
+    ],
+    "nsisw": [],
+    "nsism": [
+      "minsters",
+      "trimness"
+    ],
+    "nsisu": [],
+    "nsie": [
+      "entires",
+      "entries",
+      "retines",
+      "trienes"
+    ],
+    "nsiew": [],
+    "nsiem": [
+      "misenter"
+    ],
+    "nsieu": [
+      "esurient",
+      "retinues",
+      "reunites"
+    ],
+    "nss": [
+      "sterns"
+    ],
+    "nssi": [
+      "estrins",
+      "inserts",
+      "sinters"
+    ],
+    "nssiw": [],
+    "nssim": [
+      "minsters",
+      "trimness"
+    ],
+    "nssiu": [],
+    "nsss": [],
+    "nsse": [
+      "nesters",
+      "renests",
+      "resents"
+    ],
+    "nssew": [
+      "westerns"
+    ],
+    "nssem": [],
+    "nsseu": [
+      "trueness"
+    ],
+    "nsh": [],
+    "no": [
+      "noter",
+      "tenor",
+      "toner",
+      "trone"
+    ],
+    "noi": [
+      "norite",
+      "orient",
+      "tonier"
+    ],
+    "noii": [],
+    "nois": [
+      "norites",
+      "oestrin",
+      "orients",
+      "stonier"
+    ],
+    "noisw": [],
+    "noism": [],
+    "noisu": [
+      "routines",
+      "snoutier"
+    ],
+    "noie": [],
+    "nos": [
+      "nestor",
+      "noters",
+      "stoner",
+      "tenors",
+      "tensor",
+      "toners",
+      "trones"
+    ],
+    "nosi": [
+      "norites",
+      "oestrin",
+      "orients",
+      "stonier"
+    ],
+    "nosiw": [],
+    "nosim": [],
+    "nosiu": [
+      "routines",
+      "snoutier"
+    ],
+    "noss": [
+      "nestors",
+      "stoners",
+      "tensors"
+    ],
+    "nossw": [],
+    "nossm": [
+      "monsters"
+    ],
+    "nossu": [
+      "tonsures"
+    ],
+    "nose": [
+      "estrone"
+    ],
+    "nosew": [],
+    "nosem": [],
+    "noseu": [],
+    "noh": [
+      "hornet",
+      "nother",
+      "throne"
+    ],
+    "nohi": [],
+    "nohs": [
+      "hornets",
+      "shorten",
+      "thrones"
+    ],
+    "nohsw": [],
+    "nohsm": [],
+    "nohsu": [
+      "southern"
+    ],
+    "nohe": [
+      "thereon"
+    ],
+    "nohew": [],
+    "nohem": [],
+    "noheu": [
+      "hereunto"
+    ]
+  },
+  "scoreTokens": [
+    "38e3dadf5efba05ee9125f2fdd186ea8ef20a1441329107d0a4b053a91ce4458",
+    "a086d0ccc437eae9b673c6365552d2797a42d92cc651734bca15cd8c241541db",
+    "d510b9f22a3ef60028e15204720bc0f60288d6b439500efadc424a6e550f9530",
+    "e448b0b6c0c947d18757a20c333c12fe7085573c0e55e3d03e521d7d2f9f61d8",
+    "038adf3b079bc5d60f05fe1eddeed0decb0c45229c07778bdebeb20806e7a802"
+  ]
+}
