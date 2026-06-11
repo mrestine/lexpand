@@ -1,0 +1,233 @@
+{
+  "start": "set",
+  "target": [
+    "insanest",
+    "stanines",
+    "antsiest",
+    "instates",
+    "nastiest",
+    "satinets",
+    "titaness",
+    "basinets",
+    "bassinet",
+    "cineasts",
+    "scanties",
+    "statices",
+    "asbestic",
+    "nettings",
+    "tennists",
+    "stannite",
+    "ancients",
+    "canniest",
+    "insectan",
+    "instance",
+    "entastic",
+    "nictates",
+    "tetanics",
+    "cabinets"
+  ],
+  "steps": [
+    {
+      "options": "sbn"
+    },
+    {
+      "options": "ifw"
+    },
+    {
+      "options": "gsa"
+    },
+    {
+      "options": "ncz"
+    },
+    {
+      "options": "ntb"
+    }
+  ],
+  "dictionary": {
+    "s": [
+      "sets"
+    ],
+    "si": [
+      "sites",
+      "sties"
+    ],
+    "sig": [],
+    "sis": [],
+    "sia": [
+      "siesta",
+      "tassie"
+    ],
+    "sian": [
+      "entasis",
+      "nasties",
+      "sestina",
+      "tansies",
+      "tisanes"
+    ],
+    "siann": [
+      "insanest",
+      "stanines"
+    ],
+    "siant": [
+      "antsiest",
+      "instates",
+      "nastiest",
+      "satinets",
+      "titaness"
+    ],
+    "sianb": [
+      "basinets",
+      "bassinet"
+    ],
+    "siac": [
+      "ascites",
+      "ectasis"
+    ],
+    "siacn": [
+      "cineasts",
+      "scanties"
+    ],
+    "siact": [
+      "statices"
+    ],
+    "siacb": [
+      "asbestic"
+    ],
+    "siaz": [],
+    "sf": [],
+    "sw": [
+      "stews",
+      "wests"
+    ],
+    "swg": [],
+    "sws": [],
+    "swa": [
+      "sweats",
+      "tawses",
+      "wastes"
+    ],
+    "swan": [],
+    "swac": [],
+    "swaz": [],
+    "b": [
+      "best",
+      "bets"
+    ],
+    "bi": [
+      "bites"
+    ],
+    "big": [],
+    "bis": [],
+    "bia": [],
+    "bf": [],
+    "bw": [],
+    "n": [
+      "nest",
+      "nets",
+      "sent",
+      "tens"
+    ],
+    "ni": [
+      "inset",
+      "neist",
+      "nites",
+      "senti",
+      "stein",
+      "tines"
+    ],
+    "nig": [
+      "ingest",
+      "signet",
+      "tinges"
+    ],
+    "nign": [
+      "nesting",
+      "tensing"
+    ],
+    "nignn": [],
+    "nignt": [
+      "nettings"
+    ],
+    "nignb": [],
+    "nigc": [],
+    "nigz": [
+      "zesting"
+    ],
+    "nigzn": [],
+    "nigzt": [],
+    "nigzb": [],
+    "nis": [
+      "insets",
+      "steins"
+    ],
+    "nisn": [
+      "sennits"
+    ],
+    "nisnn": [],
+    "nisnt": [
+      "tennists"
+    ],
+    "nisnb": [],
+    "nisc": [
+      "incests",
+      "insects"
+    ],
+    "niscn": [],
+    "nisct": [],
+    "niscb": [],
+    "nisz": [],
+    "nia": [
+      "tenias",
+      "tineas",
+      "tisane"
+    ],
+    "nian": [
+      "inanest",
+      "stanine"
+    ],
+    "niann": [],
+    "niant": [
+      "stannite"
+    ],
+    "nianb": [],
+    "niac": [
+      "acetins",
+      "cineast"
+    ],
+    "niacn": [
+      "ancients",
+      "canniest",
+      "insectan",
+      "instance"
+    ],
+    "niact": [
+      "entastic",
+      "nictates",
+      "tetanics"
+    ],
+    "niacb": [
+      "cabinets"
+    ],
+    "niaz": [
+      "zaniest",
+      "zeatins"
+    ],
+    "niazn": [],
+    "niazt": [],
+    "niazb": [],
+    "nf": [],
+    "nw": [
+      "newts"
+    ],
+    "nwg": [],
+    "nws": [],
+    "nwa": []
+  },
+  "scoreTokens": [
+    "edb967622a921dbcfb693f10f7120f2fde4117e6d0beacb5cf56ae9d6975c06c",
+    "24b7209a9bb99929cfec854418cbcd786b66b231302d146c32f75123b4e0a5a8",
+    "b05c4453b91bbbb61aafb98f9feae0262e8db615437605308f481941956df356",
+    "a61e6821277c3ee0b47ed4b1357c0aee6e3d6eb991e9e36d1c0a72eccb2a3f2a",
+    "7f662c74c5b6769ae2f8584a5558daf7f46e190127b36cda518a556f4757b070"
+  ]
+}
