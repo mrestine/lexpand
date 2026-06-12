@@ -1,0 +1,87 @@
+{
+  "start": "del",
+  "target": [
+    "untilted",
+    "untitled"
+  ],
+  "steps": [
+    {
+      "options": "bin"
+    },
+    {
+      "options": "ztf"
+    },
+    {
+      "options": "ziu"
+    },
+    {
+      "options": "nrb"
+    },
+    {
+      "options": "taf"
+    }
+  ],
+  "dictionary": {
+    "b": [
+      "bled"
+    ],
+    "bz": [],
+    "bt": [],
+    "bf": [],
+    "i": [
+      "deil",
+      "deli",
+      "diel",
+      "idle",
+      "lied"
+    ],
+    "iz": [],
+    "it": [
+      "tilde",
+      "tiled"
+    ],
+    "itz": [],
+    "iti": [],
+    "itu": [
+      "dilute"
+    ],
+    "itun": [
+      "diluent"
+    ],
+    "itunt": [
+      "untilted",
+      "untitled"
+    ],
+    "ituna": [],
+    "itunf": [],
+    "itur": [
+      "diluter"
+    ],
+    "iturt": [],
+    "itura": [],
+    "iturf": [],
+    "itub": [],
+    "if": [
+      "felid",
+      "field",
+      "filed",
+      "flied"
+    ],
+    "ifz": [],
+    "ifi": [],
+    "ifu": [],
+    "n": [
+      "lend"
+    ],
+    "nz": [],
+    "nt": [],
+    "nf": []
+  },
+  "scoreTokens": [
+    "2f97b957c6c8665115222eb485c2e9c1170ccf03c1c8bf0a82ba370c3106ce40",
+    "b088bee6d6639bd3eee331e1a6494bc352861fee6964e55bd89acf3554de0504",
+    "22c5146957135f6c0992d5ee2eca8bfd90c63eb7ee5eaf710d88c61202cf909d",
+    "ad7d68108f91afab024fb26044b9862a6f88033811e038c3420fcbcc201a6160",
+    "05c90fbbaeb8d62d102cd0ef891aab63ac033abe5dc8e4ffdf70f9cec42817da"
+  ]
+}
