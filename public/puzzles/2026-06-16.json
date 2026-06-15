@@ -1,0 +1,103 @@
+{
+  "start": "lam",
+  "target": [
+    "exampled",
+    "somedeal",
+    "melodias"
+  ],
+  "steps": [
+    {
+      "options": "erh"
+    },
+    {
+      "options": "xdq"
+    },
+    {
+      "options": "eps"
+    },
+    {
+      "options": "eji"
+    },
+    {
+      "options": "oxu"
+    }
+  ],
+  "dictionary": {
+    "e": [
+      "alme",
+      "lame",
+      "male",
+      "meal"
+    ],
+    "ex": [],
+    "ed": [
+      "lamed",
+      "medal"
+    ],
+    "ede": [],
+    "edp": [
+      "lamped",
+      "palmed"
+    ],
+    "edpe": [
+      "empaled"
+    ],
+    "edpeo": [],
+    "edpex": [
+      "exampled"
+    ],
+    "edpeu": [],
+    "edpj": [],
+    "edpi": [
+      "impaled",
+      "implead"
+    ],
+    "edpio": [],
+    "edpix": [],
+    "edpiu": [],
+    "eds": [
+      "damsel",
+      "lameds",
+      "medals"
+    ],
+    "edse": [
+      "measled"
+    ],
+    "edseo": [
+      "somedeal"
+    ],
+    "edsex": [],
+    "edseu": [],
+    "edsj": [],
+    "edsi": [
+      "medials",
+      "misdeal",
+      "mislead"
+    ],
+    "edsio": [
+      "melodias"
+    ],
+    "edsix": [],
+    "edsiu": [],
+    "eq": [],
+    "r": [
+      "marl"
+    ],
+    "rx": [],
+    "rd": [],
+    "rq": [],
+    "h": [
+      "halm"
+    ],
+    "hx": [],
+    "hd": [],
+    "hq": []
+  },
+  "scoreTokens": [
+    "40b3dba7a21e34e5da987f40bad677e6f28d2b444e5783d71e1cca7e4ffa7c6f",
+    "51736b75d3db32aaca05002a8faf0675e73f8c78a43c098756e9e6e16477fd4f",
+    "b69b21bb6c7a9c27a407e66b511481e4296fd1c9b4c2aeb2f8e352e14c08d413",
+    "12d7b791406420450df765575aaf22c9096deabb57eab0e4fad66f9b64973190",
+    "34c7074ac1dd72318cc82d2eb0fc7d2e6d1e1c68513c0c4bb7862567043052d9"
+  ]
+}
