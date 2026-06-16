@@ -1,0 +1,226 @@
+{
+  "start": "lei",
+  "target": [
+    "panelist",
+    "pantiles",
+    "plainest",
+    "liquated",
+    "pipefuls"
+  ],
+  "steps": [
+    {
+      "options": "nds"
+    },
+    {
+      "options": "ptu"
+    },
+    {
+      "options": "lus"
+    },
+    {
+      "options": "qzp"
+    },
+    {
+      "options": "fak"
+    }
+  ],
+  "dictionary": {
+    "n": [
+      "lien",
+      "line"
+    ],
+    "np": [],
+    "nt": [
+      "elint",
+      "inlet"
+    ],
+    "ntl": [
+      "lentil",
+      "lintel"
+    ],
+    "ntlq": [],
+    "ntlz": [],
+    "ntlp": [],
+    "ntu": [
+      "lutein"
+    ],
+    "ntuq": [],
+    "ntuz": [],
+    "ntup": [],
+    "nts": [
+      "elints",
+      "enlist",
+      "inlets",
+      "listen",
+      "silent",
+      "tinsel"
+    ],
+    "ntsq": [],
+    "ntsz": [],
+    "ntsp": [
+      "pintles",
+      "plenist"
+    ],
+    "ntspf": [],
+    "ntspa": [
+      "panelist",
+      "pantiles",
+      "plainest"
+    ],
+    "ntspk": [],
+    "nu": [],
+    "d": [
+      "deil",
+      "deli",
+      "diel",
+      "idle",
+      "lied"
+    ],
+    "dp": [
+      "piled",
+      "plied"
+    ],
+    "dpl": [
+      "pilled"
+    ],
+    "dplq": [],
+    "dplz": [],
+    "dplp": [],
+    "dpu": [],
+    "dps": [
+      "dispel",
+      "lisped",
+      "sliped",
+      "spiled"
+    ],
+    "dpsq": [],
+    "dpsz": [],
+    "dpsp": [
+      "slipped"
+    ],
+    "dpspf": [],
+    "dpspa": [],
+    "dpspk": [],
+    "dt": [
+      "tilde",
+      "tiled"
+    ],
+    "dtl": [
+      "lilted",
+      "tilled"
+    ],
+    "dtlq": [],
+    "dtlz": [],
+    "dtlp": [],
+    "dtu": [
+      "dilute"
+    ],
+    "dtuq": [
+      "quilted"
+    ],
+    "dtuqf": [],
+    "dtuqa": [
+      "liquated"
+    ],
+    "dtuqk": [],
+    "dtuz": [],
+    "dtup": [],
+    "dts": [
+      "delist",
+      "idlest",
+      "listed",
+      "silted",
+      "tildes"
+    ],
+    "dtsq": [],
+    "dtsz": [],
+    "dtsp": [],
+    "du": [],
+    "s": [
+      "isle",
+      "leis",
+      "lies"
+    ],
+    "sp": [
+      "piles",
+      "plies",
+      "slipe",
+      "speil",
+      "spiel",
+      "spile"
+    ],
+    "spl": [],
+    "spu": [
+      "pileus"
+    ],
+    "spuq": [],
+    "spuz": [],
+    "spup": [
+      "pileups",
+      "uppiles"
+    ],
+    "spupf": [
+      "pipefuls"
+    ],
+    "spupa": [],
+    "spupk": [],
+    "sps": [
+      "plisse",
+      "slipes",
+      "speils",
+      "spiels",
+      "spiles"
+    ],
+    "spsq": [],
+    "spsz": [
+      "zipless"
+    ],
+    "spszf": [],
+    "spsza": [],
+    "spszk": [],
+    "spsp": [],
+    "st": [
+      "islet",
+      "istle",
+      "stile",
+      "tiles"
+    ],
+    "stl": [
+      "illest",
+      "listel"
+    ],
+    "stlq": [],
+    "stlz": [],
+    "stlp": [],
+    "stu": [],
+    "sts": [
+      "islets",
+      "istles",
+      "sliest",
+      "stiles"
+    ],
+    "stsq": [],
+    "stsz": [],
+    "stsp": [
+      "stipels",
+      "tipless"
+    ],
+    "stspf": [],
+    "stspa": [],
+    "stspk": [],
+    "su": [
+      "ileus",
+      "lieus"
+    ],
+    "sul": [],
+    "suu": [],
+    "sus": []
+  },
+  "scoreTokens": [
+    "0c15d68dee679fe9e8683bd224b091429d7ed2d215d4b016fce47d60f1064db1",
+    "71dc2c5567561fa048cc69c69d5dd1c2e0eece205f1df6e28dbc62d7a825996c",
+    "b3b0e7571acf6b6576f2ef3e16e173bcc800385ccb67a75d9bb0433d0b33ebd0",
+    "a2a86fbf1a4a7678a9b8e896b9dec220070960820d67773e0e127b1ac4a7ddf1",
+    "4b242a5a6fe8cf902f81c70ac9a3956b9690973ff3c8adbf48e710542d9a3535"
+  ]
+}
