@@ -1,0 +1,153 @@
+{
+  "start": "ran",
+  "target": [
+    "crannoge"
+  ],
+  "steps": [
+    {
+      "options": "kcy"
+    },
+    {
+      "options": "fyo"
+    },
+    {
+      "options": "szg"
+    },
+    {
+      "options": "pef"
+    },
+    {
+      "options": "kvn"
+    }
+  ],
+  "dictionary": {
+    "k": [
+      "karn",
+      "knar",
+      "nark",
+      "rank"
+    ],
+    "kf": [
+      "frank"
+    ],
+    "kfs": [
+      "franks"
+    ],
+    "kfsp": [],
+    "kfse": [],
+    "kfsf": [],
+    "kfz": [],
+    "kfg": [],
+    "ky": [
+      "narky"
+    ],
+    "kys": [
+      "snarky"
+    ],
+    "kysp": [],
+    "kyse": [],
+    "kysf": [],
+    "kyz": [],
+    "kyg": [],
+    "ko": [
+      "krona"
+    ],
+    "kos": [],
+    "koz": [],
+    "kog": [],
+    "c": [
+      "carn",
+      "narc"
+    ],
+    "cf": [
+      "franc"
+    ],
+    "cfs": [
+      "francs"
+    ],
+    "cfsp": [],
+    "cfse": [],
+    "cfsf": [],
+    "cfz": [],
+    "cfg": [],
+    "cy": [
+      "carny"
+    ],
+    "cys": [],
+    "cyz": [],
+    "cyg": [],
+    "co": [
+      "acorn",
+      "narco",
+      "racon"
+    ],
+    "cos": [
+      "acorns",
+      "narcos",
+      "racons"
+    ],
+    "cosp": [],
+    "cose": [
+      "coarsen",
+      "corneas",
+      "narcose"
+    ],
+    "cosek": [],
+    "cosev": [],
+    "cosen": [],
+    "cosf": [],
+    "coz": [],
+    "cog": [
+      "garcon"
+    ],
+    "cogp": [],
+    "coge": [
+      "acrogen"
+    ],
+    "cogek": [],
+    "cogev": [],
+    "cogen": [
+      "crannoge"
+    ],
+    "cogf": [],
+    "y": [
+      "nary",
+      "yarn"
+    ],
+    "yf": [],
+    "yy": [],
+    "yo": [
+      "rayon"
+    ],
+    "yos": [
+      "rayons"
+    ],
+    "yosp": [],
+    "yose": [],
+    "yosf": [],
+    "yoz": [
+      "zonary"
+    ],
+    "yozp": [],
+    "yoze": [],
+    "yozf": [],
+    "yog": [
+      "orangy"
+    ],
+    "yogp": [],
+    "yoge": [
+      "orangey"
+    ],
+    "yogek": [],
+    "yogev": [],
+    "yogen": [],
+    "yogf": []
+  },
+  "scoreTokens": [
+    "8d415946b02304edf35dac693c0a5255b327680b6e52a8c6d59bfb77814f3510",
+    "12a2858dc482518034ddc6dc96e731ffd27f47948f8dc38a3ab3b5c4cef3316d",
+    "3793abb1a54643f00cc29e2a66afaa34d8564e2470fa0247a130e73081e81159",
+    "60d15ab38e8209e3de7e59acbe9db4240fe47809a4007adef9b8ea68fe7fdf89",
+    "cb290256bdcb1fb9cc551f86bb14d10acad7d402707ab200cfbf88a415056c25"
+  ]
+}
