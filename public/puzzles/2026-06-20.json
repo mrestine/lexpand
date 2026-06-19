@@ -1,0 +1,114 @@
+{
+  "start": "mol",
+  "target": [
+    "blossomy"
+  ],
+  "steps": [
+    {
+      "options": "ohd"
+    },
+    {
+      "options": "bet"
+    },
+    {
+      "options": "ybs"
+    },
+    {
+      "options": "esy"
+    },
+    {
+      "options": "bmy"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "loom",
+      "mool"
+    ],
+    "ob": [
+      "bloom"
+    ],
+    "oby": [
+      "bloomy"
+    ],
+    "obye": [],
+    "obys": [],
+    "obyy": [],
+    "obb": [],
+    "obs": [
+      "blooms"
+    ],
+    "obse": [],
+    "obss": [
+      "blossom"
+    ],
+    "obssb": [],
+    "obssm": [],
+    "obssy": [
+      "blossomy"
+    ],
+    "obsy": [],
+    "oe": [],
+    "ot": [
+      "molto"
+    ],
+    "oty": [],
+    "otb": [],
+    "ots": [],
+    "h": [
+      "holm"
+    ],
+    "hb": [],
+    "he": [
+      "mohel"
+    ],
+    "hey": [
+      "homely"
+    ],
+    "heye": [],
+    "heys": [],
+    "heyy": [],
+    "heb": [],
+    "hes": [
+      "mohels"
+    ],
+    "hese": [],
+    "hess": [],
+    "hesy": [],
+    "ht": [],
+    "d": [
+      "mold"
+    ],
+    "db": [],
+    "de": [
+      "model"
+    ],
+    "dey": [
+      "melody"
+    ],
+    "deye": [],
+    "deys": [],
+    "deyy": [],
+    "deb": [
+      "mobled"
+    ],
+    "debe": [],
+    "debs": [],
+    "deby": [],
+    "des": [
+      "models",
+      "seldom"
+    ],
+    "dese": [],
+    "dess": [],
+    "desy": [],
+    "dt": []
+  },
+  "scoreTokens": [
+    "d41a40f2da0deaaf70338f60692eb7d209ccb18e94e767ddf4610ce6e5957322",
+    "cbfc1148b1946e63582c55290428acd58c5456b0d0d279de0eafae25f32fd778",
+    "9842edc16e6993180f4eed1721f2ba6fe272250f83142a38a030ffac24fa8253",
+    "ebe4752d4f7047cfb206c7304207b079e05dee1e15006c7b1c47fe241456df89",
+    "603bd510df692ae97c3b7b3575666fb5c3c925d38ccb15103f0e6faebaf812b9"
+  ]
+}
