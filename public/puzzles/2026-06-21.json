@@ -1,0 +1,148 @@
+{
+  "start": "sat",
+  "target": [
+    "banquets"
+  ],
+  "steps": [
+    {
+      "options": "wum"
+    },
+    {
+      "options": "cer"
+    },
+    {
+      "options": "bwt"
+    },
+    {
+      "options": "bny"
+    },
+    {
+      "options": "aeq"
+    }
+  ],
+  "dictionary": {
+    "w": [
+      "staw",
+      "swat",
+      "taws",
+      "twas",
+      "wast",
+      "wats"
+    ],
+    "wc": [],
+    "we": [
+      "sweat",
+      "tawse",
+      "twaes",
+      "waste"
+    ],
+    "web": [],
+    "wew": [],
+    "wet": [],
+    "wr": [
+      "straw",
+      "swart",
+      "warts"
+    ],
+    "wrb": [],
+    "wrw": [],
+    "wrt": [],
+    "u": [
+      "taus",
+      "utas"
+    ],
+    "uc": [
+      "scuta"
+    ],
+    "ucb": [
+      "sacbut"
+    ],
+    "ucbb": [],
+    "ucbn": [],
+    "ucby": [],
+    "ucw": [],
+    "uct": [],
+    "ue": [
+      "saute"
+    ],
+    "ueb": [
+      "beauts"
+    ],
+    "uebb": [],
+    "uebn": [
+      "butanes"
+    ],
+    "uebna": [],
+    "uebne": [],
+    "uebnq": [
+      "banquets"
+    ],
+    "ueby": [],
+    "uew": [],
+    "uet": [
+      "astute",
+      "statue"
+    ],
+    "uetb": [
+      "battues"
+    ],
+    "uetba": [],
+    "uetbe": [],
+    "uetbq": [],
+    "uetn": [
+      "attunes",
+      "nutates",
+      "tautens",
+      "tetanus",
+      "unstate"
+    ],
+    "uetna": [],
+    "uetne": [],
+    "uetnq": [],
+    "uety": [],
+    "ur": [
+      "sutra"
+    ],
+    "urb": [],
+    "urw": [],
+    "urt": [],
+    "m": [
+      "mast",
+      "mats",
+      "tams"
+    ],
+    "mc": [],
+    "me": [
+      "mates",
+      "meats",
+      "satem",
+      "steam",
+      "tames",
+      "teams"
+    ],
+    "meb": [],
+    "mew": [],
+    "met": [
+      "mattes",
+      "tamest"
+    ],
+    "metb": [],
+    "metn": [],
+    "mety": [],
+    "mr": [
+      "marts",
+      "smart",
+      "trams"
+    ],
+    "mrb": [],
+    "mrw": [],
+    "mrt": []
+  },
+  "scoreTokens": [
+    "0cca4736dc4beadbe35ce1c002e740db1dfed875800e36978757e3d115bf5473",
+    "04e7fb999663d71d2552baa61211793dd17381b081d8fdf31c418969fb064129",
+    "df477582a38d8e36fec68edbbd762545c184416bd8ca007882b5668ae36cfa4e",
+    "bb74e932de5c487c3e67b7b9d08d11b33566f5057363a48cbd48e4da7bdd9076",
+    "28c0898d2430ef28e2d6bbb052476d426f319a53dc4ec0bbcaa5dc0fc2f14fea"
+  ]
+}
