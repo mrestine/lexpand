@@ -179,7 +179,7 @@ export default function App() {
                     value={typed}
                     onChange={handleInputChange}
                     onKeyDown={handleKeyDown}
-                    className='absolute top-1/2 left-0 w-px h-px opacity-0 pointer-events-none'
+                    className='absolute top-1/2 left-0 w-px h-px opacity-0 pointer-events-none caret-transparent'
                     inputMode='text'
                     enterKeyHint='go'
                     autoCapitalize='characters'
