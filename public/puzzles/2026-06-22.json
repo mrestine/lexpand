@@ -1,0 +1,135 @@
+{
+  "start": "dol",
+  "target": [
+    "poleaxed",
+    "sepaloid",
+    "euploids",
+    "implodes"
+  ],
+  "steps": [
+    {
+      "options": "wes"
+    },
+    {
+      "options": "hkp"
+    },
+    {
+      "options": "evi"
+    },
+    {
+      "options": "xsv"
+    },
+    {
+      "options": "aum"
+    }
+  ],
+  "dictionary": {
+    "w": [
+      "wold"
+    ],
+    "wh": [],
+    "wk": [],
+    "wp": [],
+    "e": [
+      "dole",
+      "lode"
+    ],
+    "eh": [
+      "dhole",
+      "holed"
+    ],
+    "ehe": [],
+    "ehv": [],
+    "ehi": [],
+    "ek": [],
+    "ep": [
+      "loped",
+      "poled"
+    ],
+    "epe": [
+      "eloped"
+    ],
+    "epex": [
+      "explode"
+    ],
+    "epexa": [
+      "poleaxed"
+    ],
+    "epexu": [],
+    "epexm": [],
+    "epes": [],
+    "epev": [
+      "develop"
+    ],
+    "epeva": [],
+    "epevu": [],
+    "epevm": [],
+    "epv": [],
+    "epi": [
+      "diploe",
+      "dipole"
+    ],
+    "epix": [],
+    "epis": [
+      "despoil",
+      "diploes",
+      "dipoles",
+      "spoiled"
+    ],
+    "episa": [
+      "sepaloid"
+    ],
+    "episu": [
+      "euploids"
+    ],
+    "epism": [
+      "implodes"
+    ],
+    "epiv": [],
+    "s": [
+      "dols",
+      "olds",
+      "sold"
+    ],
+    "sh": [
+      "holds"
+    ],
+    "she": [
+      "dholes"
+    ],
+    "shex": [],
+    "shes": [
+      "sloshed"
+    ],
+    "shesa": [],
+    "shesu": [],
+    "shesm": [],
+    "shev": [],
+    "shv": [],
+    "shi": [
+      "oldish"
+    ],
+    "shix": [],
+    "shis": [],
+    "shiv": [],
+    "sk": [],
+    "sp": [
+      "plods"
+    ],
+    "spe": [
+      "sloped"
+    ],
+    "spex": [],
+    "spes": [],
+    "spev": [],
+    "spv": [],
+    "spi": []
+  },
+  "scoreTokens": [
+    "3a7af7f94b85b9db30bdf04aea038ebd6252d79ded7b3c989fb544624613bbf5",
+    "a5975903c4f32c9882ff6f7885601eaba300b4e3724f27779cf57c7336e9b612",
+    "b876548f211aca34d816f8d039bff4f78a4454827a15d12034b9d2e308732839",
+    "8649154613241a2729ff48c9ee0b21c443ecf27994da7721a3d099b7eccbba79",
+    "9d6e79b7fc0242480ee2d793a21832d5263b30dc0be01132ded5b3ba5d5867d2"
+  ]
+}
