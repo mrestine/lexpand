@@ -1,0 +1,146 @@
+{
+  "start": "ane",
+  "target": [
+    "pancreas",
+    "entrants",
+    "patterns",
+    "transept",
+    "trapnest"
+  ],
+  "steps": [
+    {
+      "options": "ctv"
+    },
+    {
+      "options": "nph"
+    },
+    {
+      "options": "yta"
+    },
+    {
+      "options": "ksh"
+    },
+    {
+      "options": "owr"
+    }
+  ],
+  "dictionary": {
+    "c": [
+      "acne",
+      "cane"
+    ],
+    "cn": [
+      "nance"
+    ],
+    "cny": [],
+    "cnt": [],
+    "cna": [],
+    "cp": [
+      "pecan"
+    ],
+    "cpy": [],
+    "cpt": [],
+    "cpa": [
+      "canape"
+    ],
+    "cpak": [
+      "pancake"
+    ],
+    "cpako": [],
+    "cpakw": [],
+    "cpakr": [],
+    "cpas": [
+      "canapes"
+    ],
+    "cpaso": [],
+    "cpasw": [],
+    "cpasr": [
+      "pancreas"
+    ],
+    "cpah": [
+      "panache"
+    ],
+    "cpaho": [],
+    "cpahw": [],
+    "cpahr": [],
+    "ch": [
+      "hance"
+    ],
+    "chy": [],
+    "cht": [],
+    "cha": [],
+    "t": [
+      "ante",
+      "etna",
+      "neat"
+    ],
+    "tn": [
+      "anent"
+    ],
+    "tny": [],
+    "tnt": [
+      "tenant"
+    ],
+    "tntk": [],
+    "tnts": [
+      "tannest",
+      "tenants"
+    ],
+    "tntso": [],
+    "tntsw": [],
+    "tntsr": [
+      "entrants"
+    ],
+    "tnth": [],
+    "tna": [],
+    "tp": [
+      "paten"
+    ],
+    "tpy": [],
+    "tpt": [
+      "patent",
+      "patten"
+    ],
+    "tptk": [],
+    "tpts": [
+      "patents",
+      "pattens"
+    ],
+    "tptso": [],
+    "tptsw": [],
+    "tptsr": [
+      "patterns",
+      "transept",
+      "trapnest"
+    ],
+    "tpth": [],
+    "tpa": [],
+    "th": [
+      "neath",
+      "thane"
+    ],
+    "thy": [],
+    "tht": [],
+    "tha": [],
+    "v": [
+      "nave",
+      "vane",
+      "vena"
+    ],
+    "vn": [],
+    "vp": [],
+    "vh": [
+      "haven"
+    ],
+    "vhy": [],
+    "vht": [],
+    "vha": []
+  },
+  "scoreTokens": [
+    "828b34873bf9b63bedaa5185559a3e0f68db2e28cda7ce5857271c61d28c7e07",
+    "1cf11f8aa44757ea70388f6eb2a4d8841d7adc6317ab2c9decfd80ebdc8ebf22",
+    "d5ab7fb1efa8641b05d539287e1a7ae7aee7dfd2d3b913f92be42610c80a0874",
+    "47f465610af2bc209f886abe043d8ed4b268ee9df21b6d961d7c09caaddd7424",
+    "37634e7389bbddb5c4da5dc3b2d7d763b3e4ea0b3473ac4904f674bc997d2be9"
+  ]
+}
