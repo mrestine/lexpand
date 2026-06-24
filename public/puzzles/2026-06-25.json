@@ -1,0 +1,104 @@
+{
+  "start": "mem",
+  "target": [
+    "immeshed"
+  ],
+  "steps": [
+    {
+      "options": "ios"
+    },
+    {
+      "options": "oia"
+    },
+    {
+      "options": "hyd"
+    },
+    {
+      "options": "xyd"
+    },
+    {
+      "options": "eco"
+    }
+  ],
+  "dictionary": {
+    "i": [
+      "mime"
+    ],
+    "io": [
+      "mimeo"
+    ],
+    "ioh": [],
+    "ioy": [],
+    "iod": [],
+    "ii": [],
+    "ia": [
+      "mamie"
+    ],
+    "iah": [
+      "maihem"
+    ],
+    "iahx": [],
+    "iahy": [],
+    "iahd": [],
+    "iay": [],
+    "iad": [
+      "maimed"
+    ],
+    "iadx": [],
+    "iady": [],
+    "iadd": [],
+    "o": [
+      "memo",
+      "mome"
+    ],
+    "oo": [],
+    "oi": [
+      "mimeo"
+    ],
+    "oih": [],
+    "oiy": [],
+    "oid": [],
+    "oa": [],
+    "s": [
+      "mems"
+    ],
+    "so": [
+      "memos",
+      "momes"
+    ],
+    "soh": [],
+    "soy": [],
+    "sod": [
+      "modems"
+    ],
+    "sodx": [],
+    "sody": [],
+    "sodd": [],
+    "si": [
+      "mimes"
+    ],
+    "sih": [
+      "immesh"
+    ],
+    "sihx": [],
+    "sihy": [],
+    "sihd": [
+      "shimmed"
+    ],
+    "sihde": [
+      "immeshed"
+    ],
+    "sihdc": [],
+    "sihdo": [],
+    "siy": [],
+    "sid": [],
+    "sa": []
+  },
+  "scoreTokens": [
+    "11cd8fb373970e1431c37a4461d22eceaccbf801d33adfdf66884b13ed03c597",
+    "4bc09d77042a068f63391f137bc531d9bbd4d6b2d9c5704ba652a6de411d1300",
+    "ae05903b9242a8ba2a3a5df3f5d3913e1d43428335372cc1e191e1f9ef8fde47",
+    "d82a4ae5b6d527815e62fce699fd73a0738deb5362edd1281d2f4ec6b0be51d2",
+    "056a6fe44848528d5d380a81ede8f89d2ef70e59bcbc2d89acecd2940219c224"
+  ]
+}
