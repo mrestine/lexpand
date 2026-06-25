@@ -1,0 +1,241 @@
+{
+  "start": "lei",
+  "target": [
+    "inhalers",
+    "ravelins",
+    "entrails",
+    "latrines",
+    "ratlines",
+    "retinals",
+    "trenails",
+    "nitriles",
+    "devisals",
+    "hairless",
+    "revisals",
+    "realists",
+    "saltiers",
+    "saltires",
+    "lavished",
+    "lavisher",
+    "shrieval",
+    "helipads",
+    "talipeds"
+  ],
+  "steps": [
+    {
+      "options": "nsp"
+    },
+    {
+      "options": "suh"
+    },
+    {
+      "options": "wai"
+    },
+    {
+      "options": "xdr"
+    },
+    {
+      "options": "hvt"
+    }
+  ],
+  "dictionary": {
+    "n": [
+      "lien",
+      "line"
+    ],
+    "ns": [
+      "lenis",
+      "liens",
+      "lines"
+    ],
+    "nsw": [],
+    "nsa": [
+      "aliens",
+      "alines",
+      "elains",
+      "lianes",
+      "saline",
+      "silane"
+    ],
+    "nsax": [
+      "alexins"
+    ],
+    "nsaxh": [],
+    "nsaxv": [],
+    "nsaxt": [],
+    "nsad": [
+      "denials",
+      "snailed"
+    ],
+    "nsadh": [],
+    "nsadv": [],
+    "nsadt": [],
+    "nsar": [
+      "aliners",
+      "nailers",
+      "renails"
+    ],
+    "nsarh": [
+      "inhalers"
+    ],
+    "nsarv": [
+      "ravelins"
+    ],
+    "nsart": [
+      "entrails",
+      "latrines",
+      "ratlines",
+      "retinals",
+      "trenails"
+    ],
+    "nsi": [
+      "sileni"
+    ],
+    "nsix": [],
+    "nsid": [
+      "lindies"
+    ],
+    "nsidh": [],
+    "nsidv": [],
+    "nsidt": [],
+    "nsir": [
+      "inliers"
+    ],
+    "nsirh": [],
+    "nsirv": [],
+    "nsirt": [
+      "nitriles"
+    ],
+    "nu": [],
+    "nh": [],
+    "s": [
+      "isle",
+      "leis",
+      "lies"
+    ],
+    "ss": [
+      "isles"
+    ],
+    "ssw": [],
+    "ssa": [
+      "aisles",
+      "lassie"
+    ],
+    "ssax": [],
+    "ssad": [
+      "aidless"
+    ],
+    "ssadh": [],
+    "ssadv": [
+      "devisals"
+    ],
+    "ssadt": [],
+    "ssar": [
+      "airless",
+      "resails",
+      "sailers",
+      "serails",
+      "serials"
+    ],
+    "ssarh": [
+      "hairless"
+    ],
+    "ssarv": [
+      "revisals"
+    ],
+    "ssart": [
+      "realists",
+      "saltiers",
+      "saltires"
+    ],
+    "ssi": [],
+    "su": [
+      "ileus",
+      "lieus"
+    ],
+    "suw": [],
+    "sua": [],
+    "sui": [],
+    "sh": [
+      "heils",
+      "shiel"
+    ],
+    "shw": [
+      "whiles"
+    ],
+    "shwx": [],
+    "shwd": [],
+    "shwr": [],
+    "sha": [
+      "sheila"
+    ],
+    "shax": [],
+    "shad": [
+      "halides"
+    ],
+    "shadh": [],
+    "shadv": [
+      "lavished"
+    ],
+    "shadt": [],
+    "shar": [
+      "hailers",
+      "shalier"
+    ],
+    "sharh": [],
+    "sharv": [
+      "lavisher",
+      "shrieval"
+    ],
+    "shart": [],
+    "shi": [],
+    "p": [
+      "pile",
+      "plie"
+    ],
+    "ps": [
+      "piles",
+      "plies",
+      "slipe",
+      "speil",
+      "spiel",
+      "spile"
+    ],
+    "psw": [
+      "swiple"
+    ],
+    "pswx": [],
+    "pswd": [],
+    "pswr": [],
+    "psa": [
+      "espial",
+      "lipase"
+    ],
+    "psax": [],
+    "psad": [
+      "alipeds",
+      "elapids",
+      "lapides",
+      "palsied",
+      "pleiads"
+    ],
+    "psadh": [
+      "helipads"
+    ],
+    "psadv": [],
+    "psadt": [
+      "talipeds"
+    ],
+    "psar": [],
+    "psi": [],
+    "pu": [],
+    "ph": []
+  },
+  "scoreTokens": [
+    "2d53147f324d26a6f0d9baf6f6a8eed7c7ea0f3c0a81cd74f23af401d4a89d4d",
+    "36e346caf59abe788a67245379336c296f2bcc3cbca9e258c809e103bd1df7c8",
+    "be2af2ab51cf39e2b7ace17534338a67da9ec848219deeee813530369b6d2edd",
+    "3f42590ae4bb472d452b71504f29e7da91dcff169f4b54791a0120e852607529",
+    "a645ca57332aed4f86e0417e3dc81ca5d62ea7a899faa5fa57e6bc65ca9913ae"
+  ]
+}
