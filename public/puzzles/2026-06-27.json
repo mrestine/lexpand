@@ -1,0 +1,132 @@
+{
+  "start": "rib",
+  "target": [
+    "vibronic",
+    "vibrions"
+  ],
+  "steps": [
+    {
+      "options": "oae"
+    },
+    {
+      "options": "cji"
+    },
+    {
+      "options": "vbs"
+    },
+    {
+      "options": "nfs"
+    },
+    {
+      "options": "cwn"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "brio"
+    ],
+    "oc": [
+      "boric"
+    ],
+    "ocv": [],
+    "ocb": [],
+    "ocs": [
+      "sorbic"
+    ],
+    "ocsn": [
+      "bicrons"
+    ],
+    "ocsnc": [],
+    "ocsnw": [],
+    "ocsnn": [],
+    "ocsf": [],
+    "ocss": [],
+    "oj": [],
+    "oi": [
+      "oribi"
+    ],
+    "oiv": [
+      "vibrio"
+    ],
+    "oivn": [
+      "vibrion"
+    ],
+    "oivnc": [
+      "vibronic"
+    ],
+    "oivnw": [],
+    "oivnn": [],
+    "oivf": [],
+    "oivs": [
+      "vibrios"
+    ],
+    "oivsc": [],
+    "oivsw": [],
+    "oivsn": [
+      "vibrions"
+    ],
+    "oib": [],
+    "ois": [
+      "oribis"
+    ],
+    "oisn": [],
+    "oisf": [],
+    "oiss": [],
+    "a": [
+      "abri"
+    ],
+    "ac": [
+      "baric",
+      "rabic"
+    ],
+    "acv": [],
+    "acb": [
+      "bicarb"
+    ],
+    "acbn": [],
+    "acbf": [],
+    "acbs": [
+      "bicarbs"
+    ],
+    "acbsc": [],
+    "acbsw": [],
+    "acbsn": [],
+    "acs": [],
+    "aj": [],
+    "ai": [],
+    "e": [
+      "bier",
+      "brie"
+    ],
+    "ec": [],
+    "ej": [
+      "jiber"
+    ],
+    "ejv": [],
+    "ejb": [
+      "jibber"
+    ],
+    "ejbn": [],
+    "ejbf": [],
+    "ejbs": [
+      "jibbers"
+    ],
+    "ejbsc": [],
+    "ejbsw": [],
+    "ejbsn": [],
+    "ejs": [
+      "jibers"
+    ],
+    "ejsn": [],
+    "ejsf": [],
+    "ejss": [],
+    "ei": []
+  },
+  "scoreTokens": [
+    "f5d321fe6674d7f208f52c4cadb12ccb66b4d259a2e208752a071884d22e2f7e",
+    "70a0a4bd2d3bc69945eda3bf347b24c01ef2da811a49504477e1b8b10530af35",
+    "b5d38fde4f6f55bc8b823a8ef1d508dd81d79a947bc9df07c02383c4f1838274",
+    "00d872339c89c689f6d0069042eabc6b8a5a6fb98e5eb2a21ee6a987334108d2",
+    "7e06a820ef9eff7d3a68c170810aa56b8a435127c1cb8d8b158646aa793dc650"
+  ]
+}
