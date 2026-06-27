@@ -1,0 +1,129 @@
+{
+  "start": "sir",
+  "target": [
+    "advisory"
+  ],
+  "steps": [
+    {
+      "options": "mdb"
+    },
+    {
+      "options": "lag"
+    },
+    {
+      "options": "xso"
+    },
+    {
+      "options": "qvs"
+    },
+    {
+      "options": "ynr"
+    }
+  ],
+  "dictionary": {
+    "m": [
+      "mirs",
+      "rims"
+    ],
+    "ml": [],
+    "ma": [
+      "amirs",
+      "mairs",
+      "simar"
+    ],
+    "max": [],
+    "mas": [
+      "simars"
+    ],
+    "masq": [],
+    "masv": [],
+    "mass": [],
+    "mao": [],
+    "mg": [],
+    "d": [
+      "rids"
+    ],
+    "dl": [
+      "dirls"
+    ],
+    "dlx": [],
+    "dls": [],
+    "dlo": [],
+    "da": [
+      "raids"
+    ],
+    "dax": [],
+    "das": [],
+    "dao": [
+      "aroids",
+      "radios"
+    ],
+    "daoq": [],
+    "daov": [
+      "advisor"
+    ],
+    "daovy": [
+      "advisory"
+    ],
+    "daovn": [],
+    "daovr": [],
+    "daos": [],
+    "dg": [
+      "girds",
+      "grids"
+    ],
+    "dgx": [],
+    "dgs": [],
+    "dgo": [],
+    "b": [
+      "bris",
+      "ribs"
+    ],
+    "bl": [
+      "birls"
+    ],
+    "blx": [],
+    "bls": [],
+    "blo": [
+      "broils"
+    ],
+    "bloq": [],
+    "blov": [],
+    "blos": [],
+    "ba": [
+      "abris",
+      "sabir"
+    ],
+    "bax": [],
+    "bas": [
+      "sabirs"
+    ],
+    "basq": [],
+    "basv": [],
+    "bass": [],
+    "bao": [
+      "isobar"
+    ],
+    "baoq": [],
+    "baov": [],
+    "baos": [
+      "isobars"
+    ],
+    "baosy": [],
+    "baosn": [],
+    "baosr": [],
+    "bg": [
+      "brigs"
+    ],
+    "bgx": [],
+    "bgs": [],
+    "bgo": []
+  },
+  "scoreTokens": [
+    "a59df9b7305d46fa5e67c6b97833a58ceb20732d289ed05f11eb39dbc7332071",
+    "7b4f09ad0383ea768bc8bcbf2c8c616d7628168f91e10323634bf799f233c236",
+    "40a25de2b7cb02a36e151eab7cdbec2fd28b4d346dbc8e8b9d5419722f6a4449",
+    "3205f491361ecaaafc7d1f1c60a53bde1c918a44600adf85d676926b14539248",
+    "6e459c0a29e777fab2fc793a790e2737746e3e2a912380bb58f467a3b1fed941"
+  ]
+}
