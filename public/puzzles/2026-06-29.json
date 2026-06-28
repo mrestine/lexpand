@@ -1,0 +1,226 @@
+{
+  "start": "ate",
+  "target": [
+    "overtalk",
+    "stealths",
+    "flatuses",
+    "sulfates",
+    "upstater",
+    "upstates"
+  ],
+  "steps": [
+    {
+      "options": "lpf"
+    },
+    {
+      "options": "vhu"
+    },
+    {
+      "options": "res"
+    },
+    {
+      "options": "suo"
+    },
+    {
+      "options": "ftk"
+    }
+  ],
+  "dictionary": {
+    "l": [
+      "late",
+      "tael",
+      "tale",
+      "teal",
+      "tela"
+    ],
+    "lv": [
+      "valet"
+    ],
+    "lvr": [
+      "travel",
+      "varlet"
+    ],
+    "lvrs": [
+      "travels",
+      "varlets",
+      "vestral"
+    ],
+    "lvrsf": [],
+    "lvrst": [],
+    "lvrsk": [],
+    "lvru": [
+      "vaulter"
+    ],
+    "lvruf": [],
+    "lvrut": [],
+    "lvruk": [],
+    "lvro": [
+      "levator"
+    ],
+    "lvrof": [],
+    "lvrot": [],
+    "lvrok": [
+      "overtalk"
+    ],
+    "lve": [
+      "velate"
+    ],
+    "lves": [],
+    "lveu": [],
+    "lveo": [],
+    "lvs": [
+      "valets",
+      "vestal"
+    ],
+    "lvss": [
+      "vestals"
+    ],
+    "lvssf": [],
+    "lvsst": [],
+    "lvssk": [],
+    "lvsu": [],
+    "lvso": [
+      "solvate"
+    ],
+    "lvsof": [],
+    "lvsot": [],
+    "lvsok": [],
+    "lh": [
+      "lathe"
+    ],
+    "lhr": [
+      "halter",
+      "lather",
+      "thaler"
+    ],
+    "lhrs": [
+      "halters",
+      "harslet",
+      "lathers",
+      "slather",
+      "thalers"
+    ],
+    "lhrsf": [],
+    "lhrst": [],
+    "lhrsk": [],
+    "lhru": [],
+    "lhro": [
+      "loather",
+      "rathole"
+    ],
+    "lhrof": [],
+    "lhrot": [],
+    "lhrok": [],
+    "lhe": [],
+    "lhs": [
+      "halest",
+      "haslet",
+      "lathes",
+      "shelta"
+    ],
+    "lhss": [
+      "haslets",
+      "hatless",
+      "sheltas"
+    ],
+    "lhssf": [],
+    "lhsst": [
+      "stealths"
+    ],
+    "lhssk": [],
+    "lhsu": [],
+    "lhso": [
+      "loathes"
+    ],
+    "lhsof": [],
+    "lhsot": [],
+    "lhsok": [],
+    "lu": [
+      "lutea"
+    ],
+    "lur": [],
+    "lue": [
+      "eluate"
+    ],
+    "lues": [
+      "eluates"
+    ],
+    "luesf": [],
+    "luest": [],
+    "luesk": [],
+    "lueu": [],
+    "lueo": [],
+    "lus": [
+      "salute"
+    ],
+    "luss": [
+      "salutes",
+      "taluses"
+    ],
+    "lussf": [
+      "flatuses",
+      "sulfates"
+    ],
+    "lusst": [],
+    "lussk": [],
+    "lusu": [],
+    "luso": [],
+    "p": [
+      "pate",
+      "peat",
+      "tape",
+      "tepa"
+    ],
+    "pv": [],
+    "ph": [],
+    "pu": [
+      "taupe"
+    ],
+    "pur": [
+      "uprate",
+      "uptear"
+    ],
+    "purs": [
+      "pasture",
+      "uprates",
+      "upstare",
+      "uptears"
+    ],
+    "pursf": [],
+    "purst": [
+      "upstater"
+    ],
+    "pursk": [],
+    "puru": [],
+    "puro": [],
+    "pue": [],
+    "pus": [
+      "taupes"
+    ],
+    "puss": [
+      "petasus"
+    ],
+    "pussf": [],
+    "pusst": [
+      "upstates"
+    ],
+    "pussk": [],
+    "pusu": [],
+    "puso": [],
+    "f": [
+      "fate",
+      "feat",
+      "feta"
+    ],
+    "fv": [],
+    "fh": [],
+    "fu": []
+  },
+  "scoreTokens": [
+    "d79ddabdd90a6f61e9cca4c1a426db43db082c5530368de412f81c1478bf2e01",
+    "732918279152c00831ef7b97844bdd179fcff852845134a05584056d2c754645",
+    "f4bc942a7f10db5a06bf91ae4bdfcfddb892a293d3065f4c6a19d63eceba58e8",
+    "4a9bf3b48da564149b8a28af6a82cbd72c573683b4cb3dcdc3c4595929c3ea29",
+    "9cc5419958fab778c1680d3022ab9f8af12921fb84eac1e8dad10539b0ba93da"
+  ]
+}
