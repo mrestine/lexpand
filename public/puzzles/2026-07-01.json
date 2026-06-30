@@ -1,0 +1,133 @@
+{
+  "start": "als",
+  "target": [
+    "calicoes"
+  ],
+  "steps": [
+    {
+      "options": "egd"
+    },
+    {
+      "options": "jlc"
+    },
+    {
+      "options": "pio"
+    },
+    {
+      "options": "niu"
+    },
+    {
+      "options": "gjc"
+    }
+  ],
+  "dictionary": {
+    "e": [
+      "ales",
+      "lase",
+      "leas",
+      "sale",
+      "seal"
+    ],
+    "ej": [],
+    "el": [],
+    "ec": [
+      "alecs",
+      "laces",
+      "scale"
+    ],
+    "ecp": [
+      "places"
+    ],
+    "ecpn": [
+      "enclasp",
+      "spancel"
+    ],
+    "ecpng": [],
+    "ecpnj": [],
+    "ecpnc": [],
+    "ecpi": [
+      "plaices",
+      "special"
+    ],
+    "ecpig": [],
+    "ecpij": [],
+    "ecpic": [],
+    "ecpu": [
+      "capsule",
+      "scaleup",
+      "specula",
+      "upscale"
+    ],
+    "ecpug": [],
+    "ecpuj": [],
+    "ecpuc": [],
+    "eci": [],
+    "eco": [
+      "solace"
+    ],
+    "econ": [],
+    "ecoi": [
+      "celosia"
+    ],
+    "ecoig": [],
+    "ecoij": [],
+    "ecoic": [
+      "calicoes"
+    ],
+    "ecou": [],
+    "g": [
+      "gals",
+      "lags",
+      "slag"
+    ],
+    "gj": [],
+    "gl": [
+      "galls"
+    ],
+    "glp": [],
+    "gli": [],
+    "glo": [],
+    "gc": [
+      "clags"
+    ],
+    "gcp": [],
+    "gci": [
+      "glacis"
+    ],
+    "gcin": [
+      "lacings",
+      "scaling"
+    ],
+    "gcing": [],
+    "gcinj": [],
+    "gcinc": [],
+    "gcii": [],
+    "gciu": [],
+    "gco": [],
+    "d": [
+      "dals",
+      "lads"
+    ],
+    "dj": [],
+    "dl": [],
+    "dc": [
+      "clads",
+      "scald"
+    ],
+    "dcp": [],
+    "dci": [
+      "alcids"
+    ],
+    "dcin": [],
+    "dcii": [],
+    "dciu": [],
+    "dco": []
+  },
+  "scoreTokens": [
+    "c47573248f5924ade721f993f4279a664ae69e14d0c81c682d39b132321c0c37",
+    "95227179c0fc2f6540be5f2dc864629f52bc85955de8dd3da622c5daef6f003e",
+    "417dabf67c60504b02611613306240b6961f5680f8a68ff2a8964e052b2ec019",
+    "93817368fc34399c722e10b1e4f46058bfe799de438cfb99595aa30dbbbfba80",
+    "0bddebdb1155d0924eb4dc07032b39c00c9f3054ecf67fe1ee10c24801256cb4"
+  ]
+}
