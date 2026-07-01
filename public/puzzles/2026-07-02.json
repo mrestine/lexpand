@@ -1,0 +1,190 @@
+{
+  "start": "gin",
+  "target": [
+    "spurring",
+    "nursling",
+    "slurping",
+    "upspring",
+    "prinking",
+    "prissing"
+  ],
+  "steps": [
+    {
+      "options": "slp"
+    },
+    {
+      "options": "sri"
+    },
+    {
+      "options": "kus"
+    },
+    {
+      "options": "snp"
+    },
+    {
+      "options": "yar"
+    }
+  ],
+  "dictionary": {
+    "s": [
+      "gins",
+      "sign",
+      "sing"
+    ],
+    "ss": [
+      "signs",
+      "sings"
+    ],
+    "ssk": [],
+    "ssu": [],
+    "sss": [],
+    "sr": [
+      "girns",
+      "grins",
+      "rings"
+    ],
+    "srk": [],
+    "sru": [
+      "unrigs"
+    ],
+    "srus": [],
+    "srun": [
+      "nursing"
+    ],
+    "sruny": [],
+    "sruna": [],
+    "srunr": [],
+    "srup": [
+      "pursing"
+    ],
+    "srupy": [],
+    "srupa": [],
+    "srupr": [
+      "spurring"
+    ],
+    "srs": [],
+    "si": [],
+    "l": [
+      "ling"
+    ],
+    "ls": [
+      "lings",
+      "sling"
+    ],
+    "lsk": [],
+    "lsu": [
+      "lungis",
+      "sluing"
+    ],
+    "lsus": [],
+    "lsun": [
+      "unsling"
+    ],
+    "lsuny": [],
+    "lsuna": [],
+    "lsunr": [
+      "nursling"
+    ],
+    "lsup": [
+      "pulings",
+      "pulsing"
+    ],
+    "lsupy": [],
+    "lsupa": [],
+    "lsupr": [
+      "slurping"
+    ],
+    "lss": [
+      "slings"
+    ],
+    "lsss": [],
+    "lssn": [],
+    "lssp": [],
+    "lr": [],
+    "li": [],
+    "p": [
+      "ping"
+    ],
+    "ps": [
+      "pings"
+    ],
+    "psk": [],
+    "psu": [
+      "pignus",
+      "spuing"
+    ],
+    "psus": [],
+    "psun": [],
+    "psup": [
+      "supping",
+      "uppings"
+    ],
+    "psupy": [],
+    "psupa": [],
+    "psupr": [
+      "upspring"
+    ],
+    "pss": [],
+    "pr": [],
+    "pi": [
+      "piing"
+    ],
+    "pik": [
+      "piking"
+    ],
+    "piks": [
+      "pigskin",
+      "spiking"
+    ],
+    "piksy": [],
+    "piksa": [],
+    "piksr": [],
+    "pikn": [
+      "kingpin",
+      "pinking"
+    ],
+    "pikny": [],
+    "pikna": [],
+    "piknr": [
+      "prinking"
+    ],
+    "pikp": [
+      "kipping"
+    ],
+    "pikpy": [],
+    "pikpa": [],
+    "pikpr": [],
+    "piu": [],
+    "pis": [
+      "siping"
+    ],
+    "piss": [
+      "pissing"
+    ],
+    "pissy": [],
+    "pissa": [],
+    "pissr": [
+      "prissing"
+    ],
+    "pisn": [
+      "sniping"
+    ],
+    "pisny": [],
+    "pisna": [],
+    "pisnr": [],
+    "pisp": [
+      "pipings",
+      "sipping"
+    ],
+    "pispy": [],
+    "pispa": [],
+    "pispr": []
+  },
+  "scoreTokens": [
+    "84e80ad0dcba5be5073fc30132462e8e5cf0c10d37d1686eff25a176e786e607",
+    "caa98c3f8ef9a05b398f1386f95c5cfcc3312715e350bfdd4226538bad4e7679",
+    "925c81df7f3a57f7209e91ad04007c0fa2c8d54b52ce7f1434116b18ce413fac",
+    "4d911c1c64902892184e7ba18f073c3611354e9f3889a53bc785910c7df54b5b",
+    "31fcda668089638f70032d602b5ad3b71710619b8b7c65781a6bf143cbae6621"
+  ]
+}
