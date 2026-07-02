@@ -1,0 +1,144 @@
+{
+  "start": "rec",
+  "target": [
+    "chloride",
+    "children",
+    "firelock",
+    "flockier"
+  ],
+  "steps": [
+    {
+      "options": "uiw"
+    },
+    {
+      "options": "dki"
+    },
+    {
+      "options": "lzb"
+    },
+    {
+      "options": "fyh"
+    },
+    {
+      "options": "oxn"
+    }
+  ],
+  "dictionary": {
+    "u": [
+      "cure",
+      "ecru"
+    ],
+    "ud": [
+      "crude",
+      "cured"
+    ],
+    "udl": [
+      "curdle",
+      "curled"
+    ],
+    "udlf": [],
+    "udly": [
+      "crudely"
+    ],
+    "udlyo": [],
+    "udlyx": [],
+    "udlyn": [],
+    "udlh": [
+      "lurched"
+    ],
+    "udlho": [],
+    "udlhx": [],
+    "udlhn": [],
+    "udz": [],
+    "udb": [
+      "curbed"
+    ],
+    "udbf": [],
+    "udby": [],
+    "udbh": [],
+    "uk": [],
+    "ui": [
+      "curie",
+      "ureic"
+    ],
+    "uil": [],
+    "uiz": [],
+    "uib": [],
+    "i": [
+      "cire",
+      "rice"
+    ],
+    "id": [
+      "cider",
+      "cried",
+      "dicer",
+      "riced"
+    ],
+    "idl": [
+      "clerid"
+    ],
+    "idlf": [],
+    "idly": [],
+    "idlh": [
+      "eldrich"
+    ],
+    "idlho": [
+      "chloride"
+    ],
+    "idlhx": [],
+    "idlhn": [
+      "children"
+    ],
+    "idz": [],
+    "idb": [],
+    "ik": [
+      "icker"
+    ],
+    "ikl": [
+      "licker"
+    ],
+    "iklf": [
+      "fickler",
+      "flicker"
+    ],
+    "iklfo": [
+      "firelock",
+      "flockier"
+    ],
+    "iklfx": [],
+    "iklfn": [],
+    "ikly": [],
+    "iklh": [],
+    "ikz": [],
+    "ikb": [
+      "bicker"
+    ],
+    "ikbf": [],
+    "ikby": [],
+    "ikbh": [],
+    "ii": [
+      "icier"
+    ],
+    "iil": [],
+    "iiz": [],
+    "iib": [],
+    "w": [
+      "crew"
+    ],
+    "wd": [],
+    "wk": [
+      "wreck"
+    ],
+    "wkl": [],
+    "wkz": [],
+    "wkb": [],
+    "wi": []
+  },
+  "scoreTokens": [
+    "f2bb5ea8c8da412009d031ad4d4e7ae05676b622785a0aee09e43b3183b2eef9",
+    "ac5aa4a802eaed26146ffcdd9c7fc85e89680c0919502883eaacf48ecafedd12",
+    "b90be43d913dd16aec4ab5bb9923ccb0c78d3b88cc306aeaeb24122e203d73f1",
+    "8af4fc29baad320d19e2c42938f236946cc5199a6371c30a69a66078da9812a9",
+    "1d61adfee66bee4c0460ec4f52d344a0a86c6f5f6dbb4933c3f0d355582a9541"
+  ]
+}
