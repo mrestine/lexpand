@@ -1,0 +1,135 @@
+{
+  "start": "ems",
+  "target": [
+    "emissary"
+  ],
+  "steps": [
+    {
+      "options": "sie"
+    },
+    {
+      "options": "xsk"
+    },
+    {
+      "options": "ecr"
+    },
+    {
+      "options": "baf"
+    },
+    {
+      "options": "oya"
+    }
+  ],
+  "dictionary": {
+    "s": [
+      "mess"
+    ],
+    "sx": [],
+    "ss": [],
+    "sk": [],
+    "i": [
+      "mise",
+      "semi"
+    ],
+    "ix": [
+      "mixes"
+    ],
+    "ixe": [],
+    "ixc": [],
+    "ixr": [
+      "mixers"
+    ],
+    "ixrb": [],
+    "ixra": [],
+    "ixrf": [],
+    "is": [
+      "mises",
+      "seism",
+      "semis"
+    ],
+    "ise": [
+      "emesis"
+    ],
+    "iseb": [],
+    "isea": [
+      "misease",
+      "siamese"
+    ],
+    "iseao": [],
+    "iseay": [],
+    "iseaa": [],
+    "isef": [],
+    "isc": [],
+    "isr": [
+      "misers",
+      "remiss"
+    ],
+    "isrb": [],
+    "isra": [
+      "massier"
+    ],
+    "israo": [],
+    "isray": [
+      "emissary"
+    ],
+    "israa": [],
+    "isrf": [],
+    "ik": [
+      "mikes"
+    ],
+    "ike": [],
+    "ikc": [],
+    "ikr": [
+      "kermis"
+    ],
+    "ikrb": [],
+    "ikra": [],
+    "ikrf": [],
+    "e": [
+      "emes",
+      "seem",
+      "seme"
+    ],
+    "ex": [],
+    "es": [
+      "seems",
+      "semes"
+    ],
+    "ese": [
+      "emeses"
+    ],
+    "eseb": [
+      "beseems"
+    ],
+    "esebo": [],
+    "eseby": [],
+    "eseba": [],
+    "esea": [],
+    "esef": [],
+    "esc": [],
+    "esr": [],
+    "ek": [
+      "smeek"
+    ],
+    "eke": [],
+    "ekc": [],
+    "ekr": [
+      "kermes"
+    ],
+    "ekrb": [],
+    "ekra": [
+      "remakes"
+    ],
+    "ekrao": [],
+    "ekray": [],
+    "ekraa": [],
+    "ekrf": []
+  },
+  "scoreTokens": [
+    "8787ffba3636c74138ebb296b339da779e093d5a44f0da456fd324c4ebbd5f6a",
+    "da032aa8231b640d6b844fb8171dc2d11f37e87123881245b6e58bbbec0adae9",
+    "9a8a219872d82aea759f0a440089a76c94150f9d3b025e8bc9104f0bdd18ada0",
+    "89f698950818a0f06438b805b33c289d35061c46f085af50567f0a30312251fa",
+    "171bc6d4ecd568e5f790efd19f90d1ffcd9da8e1fbac67caf871848ac36490cd"
+  ]
+}
