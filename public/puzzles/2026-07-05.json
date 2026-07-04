@@ -1,0 +1,88 @@
+{
+  "start": "sol",
+  "target": [
+    "oinomels",
+    "simoleon"
+  ],
+  "steps": [
+    {
+      "options": "eum"
+    },
+    {
+      "options": "ngz"
+    },
+    {
+      "options": "yqi"
+    },
+    {
+      "options": "bmn"
+    },
+    {
+      "options": "tgo"
+    }
+  ],
+  "dictionary": {
+    "e": [
+      "lose",
+      "oles",
+      "sloe",
+      "sole"
+    ],
+    "en": [
+      "enols",
+      "lenos",
+      "noels"
+    ],
+    "eny": [],
+    "enq": [],
+    "eni": [
+      "eloins",
+      "insole",
+      "lesion",
+      "oleins"
+    ],
+    "enib": [],
+    "enim": [
+      "lomeins"
+    ],
+    "enimt": [],
+    "enimg": [],
+    "enimo": [
+      "oinomels",
+      "simoleon"
+    ],
+    "enin": [],
+    "eg": [
+      "loges",
+      "ogles"
+    ],
+    "egy": [],
+    "egq": [],
+    "egi": [],
+    "ez": [],
+    "u": [
+      "soul"
+    ],
+    "un": [],
+    "ug": [],
+    "uz": [],
+    "m": [
+      "mols"
+    ],
+    "mn": [],
+    "mg": [
+      "gloms"
+    ],
+    "mgy": [],
+    "mgq": [],
+    "mgi": [],
+    "mz": []
+  },
+  "scoreTokens": [
+    "eb85d1cfec8be3b7f77a7249a270880a7face98df8a6927ee31714b55dd6efe0",
+    "a497551d37de08598afaa6f35b269b67f9378098f7f71bc9a5c5bcf89c50affc",
+    "6d386a086833a56f00918472f605c9518dadc5027d256994369300dd521ab7a2",
+    "52a8c7ca74c23ebe96d894ca3ec3c943ddc05ad7b6f78c430d1dc13a0181ce2f",
+    "8edd820857815fc8e49f1631fed799e0075e4ce6c29dccd5f45a5166bd0e5a0a"
+  ]
+}
