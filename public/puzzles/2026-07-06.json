@@ -1,0 +1,125 @@
+{
+  "start": "man",
+  "target": [
+    "mannitol"
+  ],
+  "steps": [
+    {
+      "options": "doe"
+    },
+    {
+      "options": "yti"
+    },
+    {
+      "options": "nzb"
+    },
+    {
+      "options": "hrl"
+    },
+    {
+      "options": "tgk"
+    }
+  ],
+  "dictionary": {
+    "d": [
+      "damn"
+    ],
+    "dy": [],
+    "dt": [],
+    "di": [],
+    "o": [
+      "mano",
+      "moan",
+      "noma"
+    ],
+    "oy": [
+      "anomy"
+    ],
+    "oyn": [
+      "anonym"
+    ],
+    "oynh": [],
+    "oynr": [],
+    "oynl": [],
+    "oyz": [],
+    "oyb": [],
+    "ot": [
+      "toman"
+    ],
+    "otn": [],
+    "otz": [],
+    "otb": [],
+    "oi": [
+      "amino"
+    ],
+    "oin": [
+      "amnion",
+      "nomina"
+    ],
+    "oinh": [],
+    "oinr": [],
+    "oinl": [
+      "nominal"
+    ],
+    "oinlt": [
+      "mannitol"
+    ],
+    "oinlg": [],
+    "oinlk": [],
+    "oiz": [],
+    "oib": [],
+    "e": [
+      "amen",
+      "mane",
+      "mean",
+      "name",
+      "nema"
+    ],
+    "ey": [
+      "meany",
+      "yamen"
+    ],
+    "eyn": [],
+    "eyz": [],
+    "eyb": [
+      "baymen",
+      "byname"
+    ],
+    "eybh": [],
+    "eybr": [],
+    "eybl": [],
+    "et": [
+      "ament",
+      "meant",
+      "menta"
+    ],
+    "etn": [],
+    "etz": [],
+    "etb": [
+      "batmen"
+    ],
+    "etbh": [],
+    "etbr": [],
+    "etbl": [
+      "lambent"
+    ],
+    "etblt": [],
+    "etblg": [],
+    "etblk": [],
+    "ei": [
+      "amine",
+      "anime",
+      "minae"
+    ],
+    "ein": [],
+    "eiz": [],
+    "eib": []
+  },
+  "scoreTokens": [
+    "dc3ca163b76b68d29b6c54ec811fec5bc5335f3099df48fc848068727c66724b",
+    "b66f0f87f115aef63c6a9548d5887891f89ca0ec7d7bea35de77375821222382",
+    "169be990713828dba6ffc8747bd32172bf78d5c7e8d7e1ca1416a2651520221f",
+    "b07bfe5798a46dfab28be2292c21722df5ff7ede51bee40d6f01f915cbe8c972",
+    "092d02c1381aca134162f6d094a2e111d2d699e4cf5befe5b47a14d87d175a5b"
+  ]
+}
