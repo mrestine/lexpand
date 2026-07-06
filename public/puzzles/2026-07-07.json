@@ -1,0 +1,113 @@
+{
+  "start": "pur",
+  "target": [
+    "turpeths"
+  ],
+  "steps": [
+    {
+      "options": "ois"
+    },
+    {
+      "options": "kes"
+    },
+    {
+      "options": "ktp"
+    },
+    {
+      "options": "qkt"
+    },
+    {
+      "options": "uhq"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "pour",
+      "roup"
+    ],
+    "ok": [],
+    "oe": [],
+    "os": [
+      "pours",
+      "roups"
+    ],
+    "osk": [],
+    "ost": [
+      "sprout",
+      "stupor"
+    ],
+    "ostq": [],
+    "ostk": [],
+    "ostt": [],
+    "osp": [],
+    "i": [
+      "puri"
+    ],
+    "ik": [],
+    "ie": [],
+    "is": [
+      "puris",
+      "sirup"
+    ],
+    "isk": [],
+    "ist": [
+      "purist",
+      "upstir"
+    ],
+    "istq": [],
+    "istk": [],
+    "istt": [],
+    "isp": [],
+    "s": [
+      "purs",
+      "spur"
+    ],
+    "sk": [],
+    "se": [
+      "purse",
+      "sprue",
+      "super"
+    ],
+    "sek": [],
+    "set": [
+      "erupts",
+      "purest"
+    ],
+    "setq": [],
+    "setk": [],
+    "sett": [
+      "putters",
+      "sputter"
+    ],
+    "settu": [],
+    "setth": [
+      "turpeths"
+    ],
+    "settq": [],
+    "sep": [
+      "supper",
+      "uppers"
+    ],
+    "sepq": [],
+    "sepk": [],
+    "sept": [],
+    "ss": [
+      "spurs"
+    ],
+    "ssk": [],
+    "sst": [
+      "spurts"
+    ],
+    "sstq": [],
+    "sstk": [],
+    "sstt": [],
+    "ssp": []
+  },
+  "scoreTokens": [
+    "a7aa5d080f21c3e1a443a7a62c28de644f62204470c98ef022a0ea729d708055",
+    "cf6ff72d348f330eba5c9fefc8536e9db4e7d05fd3c63cc5785e134af3e5a1c6",
+    "0cb7f6f049f5dd3ca68067656c79529367698676732cbc9ccd404c63d868f4bf",
+    "11b72f9ebd145c6d90d908db5ec051e006bae4f822fa8feaf67cc9e84f723f0b",
+    "e48958913e193369d393b8bc910ddd7d848738191cd3dbf50dec508f0d211e03"
+  ]
+}
