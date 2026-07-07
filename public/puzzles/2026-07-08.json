@@ -1,0 +1,131 @@
+{
+  "start": "erg",
+  "target": [
+    "bourgeon"
+  ],
+  "steps": [
+    {
+      "options": "beo"
+    },
+    {
+      "options": "umb"
+    },
+    {
+      "options": "bfa"
+    },
+    {
+      "options": "nsi"
+    },
+    {
+      "options": "oeq"
+    }
+  ],
+  "dictionary": {
+    "b": [
+      "berg"
+    ],
+    "bu": [],
+    "bm": [],
+    "bb": [],
+    "e": [
+      "eger",
+      "gree"
+    ],
+    "eu": [],
+    "em": [
+      "merge"
+    ],
+    "emb": [],
+    "emf": [],
+    "ema": [
+      "meager",
+      "meagre"
+    ],
+    "eman": [
+      "germane"
+    ],
+    "emano": [],
+    "emane": [],
+    "emanq": [],
+    "emas": [],
+    "emai": [
+      "reimage"
+    ],
+    "emaio": [],
+    "emaie": [],
+    "emaiq": [],
+    "eb": [
+      "grebe"
+    ],
+    "ebb": [],
+    "ebf": [],
+    "eba": [
+      "barege",
+      "bargee"
+    ],
+    "eban": [
+      "rebegan"
+    ],
+    "ebano": [],
+    "ebane": [],
+    "ebanq": [],
+    "ebas": [
+      "bareges",
+      "bargees"
+    ],
+    "ebaso": [],
+    "ebase": [],
+    "ebasq": [],
+    "ebai": [],
+    "o": [
+      "ergo",
+      "goer",
+      "gore",
+      "ogre"
+    ],
+    "ou": [
+      "erugo",
+      "rogue",
+      "rouge"
+    ],
+    "oub": [
+      "brogue"
+    ],
+    "oubn": [
+      "burgeon"
+    ],
+    "oubno": [
+      "bourgeon"
+    ],
+    "oubne": [],
+    "oubnq": [],
+    "oubs": [
+      "brogues"
+    ],
+    "oubso": [],
+    "oubse": [],
+    "oubsq": [],
+    "oubi": [],
+    "ouf": [],
+    "oua": [
+      "aerugo"
+    ],
+    "ouan": [],
+    "ouas": [
+      "aerugos"
+    ],
+    "ouaso": [],
+    "ouase": [],
+    "ouasq": [],
+    "ouai": [],
+    "om": [],
+    "ob": []
+  },
+  "scoreTokens": [
+    "2bfb56ddc066103bbfa3642c190f99c9104b7c60be947c6b42c2dc457aeb2b20",
+    "c174326879041083b45689cc21db70943032144f9cfeaf09372a696a3dd28247",
+    "2f5b415df10dab83640a9be9335dff40bf44fd2f94659ef6d7962ed0e70bb738",
+    "1e63939cab8f564a15fa5120b949ded6bcf4808a5d9bf192b0c5b84bce428ec8",
+    "d383a723b4c3c6279baca420d9039fe0c36a98eb566ae73ad0a0d0c1465c0b20"
+  ]
+}
