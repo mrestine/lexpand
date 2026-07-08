@@ -1,0 +1,160 @@
+{
+  "start": "ire",
+  "target": [
+    "insiders",
+    "servings",
+    "herrings"
+  ],
+  "steps": [
+    {
+      "options": "wcn"
+    },
+    {
+      "options": "deg"
+    },
+    {
+      "options": "yxs"
+    },
+    {
+      "options": "vhi"
+    },
+    {
+      "options": "sjr"
+    }
+  ],
+  "dictionary": {
+    "w": [
+      "weir",
+      "wire"
+    ],
+    "wd": [
+      "weird",
+      "wider",
+      "wired",
+      "wried"
+    ],
+    "wdy": [
+      "weirdy"
+    ],
+    "wdyv": [],
+    "wdyh": [],
+    "wdyi": [],
+    "wdx": [],
+    "wds": [
+      "weirds"
+    ],
+    "wdsv": [],
+    "wdsh": [],
+    "wdsi": [],
+    "we": [],
+    "wg": [],
+    "c": [
+      "cire",
+      "rice"
+    ],
+    "cd": [
+      "cider",
+      "cried",
+      "dicer",
+      "riced"
+    ],
+    "cdy": [],
+    "cdx": [],
+    "cds": [
+      "ciders",
+      "dicers",
+      "scried"
+    ],
+    "cdsv": [
+      "scrived"
+    ],
+    "cdsvs": [],
+    "cdsvj": [],
+    "cdsvr": [],
+    "cdsh": [
+      "chiders",
+      "herdics"
+    ],
+    "cdshs": [],
+    "cdshj": [],
+    "cdshr": [],
+    "cdsi": [],
+    "ce": [],
+    "cg": [],
+    "n": [
+      "rein"
+    ],
+    "nd": [
+      "diner"
+    ],
+    "ndy": [],
+    "ndx": [],
+    "nds": [
+      "diners",
+      "rinsed",
+      "snider"
+    ],
+    "ndsv": [
+      "verdins"
+    ],
+    "ndsvs": [],
+    "ndsvj": [],
+    "ndsvr": [],
+    "ndsh": [
+      "hinders",
+      "nerdish",
+      "shrined"
+    ],
+    "ndshs": [],
+    "ndshj": [],
+    "ndshr": [],
+    "ndsi": [
+      "insider"
+    ],
+    "ndsis": [
+      "insiders"
+    ],
+    "ndsij": [],
+    "ndsir": [],
+    "ne": [],
+    "ng": [
+      "reign",
+      "renig"
+    ],
+    "ngy": [],
+    "ngx": [],
+    "ngs": [
+      "reigns",
+      "renigs",
+      "resign",
+      "sering",
+      "signer",
+      "singer"
+    ],
+    "ngsv": [
+      "serving",
+      "versing"
+    ],
+    "ngsvs": [
+      "servings"
+    ],
+    "ngsvj": [],
+    "ngsvr": [],
+    "ngsh": [
+      "hingers"
+    ],
+    "ngshs": [],
+    "ngshj": [],
+    "ngshr": [
+      "herrings"
+    ],
+    "ngsi": []
+  },
+  "scoreTokens": [
+    "59cbc9a16c9e05ac8c8f19bc4d53ad8dbfc68fbb1d01f3fa6945afc9cf8ee5d2",
+    "e6bf0948a9a567af7e78b19537c1fd417ce068a157914f12e01986c182e397fd",
+    "a59f8f9531a26dc4442c6fcfd1a71e13e703c2f703dc66ad2958627c49546d9c",
+    "94900dcc5bae8bfcca442207db3b6f51caf3be90a0a2e13f878b82b2821b888c",
+    "af7f203d331f0b57b9dfbf13c2fc601f4b2b583ee3f1804ab50bfb7426de9059"
+  ]
+}
