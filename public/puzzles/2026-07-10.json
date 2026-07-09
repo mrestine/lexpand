@@ -1,0 +1,279 @@
+{
+  "start": "ope",
+  "target": [
+    "depictor",
+    "periodic",
+    "tetrapod",
+    "dioptase",
+    "postdate",
+    "outleapt",
+    "octupled",
+    "clupeoid",
+    "upcoiled",
+    "copulate",
+    "petiolar",
+    "pistoled",
+    "ploidies"
+  ],
+  "steps": [
+    {
+      "options": "cdl"
+    },
+    {
+      "options": "urs"
+    },
+    {
+      "options": "itc"
+    },
+    {
+      "options": "dpa"
+    },
+    {
+      "options": "tif"
+    }
+  ],
+  "dictionary": {
+    "c": [
+      "cope"
+    ],
+    "cu": [
+      "coupe"
+    ],
+    "cui": [],
+    "cut": [],
+    "cuc": [],
+    "cr": [
+      "coper"
+    ],
+    "cri": [
+      "copier"
+    ],
+    "crid": [
+      "percoid"
+    ],
+    "cridt": [
+      "depictor"
+    ],
+    "cridi": [
+      "periodic"
+    ],
+    "cridf": [],
+    "crip": [
+      "croppie"
+    ],
+    "cript": [],
+    "cripi": [],
+    "cripf": [],
+    "cria": [],
+    "crt": [
+      "copter"
+    ],
+    "crtd": [],
+    "crtp": [],
+    "crta": [],
+    "crc": [],
+    "cs": [
+      "copes",
+      "copse",
+      "scope"
+    ],
+    "csi": [
+      "copies"
+    ],
+    "csid": [],
+    "csip": [],
+    "csia": [],
+    "cst": [],
+    "csc": [],
+    "d": [
+      "dope",
+      "oped"
+    ],
+    "du": [],
+    "dr": [
+      "doper",
+      "pedro",
+      "pored",
+      "roped"
+    ],
+    "dri": [
+      "dopier",
+      "period"
+    ],
+    "drid": [],
+    "drip": [],
+    "dria": [],
+    "drt": [
+      "deport",
+      "ported",
+      "redtop"
+    ],
+    "drtd": [],
+    "drtp": [],
+    "drta": [
+      "adopter",
+      "readopt"
+    ],
+    "drtat": [
+      "tetrapod"
+    ],
+    "drtai": [],
+    "drtaf": [],
+    "drc": [],
+    "ds": [
+      "dopes",
+      "posed",
+      "spode"
+    ],
+    "dsi": [
+      "poised"
+    ],
+    "dsid": [],
+    "dsip": [],
+    "dsia": [
+      "adipose"
+    ],
+    "dsiat": [
+      "dioptase"
+    ],
+    "dsiai": [],
+    "dsiaf": [],
+    "dst": [
+      "depots",
+      "despot",
+      "posted",
+      "stoped"
+    ],
+    "dstd": [],
+    "dstp": [
+      "stopped"
+    ],
+    "dstpt": [],
+    "dstpi": [],
+    "dstpf": [],
+    "dsta": [
+      "podesta"
+    ],
+    "dstat": [
+      "postdate"
+    ],
+    "dstai": [
+      "dioptase"
+    ],
+    "dstaf": [],
+    "dsc": [
+      "scoped"
+    ],
+    "dscd": [],
+    "dscp": [],
+    "dsca": [
+      "peascod"
+    ],
+    "dscat": [],
+    "dscai": [],
+    "dscaf": [],
+    "l": [
+      "lope",
+      "pole"
+    ],
+    "lu": [
+      "loupe"
+    ],
+    "lui": [],
+    "lut": [
+      "tupelo"
+    ],
+    "lutd": [],
+    "lutp": [],
+    "luta": [
+      "outleap"
+    ],
+    "lutat": [
+      "outleapt"
+    ],
+    "lutai": [],
+    "lutaf": [],
+    "luc": [
+      "couple"
+    ],
+    "lucd": [
+      "coupled"
+    ],
+    "lucdt": [
+      "octupled"
+    ],
+    "lucdi": [
+      "clupeoid",
+      "upcoiled"
+    ],
+    "lucdf": [],
+    "lucp": [],
+    "luca": [
+      "copulae"
+    ],
+    "lucat": [
+      "copulate"
+    ],
+    "lucai": [],
+    "lucaf": [],
+    "lr": [
+      "loper",
+      "poler",
+      "prole"
+    ],
+    "lri": [],
+    "lrt": [
+      "petrol",
+      "replot"
+    ],
+    "lrtd": [
+      "droplet"
+    ],
+    "lrtdt": [],
+    "lrtdi": [],
+    "lrtdf": [],
+    "lrtp": [],
+    "lrta": [
+      "prolate"
+    ],
+    "lrtat": [],
+    "lrtai": [
+      "petiolar"
+    ],
+    "lrtaf": [],
+    "lrc": [],
+    "ls": [
+      "lopes",
+      "poles",
+      "slope"
+    ],
+    "lsi": [
+      "pilose",
+      "poleis"
+    ],
+    "lsid": [
+      "despoil",
+      "diploes",
+      "dipoles",
+      "spoiled"
+    ],
+    "lsidt": [
+      "pistoled"
+    ],
+    "lsidi": [
+      "ploidies"
+    ],
+    "lsidf": [],
+    "lsip": [],
+    "lsia": [],
+    "lst": [],
+    "lsc": []
+  },
+  "scoreTokens": [
+    "6c037d136c6f81cf228e5b03a02145cc6a295fe069dbd63d58492e8503dce1af",
+    "dda1a2b4ea0324b5981c2ca39e74a7b4d0832d7d77a022c896d08092b8ea3834",
+    "9805ce25fbb790d9b88fa7aec5e171e0a373fb7c4c500638eeb4816b58f83b99",
+    "39f026f1d75e27fddf14548fd64366e1c81c9b20cde099cd5cdb2494d6756c71",
+    "168d8ea5a327868146fb8102847e2d40c3a18eee86f1e27d3f2884f68d9f5477"
+  ]
+}
