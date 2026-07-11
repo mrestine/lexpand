@@ -1,0 +1,149 @@
+{
+  "start": "nog",
+  "target": [
+    "flogging",
+    "frogging"
+  ],
+  "steps": [
+    {
+      "options": "gob"
+    },
+    {
+      "options": "kis"
+    },
+    {
+      "options": "lrs"
+    },
+    {
+      "options": "guy"
+    },
+    {
+      "options": "kfu"
+    }
+  ],
+  "dictionary": {
+    "g": [
+      "gong",
+      "nogg"
+    ],
+    "gk": [],
+    "gi": [
+      "going"
+    ],
+    "gil": [
+      "ogling"
+    ],
+    "gilg": [
+      "logging"
+    ],
+    "gilgk": [],
+    "gilgf": [
+      "flogging"
+    ],
+    "gilgu": [],
+    "gilu": [],
+    "gily": [],
+    "gir": [
+      "goring",
+      "gringo"
+    ],
+    "girg": [
+      "gorging"
+    ],
+    "girgk": [],
+    "girgf": [
+      "frogging"
+    ],
+    "girgu": [],
+    "giru": [
+      "roguing",
+      "rouging"
+    ],
+    "giruk": [],
+    "giruf": [],
+    "giruu": [],
+    "giry": [],
+    "gis": [
+      "goings"
+    ],
+    "gisg": [],
+    "gisu": [],
+    "gisy": [],
+    "gs": [
+      "gongs",
+      "noggs"
+    ],
+    "gsl": [],
+    "gsr": [],
+    "gss": [],
+    "o": [
+      "goon"
+    ],
+    "ok": [],
+    "oi": [],
+    "os": [
+      "goons"
+    ],
+    "osl": [],
+    "osr": [],
+    "oss": [],
+    "b": [
+      "bong"
+    ],
+    "bk": [],
+    "bi": [
+      "bingo",
+      "boing"
+    ],
+    "bil": [
+      "globin",
+      "goblin"
+    ],
+    "bilg": [
+      "globing"
+    ],
+    "bilgk": [],
+    "bilgf": [],
+    "bilgu": [],
+    "bilu": [],
+    "bily": [
+      "ignobly"
+    ],
+    "bilyk": [],
+    "bilyf": [],
+    "bilyu": [],
+    "bir": [
+      "boring",
+      "orbing",
+      "robing"
+    ],
+    "birg": [],
+    "biru": [],
+    "biry": [],
+    "bis": [
+      "bingos",
+      "gibson"
+    ],
+    "bisg": [],
+    "bisu": [
+      "bousing"
+    ],
+    "bisuk": [],
+    "bisuf": [],
+    "bisuu": [],
+    "bisy": [],
+    "bs": [
+      "bongs"
+    ],
+    "bsl": [],
+    "bsr": [],
+    "bss": []
+  },
+  "scoreTokens": [
+    "ce1d5348d1b5357b30610b8ad41f8198eed465098455c1d17e5f1f399c69428e",
+    "3065e3928522776983bab17135668e452ff2b65b0e0a1062fb46da347e3ef17b",
+    "137c855d88d767e7c29ae1b90d9a39d67d4fab8f4103fab07de081122fe9f46f",
+    "cc047a310f9319634eb151ff54364fc6f4db84111a3e868740eec5eccfc12830",
+    "b0153a5e669ff29330746b939a23a8f11070a6cd368da2a24b844294835a154c"
+  ]
+}
