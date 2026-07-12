@@ -1,0 +1,247 @@
+{
+  "start": "ait",
+  "target": [
+    "antinuke",
+    "insurant",
+    "stingray",
+    "straying"
+  ],
+  "steps": [
+    {
+      "options": "nkf"
+    },
+    {
+      "options": "krn"
+    },
+    {
+      "options": "ucg"
+    },
+    {
+      "options": "aes"
+    },
+    {
+      "options": "zny"
+    }
+  ],
+  "dictionary": {
+    "n": [
+      "anti",
+      "tain"
+    ],
+    "nk": [
+      "takin"
+    ],
+    "nku": [
+      "tanuki"
+    ],
+    "nkua": [],
+    "nkue": [
+      "unakite"
+    ],
+    "nkuez": [],
+    "nkuen": [
+      "antinuke"
+    ],
+    "nkuey": [],
+    "nkus": [
+      "tanukis"
+    ],
+    "nkusz": [],
+    "nkusn": [],
+    "nkusy": [],
+    "nkc": [
+      "antick",
+      "catkin"
+    ],
+    "nkca": [
+      "katcina"
+    ],
+    "nkcaz": [],
+    "nkcan": [],
+    "nkcay": [],
+    "nkce": [],
+    "nkcs": [
+      "anticks",
+      "catkins"
+    ],
+    "nkcsz": [],
+    "nkcsn": [],
+    "nkcsy": [],
+    "nkg": [
+      "taking"
+    ],
+    "nkga": [],
+    "nkge": [],
+    "nkgs": [
+      "skating",
+      "staking",
+      "takings",
+      "tasking"
+    ],
+    "nkgsz": [],
+    "nkgsn": [],
+    "nkgsy": [],
+    "nr": [
+      "riant",
+      "train"
+    ],
+    "nru": [
+      "nutria"
+    ],
+    "nrua": [],
+    "nrue": [
+      "ruinate",
+      "taurine",
+      "uranite",
+      "urinate"
+    ],
+    "nruez": [],
+    "nruen": [],
+    "nruey": [],
+    "nrus": [
+      "nutrias"
+    ],
+    "nrusz": [],
+    "nrusn": [
+      "insurant"
+    ],
+    "nrusy": [],
+    "nrc": [],
+    "nrg": [
+      "gratin",
+      "rating",
+      "taring"
+    ],
+    "nrga": [
+      "granita"
+    ],
+    "nrgaz": [],
+    "nrgan": [],
+    "nrgay": [],
+    "nrge": [
+      "granite",
+      "gratine",
+      "ingrate",
+      "tangier",
+      "tearing"
+    ],
+    "nrgez": [],
+    "nrgen": [],
+    "nrgey": [],
+    "nrgs": [
+      "gastrin",
+      "gratins",
+      "ratings",
+      "staring"
+    ],
+    "nrgsz": [],
+    "nrgsn": [],
+    "nrgsy": [
+      "stingray",
+      "straying"
+    ],
+    "nn": [],
+    "k": [
+      "ikat"
+    ],
+    "kk": [],
+    "kr": [
+      "krait",
+      "traik"
+    ],
+    "kru": [],
+    "krc": [],
+    "krg": [],
+    "kn": [
+      "takin"
+    ],
+    "knu": [
+      "tanuki"
+    ],
+    "knua": [],
+    "knue": [
+      "unakite"
+    ],
+    "knuez": [],
+    "knuen": [
+      "antinuke"
+    ],
+    "knuey": [],
+    "knus": [
+      "tanukis"
+    ],
+    "knusz": [],
+    "knusn": [],
+    "knusy": [],
+    "knc": [
+      "antick",
+      "catkin"
+    ],
+    "knca": [
+      "katcina"
+    ],
+    "kncaz": [],
+    "kncan": [],
+    "kncay": [],
+    "knce": [],
+    "kncs": [
+      "anticks",
+      "catkins"
+    ],
+    "kncsz": [],
+    "kncsn": [],
+    "kncsy": [],
+    "kng": [
+      "taking"
+    ],
+    "knga": [],
+    "knge": [],
+    "kngs": [
+      "skating",
+      "staking",
+      "takings",
+      "tasking"
+    ],
+    "kngsz": [],
+    "kngsn": [],
+    "kngsy": [],
+    "f": [
+      "fiat"
+    ],
+    "fk": [],
+    "fr": [
+      "afrit"
+    ],
+    "fru": [],
+    "frc": [
+      "fracti"
+    ],
+    "frca": [],
+    "frce": [],
+    "frcs": [],
+    "frg": [],
+    "fn": [
+      "faint"
+    ],
+    "fnu": [],
+    "fnc": [],
+    "fng": [
+      "fating"
+    ],
+    "fnga": [],
+    "fnge": [],
+    "fngs": [
+      "fasting"
+    ],
+    "fngsz": [],
+    "fngsn": [],
+    "fngsy": []
+  },
+  "scoreTokens": [
+    "93a2d3547b10da25251d9783433e746e2c47343c25abd2af0e44e7603fd47a11",
+    "db36eaa56ef0a64d76e6db4a69c0fcc1557bd41b2213524f99c4d5430ab63993",
+    "0c5e1182472915e040b93704d76d95d1d02f482952b91032182fcc255794342b",
+    "725fe106d9342ecc34e447a6ba8441547b93b7cf58410298dd9cbb109472e319",
+    "81541e50805677ced4087c69c98d6ab000f94e5e3bd700b2b51de61cecb49062"
+  ]
+}
