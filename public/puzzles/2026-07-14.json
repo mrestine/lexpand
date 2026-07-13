@@ -1,0 +1,181 @@
+{
+  "start": "dol",
+  "target": [
+    "melodies",
+    "melodise",
+    "modelers",
+    "morseled",
+    "remodels",
+    "delouser",
+    "urodeles",
+    "dolesome",
+    "rowelled",
+    "welldoer"
+  ],
+  "steps": [
+    {
+      "options": "srw"
+    },
+    {
+      "options": "iro"
+    },
+    {
+      "options": "iez"
+    },
+    {
+      "options": "red"
+    },
+    {
+      "options": "mul"
+    }
+  ],
+  "dictionary": {
+    "s": [
+      "dols",
+      "olds",
+      "sold"
+    ],
+    "si": [
+      "diols",
+      "idols",
+      "lidos",
+      "sloid",
+      "soldi",
+      "solid"
+    ],
+    "sii": [
+      "solidi"
+    ],
+    "siir": [],
+    "siie": [
+      "doilies",
+      "idolise"
+    ],
+    "siiem": [],
+    "siieu": [],
+    "siiel": [],
+    "siid": [],
+    "sie": [
+      "oldies",
+      "siloed",
+      "soiled"
+    ],
+    "sier": [
+      "soldier",
+      "solider"
+    ],
+    "sierm": [],
+    "sieru": [],
+    "sierl": [],
+    "siee": [
+      "oilseed"
+    ],
+    "sieem": [
+      "melodies",
+      "melodise"
+    ],
+    "sieeu": [],
+    "sieel": [],
+    "sied": [
+      "dildoes"
+    ],
+    "siedm": [],
+    "siedu": [],
+    "siedl": [],
+    "siz": [],
+    "sr": [
+      "lords"
+    ],
+    "sri": [],
+    "sre": [
+      "dorsel",
+      "resold",
+      "solder"
+    ],
+    "srer": [],
+    "sree": [
+      "resoled"
+    ],
+    "sreem": [
+      "modelers",
+      "morseled",
+      "remodels"
+    ],
+    "sreeu": [
+      "delouser",
+      "urodeles"
+    ],
+    "sreel": [],
+    "sred": [],
+    "srz": [],
+    "so": [
+      "soldo"
+    ],
+    "soi": [],
+    "soe": [
+      "loosed",
+      "oodles",
+      "soloed"
+    ],
+    "soer": [],
+    "soee": [
+      "doolees"
+    ],
+    "soeem": [
+      "dolesome"
+    ],
+    "soeeu": [],
+    "soeel": [],
+    "soed": [
+      "doodles"
+    ],
+    "soedm": [],
+    "soedu": [],
+    "soedl": [],
+    "soz": [],
+    "r": [
+      "lord"
+    ],
+    "ri": [],
+    "rr": [],
+    "ro": [
+      "dolor",
+      "drool"
+    ],
+    "roi": [],
+    "roe": [],
+    "roz": [],
+    "w": [
+      "wold"
+    ],
+    "wi": [],
+    "wr": [
+      "world"
+    ],
+    "wri": [],
+    "wre": [
+      "weldor"
+    ],
+    "wrer": [],
+    "wree": [
+      "lowered",
+      "roweled"
+    ],
+    "wreem": [],
+    "wreeu": [],
+    "wreel": [
+      "rowelled",
+      "welldoer"
+    ],
+    "wred": [],
+    "wrz": [],
+    "wo": []
+  },
+  "scoreTokens": [
+    "91b423e69d4909fc457b83b932b66cf2d494fa477c0114eb8bfca0dc6d433384",
+    "d166d7e5cc5395d502fa676c2c9cc87c7a839b24a0970a8078b74f201dc7ee88",
+    "5ee92cdbafdd93dbdd6513883a2701c15798c70070569310802a12b2e886f75d",
+    "f6dfe9f7e6cb9cee7313ada0c3deebe3527051f7d1e681a5d33107f5dda49323",
+    "0966f7af6236847c9eb0e6f6c6cd5abebea3b84be3f64429c6de3a313b98ca9b"
+  ]
+}
