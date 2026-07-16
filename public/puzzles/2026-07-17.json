@@ -1,0 +1,77 @@
+{
+  "start": "bys",
+  "target": [
+    "blousily"
+  ],
+  "steps": [
+    {
+      "options": "ueo"
+    },
+    {
+      "options": "zeu"
+    },
+    {
+      "options": "djl"
+    },
+    {
+      "options": "lmu"
+    },
+    {
+      "options": "ikh"
+    }
+  ],
+  "dictionary": {
+    "u": [
+      "busy",
+      "buys"
+    ],
+    "uz": [],
+    "ue": [],
+    "uu": [],
+    "e": [
+      "beys",
+      "byes"
+    ],
+    "ez": [],
+    "ee": [],
+    "eu": [],
+    "o": [
+      "boys",
+      "sybo",
+      "yobs"
+    ],
+    "oz": [],
+    "oe": [
+      "obeys"
+    ],
+    "oed": [],
+    "oej": [],
+    "oel": [],
+    "ou": [
+      "bousy",
+      "buoys"
+    ],
+    "oud": [],
+    "ouj": [],
+    "oul": [
+      "blousy"
+    ],
+    "oull": [
+      "solubly"
+    ],
+    "oulli": [
+      "blousily"
+    ],
+    "oullk": [],
+    "oullh": [],
+    "oulm": [],
+    "oulu": []
+  },
+  "scoreTokens": [
+    "4f7c96c009bbfeb003c196579d526a6533168ec84c064f9d6b122cf4faa97e05",
+    "2559867801bb66476daa314d097dae1f3d8051940062f4f313a00ff98894a035",
+    "809b837844ffab5acfc5af0ab386eedde0d98594ff9ad67cb85e1b2877dc8131",
+    "f6ac799d2540778d3fa2f27793465020731410e610ff35736a6756ce9e7bbdc6",
+    "960eccbba70b2f8696a698bfe6e5acb03849476aa8dab772362a5ec8e2a12e61"
+  ]
+}
