@@ -1,0 +1,184 @@
+{
+  "start": "sis",
+  "target": [
+    "steapsin",
+    "fishnets",
+    "antsiest",
+    "instates",
+    "nastiest",
+    "satinets",
+    "titaness"
+  ],
+  "steps": [
+    {
+      "options": "cer"
+    },
+    {
+      "options": "pqt"
+    },
+    {
+      "options": "gno"
+    },
+    {
+      "options": "hai"
+    },
+    {
+      "options": "tyf"
+    }
+  ],
+  "dictionary": {
+    "c": [
+      "sics"
+    ],
+    "cp": [
+      "spics"
+    ],
+    "cpg": [],
+    "cpn": [],
+    "cpo": [
+      "piscos"
+    ],
+    "cpoh": [],
+    "cpoa": [],
+    "cpoi": [],
+    "cq": [],
+    "ct": [
+      "cists"
+    ],
+    "ctg": [],
+    "ctn": [],
+    "cto": [
+      "stoics"
+    ],
+    "ctoh": [],
+    "ctoa": [
+      "scotias"
+    ],
+    "ctoat": [],
+    "ctoay": [],
+    "ctoaf": [],
+    "ctoi": [],
+    "e": [
+      "seis"
+    ],
+    "ep": [
+      "sipes",
+      "spies"
+    ],
+    "epg": [],
+    "epn": [
+      "snipes",
+      "spines"
+    ],
+    "epnh": [
+      "hipness"
+    ],
+    "epnht": [],
+    "epnhy": [],
+    "epnhf": [],
+    "epna": [
+      "pansies",
+      "sapiens"
+    ],
+    "epnat": [
+      "steapsin"
+    ],
+    "epnay": [],
+    "epnaf": [],
+    "epni": [],
+    "epo": [
+      "poises",
+      "posies"
+    ],
+    "epoh": [
+      "sophies"
+    ],
+    "epoht": [],
+    "epohy": [],
+    "epohf": [],
+    "epoa": [],
+    "epoi": [],
+    "eq": [],
+    "et": [
+      "sites",
+      "sties"
+    ],
+    "etg": [],
+    "etn": [
+      "insets",
+      "steins"
+    ],
+    "etnh": [
+      "sithens"
+    ],
+    "etnht": [],
+    "etnhy": [],
+    "etnhf": [
+      "fishnets"
+    ],
+    "etna": [
+      "entasis",
+      "nasties",
+      "sestina",
+      "tansies",
+      "tisanes"
+    ],
+    "etnat": [
+      "antsiest",
+      "instates",
+      "nastiest",
+      "satinets",
+      "titaness"
+    ],
+    "etnay": [],
+    "etnaf": [],
+    "etni": [],
+    "eto": [],
+    "r": [
+      "sirs",
+      "sris"
+    ],
+    "rp": [
+      "priss"
+    ],
+    "rpg": [
+      "sprigs"
+    ],
+    "rpgh": [],
+    "rpga": [],
+    "rpgi": [],
+    "rpn": [],
+    "rpo": [],
+    "rq": [],
+    "rt": [
+      "stirs"
+    ],
+    "rtg": [
+      "grists"
+    ],
+    "rtgh": [],
+    "rtga": [],
+    "rtgi": [],
+    "rtn": [],
+    "rto": [
+      "tsoris"
+    ],
+    "rtoh": [],
+    "rtoa": [
+      "aorists",
+      "aristos",
+      "satoris"
+    ],
+    "rtoat": [],
+    "rtoay": [],
+    "rtoaf": [],
+    "rtoi": []
+  },
+  "scoreTokens": [
+    "5d2c30e6bd8a19b963115c74f0bea66df61201dfce17fc916b567c30b472f244",
+    "cbdf003ccf572ab5fee1221ba9104fabf5ca8190f9698c31d4fc01933168e44b",
+    "3a9a19c2058ef50043928a8c8f8eabc1df0eafa78327ad0b59dee0e10019d1f0",
+    "a00f189e70c52f4d5e28e7fd67c3295459a38b76e8cf23ae10ba39822da10180",
+    "b3b0926abd5dca77968f2d205c6976d346c2f4e460ec51f7cba98b950359dc0f"
+  ]
+}
