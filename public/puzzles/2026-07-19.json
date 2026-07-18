@@ -1,0 +1,172 @@
+{
+  "start": "den",
+  "target": [
+    "mendable",
+    "aldermen",
+    "darkener"
+  ],
+  "steps": [
+    {
+      "options": "ola"
+    },
+    {
+      "options": "bqr"
+    },
+    {
+      "options": "eqd"
+    },
+    {
+      "options": "alk"
+    },
+    {
+      "options": "jmr"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "done",
+      "node"
+    ],
+    "ob": [
+      "boned"
+    ],
+    "obe": [
+      "debone"
+    ],
+    "obea": [],
+    "obel": [],
+    "obek": [],
+    "obq": [],
+    "obd": [
+      "bonded"
+    ],
+    "obda": [],
+    "obdl": [],
+    "obdk": [],
+    "oq": [],
+    "or": [
+      "drone",
+      "redon"
+    ],
+    "ore": [
+      "redone"
+    ],
+    "orea": [],
+    "orel": [],
+    "orek": [],
+    "orq": [],
+    "ord": [
+      "droned",
+      "nodder"
+    ],
+    "orda": [
+      "adorned"
+    ],
+    "ordaj": [],
+    "ordam": [],
+    "ordar": [],
+    "ordl": [],
+    "ordk": [],
+    "l": [
+      "lend"
+    ],
+    "lb": [
+      "blend"
+    ],
+    "lbe": [
+      "blende"
+    ],
+    "lbea": [
+      "enabled"
+    ],
+    "lbeaj": [],
+    "lbeam": [
+      "mendable"
+    ],
+    "lbear": [],
+    "lbel": [],
+    "lbek": [],
+    "lbq": [],
+    "lbd": [],
+    "lq": [],
+    "lr": [],
+    "a": [
+      "dean"
+    ],
+    "ab": [
+      "baned"
+    ],
+    "abe": [
+      "beaned"
+    ],
+    "abea": [],
+    "abel": [
+      "enabled"
+    ],
+    "abelj": [],
+    "abelm": [
+      "mendable"
+    ],
+    "abelr": [],
+    "abek": [],
+    "abq": [],
+    "abd": [
+      "banded"
+    ],
+    "abda": [],
+    "abdl": [],
+    "abdk": [],
+    "aq": [],
+    "ar": [
+      "redan"
+    ],
+    "are": [
+      "earned",
+      "endear",
+      "neared"
+    ],
+    "area": [
+      "aneared"
+    ],
+    "areaj": [],
+    "aream": [],
+    "arear": [],
+    "arel": [
+      "learned"
+    ],
+    "arelj": [],
+    "arelm": [
+      "aldermen"
+    ],
+    "arelr": [],
+    "arek": [
+      "kneader",
+      "nakeder"
+    ],
+    "arekj": [],
+    "arekm": [],
+    "arekr": [
+      "darkener"
+    ],
+    "arq": [],
+    "ard": [
+      "dander",
+      "darned"
+    ],
+    "arda": [],
+    "ardl": [
+      "dandler"
+    ],
+    "ardlj": [],
+    "ardlm": [],
+    "ardlr": [],
+    "ardk": []
+  },
+  "scoreTokens": [
+    "ac3edea2c61b8de3b88ca397f3703cd87e0428832f07802c1718bd27b797da1f",
+    "7dd4e67a3b5226267294fc7421ae98ec6b098565dd9c2e4b490d959433ba9382",
+    "eebe4536f1642c0c394cf593433265aad40f1568945955602309acc61591a4ec",
+    "ce3d165d421ed6811eeb24abc78798c2110bd3634c91b5288675a8e232e26d58",
+    "44e1cc93198599ea6600ff842a4f2a9fc52283b1020a6819915ebe64e34f9938"
+  ]
+}
