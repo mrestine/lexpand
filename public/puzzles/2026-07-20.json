@@ -1,0 +1,122 @@
+{
+  "start": "pis",
+  "target": [
+    "harpists",
+    "starship"
+  ],
+  "steps": [
+    {
+      "options": "wam"
+    },
+    {
+      "options": "wlh"
+    },
+    {
+      "options": "sor"
+    },
+    {
+      "options": "hfr"
+    },
+    {
+      "options": "vtn"
+    }
+  ],
+  "dictionary": {
+    "w": [
+      "wisp"
+    ],
+    "ww": [],
+    "wl": [],
+    "wh": [
+      "whips"
+    ],
+    "whs": [],
+    "who": [],
+    "whr": [],
+    "a": [
+      "pias"
+    ],
+    "aw": [],
+    "al": [
+      "lapis",
+      "pails",
+      "spail"
+    ],
+    "als": [
+      "spails"
+    ],
+    "alsh": [],
+    "alsf": [],
+    "alsr": [
+      "spirals"
+    ],
+    "alsrv": [],
+    "alsrt": [],
+    "alsrn": [],
+    "alo": [],
+    "alr": [
+      "spiral"
+    ],
+    "alrh": [],
+    "alrf": [],
+    "alrr": [],
+    "ah": [
+      "aphis",
+      "apish",
+      "spahi"
+    ],
+    "ahs": [
+      "aspish",
+      "phasis",
+      "spahis"
+    ],
+    "ahsh": [],
+    "ahsf": [],
+    "ahsr": [
+      "raspish"
+    ],
+    "ahsrv": [],
+    "ahsrt": [
+      "harpists",
+      "starship"
+    ],
+    "ahsrn": [],
+    "aho": [
+      "poisha"
+    ],
+    "ahoh": [],
+    "ahof": [],
+    "ahor": [],
+    "ahr": [
+      "parish",
+      "raphis"
+    ],
+    "ahrh": [],
+    "ahrf": [],
+    "ahrr": [],
+    "m": [
+      "imps",
+      "simp"
+    ],
+    "mw": [
+      "wimps"
+    ],
+    "mws": [],
+    "mwo": [],
+    "mwr": [],
+    "ml": [
+      "limps"
+    ],
+    "mls": [],
+    "mlo": [],
+    "mlr": [],
+    "mh": []
+  },
+  "scoreTokens": [
+    "89043589ffa55a94bbc3ac6073b40ee95703bc5496bde8f500311319d1b08c49",
+    "9ef0894142a898156ac7c5b04a5bcc07591bcafaea2b064fbd31b7d41d50eaa9",
+    "e2d6cb13b3ff718f31d891bd3e73d0362bc5a0a03308ee03fe7d342fc9bfc128",
+    "8384979e8cf82d3a097e3f5e06aa6e8049fa596ecfa96653c9f7ed2846adc134",
+    "b438e971012a25b6e0f443b24ea34aed2a5d7c5dd718539039130e29f9900d23"
+  ]
+}
