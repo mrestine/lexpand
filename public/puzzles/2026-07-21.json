@@ -1,0 +1,167 @@
+{
+  "start": "sir",
+  "target": [
+    "diorites"
+  ],
+  "steps": [
+    {
+      "options": "emh"
+    },
+    {
+      "options": "cgt"
+    },
+    {
+      "options": "fov"
+    },
+    {
+      "options": "djz"
+    },
+    {
+      "options": "jif"
+    }
+  ],
+  "dictionary": {
+    "e": [
+      "ires",
+      "reis",
+      "rise",
+      "sire"
+    ],
+    "ec": [
+      "cires",
+      "cries",
+      "rices"
+    ],
+    "ecf": [],
+    "eco": [
+      "cosier"
+    ],
+    "ecod": [],
+    "ecoj": [],
+    "ecoz": [],
+    "ecv": [
+      "scrive"
+    ],
+    "ecvd": [
+      "scrived"
+    ],
+    "ecvdj": [],
+    "ecvdi": [],
+    "ecvdf": [],
+    "ecvj": [],
+    "ecvz": [],
+    "eg": [],
+    "et": [
+      "rites",
+      "tiers",
+      "tires",
+      "tries"
+    ],
+    "etf": [
+      "refits",
+      "resift",
+      "rifest",
+      "sifter",
+      "strife"
+    ],
+    "etfd": [],
+    "etfj": [],
+    "etfz": [
+      "fritzes"
+    ],
+    "etfzj": [],
+    "etfzi": [],
+    "etfzf": [],
+    "eto": [
+      "sortie",
+      "tories",
+      "triose"
+    ],
+    "etod": [
+      "editors",
+      "sortied",
+      "steroid",
+      "storied",
+      "triodes"
+    ],
+    "etodj": [],
+    "etodi": [
+      "diorites"
+    ],
+    "etodf": [],
+    "etoj": [],
+    "etoz": [],
+    "etv": [
+      "rivets",
+      "stiver",
+      "strive",
+      "verist"
+    ],
+    "etvd": [
+      "diverts",
+      "strived"
+    ],
+    "etvdj": [],
+    "etvdi": [],
+    "etvdf": [],
+    "etvj": [],
+    "etvz": [],
+    "m": [
+      "mirs",
+      "rims"
+    ],
+    "mc": [
+      "scrim"
+    ],
+    "mcf": [],
+    "mco": [
+      "micros"
+    ],
+    "mcod": [],
+    "mcoj": [],
+    "mcoz": [],
+    "mcv": [],
+    "mg": [],
+    "mt": [
+      "trims"
+    ],
+    "mtf": [],
+    "mto": [],
+    "mtv": [],
+    "h": [
+      "shri"
+    ],
+    "hc": [],
+    "hg": [
+      "girsh"
+    ],
+    "hgf": [],
+    "hgo": [
+      "ogrish"
+    ],
+    "hgod": [],
+    "hgoj": [],
+    "hgoz": [],
+    "hgv": [],
+    "ht": [
+      "shirt"
+    ],
+    "htf": [
+      "firths",
+      "friths",
+      "shrift"
+    ],
+    "htfd": [],
+    "htfj": [],
+    "htfz": [],
+    "hto": [],
+    "htv": []
+  },
+  "scoreTokens": [
+    "f885ce75d7491968d468f6c50e62d7dfd23d053c10d0ab5a380da9702a29482c",
+    "522c1fe4a64647a4239618b37879bf6b59de8afb3d374fadba64af3032dbeb9b",
+    "5f6aef0b2f84ba852d8996b48e9af05f782eab51764f3e3a5cbc3c24e3d24804",
+    "33e1da6abd53e71e8b2342f2fa903856956ffdd083d982b2eb8b6c0ef3a68039",
+    "b6a9f08ff91ab25bfcd00da82812778b0f8464f6cbe1a041851fbf9b0784fe90"
+  ]
+}
