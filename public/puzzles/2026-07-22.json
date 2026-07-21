@@ -1,0 +1,97 @@
+{
+  "start": "leu",
+  "target": [
+    "columels",
+    "doublets"
+  ],
+  "steps": [
+    {
+      "options": "kgs"
+    },
+    {
+      "options": "eoa"
+    },
+    {
+      "options": "cdj"
+    },
+    {
+      "options": "tlz"
+    },
+    {
+      "options": "bmv"
+    }
+  ],
+  "dictionary": {
+    "k": [
+      "leku"
+    ],
+    "ke": [],
+    "ko": [],
+    "ka": [],
+    "g": [
+      "glue",
+      "luge"
+    ],
+    "ge": [],
+    "go": [],
+    "ga": [],
+    "s": [
+      "lues",
+      "slue"
+    ],
+    "se": [],
+    "so": [
+      "louse",
+      "ousel"
+    ],
+    "soc": [
+      "coleus",
+      "oscule"
+    ],
+    "soct": [],
+    "socl": [
+      "locules",
+      "ocellus"
+    ],
+    "soclb": [],
+    "soclm": [
+      "columels"
+    ],
+    "soclv": [],
+    "socz": [],
+    "sod": [
+      "loused",
+      "souled"
+    ],
+    "sodt": [
+      "loudest",
+      "tousled"
+    ],
+    "sodtb": [
+      "doublets"
+    ],
+    "sodtm": [],
+    "sodtv": [],
+    "sodl": [
+      "duellos"
+    ],
+    "sodlb": [],
+    "sodlm": [],
+    "sodlv": [],
+    "sodz": [],
+    "soj": [
+      "joules"
+    ],
+    "sojt": [],
+    "sojl": [],
+    "sojz": [],
+    "sa": []
+  },
+  "scoreTokens": [
+    "8107274f2dcfaecdfcf134732716a693e87ca20f74a9af18bfcd97213d5cb007",
+    "f0d18bbceeb9e10ea1d726e405862a1661968dc01cb01b3a06d30951775dba21",
+    "b3cdef37d2743cf93bbc2f0cf220f5a207a86c36d62b9a1e4899d73ecad86e6c",
+    "481834adebd2ef5a779fce3924d6a318eafe0d697fa2d8060e62260175a8c39c",
+    "81952fad866bf03db2217fc8a5ac396ed5a19311d7c37e646a3b561024a24d5c"
+  ]
+}
