@@ -1,0 +1,113 @@
+{
+  "start": "vig",
+  "target": [
+    "ravigote",
+    "viragoes"
+  ],
+  "steps": [
+    {
+      "options": "ase"
+    },
+    {
+      "options": "ojr"
+    },
+    {
+      "options": "tcs"
+    },
+    {
+      "options": "aow"
+    },
+    {
+      "options": "xzo"
+    }
+  ],
+  "dictionary": {
+    "a": [
+      "vagi",
+      "viga"
+    ],
+    "ao": [],
+    "aj": [],
+    "ar": [
+      "virga"
+    ],
+    "art": [],
+    "arc": [],
+    "ars": [
+      "virgas"
+    ],
+    "arsa": [],
+    "arso": [
+      "viragos"
+    ],
+    "arsox": [],
+    "arsoz": [],
+    "arsoo": [],
+    "arsw": [],
+    "s": [
+      "vigs"
+    ],
+    "so": [],
+    "sj": [],
+    "sr": [],
+    "e": [
+      "give"
+    ],
+    "eo": [
+      "ogive",
+      "vogie"
+    ],
+    "eot": [],
+    "eoc": [],
+    "eos": [
+      "ogives"
+    ],
+    "eosa": [],
+    "eoso": [],
+    "eosw": [],
+    "ej": [],
+    "er": [
+      "giver"
+    ],
+    "ert": [
+      "grivet"
+    ],
+    "erta": [
+      "virgate"
+    ],
+    "ertax": [],
+    "ertaz": [],
+    "ertao": [
+      "ravigote"
+    ],
+    "erto": [
+      "vertigo"
+    ],
+    "ertox": [],
+    "ertoz": [],
+    "ertoo": [],
+    "ertw": [],
+    "erc": [],
+    "ers": [
+      "givers"
+    ],
+    "ersa": [
+      "gravies",
+      "rivages"
+    ],
+    "ersax": [],
+    "ersaz": [],
+    "ersao": [
+      "viragoes"
+    ],
+    "erso": [],
+    "ersw": []
+  },
+  "scoreTokens": [
+    "94e9e5def913cd5684dd4dcb0deed24d4596f7d0b84d72c67d33e34bd0ca67a2",
+    "5b359560a00cfd8b0d609f2ab925fad7fba10371a211f74e59e3e6627f1d459b",
+    "7b45811852c2c1f4468727da450e025aa5d0e62e02ee0d88db68dae3e037c11e",
+    "64228146b08f3e44f67f13fdc6b8f06005ec06a142a555e417a0445d8af1777a",
+    "d4fecc4023b2cd65859b883a5b047f1deb58df3ab7d9cc896a5854c484e91068"
+  ]
+}
