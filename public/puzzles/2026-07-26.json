@@ -1,0 +1,137 @@
+{
+  "start": "nap",
+  "target": [
+    "graphing",
+    "ralphing",
+    "prawning",
+    "pauldron"
+  ],
+  "steps": [
+    {
+      "options": "igu"
+    },
+    {
+      "options": "gln"
+    },
+    {
+      "options": "dhg"
+    },
+    {
+      "options": "wor"
+    },
+    {
+      "options": "hkr"
+    }
+  ],
+  "dictionary": {
+    "i": [
+      "nipa",
+      "pain",
+      "pian",
+      "pina"
+    ],
+    "ig": [
+      "aping"
+    ],
+    "igd": [],
+    "igh": [],
+    "igg": [
+      "gaping",
+      "paging"
+    ],
+    "iggw": [
+      "gawping"
+    ],
+    "iggwh": [],
+    "iggwk": [],
+    "iggwr": [],
+    "iggo": [],
+    "iggr": [
+      "parging"
+    ],
+    "iggrh": [
+      "graphing"
+    ],
+    "iggrk": [],
+    "iggrr": [],
+    "il": [
+      "lapin",
+      "plain"
+    ],
+    "ild": [],
+    "ilh": [],
+    "ilg": [
+      "paling"
+    ],
+    "ilgw": [
+      "lapwing"
+    ],
+    "ilgwh": [],
+    "ilgwk": [],
+    "ilgwr": [],
+    "ilgo": [],
+    "ilgr": [
+      "graplin",
+      "parling"
+    ],
+    "ilgrh": [
+      "ralphing"
+    ],
+    "ilgrk": [],
+    "ilgrr": [],
+    "in": [
+      "pinna"
+    ],
+    "ind": [],
+    "inh": [],
+    "ing": [
+      "pinang"
+    ],
+    "ingw": [
+      "pawning"
+    ],
+    "ingwh": [],
+    "ingwk": [],
+    "ingwr": [
+      "prawning"
+    ],
+    "ingo": [],
+    "ingr": [],
+    "g": [
+      "pang"
+    ],
+    "gg": [],
+    "gl": [],
+    "gn": [],
+    "u": [
+      "puna"
+    ],
+    "ug": [],
+    "ul": [
+      "ulpan"
+    ],
+    "uld": [
+      "upland"
+    ],
+    "uldw": [],
+    "uldo": [
+      "poundal"
+    ],
+    "uldoh": [],
+    "uldok": [],
+    "uldor": [
+      "pauldron"
+    ],
+    "uldr": [],
+    "ulh": [],
+    "ulg": [],
+    "un": []
+  },
+  "scoreTokens": [
+    "04bbc5661643f21b5496699605573381c6a14928f819a798f8b43687852b546f",
+    "5fac79c59000ab37ecd6238914bb0ca4a0284eb46cb7b42095741dc27f3f3956",
+    "5b321d081aa22b3301159cb765d61b55e67b92d124e20576d7028a41e5da045d",
+    "671450d953ea4f66f9415654279f23794a5c2ee6288f302546f1ee95c6f0ea28",
+    "2eed1c3568eaeaf3d3728d55a0926b6eebbd918633fae174a4f47cc047e51b5c"
+  ]
+}
