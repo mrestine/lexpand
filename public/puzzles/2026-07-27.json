@@ -1,0 +1,79 @@
+{
+  "start": "ski",
+  "target": [
+    "rickshas"
+  ],
+  "steps": [
+    {
+      "options": "lrb"
+    },
+    {
+      "options": "cwi"
+    },
+    {
+      "options": "jhu"
+    },
+    {
+      "options": "hsu"
+    },
+    {
+      "options": "awz"
+    }
+  ],
+  "dictionary": {
+    "l": [
+      "ilks",
+      "silk"
+    ],
+    "lc": [
+      "licks",
+      "slick"
+    ],
+    "lcj": [],
+    "lch": [],
+    "lcu": [],
+    "lw": [],
+    "li": [],
+    "r": [
+      "irks",
+      "kirs",
+      "kris",
+      "risk"
+    ],
+    "rc": [
+      "ricks"
+    ],
+    "rcj": [],
+    "rch": [
+      "chirks",
+      "kirsch",
+      "schrik"
+    ],
+    "rchh": [],
+    "rchs": [
+      "schriks"
+    ],
+    "rchsa": [
+      "rickshas"
+    ],
+    "rchsw": [],
+    "rchsz": [],
+    "rchu": [],
+    "rcu": [],
+    "rw": [],
+    "ri": [],
+    "b": [
+      "bisk"
+    ],
+    "bc": [],
+    "bw": [],
+    "bi": []
+  },
+  "scoreTokens": [
+    "26b681631c3371ec1904c61e0656add6fd4f9301b1b4fa11d29db7e7a4f792a1",
+    "af43fccc0bba887436300a049ef5d23bc3e4b3d9a69b6e47175f8f767ee3edeb",
+    "2df750a3b8c06731926d89e03fbcf39469a8de580ac76475e9d6441973d238ee",
+    "0c6fdcb18c53f77b1dae7e14ac30225a854a8dcfe2f19dad9e40928dc32a08df",
+    "b61625c68af10f0830afefa6d9f8f79112ef93a7b5104e6f717d7cce0776f3fa"
+  ]
+}
