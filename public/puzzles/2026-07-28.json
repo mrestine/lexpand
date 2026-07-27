@@ -1,0 +1,144 @@
+{
+  "start": "ain",
+  "target": [
+    "inactive"
+  ],
+  "steps": [
+    {
+      "options": "cmb"
+    },
+    {
+      "options": "bvt"
+    },
+    {
+      "options": "erg"
+    },
+    {
+      "options": "uvd"
+    },
+    {
+      "options": "hij"
+    }
+  ],
+  "dictionary": {
+    "c": [
+      "cain"
+    ],
+    "cb": [
+      "cabin"
+    ],
+    "cbe": [],
+    "cbr": [],
+    "cbg": [],
+    "cv": [
+      "vinca"
+    ],
+    "cve": [],
+    "cvr": [],
+    "cvg": [
+      "caving"
+    ],
+    "cvgu": [
+      "vicugna"
+    ],
+    "cvguh": [],
+    "cvgui": [],
+    "cvguj": [],
+    "cvgv": [],
+    "cvgd": [],
+    "ct": [
+      "actin",
+      "antic"
+    ],
+    "cte": [
+      "acetin",
+      "enatic"
+    ],
+    "cteu": [
+      "tunicae"
+    ],
+    "cteuh": [],
+    "cteui": [],
+    "cteuj": [],
+    "ctev": [
+      "venatic"
+    ],
+    "ctevh": [],
+    "ctevi": [
+      "inactive"
+    ],
+    "ctevj": [],
+    "cted": [],
+    "ctr": [],
+    "ctg": [
+      "acting"
+    ],
+    "ctgu": [],
+    "ctgv": [],
+    "ctgd": [],
+    "m": [
+      "amin",
+      "main",
+      "mina"
+    ],
+    "mb": [],
+    "mv": [
+      "mavin"
+    ],
+    "mve": [],
+    "mvr": [],
+    "mvg": [],
+    "mt": [
+      "matin"
+    ],
+    "mte": [
+      "etamin",
+      "inmate",
+      "tamein"
+    ],
+    "mteu": [],
+    "mtev": [],
+    "mted": [
+      "mediant"
+    ],
+    "mtedh": [],
+    "mtedi": [],
+    "mtedj": [],
+    "mtr": [
+      "martin"
+    ],
+    "mtru": [
+      "natrium"
+    ],
+    "mtruh": [],
+    "mtrui": [],
+    "mtruj": [],
+    "mtrv": [
+      "varmint"
+    ],
+    "mtrvh": [],
+    "mtrvi": [],
+    "mtrvj": [],
+    "mtrd": [],
+    "mtg": [
+      "mating",
+      "taming"
+    ],
+    "mtgu": [],
+    "mtgv": [],
+    "mtgd": [],
+    "b": [
+      "bani"
+    ],
+    "bb": [],
+    "bv": [],
+    "bt": []
+  },
+  "scoreTokens": [
+    "cab07944dfbedc940198981d06bc8711fcaa485840eaf45a3732686699bc847e",
+    "f3760379664e83133f8c44bff62040747e8e9f28d1d2fe78be9e823014362deb",
+    "94a829711664d0d41b280765a8f04c5fe6835d467b102afeb5f9863869316f75",
+    "a0bf87ca0f3a9f02fdd8f1b53b81abf8ad349923f1de2352950217a3acd8c3e2",
+    "8611e42cbd19321abac45a4ba7d52c321ace8145567dd0742159fb38b66bc892"
+  ]
+}
