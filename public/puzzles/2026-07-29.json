@@ -1,0 +1,89 @@
+{
+  "start": "toe",
+  "target": [
+    "hitherto"
+  ],
+  "steps": [
+    {
+      "options": "rva"
+    },
+    {
+      "options": "voh"
+    },
+    {
+      "options": "tup"
+    },
+    {
+      "options": "iuw"
+    },
+    {
+      "options": "rjh"
+    }
+  ],
+  "dictionary": {
+    "r": [
+      "rote",
+      "tore"
+    ],
+    "rv": [
+      "overt",
+      "trove",
+      "voter"
+    ],
+    "rvt": [],
+    "rvu": [],
+    "rvp": [],
+    "ro": [],
+    "rh": [
+      "other",
+      "throe"
+    ],
+    "rht": [
+      "hotter",
+      "tother"
+    ],
+    "rhti": [
+      "thorite"
+    ],
+    "rhtir": [],
+    "rhtij": [],
+    "rhtih": [
+      "hitherto"
+    ],
+    "rhtu": [],
+    "rhtw": [],
+    "rhu": [],
+    "rhp": [
+      "pother",
+      "thorpe"
+    ],
+    "rhpi": [],
+    "rhpu": [],
+    "rhpw": [],
+    "v": [
+      "veto",
+      "vote"
+    ],
+    "vv": [],
+    "vo": [],
+    "vh": [],
+    "a": [
+      "toea"
+    ],
+    "av": [
+      "ovate"
+    ],
+    "avt": [],
+    "avu": [],
+    "avp": [],
+    "ao": [],
+    "ah": []
+  },
+  "scoreTokens": [
+    "17bea66b8f05d3f2ef512f14c6ffe55fd95d33561098717c99d5d80c1c47732c",
+    "84073517571c78b8aea057c714b05fee698cb30ea9d3639b76898ed4977daa6f",
+    "1031c3bfdfd47c107cc4fb6e76af37b011c53a5a4919af94fb2eca22038f0d1f",
+    "0a13f237466d4a8d84815b7e6fd91cc601f1271f34ffc5a5b53e446d405119d9",
+    "4332f278ecbb0a968281e7931d399f8f4afa2af9baa46a88072c194c0df4bc96"
+  ]
+}
