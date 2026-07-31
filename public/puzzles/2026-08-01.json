@@ -1,0 +1,131 @@
+{
+  "start": "rye",
+  "target": [
+    "crousely"
+  ],
+  "steps": [
+    {
+      "options": "dly"
+    },
+    {
+      "options": "xbs"
+    },
+    {
+      "options": "tco"
+    },
+    {
+      "options": "xbu"
+    },
+    {
+      "options": "icu"
+    }
+  ],
+  "dictionary": {
+    "d": [
+      "dyer"
+    ],
+    "dx": [],
+    "db": [
+      "derby"
+    ],
+    "dbt": [],
+    "dbc": [],
+    "dbo": [
+      "rebody"
+    ],
+    "dbox": [],
+    "dbob": [],
+    "dbou": [],
+    "ds": [
+      "dyers"
+    ],
+    "dst": [
+      "dryest"
+    ],
+    "dstx": [],
+    "dstb": [],
+    "dstu": [
+      "restudy"
+    ],
+    "dstui": [],
+    "dstuc": [],
+    "dstuu": [],
+    "dsc": [
+      "cyders",
+      "descry"
+    ],
+    "dscx": [],
+    "dscb": [],
+    "dscu": [],
+    "dso": [],
+    "l": [
+      "lyre",
+      "rely"
+    ],
+    "lx": [],
+    "lb": [
+      "beryl"
+    ],
+    "lbt": [
+      "trebly"
+    ],
+    "lbtx": [],
+    "lbtb": [],
+    "lbtu": [
+      "brutely",
+      "butlery"
+    ],
+    "lbtui": [],
+    "lbtuc": [],
+    "lbtuu": [],
+    "lbc": [],
+    "lbo": [],
+    "ls": [
+      "lyres",
+      "slyer"
+    ],
+    "lst": [
+      "styler"
+    ],
+    "lstx": [],
+    "lstb": [],
+    "lstu": [],
+    "lsc": [
+      "cresyl"
+    ],
+    "lscx": [],
+    "lscb": [],
+    "lscu": [],
+    "lso": [
+      "sorely"
+    ],
+    "lsox": [],
+    "lsob": [
+      "soberly"
+    ],
+    "lsobi": [],
+    "lsobc": [],
+    "lsobu": [],
+    "lsou": [
+      "elusory"
+    ],
+    "lsoui": [],
+    "lsouc": [
+      "crousely"
+    ],
+    "lsouu": [],
+    "y": [
+      "eyry"
+    ],
+    "yx": [],
+    "yb": [],
+    "ys": []
+  },
+  "scoreTokens": [
+    "a0192dc5a1ea9be16c003dad33d9b1732e81a50aff3dad58a54d3443dd2a7065",
+    "b5a367d30fc25c0a38cc21c0c479c18f366468069eca7013f04dc6496a023297",
+    "798bf3e42fe70097e1750a326ce62826e5d6b206c404fce791132e6b37e79487",
+    "9ad6789ab23177c1c4c75e08d0355b1fe12df3422250bbeee1c5714376d8dfce",
+    "9ac237f8ace0222e412ceb4b9fd0600a2ef07c5daa7e63c103d6d127607d0ce4"
+  ]
+}
