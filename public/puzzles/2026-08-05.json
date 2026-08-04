@@ -1,0 +1,152 @@
+{
+  "start": "aid",
+  "target": [
+    "deniably",
+    "bawdiest",
+    "disvalue",
+    "steadily"
+  ],
+  "steps": [
+    {
+      "options": "wep"
+    },
+    {
+      "options": "ubs"
+    },
+    {
+      "options": "gbl"
+    },
+    {
+      "options": "vwy"
+    },
+    {
+      "options": "utn"
+    }
+  ],
+  "dictionary": {
+    "w": [
+      "wadi"
+    ],
+    "wu": [],
+    "wb": [],
+    "ws": [
+      "wadis"
+    ],
+    "wsg": [],
+    "wsb": [],
+    "wsl": [],
+    "e": [
+      "aide",
+      "idea"
+    ],
+    "eu": [
+      "adieu"
+    ],
+    "eug": [],
+    "eub": [],
+    "eul": [
+      "audile"
+    ],
+    "eulv": [],
+    "eulw": [],
+    "euly": [],
+    "eb": [
+      "abide"
+    ],
+    "ebg": [],
+    "ebb": [
+      "babied"
+    ],
+    "ebbv": [],
+    "ebbw": [],
+    "ebby": [],
+    "ebl": [
+      "bailed"
+    ],
+    "eblv": [],
+    "eblw": [],
+    "ebly": [
+      "beadily"
+    ],
+    "eblyu": [],
+    "eblyt": [],
+    "eblyn": [
+      "deniably"
+    ],
+    "es": [
+      "aides",
+      "aside",
+      "ideas"
+    ],
+    "esg": [],
+    "esb": [
+      "abides",
+      "biased"
+    ],
+    "esbv": [],
+    "esbw": [
+      "bawdies"
+    ],
+    "esbwu": [],
+    "esbwt": [
+      "bawdiest"
+    ],
+    "esbwn": [],
+    "esby": [],
+    "esl": [
+      "aisled",
+      "deasil",
+      "ideals",
+      "ladies",
+      "sailed"
+    ],
+    "eslv": [
+      "devisal"
+    ],
+    "eslvu": [
+      "disvalue"
+    ],
+    "eslvt": [],
+    "eslvn": [],
+    "eslw": [],
+    "esly": [
+      "dialyse"
+    ],
+    "eslyu": [],
+    "eslyt": [
+      "steadily"
+    ],
+    "eslyn": [],
+    "p": [
+      "padi",
+      "paid"
+    ],
+    "pu": [],
+    "pb": [],
+    "ps": [
+      "padis",
+      "sapid"
+    ],
+    "psg": [],
+    "psb": [],
+    "psl": [
+      "plaids",
+      "salpid"
+    ],
+    "pslv": [],
+    "pslw": [],
+    "psly": [
+      "display"
+    ],
+    "pslyu": [],
+    "pslyt": [],
+    "pslyn": []
+  },
+  "scoreTokens": [
+    "e52c8e6afc77e237b0601d24c0cf232276107ae397f596ff0c72444424b8c7fc",
+    "622a2e44aa5f4247c1446cd439a00db44f5ec3c60900a19109bb55fa73d7b11d",
+    "ae2a0b50ac8da09df38c2bbe3a5bf781b3b1ede64bfc57e8a6b75051fde0c51d",
+    "284758e21390376e8f9f4f7b59f7baab4781617f8b0c3ea278daa9919dc4972e",
+    "fe31a182a2dffe08a715ef2a61b16556f401c6d9af5f8fb51c09e041ba693bd0"
+  ]
+}
