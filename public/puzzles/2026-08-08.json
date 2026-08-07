@@ -1,0 +1,124 @@
+{
+  "start": "sir",
+  "target": [
+    "warships"
+  ],
+  "steps": [
+    {
+      "options": "shm"
+    },
+    {
+      "options": "tah"
+    },
+    {
+      "options": "qwc"
+    },
+    {
+      "options": "opq"
+    },
+    {
+      "options": "snc"
+    }
+  ],
+  "dictionary": {
+    "s": [
+      "sirs",
+      "sris"
+    ],
+    "st": [
+      "stirs"
+    ],
+    "stq": [],
+    "stw": [
+      "wrists"
+    ],
+    "stwo": [],
+    "stwp": [],
+    "stwq": [],
+    "stc": [],
+    "sa": [
+      "arsis",
+      "saris"
+    ],
+    "saq": [],
+    "saw": [],
+    "sac": [
+      "crasis",
+      "crissa"
+    ],
+    "saco": [],
+    "sacp": [],
+    "sacq": [],
+    "sh": [
+      "shris"
+    ],
+    "shq": [],
+    "shw": [],
+    "shc": [],
+    "h": [
+      "shri"
+    ],
+    "ht": [
+      "shirt"
+    ],
+    "htq": [],
+    "htw": [],
+    "htc": [],
+    "ha": [
+      "hairs"
+    ],
+    "haq": [],
+    "haw": [
+      "rawish"
+    ],
+    "hawo": [],
+    "hawp": [
+      "warship"
+    ],
+    "hawps": [
+      "warships"
+    ],
+    "hawpn": [],
+    "hawpc": [],
+    "hawq": [],
+    "hac": [
+      "chairs",
+      "rachis"
+    ],
+    "haco": [],
+    "hacp": [],
+    "hacq": [],
+    "hh": [],
+    "m": [
+      "mirs",
+      "rims"
+    ],
+    "mt": [
+      "trims"
+    ],
+    "mtq": [],
+    "mtw": [],
+    "mtc": [],
+    "ma": [
+      "amirs",
+      "mairs",
+      "simar"
+    ],
+    "maq": [],
+    "maw": [],
+    "mac": [
+      "racism"
+    ],
+    "maco": [],
+    "macp": [],
+    "macq": [],
+    "mh": []
+  },
+  "scoreTokens": [
+    "ff71bd6a1bdf9b56f85a9595fedd55e09f30d3ef241f2227c7df04f230f09aa3",
+    "e75307ebb538c50dc8ef4409794f32651db1e50cf81ae23f5efe68495e65a2cc",
+    "f3a38c40dbf753cda80189e6977612561a98cb3d2d6725633e5c4070cc0d548a",
+    "ab7f7b4cf53aea6d2e69f231681520fbd133899ea4ec80f09b66bf0b54a03714",
+    "1da4bf8dfe5f7953a9bb6ad525494a3ea0d45a1ce9900038f7ca16fb50c8e9d2"
+  ]
+}
