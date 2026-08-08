@@ -1,0 +1,165 @@
+{
+  "start": "ass",
+  "target": [
+    "seatless",
+    "assisted",
+    "disseats",
+    "easiness"
+  ],
+  "steps": [
+    {
+      "options": "tel"
+    },
+    {
+      "options": "ens"
+    },
+    {
+      "options": "lij"
+    },
+    {
+      "options": "qsw"
+    },
+    {
+      "options": "dea"
+    }
+  ],
+  "dictionary": {
+    "t": [
+      "tass"
+    ],
+    "te": [
+      "asset",
+      "easts",
+      "sates",
+      "seats",
+      "tasse"
+    ],
+    "tel": [
+      "leasts",
+      "slates",
+      "stales",
+      "steals",
+      "tassel",
+      "teslas"
+    ],
+    "telq": [],
+    "tels": [
+      "tassels"
+    ],
+    "telsd": [],
+    "telse": [
+      "seatless"
+    ],
+    "telsa": [],
+    "telw": [],
+    "tei": [
+      "siesta",
+      "tassie"
+    ],
+    "teiq": [],
+    "teis": [
+      "siestas",
+      "tassies"
+    ],
+    "teisd": [
+      "assisted",
+      "disseats"
+    ],
+    "teise": [],
+    "teisa": [],
+    "teiw": [],
+    "tej": [],
+    "tn": [],
+    "ts": [],
+    "e": [
+      "seas"
+    ],
+    "ee": [
+      "eases"
+    ],
+    "eel": [
+      "easels",
+      "leases"
+    ],
+    "eelq": [],
+    "eels": [],
+    "eelw": [
+      "aweless",
+      "weasels"
+    ],
+    "eelwd": [],
+    "eelwe": [],
+    "eelwa": [],
+    "eei": [
+      "easies"
+    ],
+    "eeiq": [],
+    "eeis": [],
+    "eeiw": [],
+    "eej": [],
+    "en": [
+      "sanes",
+      "sensa"
+    ],
+    "enl": [],
+    "eni": [
+      "anises",
+      "sanies",
+      "sansei"
+    ],
+    "eniq": [],
+    "enis": [
+      "sanseis"
+    ],
+    "enisd": [],
+    "enise": [
+      "easiness"
+    ],
+    "enisa": [],
+    "eniw": [],
+    "enj": [],
+    "es": [
+      "asses"
+    ],
+    "esl": [
+      "lasses"
+    ],
+    "eslq": [],
+    "esls": [],
+    "eslw": [],
+    "esi": [],
+    "esj": [],
+    "l": [
+      "lass",
+      "sals"
+    ],
+    "le": [
+      "lases",
+      "sales",
+      "seals"
+    ],
+    "lel": [],
+    "lei": [
+      "aisles",
+      "lassie"
+    ],
+    "leiq": [],
+    "leis": [
+      "lassies"
+    ],
+    "leisd": [],
+    "leise": [],
+    "leisa": [],
+    "leiw": [],
+    "lej": [],
+    "ln": [],
+    "ls": []
+  },
+  "scoreTokens": [
+    "194ec370947a158eaee41474b927540badd1c03b43bcf61b9ba0109406ada62f",
+    "dffc386aab950a39662000b4495412bfa0f3476e5936070675de4e67679aa34e",
+    "ea7e0f9e762fddb322a205cd4b8eb3ae7d0fbd342e1c178cc6b7c42fbda0f5e8",
+    "8199c9e8090334bb276a0827fe107009aab5db48ee145e2a7838ff7f16b620f4",
+    "64a6f9fb5e1dc80b9f11dfe24b37f13883a67bc2103ab6a7bbfecaaaef131ee1"
+  ]
+}
