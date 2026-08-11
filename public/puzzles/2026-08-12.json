@@ -1,0 +1,118 @@
+{
+  "start": "del",
+  "target": [
+    "deluster",
+    "lustered",
+    "resulted"
+  ],
+  "steps": [
+    {
+      "options": "mvu"
+    },
+    {
+      "options": "psc"
+    },
+    {
+      "options": "tku"
+    },
+    {
+      "options": "edz"
+    },
+    {
+      "options": "sfr"
+    }
+  ],
+  "dictionary": {
+    "m": [
+      "meld"
+    ],
+    "mp": [],
+    "ms": [
+      "melds"
+    ],
+    "mst": [],
+    "msk": [],
+    "msu": [],
+    "mc": [],
+    "v": [
+      "veld"
+    ],
+    "vp": [],
+    "vs": [
+      "velds"
+    ],
+    "vst": [
+      "veldts"
+    ],
+    "vste": [],
+    "vstd": [],
+    "vstz": [],
+    "vsk": [],
+    "vsu": [],
+    "vc": [],
+    "u": [
+      "duel",
+      "leud",
+      "lude"
+    ],
+    "up": [
+      "duple",
+      "puled"
+    ],
+    "upt": [],
+    "upk": [],
+    "upu": [],
+    "us": [
+      "duels",
+      "dulse",
+      "leuds",
+      "ludes",
+      "slued"
+    ],
+    "ust": [
+      "lusted"
+    ],
+    "uste": [
+      "teledus"
+    ],
+    "ustes": [],
+    "ustef": [],
+    "uster": [
+      "deluster",
+      "lustered",
+      "resulted"
+    ],
+    "ustd": [],
+    "ustz": [],
+    "usk": [
+      "sulked"
+    ],
+    "uske": [],
+    "uskd": [],
+    "uskz": [],
+    "usu": [],
+    "uc": [
+      "clued"
+    ],
+    "uct": [
+      "dulcet"
+    ],
+    "ucte": [],
+    "uctd": [],
+    "uctz": [],
+    "uck": [
+      "lucked"
+    ],
+    "ucke": [],
+    "uckd": [],
+    "uckz": [],
+    "ucu": []
+  },
+  "scoreTokens": [
+    "d795c209a9e37d8143761f1d9d2fb7251ad69e0a2661bb303e670a0db16cb896",
+    "c5863e2c003a43ed346185054ff81180c5c589aa2e2c846c5fa6c47df3885056",
+    "5c1bc41dce961d63893c9a988a8ea8101c4afa966e191809bc3fed380a2e9011",
+    "1c45b29819c4b8e6d65f0cc62cbc9a8ce864d52b7c6bc74f7d4f9b409b1a3a7f",
+    "629cafca9e7f7225cff7ce4e1eaeebcc3e3796539a469d5e6a6882dc6dd34e74"
+  ]
+}
