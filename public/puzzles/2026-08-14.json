@@ -1,0 +1,142 @@
+{
+  "start": "cos",
+  "target": [
+    "cathodes",
+    "outcaste",
+    "lacteous",
+    "locustae",
+    "osculate",
+    "cholates",
+    "eschalot"
+  ],
+  "steps": [
+    {
+      "options": "yag"
+    },
+    {
+      "options": "tlo"
+    },
+    {
+      "options": "hdt"
+    },
+    {
+      "options": "eiq"
+    },
+    {
+      "options": "uhq"
+    }
+  ],
+  "dictionary": {
+    "y": [
+      "cosy",
+      "coys"
+    ],
+    "yt": [],
+    "yl": [
+      "cloys"
+    ],
+    "ylh": [],
+    "yld": [],
+    "ylt": [
+      "costly",
+      "octyls"
+    ],
+    "ylte": [],
+    "ylti": [],
+    "yltq": [],
+    "yo": [],
+    "a": [
+      "ocas"
+    ],
+    "at": [
+      "ascot",
+      "coast",
+      "coats",
+      "costa",
+      "tacos"
+    ],
+    "ath": [],
+    "atd": [
+      "octads"
+    ],
+    "atde": [
+      "coasted"
+    ],
+    "atdeu": [],
+    "atdeh": [
+      "cathodes"
+    ],
+    "atdeq": [],
+    "atdi": [
+      "dacoits"
+    ],
+    "atdiu": [],
+    "atdih": [],
+    "atdiq": [],
+    "atdq": [],
+    "att": [
+      "cottas"
+    ],
+    "atte": [
+      "costate"
+    ],
+    "atteu": [
+      "outcaste"
+    ],
+    "atteh": [],
+    "atteq": [],
+    "atti": [],
+    "attq": [],
+    "al": [
+      "coals",
+      "colas"
+    ],
+    "alh": [],
+    "ald": [],
+    "alt": [
+      "costal"
+    ],
+    "alte": [
+      "lactose",
+      "locates",
+      "talcose"
+    ],
+    "alteu": [
+      "lacteous",
+      "locustae",
+      "osculate"
+    ],
+    "alteh": [
+      "cholates",
+      "eschalot"
+    ],
+    "alteq": [],
+    "alti": [
+      "citolas",
+      "stoical"
+    ],
+    "altiu": [],
+    "altih": [],
+    "altiq": [],
+    "altq": [],
+    "ao": [],
+    "g": [
+      "cogs"
+    ],
+    "gt": [],
+    "gl": [
+      "clogs"
+    ],
+    "glh": [],
+    "gld": [],
+    "glt": [],
+    "go": []
+  },
+  "scoreTokens": [
+    "9c958ac7d2c59ec7a9a296cb4ff8efecd6209ee27c2fe6290346dc843f2879ce",
+    "bd649c38abc011f2958be1451c67578a8ea5a942590d503140c5cf8c0dc39cbd",
+    "26d9abff57bbb05a76094781f4394f68f169ee17f7ac8847263c77655c5c20ad",
+    "221fff969e62f39e39f270820ad0a1dafa1563127a8d8daaa6fd89259b139a56",
+    "2f8b8444c9217ae18fdba98c9c774844679466432f46bfc172678a0db1410f1e"
+  ]
+}
