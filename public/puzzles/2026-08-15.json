@@ -1,0 +1,231 @@
+{
+  "start": "pes",
+  "target": [
+    "outleaps",
+    "petalous",
+    "apterous",
+    "tempuras",
+    "upstream",
+    "prepaste",
+    "pretapes",
+    "temperas"
+  ],
+  "steps": [
+    {
+      "options": "tkp"
+    },
+    {
+      "options": "lir"
+    },
+    {
+      "options": "uwe"
+    },
+    {
+      "options": "pom"
+    },
+    {
+      "options": "xba"
+    }
+  ],
+  "dictionary": {
+    "t": [
+      "pest",
+      "pets",
+      "sept",
+      "step"
+    ],
+    "tl": [
+      "pelts",
+      "slept",
+      "spelt"
+    ],
+    "tlu": [
+      "letups"
+    ],
+    "tlup": [],
+    "tluo": [
+      "tupelos"
+    ],
+    "tluox": [],
+    "tluob": [],
+    "tluoa": [
+      "outleaps",
+      "petalous"
+    ],
+    "tlum": [],
+    "tlw": [],
+    "tle": [
+      "pestle"
+    ],
+    "tlep": [],
+    "tleo": [],
+    "tlem": [
+      "pelmets",
+      "temples"
+    ],
+    "tlemx": [],
+    "tlemb": [],
+    "tlema": [],
+    "ti": [
+      "piste",
+      "spite",
+      "stipe"
+    ],
+    "tiu": [],
+    "tiw": [
+      "pewits"
+    ],
+    "tiwp": [],
+    "tiwo": [],
+    "tiwm": [],
+    "tie": [],
+    "tr": [
+      "prest",
+      "strep"
+    ],
+    "tru": [
+      "erupts",
+      "purest"
+    ],
+    "trup": [],
+    "truo": [
+      "petrous",
+      "posture",
+      "pouters",
+      "proteus",
+      "spouter",
+      "troupes"
+    ],
+    "truox": [],
+    "truob": [],
+    "truoa": [
+      "apterous"
+    ],
+    "trum": [
+      "stumper",
+      "sumpter"
+    ],
+    "trumx": [],
+    "trumb": [],
+    "truma": [
+      "tempuras",
+      "upstream"
+    ],
+    "trw": [
+      "twerps"
+    ],
+    "trwp": [],
+    "trwo": [
+      "powters",
+      "prowest"
+    ],
+    "trwox": [],
+    "trwob": [],
+    "trwoa": [],
+    "trwm": [],
+    "tre": [
+      "pester",
+      "peters",
+      "preset"
+    ],
+    "trep": [
+      "stepper"
+    ],
+    "trepx": [],
+    "trepb": [],
+    "trepa": [
+      "prepaste",
+      "pretapes"
+    ],
+    "treo": [],
+    "trem": [
+      "tempers"
+    ],
+    "tremx": [],
+    "tremb": [],
+    "trema": [
+      "temperas"
+    ],
+    "k": [
+      "keps",
+      "skep"
+    ],
+    "kl": [
+      "kelps",
+      "skelp"
+    ],
+    "klu": [],
+    "klw": [],
+    "kle": [
+      "keleps"
+    ],
+    "klep": [],
+    "kleo": [],
+    "klem": [],
+    "ki": [
+      "kepis",
+      "pikes",
+      "spike"
+    ],
+    "kiu": [],
+    "kiw": [],
+    "kie": [],
+    "kr": [
+      "perks"
+    ],
+    "kru": [],
+    "krw": [],
+    "kre": [
+      "kreeps"
+    ],
+    "krep": [],
+    "kreo": [
+      "respoke"
+    ],
+    "kreox": [],
+    "kreob": [],
+    "kreoa": [],
+    "krem": [],
+    "p": [
+      "peps"
+    ],
+    "pl": [],
+    "pi": [
+      "pipes"
+    ],
+    "piu": [],
+    "piw": [],
+    "pie": [],
+    "pr": [
+      "preps",
+      "repps"
+    ],
+    "pru": [
+      "supper",
+      "uppers"
+    ],
+    "prup": [],
+    "pruo": [
+      "purpose"
+    ],
+    "pruox": [],
+    "pruob": [],
+    "pruoa": [],
+    "prum": [
+      "pumpers",
+      "repumps"
+    ],
+    "prumx": [],
+    "prumb": [],
+    "pruma": [],
+    "prw": [],
+    "pre": []
+  },
+  "scoreTokens": [
+    "64a86529336ba060034398622eaaa16db677d621b7848a39330b563bf1fa3073",
+    "570ff68338549eca00b1baa9c0eec6d2af41225ea37802b4ff5649f02f75b78d",
+    "2a75d51e7587733ebafcd18b6531f072052725d6bc95842757c824c302abd433",
+    "98580fa7298e628625583b7e5b8a0a8b80a0e3cb63bc48e8cee3d7335413f49a",
+    "307a31fb2701e1ac3f0861a7036549fdcfc20f4becf13a80f11f8a9127440443"
+  ]
+}
