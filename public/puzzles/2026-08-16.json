@@ -1,0 +1,238 @@
+{
+  "start": "ted",
+  "target": [
+    "outdated",
+    "debutant",
+    "unsalted",
+    "unstated",
+    "untasted"
+  ],
+  "steps": [
+    {
+      "options": "obs"
+    },
+    {
+      "options": "auk"
+    },
+    {
+      "options": "plt"
+    },
+    {
+      "options": "upa"
+    },
+    {
+      "options": "wnd"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "dote",
+      "toed"
+    ],
+    "oa": [],
+    "ou": [
+      "outed"
+    ],
+    "oup": [
+      "pouted"
+    ],
+    "oupu": [],
+    "oupp": [],
+    "oupa": [],
+    "oul": [
+      "louted"
+    ],
+    "oulu": [
+      "outduel"
+    ],
+    "ouluw": [],
+    "oulun": [],
+    "oulud": [],
+    "oulp": [],
+    "oula": [],
+    "out": [
+      "touted"
+    ],
+    "outu": [],
+    "outp": [],
+    "outa": [
+      "outdate"
+    ],
+    "outaw": [],
+    "outan": [],
+    "outad": [
+      "outdated"
+    ],
+    "ok": [
+      "toked"
+    ],
+    "okp": [],
+    "okl": [],
+    "okt": [],
+    "b": [
+      "debt"
+    ],
+    "ba": [
+      "bated"
+    ],
+    "bap": [],
+    "bal": [
+      "tabled"
+    ],
+    "balu": [
+      "abluted"
+    ],
+    "baluw": [],
+    "balun": [],
+    "balud": [],
+    "balp": [],
+    "bala": [
+      "ablated",
+      "datable"
+    ],
+    "balaw": [],
+    "balan": [],
+    "balad": [],
+    "bat": [
+      "batted"
+    ],
+    "batu": [
+      "abutted"
+    ],
+    "batuw": [],
+    "batun": [
+      "debutant"
+    ],
+    "batud": [],
+    "batp": [],
+    "bata": [],
+    "bu": [
+      "debut",
+      "tubed"
+    ],
+    "bup": [],
+    "bul": [
+      "butled"
+    ],
+    "bulu": [],
+    "bulp": [],
+    "bula": [
+      "abluted"
+    ],
+    "bulaw": [],
+    "bulan": [],
+    "bulad": [],
+    "but": [
+      "butted"
+    ],
+    "butu": [],
+    "butp": [],
+    "buta": [
+      "abutted"
+    ],
+    "butaw": [],
+    "butan": [
+      "debutant"
+    ],
+    "butad": [],
+    "bk": [],
+    "s": [
+      "teds"
+    ],
+    "sa": [
+      "dates",
+      "sated",
+      "stade",
+      "stead",
+      "tsade"
+    ],
+    "sap": [
+      "adepts",
+      "pasted"
+    ],
+    "sapu": [
+      "updates"
+    ],
+    "sapuw": [],
+    "sapun": [],
+    "sapud": [],
+    "sapp": [],
+    "sapa": [],
+    "sal": [
+      "deltas",
+      "desalt",
+      "lasted",
+      "salted",
+      "slated",
+      "staled"
+    ],
+    "salu": [
+      "auldest",
+      "saluted"
+    ],
+    "saluw": [],
+    "salun": [
+      "unsalted"
+    ],
+    "salud": [],
+    "salp": [
+      "stapled"
+    ],
+    "salpw": [],
+    "salpn": [],
+    "salpd": [],
+    "sala": [],
+    "sat": [
+      "stated",
+      "tasted"
+    ],
+    "satu": [
+      "statued"
+    ],
+    "satuw": [],
+    "satun": [
+      "unstated",
+      "untasted"
+    ],
+    "satud": [],
+    "satp": [
+      "spatted"
+    ],
+    "satpw": [],
+    "satpn": [],
+    "satpd": [],
+    "sata": [],
+    "su": [
+      "duets"
+    ],
+    "sup": [],
+    "sul": [
+      "lusted"
+    ],
+    "sulu": [],
+    "sulp": [],
+    "sula": [
+      "auldest",
+      "saluted"
+    ],
+    "sulaw": [],
+    "sulan": [
+      "unsalted"
+    ],
+    "sulad": [],
+    "sut": [],
+    "sk": [
+      "tsked"
+    ],
+    "skp": [],
+    "skl": [],
+    "skt": []
+  },
+  "scoreTokens": [
+    "aeb6e5d5313aa6edcfb302041e1cb104b69cdb4dd7a061e97b371f96e631c381",
+    "bed6612cf601f29ae02b5428adf6c9823f468849793ccafb17515527c0270cf6",
+    "ab072673a2fb1ebaa87d020a3dbf5cc749efd131ee290a1cb1ed7511140f644f",
+    "a76515e13d57beb846df92b45d24db40d9c4c77b9463727505b34678c44b3824",
+    "82b71c3dda9d2571da3e8bcd8b29e999b4f128fc66360685303a324aa3066dac"
+  ]
+}
