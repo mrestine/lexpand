@@ -1,0 +1,116 @@
+{
+  "start": "cut",
+  "target": [
+    "urticate"
+  ],
+  "steps": [
+    {
+      "options": "res"
+    },
+    {
+      "options": "ryl"
+    },
+    {
+      "options": "wta"
+    },
+    {
+      "options": "vga"
+    },
+    {
+      "options": "ikf"
+    }
+  ],
+  "dictionary": {
+    "r": [
+      "curt"
+    ],
+    "rr": [],
+    "ry": [],
+    "rl": [],
+    "e": [
+      "cute"
+    ],
+    "er": [
+      "cruet",
+      "curet",
+      "cuter",
+      "eruct",
+      "recut",
+      "truce"
+    ],
+    "erw": [],
+    "ert": [
+      "cutter"
+    ],
+    "ertv": [],
+    "ertg": [],
+    "erta": [
+      "curtate"
+    ],
+    "ertai": [
+      "urticate"
+    ],
+    "ertak": [],
+    "ertaf": [],
+    "era": [
+      "acuter",
+      "curate"
+    ],
+    "erav": [],
+    "erag": [],
+    "eraa": [
+      "arcuate"
+    ],
+    "eraai": [],
+    "eraak": [],
+    "eraaf": [],
+    "ey": [
+      "cutey"
+    ],
+    "eyw": [],
+    "eyt": [],
+    "eya": [],
+    "el": [
+      "culet"
+    ],
+    "elw": [],
+    "elt": [
+      "cutlet",
+      "cuttle"
+    ],
+    "eltv": [],
+    "eltg": [],
+    "elta": [],
+    "ela": [],
+    "s": [
+      "cuts",
+      "scut"
+    ],
+    "sr": [
+      "crust",
+      "curst"
+    ],
+    "srw": [],
+    "srt": [],
+    "sra": [],
+    "sy": [],
+    "sl": [
+      "cults"
+    ],
+    "slw": [],
+    "slt": [],
+    "sla": [
+      "cutlas"
+    ],
+    "slav": [],
+    "slag": [],
+    "slaa": []
+  },
+  "scoreTokens": [
+    "41f1de5c2f706b90d9190f91d32cf25790b4e6c226bb3846d1bf48ef04bbc1ea",
+    "e75e645d6483d49d562812793e3b3b4725d6a22ac9fdc78ff1e677e5ff3d041b",
+    "0e9544fe3e2060f2940a4dc359c2124b0fcedbc08c2da7f603fd8a9af6628f1b",
+    "404bf72dad803a72106681f134b9cc7e7303bed117f237852f51468709843890",
+    "401d6ddaa686974a4cfe33b9d80833caf233686e22429b23d708d6ef395e5305"
+  ]
+}
