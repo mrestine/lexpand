@@ -1,0 +1,130 @@
+{
+  "start": "aim",
+  "target": [
+    "magnesia",
+    "gymnasia"
+  ],
+  "steps": [
+    {
+      "options": "egs"
+    },
+    {
+      "options": "bnh"
+    },
+    {
+      "options": "jdg"
+    },
+    {
+      "options": "eav"
+    },
+    {
+      "options": "wya"
+    }
+  ],
+  "dictionary": {
+    "e": [
+      "amie"
+    ],
+    "eb": [],
+    "en": [
+      "amine",
+      "anime",
+      "minae"
+    ],
+    "enj": [],
+    "end": [
+      "aidmen",
+      "daimen",
+      "maiden",
+      "median",
+      "medina"
+    ],
+    "ende": [],
+    "enda": [],
+    "endv": [],
+    "eng": [
+      "enigma",
+      "gamine"
+    ],
+    "enge": [],
+    "enga": [],
+    "engv": [],
+    "eh": [],
+    "g": [
+      "magi"
+    ],
+    "gb": [],
+    "gn": [
+      "gamin"
+    ],
+    "gnj": [],
+    "gnd": [],
+    "gng": [
+      "gaming"
+    ],
+    "gnge": [],
+    "gnga": [],
+    "gngv": [],
+    "gh": [],
+    "s": [
+      "aims",
+      "amis",
+      "sima"
+    ],
+    "sb": [
+      "bimas",
+      "iambs"
+    ],
+    "sbj": [],
+    "sbd": [],
+    "sbg": [],
+    "sn": [
+      "amins",
+      "mains",
+      "minas"
+    ],
+    "snj": [
+      "jasmin"
+    ],
+    "snje": [
+      "jasmine"
+    ],
+    "snjew": [],
+    "snjey": [],
+    "snjea": [],
+    "snja": [],
+    "snjv": [],
+    "snd": [],
+    "sng": [
+      "gamins"
+    ],
+    "snge": [
+      "enigmas",
+      "gamines",
+      "seaming"
+    ],
+    "sngew": [],
+    "sngey": [],
+    "sngea": [
+      "magnesia"
+    ],
+    "snga": [
+      "magians",
+      "siamang"
+    ],
+    "sngaw": [],
+    "sngay": [
+      "gymnasia"
+    ],
+    "sngaa": [],
+    "sngv": [],
+    "sh": []
+  },
+  "scoreTokens": [
+    "5d333a3bb915fba6d7b5b52ce3f1580c4072ee4feef47bac899471691f02269a",
+    "5026f7ed5fef4d53818428304091cb6fc58fbf44e1733d7fdb203e060aa06cb0",
+    "9fe255436bb526ea20f95c172dc560bc9209e2444c064aa9a1c3f7a070f09134",
+    "e70ba7549851074bff02cdd8006ac65ff0fcf1d8208b76d0b5d78461b4dc6141",
+    "9ec476d0155e189be97458538f47f566ca44ab9f99bddc0d1bc5344b1e8bd43e"
+  ]
+}
