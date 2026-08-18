@@ -1,0 +1,209 @@
+{
+  "start": "oes",
+  "target": [
+    "hedonics",
+    "cordages",
+    "courages",
+    "savoured",
+    "caroused",
+    "ravenous",
+    "nacreous",
+    "scourged",
+    "scrouged",
+    "crunodes",
+    "consider"
+  ],
+  "steps": [
+    {
+      "options": "hxr"
+    },
+    {
+      "options": "aui"
+    },
+    {
+      "options": "duw"
+    },
+    {
+      "options": "gdn"
+    },
+    {
+      "options": "kvc"
+    }
+  ],
+  "dictionary": {
+    "h": [
+      "hoes",
+      "hose",
+      "shoe"
+    ],
+    "ha": [],
+    "hu": [
+      "house"
+    ],
+    "hud": [
+      "housed"
+    ],
+    "hudg": [
+      "soughed"
+    ],
+    "hudgk": [],
+    "hudgv": [],
+    "hudgc": [],
+    "hudd": [],
+    "hudn": [],
+    "huu": [],
+    "huw": [],
+    "hi": [
+      "hoise"
+    ],
+    "hid": [
+      "hoised"
+    ],
+    "hidg": [],
+    "hidd": [],
+    "hidn": [
+      "hoidens"
+    ],
+    "hidnk": [],
+    "hidnv": [],
+    "hidnc": [
+      "hedonics"
+    ],
+    "hiu": [],
+    "hiw": [],
+    "x": [
+      "oxes"
+    ],
+    "xa": [],
+    "xu": [],
+    "xi": [],
+    "r": [
+      "eros",
+      "ores",
+      "roes",
+      "rose",
+      "sore"
+    ],
+    "ra": [
+      "arose"
+    ],
+    "rad": [
+      "adores",
+      "oreads",
+      "sarode",
+      "soared"
+    ],
+    "radg": [
+      "dogears"
+    ],
+    "radgk": [],
+    "radgv": [],
+    "radgc": [
+      "cordages"
+    ],
+    "radd": [
+      "deodars"
+    ],
+    "raddk": [],
+    "raddv": [],
+    "raddc": [],
+    "radn": [],
+    "rau": [
+      "arouse"
+    ],
+    "raug": [
+      "aerugos"
+    ],
+    "raugk": [],
+    "raugv": [],
+    "raugc": [
+      "courages"
+    ],
+    "raud": [
+      "aroused"
+    ],
+    "raudk": [],
+    "raudv": [
+      "savoured"
+    ],
+    "raudc": [
+      "caroused"
+    ],
+    "raun": [
+      "arenous"
+    ],
+    "raunk": [],
+    "raunv": [
+      "ravenous"
+    ],
+    "raunc": [
+      "nacreous"
+    ],
+    "raw": [],
+    "ru": [
+      "euros",
+      "roues",
+      "rouse"
+    ],
+    "rud": [
+      "douser",
+      "roused",
+      "soured",
+      "uredos"
+    ],
+    "rudg": [
+      "drogues",
+      "gourdes",
+      "groused"
+    ],
+    "rudgk": [],
+    "rudgv": [],
+    "rudgc": [
+      "scourged",
+      "scrouged"
+    ],
+    "rudd": [],
+    "rudn": [
+      "enduros",
+      "resound",
+      "sounder",
+      "undoers"
+    ],
+    "rudnk": [],
+    "rudnv": [],
+    "rudnc": [
+      "crunodes"
+    ],
+    "ruu": [],
+    "ruw": [],
+    "ri": [
+      "osier"
+    ],
+    "rid": [
+      "dories"
+    ],
+    "ridg": [],
+    "ridd": [],
+    "ridn": [
+      "dineros",
+      "indorse",
+      "ordines",
+      "rosined",
+      "sordine"
+    ],
+    "ridnk": [],
+    "ridnv": [],
+    "ridnc": [
+      "consider"
+    ],
+    "riu": [],
+    "riw": []
+  },
+  "scoreTokens": [
+    "b55eca3dc9c60c7dace82d2860d99e2a95fdf2337431ed52503f2dba5d740e0e",
+    "92dda758fb1ed4eb4fee06d29b3178443850ade16ff5cd75bdb269034362d58d",
+    "c2595c6d8054388b4e3fe7321fae138e7503275fb472ddb1323b42a3f5877652",
+    "daaa383608bb37086fb9d1b424603267f32d4bf02b7e7c08581879ef40de7462",
+    "86cbd8d2affe0631583fc3142f4c6807af2cbe2a0509d7ece70e00f348f11d64"
+  ]
+}
