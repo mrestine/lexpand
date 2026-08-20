@@ -1,0 +1,145 @@
+{
+  "start": "rin",
+  "target": [
+    "carpings",
+    "scarping",
+    "scraping",
+    "impregns"
+  ],
+  "steps": [
+    {
+      "options": "obs"
+    },
+    {
+      "options": "awe"
+    },
+    {
+      "options": "pqx"
+    },
+    {
+      "options": "gxu"
+    },
+    {
+      "options": "mfc"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "inro",
+      "iron",
+      "noir",
+      "nori"
+    ],
+    "oa": [
+      "noria"
+    ],
+    "oap": [],
+    "oaq": [],
+    "oax": [],
+    "ow": [],
+    "oe": [
+      "irone"
+    ],
+    "oep": [
+      "orpine"
+    ],
+    "oepg": [
+      "perigon",
+      "pirogen"
+    ],
+    "oepgm": [],
+    "oepgf": [],
+    "oepgc": [],
+    "oepx": [],
+    "oepu": [],
+    "oeq": [],
+    "oex": [],
+    "b": [
+      "brin"
+    ],
+    "ba": [
+      "bairn",
+      "brain"
+    ],
+    "bap": [],
+    "baq": [],
+    "bax": [],
+    "bw": [],
+    "be": [
+      "brine"
+    ],
+    "bep": [],
+    "beq": [],
+    "bex": [],
+    "s": [
+      "rins"
+    ],
+    "sa": [
+      "airns",
+      "naris",
+      "rains",
+      "ranis",
+      "sarin"
+    ],
+    "sap": [
+      "sprain"
+    ],
+    "sapg": [
+      "parings",
+      "parsing",
+      "rasping",
+      "sparing"
+    ],
+    "sapgm": [],
+    "sapgf": [],
+    "sapgc": [
+      "carpings",
+      "scarping",
+      "scraping"
+    ],
+    "sapx": [],
+    "sapu": [],
+    "saq": [],
+    "sax": [],
+    "sw": [],
+    "se": [
+      "reins",
+      "resin",
+      "rinse",
+      "risen",
+      "serin",
+      "siren"
+    ],
+    "sep": [
+      "repins",
+      "ripens",
+      "sniper"
+    ],
+    "sepg": [
+      "pingers",
+      "springe"
+    ],
+    "sepgm": [
+      "impregns"
+    ],
+    "sepgf": [],
+    "sepgc": [],
+    "sepx": [],
+    "sepu": [
+      "purines",
+      "uprisen"
+    ],
+    "sepum": [],
+    "sepuf": [],
+    "sepuc": [],
+    "seq": [],
+    "sex": []
+  },
+  "scoreTokens": [
+    "8cab646d758579b40d0a7f3061edfaa3e1d2db0d6f58f6735045f6d41f1bc6c7",
+    "65dd25bd7a633f54a432bb18bda130ffd956b11e16caad8c551a02ee8490c76e",
+    "c190ed3b6e2715e3c1d2575bbd39c5e6c9c93a7711eb31bbf9f40cfdbc015a28",
+    "ab462ac5de66146b8f3e58da89c1e6be0e1e93821dc27f2005aae7a0ddf698ba",
+    "da0d538bd306a315cd70f65e5871a1b739ccb2545630cae80c721ae639f890fc"
+  ]
+}
