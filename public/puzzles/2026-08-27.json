@@ -1,0 +1,141 @@
+{
+  "start": "hit",
+  "target": [
+    "gaslight"
+  ],
+  "steps": [
+    {
+      "options": "pls"
+    },
+    {
+      "options": "cmg"
+    },
+    {
+      "options": "fhl"
+    },
+    {
+      "options": "lea"
+    },
+    {
+      "options": "qgy"
+    }
+  ],
+  "dictionary": {
+    "p": [
+      "pith"
+    ],
+    "pc": [
+      "pitch"
+    ],
+    "pcf": [],
+    "pch": [],
+    "pcl": [],
+    "pm": [],
+    "pg": [],
+    "l": [
+      "hilt"
+    ],
+    "lc": [
+      "licht"
+    ],
+    "lcf": [
+      "flitch"
+    ],
+    "lcfl": [],
+    "lcfe": [],
+    "lcfa": [],
+    "lch": [],
+    "lcl": [],
+    "lm": [],
+    "lg": [
+      "light"
+    ],
+    "lgf": [
+      "flight"
+    ],
+    "lgfl": [],
+    "lgfe": [],
+    "lgfa": [],
+    "lgh": [],
+    "lgl": [],
+    "s": [
+      "hist",
+      "hits",
+      "shit",
+      "sith",
+      "this"
+    ],
+    "sc": [
+      "chits",
+      "stich"
+    ],
+    "scf": [],
+    "sch": [],
+    "scl": [
+      "lichts"
+    ],
+    "scll": [],
+    "scle": [],
+    "scla": [],
+    "sm": [
+      "smith"
+    ],
+    "smf": [],
+    "smh": [],
+    "sml": [],
+    "sg": [
+      "sight"
+    ],
+    "sgf": [
+      "fights"
+    ],
+    "sgfl": [
+      "flights"
+    ],
+    "sgflq": [],
+    "sgflg": [],
+    "sgfly": [],
+    "sgfe": [],
+    "sgfa": [],
+    "sgh": [
+      "hights",
+      "thighs"
+    ],
+    "sghl": [],
+    "sghe": [
+      "eighths",
+      "heights",
+      "highest"
+    ],
+    "sgheq": [],
+    "sgheg": [],
+    "sghey": [],
+    "sgha": [],
+    "sgl": [
+      "lights",
+      "slight"
+    ],
+    "sgll": [],
+    "sgle": [
+      "sleight"
+    ],
+    "sgleq": [],
+    "sgleg": [],
+    "sgley": [],
+    "sgla": [
+      "alights"
+    ],
+    "sglaq": [],
+    "sglag": [
+      "gaslight"
+    ],
+    "sglay": []
+  },
+  "scoreTokens": [
+    "b2645b2501a8295c7dc888dd5869b5727e0690a9a31ccebecc7f5586a3445cae",
+    "fef59f71888fbfcebdfb771d02ae963afb13e8a9faff665aa5aa02f24c078744",
+    "4b571f5ae2fa93aba946163fb90f0780575d01cc1fbfe27b522e05c31ae3138f",
+    "77191be4b35769dcbe1a28bb23f2caef60227e3c10b6cc5d085c2268965cda21",
+    "a8b6f45f8a817d89595484b55d33edc43c8925be710152204e261f9855365035"
+  ]
+}
