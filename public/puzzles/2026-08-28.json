@@ -1,0 +1,114 @@
+{
+  "start": "nim",
+  "target": [
+    "indusium",
+    "inhumers",
+    "rheniums"
+  ],
+  "steps": [
+    {
+      "options": "uls"
+    },
+    {
+      "options": "det"
+    },
+    {
+      "options": "urk"
+    },
+    {
+      "options": "hni"
+    },
+    {
+      "options": "unc"
+    }
+  ],
+  "dictionary": {
+    "u": [
+      "muni"
+    ],
+    "ud": [],
+    "ue": [],
+    "ut": [],
+    "l": [
+      "limn"
+    ],
+    "ld": [],
+    "le": [
+      "limen"
+    ],
+    "leu": [],
+    "ler": [
+      "limner",
+      "merlin"
+    ],
+    "lerh": [],
+    "lern": [],
+    "leri": [],
+    "lek": [],
+    "lt": [],
+    "s": [
+      "nims"
+    ],
+    "sd": [
+      "minds"
+    ],
+    "sdu": [
+      "nudism"
+    ],
+    "sduh": [],
+    "sdun": [],
+    "sdui": [
+      "indiums"
+    ],
+    "sduiu": [
+      "indusium"
+    ],
+    "sduin": [],
+    "sduic": [],
+    "sdr": [],
+    "sdk": [],
+    "se": [
+      "miens",
+      "mines"
+    ],
+    "seu": [],
+    "ser": [
+      "miners"
+    ],
+    "serh": [
+      "menhirs"
+    ],
+    "serhu": [
+      "inhumers",
+      "rheniums"
+    ],
+    "serhn": [],
+    "serhc": [],
+    "sern": [],
+    "seri": [],
+    "sek": [
+      "minkes"
+    ],
+    "sekh": [],
+    "sekn": [
+      "kinsmen"
+    ],
+    "seknu": [],
+    "seknn": [],
+    "seknc": [],
+    "seki": [],
+    "st": [
+      "mints"
+    ],
+    "stu": [],
+    "str": [],
+    "stk": []
+  },
+  "scoreTokens": [
+    "8149464378ff92d8363416301f1431e8273b55745b14494f51ab16e26ec467b1",
+    "5992adeb40bf7c5ccf8f2e73fe87967224f75573420990d3d5e9905eba4416fd",
+    "e5f41ca9bc0b188bcdc725d51fa29deda7ec2ad9c3980d07f5bbfd4eb893967a",
+    "7db6722ddc653292542de1b42e3741db836ec63c76f2282262d39e725a636c61",
+    "43af37efac9ef127dbbee244638132f5b0d84c8cd22f1f72ac1440231b43e4a7"
+  ]
+}
