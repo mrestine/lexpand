@@ -1,0 +1,226 @@
+{
+  "start": "win",
+  "target": [
+    "swingers",
+    "redwings",
+    "weddings",
+    "resowing",
+    "windrows",
+    "drowsing",
+    "wordings"
+  ],
+  "steps": [
+    {
+      "options": "eso"
+    },
+    {
+      "options": "psd"
+    },
+    {
+      "options": "sed"
+    },
+    {
+      "options": "wgn"
+    },
+    {
+      "options": "fsr"
+    }
+  ],
+  "dictionary": {
+    "e": [
+      "wine"
+    ],
+    "ep": [],
+    "es": [
+      "sinew",
+      "swine",
+      "wines"
+    ],
+    "ess": [
+      "sinews"
+    ],
+    "essw": [],
+    "essg": [
+      "sewings",
+      "swinges"
+    ],
+    "essgf": [],
+    "essgs": [],
+    "essgr": [
+      "swingers"
+    ],
+    "essn": [],
+    "ese": [
+      "newies",
+      "newsie"
+    ],
+    "esew": [],
+    "eseg": [],
+    "esen": [],
+    "esd": [
+      "dwines",
+      "widens"
+    ],
+    "esdw": [],
+    "esdg": [
+      "swinged"
+    ],
+    "esdgf": [],
+    "esdgs": [],
+    "esdgr": [
+      "redwings"
+    ],
+    "esdn": [
+      "enwinds"
+    ],
+    "esdnf": [],
+    "esdns": [],
+    "esdnr": [],
+    "ed": [
+      "dwine",
+      "widen",
+      "wined"
+    ],
+    "eds": [
+      "dwines",
+      "widens"
+    ],
+    "edsw": [],
+    "edsg": [
+      "swinged"
+    ],
+    "edsgf": [],
+    "edsgs": [],
+    "edsgr": [
+      "redwings"
+    ],
+    "edsn": [
+      "enwinds"
+    ],
+    "edsnf": [],
+    "edsns": [],
+    "edsnr": [],
+    "ede": [],
+    "edd": [
+      "dwined",
+      "winded"
+    ],
+    "eddw": [],
+    "eddg": [
+      "wedding"
+    ],
+    "eddgf": [],
+    "eddgs": [
+      "weddings"
+    ],
+    "eddgr": [],
+    "eddn": [],
+    "s": [
+      "wins"
+    ],
+    "sp": [],
+    "ss": [],
+    "sd": [
+      "winds"
+    ],
+    "sds": [],
+    "sde": [
+      "dwines",
+      "widens"
+    ],
+    "sdew": [],
+    "sdeg": [
+      "swinged"
+    ],
+    "sdegf": [],
+    "sdegs": [],
+    "sdegr": [
+      "redwings"
+    ],
+    "sden": [
+      "enwinds"
+    ],
+    "sdenf": [],
+    "sdens": [],
+    "sdenr": [],
+    "sdd": [],
+    "o": [
+      "wino"
+    ],
+    "op": [],
+    "os": [
+      "winos"
+    ],
+    "oss": [],
+    "ose": [
+      "nowise",
+      "winoes"
+    ],
+    "osew": [],
+    "oseg": [
+      "wigeons"
+    ],
+    "osegf": [],
+    "osegs": [],
+    "osegr": [
+      "resowing"
+    ],
+    "osen": [],
+    "osd": [
+      "disown",
+      "indows"
+    ],
+    "osdw": [
+      "windows"
+    ],
+    "osdwf": [],
+    "osdws": [],
+    "osdwr": [
+      "windrows"
+    ],
+    "osdg": [
+      "dowsing"
+    ],
+    "osdgf": [],
+    "osdgs": [],
+    "osdgr": [
+      "drowsing",
+      "wordings"
+    ],
+    "osdn": [],
+    "od": [
+      "indow"
+    ],
+    "ods": [
+      "disown",
+      "indows"
+    ],
+    "odsw": [
+      "windows"
+    ],
+    "odswf": [],
+    "odsws": [],
+    "odswr": [
+      "windrows"
+    ],
+    "odsg": [
+      "dowsing"
+    ],
+    "odsgf": [],
+    "odsgs": [],
+    "odsgr": [
+      "drowsing",
+      "wordings"
+    ],
+    "odsn": [],
+    "ode": [],
+    "odd": []
+  },
+  "scoreTokens": [
+    "8ee9cec590fb5c68485dfab474bb5d495c4193d78b6d6e6b895a8693076ac58f",
+    "ddc8bdca889b0b937da854445c5bcbead95bacfc43058f4af5734f66eba5a19d",
+    "6ed11982330907a48e12dcdea5901445a616880a24e88066d681b544e2730bfd",
+    "0d70c9b483e785de12bf4104fedd5a591735371b7e4a6664f5d551433757c37f",
+    "781b5c104140080cc24101e4ff46e9d58bc8498bdd833ead3f39d30f5de42b85"
+  ]
+}
