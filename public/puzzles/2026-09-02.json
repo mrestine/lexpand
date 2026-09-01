@@ -1,0 +1,92 @@
+{
+  "start": "bot",
+  "target": [
+    "marabout",
+    "tamboura",
+    "tambours"
+  ],
+  "steps": [
+    {
+      "options": "urh"
+    },
+    {
+      "options": "xqa"
+    },
+    {
+      "options": "uvp"
+    },
+    {
+      "options": "mgs"
+    },
+    {
+      "options": "mqa"
+    }
+  ],
+  "dictionary": {
+    "u": [
+      "bout"
+    ],
+    "ux": [],
+    "uq": [],
+    "ua": [
+      "about"
+    ],
+    "uau": [],
+    "uav": [],
+    "uap": [],
+    "r": [
+      "bort"
+    ],
+    "rx": [],
+    "rq": [],
+    "ra": [
+      "abort",
+      "boart",
+      "tabor"
+    ],
+    "rau": [
+      "rubato",
+      "tabour"
+    ],
+    "raum": [
+      "tambour"
+    ],
+    "raumm": [],
+    "raumq": [],
+    "rauma": [
+      "marabout",
+      "tamboura"
+    ],
+    "raug": [
+      "outbrag"
+    ],
+    "raugm": [],
+    "raugq": [],
+    "rauga": [],
+    "raus": [
+      "robusta",
+      "rubatos",
+      "tabours"
+    ],
+    "rausm": [
+      "tambours"
+    ],
+    "rausq": [],
+    "rausa": [],
+    "rav": [],
+    "rap": [],
+    "h": [
+      "both"
+    ],
+    "hx": [],
+    "hq": [],
+    "ha": []
+  },
+  "scoreTokens": [
+    "3fb61a9a0ff15c0963a066ed9ea971790f3898aa9317c1f051edb7246866bc4d",
+    "4a0dcec8967ec346aa21220181366d6a20ca73c71b9a609b921d97c720f922c2",
+    "fad287fe8b0cdf3bee5335ebc15d7be9445d0c03f083fd56ab6cec8c018e77ca",
+    "88c321ae13e94020de01d569a6d27f0e3696061d47386e8175b71a81dab02fac",
+    "f359860266ceb0858c5b67741b4121faeed1b4e91f34897244abd92aeb931e99"
+  ]
+}
