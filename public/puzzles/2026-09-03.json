@@ -1,0 +1,310 @@
+{
+  "start": "sae",
+  "target": [
+    "duramens",
+    "maunders",
+    "surnamed",
+    "eardrums",
+    "headsman",
+    "absurder",
+    "abraders",
+    "durances",
+    "crusader",
+    "racemous",
+    "earldoms",
+    "mandrels",
+    "mensural",
+    "numerals"
+  ],
+  "steps": [
+    {
+      "options": "dcl"
+    },
+    {
+      "options": "umb"
+    },
+    {
+      "options": "orh"
+    },
+    {
+      "options": "dua"
+    },
+    {
+      "options": "unr"
+    }
+  ],
+  "dictionary": {
+    "d": [
+      "sade"
+    ],
+    "du": [],
+    "dm": [
+      "dames",
+      "meads"
+    ],
+    "dmo": [],
+    "dmr": [
+      "dermas",
+      "dreams",
+      "madres"
+    ],
+    "dmrd": [
+      "madders"
+    ],
+    "dmrdu": [],
+    "dmrdn": [],
+    "dmrdr": [],
+    "dmru": [
+      "remudas"
+    ],
+    "dmruu": [],
+    "dmrun": [
+      "duramens",
+      "maunders",
+      "surnamed"
+    ],
+    "dmrur": [
+      "eardrums"
+    ],
+    "dmra": [],
+    "dmh": [
+      "mashed",
+      "shamed"
+    ],
+    "dmhd": [],
+    "dmhu": [],
+    "dmha": [
+      "ashamed"
+    ],
+    "dmhau": [],
+    "dmhan": [
+      "headsman"
+    ],
+    "dmhar": [],
+    "db": [
+      "based",
+      "beads",
+      "sabed"
+    ],
+    "dbo": [
+      "abodes",
+      "adobes"
+    ],
+    "dbod": [],
+    "dbou": [],
+    "dboa": [],
+    "dbr": [
+      "ardebs",
+      "bardes",
+      "beards",
+      "breads",
+      "debars",
+      "sabred",
+      "serdab"
+    ],
+    "dbrd": [],
+    "dbru": [
+      "daubers"
+    ],
+    "dbruu": [],
+    "dbrun": [],
+    "dbrur": [
+      "absurder"
+    ],
+    "dbra": [
+      "abrades"
+    ],
+    "dbrau": [],
+    "dbran": [],
+    "dbrar": [
+      "abraders"
+    ],
+    "dbh": [
+      "bashed"
+    ],
+    "dbhd": [],
+    "dbhu": [
+      "subhead"
+    ],
+    "dbhuu": [],
+    "dbhun": [],
+    "dbhur": [],
+    "dbha": [
+      "abashed"
+    ],
+    "dbhau": [],
+    "dbhan": [],
+    "dbhar": [],
+    "c": [
+      "aces",
+      "case"
+    ],
+    "cu": [
+      "cause",
+      "sauce"
+    ],
+    "cuo": [],
+    "cur": [
+      "causer",
+      "cesura",
+      "saucer"
+    ],
+    "curd": [
+      "crusade"
+    ],
+    "curdu": [],
+    "curdn": [
+      "durances"
+    ],
+    "curdr": [
+      "crusader"
+    ],
+    "curu": [],
+    "cura": [
+      "caesura"
+    ],
+    "curau": [],
+    "curan": [],
+    "curar": [],
+    "cuh": [],
+    "cm": [
+      "acmes",
+      "cames",
+      "maces"
+    ],
+    "cmo": [
+      "cameos"
+    ],
+    "cmod": [],
+    "cmou": [
+      "mucosae"
+    ],
+    "cmouu": [],
+    "cmoun": [],
+    "cmour": [
+      "racemous"
+    ],
+    "cmoa": [
+      "caeomas"
+    ],
+    "cmoau": [],
+    "cmoan": [],
+    "cmoar": [],
+    "cmr": [
+      "creams",
+      "macers",
+      "scream"
+    ],
+    "cmrd": [],
+    "cmru": [],
+    "cmra": [
+      "cameras"
+    ],
+    "cmrau": [],
+    "cmran": [],
+    "cmrar": [],
+    "cmh": [
+      "maches",
+      "sachem",
+      "samech",
+      "schema"
+    ],
+    "cmhd": [
+      "chasmed"
+    ],
+    "cmhdu": [],
+    "cmhdn": [],
+    "cmhdr": [],
+    "cmhu": [],
+    "cmha": [],
+    "cb": [],
+    "l": [
+      "ales",
+      "lase",
+      "leas",
+      "sale",
+      "seal"
+    ],
+    "lu": [],
+    "lm": [
+      "almes",
+      "lames",
+      "males",
+      "meals"
+    ],
+    "lmo": [
+      "amoles"
+    ],
+    "lmod": [
+      "damosel"
+    ],
+    "lmodu": [],
+    "lmodn": [],
+    "lmodr": [
+      "earldoms"
+    ],
+    "lmou": [],
+    "lmoa": [],
+    "lmr": [
+      "realms"
+    ],
+    "lmrd": [
+      "medlars"
+    ],
+    "lmrdu": [],
+    "lmrdn": [
+      "mandrels"
+    ],
+    "lmrdr": [],
+    "lmru": [
+      "maulers",
+      "serumal"
+    ],
+    "lmruu": [],
+    "lmrun": [
+      "mensural",
+      "numerals"
+    ],
+    "lmrur": [],
+    "lmra": [],
+    "lmh": [
+      "almehs"
+    ],
+    "lmhd": [
+      "lamedhs"
+    ],
+    "lmhdu": [],
+    "lmhdn": [],
+    "lmhdr": [],
+    "lmhu": [],
+    "lmha": [],
+    "lb": [
+      "ables",
+      "bales",
+      "blase",
+      "sable"
+    ],
+    "lbo": [],
+    "lbr": [
+      "balers",
+      "blares",
+      "blears"
+    ],
+    "lbrd": [],
+    "lbru": [],
+    "lbra": [
+      "arables"
+    ],
+    "lbrau": [],
+    "lbran": [],
+    "lbrar": [],
+    "lbh": []
+  },
+  "scoreTokens": [
+    "c234f3e9e37ce71fbae67bf764e3b77fc76b06d3820406fd88ba7ddc053dae8a",
+    "f34ac8a49e1bb96f7a71ee458b574bbe9102a5810e641b72af9f89f80aa875f5",
+    "84894d7e204df8b9a974287e6c656f9ba3d48649278a9a30733f200a2a369555",
+    "a81802dbb4304cbe5d33fa5800e6bfbd6f68e6fb476e6dd93b9416923199f592",
+    "33a011babfb37a999737a9ab08e7e13f5a352ea51993d2c517a0c1d966d60fc7"
+  ]
+}
