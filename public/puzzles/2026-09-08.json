@@ -1,0 +1,212 @@
+{
+  "start": "tee",
+  "target": [
+    "elements",
+    "theremin"
+  ],
+  "steps": [
+    {
+      "options": "nbm"
+    },
+    {
+      "options": "srp"
+    },
+    {
+      "options": "gli"
+    },
+    {
+      "options": "eqh"
+    },
+    {
+      "options": "jmx"
+    }
+  ],
+  "dictionary": {
+    "n": [
+      "teen"
+    ],
+    "ns": [
+      "sente",
+      "teens",
+      "tense"
+    ],
+    "nsg": [
+      "genets",
+      "gentes"
+    ],
+    "nsge": [],
+    "nsgq": [],
+    "nsgh": [],
+    "nsl": [
+      "nestle"
+    ],
+    "nsle": [
+      "stelene"
+    ],
+    "nslej": [],
+    "nslem": [
+      "elements"
+    ],
+    "nslex": [],
+    "nslq": [],
+    "nslh": [],
+    "nsi": [],
+    "nr": [
+      "enter",
+      "rente",
+      "terne",
+      "treen"
+    ],
+    "nrg": [
+      "gerent",
+      "regent"
+    ],
+    "nrge": [],
+    "nrgq": [],
+    "nrgh": [
+      "greenth"
+    ],
+    "nrghj": [],
+    "nrghm": [],
+    "nrghx": [],
+    "nrl": [
+      "relent"
+    ],
+    "nrle": [],
+    "nrlq": [],
+    "nrlh": [],
+    "nri": [
+      "entire",
+      "retine",
+      "triene"
+    ],
+    "nrie": [
+      "teenier"
+    ],
+    "nriej": [],
+    "nriem": [],
+    "nriex": [],
+    "nriq": [],
+    "nrih": [
+      "neither",
+      "therein"
+    ],
+    "nrihj": [],
+    "nrihm": [
+      "theremin"
+    ],
+    "nrihx": [],
+    "np": [],
+    "b": [
+      "beet"
+    ],
+    "bs": [
+      "beets",
+      "beset"
+    ],
+    "bsg": [
+      "begets"
+    ],
+    "bsge": [],
+    "bsgq": [],
+    "bsgh": [],
+    "bsl": [
+      "betels"
+    ],
+    "bsle": [
+      "beetles"
+    ],
+    "bslej": [],
+    "bslem": [],
+    "bslex": [],
+    "bslq": [],
+    "bslh": [
+      "bethels"
+    ],
+    "bslhj": [],
+    "bslhm": [],
+    "bslhx": [],
+    "bsi": [
+      "betise"
+    ],
+    "bsie": [],
+    "bsiq": [],
+    "bsih": [],
+    "br": [
+      "beret"
+    ],
+    "brg": [],
+    "brl": [
+      "belter",
+      "treble"
+    ],
+    "brle": [
+      "beetler"
+    ],
+    "brlej": [],
+    "brlem": [],
+    "brlex": [],
+    "brlq": [],
+    "brlh": [
+      "blether"
+    ],
+    "brlhj": [],
+    "brlhm": [],
+    "brlhx": [],
+    "bri": [],
+    "bp": [],
+    "m": [
+      "meet",
+      "mete",
+      "teem"
+    ],
+    "ms": [
+      "meets",
+      "metes",
+      "teems"
+    ],
+    "msg": [],
+    "msl": [],
+    "msi": [],
+    "mr": [
+      "meter",
+      "metre",
+      "remet",
+      "retem"
+    ],
+    "mrg": [],
+    "mrl": [
+      "melter",
+      "remelt"
+    ],
+    "mrle": [],
+    "mrlq": [],
+    "mrlh": [
+      "thermel"
+    ],
+    "mrlhj": [],
+    "mrlhm": [],
+    "mrlhx": [],
+    "mri": [
+      "metier",
+      "reemit",
+      "retime"
+    ],
+    "mrie": [
+      "eremite"
+    ],
+    "mriej": [],
+    "mriem": [],
+    "mriex": [],
+    "mriq": [],
+    "mrih": [],
+    "mp": []
+  },
+  "scoreTokens": [
+    "8a7993e8786623004c97d74f6e715a18071343e1c4da1d1f2f7ac129c12926bf",
+    "46065b8cae722b9dd4bcb88466ebdc24bd7132368799e4f286120b89f29c16a5",
+    "ef444d91e0bc320fab80dc11a1414eeb67293d7afd48afb37aa07865d5a43e76",
+    "e400d6cb99a7be6e6275b59ad626b17f7985378efba53955c4c0cb4a274631df",
+    "21528a41c6fc0925618fa55cd63360ba914242684c1afb4ee6402e87fac9f570"
+  ]
+}
