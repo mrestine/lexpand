@@ -1,0 +1,131 @@
+{
+  "start": "hae",
+  "target": [
+    "ganaches",
+    "haleness",
+    "reshaves"
+  ],
+  "steps": [
+    {
+      "options": "nzv"
+    },
+    {
+      "options": "acs"
+    },
+    {
+      "options": "rlg"
+    },
+    {
+      "options": "zsa"
+    },
+    {
+      "options": "sje"
+    }
+  ],
+  "dictionary": {
+    "n": [
+      "haen"
+    ],
+    "na": [],
+    "nc": [
+      "hance"
+    ],
+    "ncr": [],
+    "ncl": [],
+    "ncg": [
+      "change"
+    ],
+    "ncgz": [],
+    "ncgs": [
+      "changes"
+    ],
+    "ncgss": [],
+    "ncgsj": [],
+    "ncgse": [],
+    "ncga": [
+      "ganache"
+    ],
+    "ncgas": [
+      "ganaches"
+    ],
+    "ncgaj": [],
+    "ncgae": [],
+    "ns": [
+      "ashen",
+      "hanse"
+    ],
+    "nsr": [],
+    "nsl": [
+      "hansel"
+    ],
+    "nslz": [],
+    "nsls": [
+      "hansels"
+    ],
+    "nslss": [],
+    "nslsj": [],
+    "nslse": [
+      "haleness"
+    ],
+    "nsla": [],
+    "nsg": [],
+    "z": [
+      "haze"
+    ],
+    "za": [],
+    "zc": [],
+    "zs": [
+      "hazes"
+    ],
+    "zsr": [
+      "hazers"
+    ],
+    "zsrz": [],
+    "zsrs": [],
+    "zsra": [],
+    "zsl": [
+      "hazels"
+    ],
+    "zslz": [],
+    "zsls": [],
+    "zsla": [],
+    "zsg": [],
+    "v": [
+      "have"
+    ],
+    "va": [],
+    "vc": [],
+    "vs": [
+      "haves",
+      "shave"
+    ],
+    "vsr": [
+      "havers",
+      "shaver"
+    ],
+    "vsrz": [],
+    "vsrs": [
+      "shavers"
+    ],
+    "vsrss": [],
+    "vsrsj": [],
+    "vsrse": [
+      "reshaves"
+    ],
+    "vsra": [],
+    "vsl": [
+      "halves"
+    ],
+    "vslz": [],
+    "vsls": [],
+    "vsla": [],
+    "vsg": []
+  },
+  "scoreTokens": [
+    "5e5bd4abccefe125155b91f183788e4b04e44bf74835a4280fbe55647fad7893",
+    "1e9e499a0746b5c409ecf1e72afc12476040a36009a448da9bd54555dd11d505",
+    "02dbb1217a4e17e45a62d367f55d1a79b02167fc26e6f1fa316e2083f6f87b8b",
+    "309c1b9dde3d040e45c7b583ceaf884544d028f48eb857b342984e76108b2ac7",
+    "fbc99f7f841b1d37f700518d08b14f6a926a889a5c38f146e6afd5019a2ab652"
+  ]
+}
