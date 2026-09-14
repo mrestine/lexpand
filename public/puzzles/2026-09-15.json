@@ -1,0 +1,146 @@
+{
+  "start": "sei",
+  "target": [
+    "purlines",
+    "pilsners",
+    "spinules",
+    "splenius",
+    "spinners"
+  ],
+  "steps": [
+    {
+      "options": "zln"
+    },
+    {
+      "options": "yjn"
+    },
+    {
+      "options": "lpv"
+    },
+    {
+      "options": "ruh"
+    },
+    {
+      "options": "usj"
+    }
+  ],
+  "dictionary": {
+    "z": [
+      "size"
+    ],
+    "zy": [],
+    "zj": [],
+    "zn": [
+      "zeins"
+    ],
+    "znl": [],
+    "znp": [],
+    "znv": [],
+    "l": [
+      "isle",
+      "leis",
+      "lies"
+    ],
+    "ly": [],
+    "lj": [],
+    "ln": [
+      "lenis",
+      "liens",
+      "lines"
+    ],
+    "lnl": [],
+    "lnp": [
+      "pensil",
+      "spinel",
+      "spline"
+    ],
+    "lnpr": [
+      "pilsner"
+    ],
+    "lnpru": [
+      "purlines"
+    ],
+    "lnprs": [
+      "pilsners"
+    ],
+    "lnprj": [],
+    "lnpu": [
+      "lineups",
+      "lupines",
+      "spinule",
+      "unpiles"
+    ],
+    "lnpuu": [],
+    "lnpus": [
+      "spinules",
+      "splenius"
+    ],
+    "lnpuj": [],
+    "lnph": [
+      "plenish"
+    ],
+    "lnphu": [],
+    "lnphs": [],
+    "lnphj": [],
+    "lnv": [
+      "levins",
+      "livens",
+      "snivel"
+    ],
+    "lnvr": [
+      "silvern"
+    ],
+    "lnvru": [],
+    "lnvrs": [],
+    "lnvrj": [],
+    "lnvu": [
+      "unlives",
+      "unveils"
+    ],
+    "lnvuu": [],
+    "lnvus": [],
+    "lnvuj": [],
+    "lnvh": [],
+    "n": [
+      "sine"
+    ],
+    "ny": [],
+    "nj": [],
+    "nn": [
+      "nines"
+    ],
+    "nnl": [
+      "linens"
+    ],
+    "nnlr": [],
+    "nnlu": [],
+    "nnlh": [],
+    "nnp": [
+      "pennis"
+    ],
+    "nnpr": [
+      "pinners",
+      "spinner"
+    ],
+    "nnpru": [],
+    "nnprs": [
+      "spinners"
+    ],
+    "nnprj": [],
+    "nnpu": [],
+    "nnph": [],
+    "nnv": [
+      "venins"
+    ],
+    "nnvr": [],
+    "nnvu": [],
+    "nnvh": []
+  },
+  "scoreTokens": [
+    "20cf4f9d6af5dacf2459f121a88c76f5cb9ca32d66d56ab6dfd676ff1d2899ac",
+    "64dfeabefe89e1cdaf7ddae6300fcf61ef6efe58e4c4731c3137a51a71d93247",
+    "ba9a0167271c0f5f9f17b8d8c2b6432c028e9f10420766814e9ba729092fd061",
+    "01369b7775e9f6babfb8fe019b6b44d308ff8c78d95301666c7e14e42179df7d",
+    "5201d31e8398c4a6ae7ff30603af3b25fe17720d1e6b0ef1caa8dcafee83d34d"
+  ]
+}
