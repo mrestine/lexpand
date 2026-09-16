@@ -1,0 +1,99 @@
+{
+  "start": "per",
+  "target": [
+    "sharpens"
+  ],
+  "steps": [
+    {
+      "options": "xzs"
+    },
+    {
+      "options": "kah"
+    },
+    {
+      "options": "szh"
+    },
+    {
+      "options": "kbn"
+    },
+    {
+      "options": "jds"
+    }
+  ],
+  "dictionary": {
+    "x": [
+      "prex"
+    ],
+    "xk": [],
+    "xa": [],
+    "xh": [],
+    "z": [
+      "prez"
+    ],
+    "zk": [],
+    "za": [],
+    "zh": [],
+    "s": [
+      "reps"
+    ],
+    "sk": [
+      "perks"
+    ],
+    "sks": [],
+    "skz": [],
+    "skh": [],
+    "sa": [
+      "apers",
+      "apres",
+      "asper",
+      "pares",
+      "parse",
+      "pears",
+      "prase",
+      "presa",
+      "rapes",
+      "reaps",
+      "spare",
+      "spear"
+    ],
+    "sas": [
+      "aspers",
+      "parses",
+      "passer",
+      "prases",
+      "repass",
+      "spares",
+      "sparse",
+      "spears"
+    ],
+    "sask": [],
+    "sasb": [],
+    "sasn": [],
+    "saz": [],
+    "sah": [
+      "phrase",
+      "raphes",
+      "seraph",
+      "shaper",
+      "sherpa"
+    ],
+    "sahk": [],
+    "sahb": [],
+    "sahn": [
+      "sharpen"
+    ],
+    "sahnj": [],
+    "sahnd": [],
+    "sahns": [
+      "sharpens"
+    ],
+    "sh": []
+  },
+  "scoreTokens": [
+    "68a55622abfd0012556f9b00ac5513416f3178383f04c37ce11afaa5f76fa8a4",
+    "7c192905fa25f92f610de2b3ab421ed2f2c13b9619a1f62979e30a4259521dc5",
+    "6683a6131aa65995cbd259f67fabcd5b056c217aeddffd2b00cbb088532a0ec7",
+    "08785aa6ab8b9858e6b7a8d7e2b8470244af61301787d730853472cf0d32b175",
+    "e13d1fb4ee994e986c013af8f03b07201082e6a7280f611d091b35fc199e8392"
+  ]
+}
