@@ -1,0 +1,318 @@
+{
+  "start": "sac",
+  "target": [
+    "scarphed",
+    "starches",
+    "scarcest",
+    "chastens",
+    "snatches",
+    "stanches",
+    "newscast",
+    "chapters",
+    "patchers",
+    "achiness",
+    "aspheric",
+    "parchesi",
+    "seraphic",
+    "caprices",
+    "painches",
+    "searches",
+    "encashes",
+    "enchases",
+    "peachers",
+    "preaches"
+  ],
+  "steps": [
+    {
+      "options": "dte"
+    },
+    {
+      "options": "ike"
+    },
+    {
+      "options": "sfp"
+    },
+    {
+      "options": "rxn"
+    },
+    {
+      "options": "hwc"
+    }
+  ],
+  "dictionary": {
+    "d": [
+      "cads",
+      "scad"
+    ],
+    "di": [
+      "acids",
+      "asdic",
+      "cadis",
+      "caids"
+    ],
+    "dis": [
+      "asdics"
+    ],
+    "disr": [],
+    "disx": [],
+    "disn": [],
+    "dif": [],
+    "dip": [
+      "capsid"
+    ],
+    "dipr": [],
+    "dipx": [],
+    "dipn": [],
+    "dk": [],
+    "de": [
+      "cades",
+      "cased",
+      "daces"
+    ],
+    "des": [],
+    "def": [
+      "decafs"
+    ],
+    "defr": [
+      "scarfed"
+    ],
+    "defrh": [],
+    "defrw": [],
+    "defrc": [],
+    "defx": [],
+    "defn": [],
+    "dep": [
+      "scaped",
+      "spaced"
+    ],
+    "depr": [
+      "redcaps",
+      "scarped",
+      "scraped"
+    ],
+    "deprh": [
+      "scarphed"
+    ],
+    "deprw": [],
+    "deprc": [],
+    "depx": [],
+    "depn": [],
+    "t": [
+      "acts",
+      "cast",
+      "cats",
+      "scat"
+    ],
+    "ti": [],
+    "tk": [
+      "stack",
+      "tacks"
+    ],
+    "tks": [
+      "stacks"
+    ],
+    "tksr": [],
+    "tksx": [],
+    "tksn": [],
+    "tkf": [],
+    "tkp": [],
+    "te": [
+      "caste",
+      "cates",
+      "cesta",
+      "taces"
+    ],
+    "tes": [
+      "castes",
+      "cestas"
+    ],
+    "tesr": [
+      "actress",
+      "casters",
+      "recasts"
+    ],
+    "tesrh": [
+      "starches"
+    ],
+    "tesrw": [],
+    "tesrc": [
+      "scarcest"
+    ],
+    "tesx": [],
+    "tesn": [
+      "ascents",
+      "secants",
+      "stances"
+    ],
+    "tesnh": [
+      "chastens",
+      "snatches",
+      "stanches"
+    ],
+    "tesnw": [
+      "newscast"
+    ],
+    "tesnc": [],
+    "tef": [
+      "facets"
+    ],
+    "tefr": [],
+    "tefx": [],
+    "tefn": [],
+    "tep": [
+      "aspect",
+      "epacts"
+    ],
+    "tepr": [
+      "carpets",
+      "preacts",
+      "precast",
+      "spectra"
+    ],
+    "teprh": [
+      "chapters",
+      "patchers"
+    ],
+    "teprw": [],
+    "teprc": [],
+    "tepx": [],
+    "tepn": [],
+    "e": [
+      "aces",
+      "case"
+    ],
+    "ei": [
+      "saice"
+    ],
+    "eis": [
+      "saices"
+    ],
+    "eisr": [],
+    "eisx": [],
+    "eisn": [
+      "caseins",
+      "incases"
+    ],
+    "eisnh": [
+      "achiness"
+    ],
+    "eisnw": [],
+    "eisnc": [],
+    "eif": [
+      "facies"
+    ],
+    "eifr": [
+      "farcies",
+      "fiacres"
+    ],
+    "eifrh": [],
+    "eifrw": [],
+    "eifrc": [],
+    "eifx": [],
+    "eifn": [
+      "fancies",
+      "fascine",
+      "fiances"
+    ],
+    "eifnh": [],
+    "eifnw": [],
+    "eifnc": [],
+    "eip": [
+      "apices",
+      "spicae"
+    ],
+    "eipr": [
+      "scrapie",
+      "spacier"
+    ],
+    "eiprh": [
+      "aspheric",
+      "parchesi",
+      "seraphic"
+    ],
+    "eiprw": [],
+    "eiprc": [
+      "caprices"
+    ],
+    "eipx": [],
+    "eipn": [
+      "inscape"
+    ],
+    "eipnh": [
+      "painches"
+    ],
+    "eipnw": [],
+    "eipnc": [],
+    "ek": [
+      "cakes"
+    ],
+    "eks": [],
+    "ekf": [],
+    "ekp": [],
+    "ee": [
+      "cease"
+    ],
+    "ees": [
+      "ceases"
+    ],
+    "eesr": [
+      "creases"
+    ],
+    "eesrh": [
+      "searches"
+    ],
+    "eesrw": [],
+    "eesrc": [],
+    "eesx": [],
+    "eesn": [
+      "encases",
+      "seances",
+      "senecas"
+    ],
+    "eesnh": [
+      "encashes",
+      "enchases"
+    ],
+    "eesnw": [],
+    "eesnc": [],
+    "eef": [
+      "faeces"
+    ],
+    "eefr": [
+      "refaces"
+    ],
+    "eefrh": [],
+    "eefrw": [],
+    "eefrc": [],
+    "eefx": [],
+    "eefn": [
+      "enfaces"
+    ],
+    "eefnh": [],
+    "eefnw": [],
+    "eefnc": [],
+    "eep": [
+      "escape",
+      "peaces"
+    ],
+    "eepr": [
+      "escaper",
+      "respace"
+    ],
+    "eeprh": [
+      "peachers",
+      "preaches"
+    ],
+    "eeprw": [],
+    "eeprc": [],
+    "eepx": [],
+    "eepn": []
+  },
+  "scoreTokens": [
+    "f5f46746a0f5d21c2d21335f20ee4fa51e8ab9b45428170d76536178f73b0e2a",
+    "86216d197b9662a2581d42943c1ed89cee70f8d351091bf0125625b64a44463d",
+    "daff8add32e3442ba8d9f1afb7e9be4b192d895ba049a8558f9e382a369ceab0",
+    "95a254fc7cf1f4fec41af3d2bc210630d85061b0422fd087b1edeb9d3284f9b9",
+    "8f42f53ad0c59684820495ac8abe9ae8c1cb698840150c5a7edae420107be475"
+  ]
+}
