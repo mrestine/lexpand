@@ -1,0 +1,161 @@
+{
+  "start": "sac",
+  "target": [
+    "chantors",
+    "chanters",
+    "snatcher",
+    "stancher",
+    "tranches",
+    "etchants"
+  ],
+  "steps": [
+    {
+      "options": "oek"
+    },
+    {
+      "options": "qph"
+    },
+    {
+      "options": "anf"
+    },
+    {
+      "options": "rtn"
+    },
+    {
+      "options": "ptz"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "ocas"
+    ],
+    "oq": [],
+    "op": [
+      "capos"
+    ],
+    "opa": [],
+    "opn": [
+      "capons"
+    ],
+    "opnr": [],
+    "opnt": [],
+    "opnn": [],
+    "opf": [],
+    "oh": [
+      "chaos"
+    ],
+    "oha": [],
+    "ohn": [
+      "nachos"
+    ],
+    "ohnr": [
+      "anchors",
+      "archons",
+      "ranchos"
+    ],
+    "ohnrp": [],
+    "ohnrt": [
+      "chantors"
+    ],
+    "ohnrz": [],
+    "ohnt": [],
+    "ohnn": [
+      "chanson",
+      "noncash"
+    ],
+    "ohnnp": [],
+    "ohnnt": [],
+    "ohnnz": [],
+    "ohf": [],
+    "e": [
+      "aces",
+      "case"
+    ],
+    "eq": [],
+    "ep": [
+      "capes",
+      "paces",
+      "scape",
+      "space"
+    ],
+    "epa": [],
+    "epn": [
+      "pecans"
+    ],
+    "epnr": [
+      "prances"
+    ],
+    "epnrp": [],
+    "epnrt": [],
+    "epnrz": [],
+    "epnt": [],
+    "epnn": [],
+    "epf": [],
+    "eh": [
+      "aches",
+      "chase"
+    ],
+    "eha": [],
+    "ehn": [
+      "encash",
+      "hances",
+      "naches"
+    ],
+    "ehnr": [
+      "ranches"
+    ],
+    "ehnrp": [],
+    "ehnrt": [
+      "chanters",
+      "snatcher",
+      "stancher",
+      "tranches"
+    ],
+    "ehnrz": [],
+    "ehnt": [
+      "chasten"
+    ],
+    "ehntp": [],
+    "ehntt": [
+      "etchants"
+    ],
+    "ehntz": [],
+    "ehnn": [],
+    "ehf": [
+      "chafes"
+    ],
+    "ehfr": [
+      "chafers"
+    ],
+    "ehfrp": [],
+    "ehfrt": [],
+    "ehfrz": [],
+    "ehft": [],
+    "ehfn": [],
+    "k": [
+      "cask",
+      "sack"
+    ],
+    "kq": [],
+    "kp": [
+      "packs"
+    ],
+    "kpa": [],
+    "kpn": [],
+    "kpf": [],
+    "kh": [
+      "hacks",
+      "shack"
+    ],
+    "kha": [],
+    "khn": [],
+    "khf": []
+  },
+  "scoreTokens": [
+    "b72ccc923b5160b83930f1a5795dc62bd4e5fb59a33ab33d1a6fbb31fe4dd76e",
+    "8e3946acfa8c46212288a54668d0df55ff52107454fbb5094c15d807ace1e107",
+    "207f3255eb62eb121b70fc983caa60a251ba47f228f312d208eede551ab5cf36",
+    "88cf8cc502f8fa0d3a487f6d02eb81acbe390b249f4ef0756701f1eb7b14a210",
+    "bd5599025381ab5d2e3136049e3d3a68318a0cd3ed0f499202eef5a5c4525018"
+  ]
+}
