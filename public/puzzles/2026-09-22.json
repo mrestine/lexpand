@@ -1,0 +1,191 @@
+{
+  "start": "lin",
+  "target": [
+    "luteolin",
+    "outliner",
+    "nestling",
+    "retinols",
+    "glouting"
+  ],
+  "steps": [
+    {
+      "options": "tby"
+    },
+    {
+      "options": "feg"
+    },
+    {
+      "options": "mus"
+    },
+    {
+      "options": "yno"
+    },
+    {
+      "options": "lrg"
+    }
+  ],
+  "dictionary": {
+    "t": [
+      "lint"
+    ],
+    "tf": [
+      "flint"
+    ],
+    "tfm": [],
+    "tfu": [
+      "tinful"
+    ],
+    "tfuy": [
+      "unfitly"
+    ],
+    "tfuyl": [],
+    "tfuyr": [],
+    "tfuyg": [],
+    "tfun": [],
+    "tfuo": [],
+    "tfs": [
+      "flints"
+    ],
+    "tfsy": [],
+    "tfsn": [],
+    "tfso": [],
+    "te": [
+      "elint",
+      "inlet"
+    ],
+    "tem": [],
+    "teu": [
+      "lutein"
+    ],
+    "teuy": [],
+    "teun": [],
+    "teuo": [
+      "elution",
+      "outline"
+    ],
+    "teuol": [
+      "luteolin"
+    ],
+    "teuor": [
+      "outliner"
+    ],
+    "teuog": [],
+    "tes": [
+      "elints",
+      "enlist",
+      "inlets",
+      "listen",
+      "silent",
+      "tinsel"
+    ],
+    "tesy": [],
+    "tesn": [
+      "linnets"
+    ],
+    "tesnl": [],
+    "tesnr": [],
+    "tesng": [
+      "nestling"
+    ],
+    "teso": [
+      "entoils"
+    ],
+    "tesol": [],
+    "tesor": [
+      "retinols"
+    ],
+    "tesog": [],
+    "tg": [
+      "glint"
+    ],
+    "tgm": [],
+    "tgu": [
+      "luting"
+    ],
+    "tguy": [],
+    "tgun": [
+      "lunting"
+    ],
+    "tgunl": [],
+    "tgunr": [],
+    "tgung": [],
+    "tguo": [
+      "louting"
+    ],
+    "tguol": [],
+    "tguor": [],
+    "tguog": [
+      "glouting"
+    ],
+    "tgs": [
+      "glints"
+    ],
+    "tgsy": [
+      "styling"
+    ],
+    "tgsyl": [],
+    "tgsyr": [],
+    "tgsyg": [],
+    "tgsn": [],
+    "tgso": [
+      "tiglons"
+    ],
+    "tgsol": [],
+    "tgsor": [],
+    "tgsog": [],
+    "b": [
+      "blin"
+    ],
+    "bf": [],
+    "be": [],
+    "bg": [],
+    "y": [
+      "inly",
+      "liny"
+    ],
+    "yf": [],
+    "ye": [
+      "liney"
+    ],
+    "yem": [
+      "myelin"
+    ],
+    "yemy": [],
+    "yemn": [],
+    "yemo": [],
+    "yeu": [],
+    "yes": [
+      "linsey",
+      "lysine"
+    ],
+    "yesy": [],
+    "yesn": [],
+    "yeso": [],
+    "yg": [
+      "lingy",
+      "lying"
+    ],
+    "ygm": [],
+    "ygu": [
+      "lungyi"
+    ],
+    "yguy": [],
+    "ygun": [],
+    "yguo": [],
+    "ygs": [
+      "lyings",
+      "lysing",
+      "singly"
+    ],
+    "ygsy": [],
+    "ygsn": [],
+    "ygso": []
+  },
+  "scoreTokens": [
+    "b099d6a6250771224babea875b445233838054a762f7586da76beca1cfd85c4c",
+    "445ed563e70966b7232fa10a28440ae319d30b8f4593ebb4b7f22120aecaa7d8",
+    "a17bb27e8e9715c092135dbe8b8689e2c5a64941a9aa227b1aeb8ea4389b5fd7",
+    "9fdb70c0b6ff9fa02cbeec4c0578fcca39e88a5b4077d2075273733cc7b3e7e3",
+    "717b36159bc6018f20dd61090f97563603aa59423f70d01418a719b5d6d6e5ca"
+  ]
+}
