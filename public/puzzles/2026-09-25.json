@@ -1,0 +1,97 @@
+{
+  "start": "age",
+  "target": [
+    "agminate",
+    "enigmata"
+  ],
+  "steps": [
+    {
+      "options": "mgc"
+    },
+    {
+      "options": "nyp"
+    },
+    {
+      "options": "trm"
+    },
+    {
+      "options": "ipy"
+    },
+    {
+      "options": "ypa"
+    }
+  ],
+  "dictionary": {
+    "m": [
+      "game",
+      "mage"
+    ],
+    "mn": [
+      "mange"
+    ],
+    "mnt": [
+      "magnet"
+    ],
+    "mnti": [
+      "mintage",
+      "teaming",
+      "tegmina"
+    ],
+    "mntiy": [],
+    "mntip": [],
+    "mntia": [
+      "agminate",
+      "enigmata"
+    ],
+    "mntp": [],
+    "mnty": [],
+    "mnr": [
+      "engram",
+      "german",
+      "manger",
+      "ragmen"
+    ],
+    "mnri": [
+      "germina",
+      "mangier",
+      "reaming"
+    ],
+    "mnriy": [],
+    "mnrip": [],
+    "mnria": [],
+    "mnrp": [],
+    "mnry": [],
+    "mnm": [],
+    "my": [
+      "gamey"
+    ],
+    "myt": [],
+    "myr": [],
+    "mym": [],
+    "mp": [],
+    "g": [
+      "gage"
+    ],
+    "gn": [],
+    "gy": [],
+    "gp": [],
+    "c": [
+      "cage"
+    ],
+    "cn": [],
+    "cy": [
+      "cagey"
+    ],
+    "cyt": [],
+    "cyr": [],
+    "cym": [],
+    "cp": []
+  },
+  "scoreTokens": [
+    "ae26444ca2b2611a836a5937e6b0a849e2e5a3c954a341096f72bb771d81c5f0",
+    "576e2e5a1b28959e016e1c5f1f637030dc25e5f817f63978c9633c2d128c4598",
+    "b2363dbe65d6508ac2de0214f4e830135bb3bf66dea6e899561c683e8cdac629",
+    "df1019dcea03d33cf9b858b65aaf121416ad74ba004cf8df7110054a1b856300",
+    "b185a3fd679b1875fef39a2d36107879246616ecc8267f93d322ca308a68a379"
+  ]
+}
