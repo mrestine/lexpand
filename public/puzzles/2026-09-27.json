@@ -1,0 +1,158 @@
+{
+  "start": "die",
+  "target": [
+    "inducers",
+    "decuries",
+    "uridines"
+  ],
+  "steps": [
+    {
+      "options": "cms"
+    },
+    {
+      "options": "frv"
+    },
+    {
+      "options": "xci"
+    },
+    {
+      "options": "noe"
+    },
+    {
+      "options": "uwz"
+    }
+  ],
+  "dictionary": {
+    "c": [
+      "cedi",
+      "dice",
+      "iced"
+    ],
+    "cf": [],
+    "cr": [
+      "cider",
+      "cried",
+      "dicer",
+      "riced"
+    ],
+    "crx": [],
+    "crc": [],
+    "cri": [
+      "dicier"
+    ],
+    "crin": [
+      "dineric"
+    ],
+    "crinu": [],
+    "crinw": [],
+    "crinz": [],
+    "crio": [
+      "ericoid"
+    ],
+    "criou": [],
+    "criow": [],
+    "crioz": [],
+    "crie": [],
+    "cv": [
+      "viced"
+    ],
+    "cvx": [],
+    "cvc": [],
+    "cvi": [],
+    "m": [
+      "dime",
+      "idem"
+    ],
+    "mf": [],
+    "mr": [
+      "dimer",
+      "mired",
+      "rimed"
+    ],
+    "mrx": [],
+    "mrc": [
+      "dermic"
+    ],
+    "mrcn": [],
+    "mrco": [
+      "dormice"
+    ],
+    "mrcou": [],
+    "mrcow": [],
+    "mrcoz": [],
+    "mrce": [],
+    "mri": [],
+    "mv": [],
+    "s": [
+      "dies",
+      "ides",
+      "side"
+    ],
+    "sf": [
+      "defis"
+    ],
+    "sfx": [],
+    "sfc": [],
+    "sfi": [],
+    "sr": [
+      "dries",
+      "resid",
+      "rides",
+      "sired"
+    ],
+    "srx": [],
+    "src": [
+      "ciders",
+      "dicers",
+      "scried"
+    ],
+    "srcn": [
+      "cinders",
+      "discern",
+      "rescind"
+    ],
+    "srcnu": [
+      "inducers"
+    ],
+    "srcnw": [],
+    "srcnz": [],
+    "srco": [],
+    "srce": [
+      "decries",
+      "deicers"
+    ],
+    "srceu": [
+      "decuries"
+    ],
+    "srcew": [],
+    "srcez": [],
+    "sri": [
+      "irides",
+      "irised"
+    ],
+    "srin": [
+      "insider"
+    ],
+    "srinu": [
+      "uridines"
+    ],
+    "srinw": [],
+    "srinz": [],
+    "srio": [],
+    "srie": [],
+    "sv": [
+      "dives",
+      "vised"
+    ],
+    "svx": [],
+    "svc": [],
+    "svi": []
+  },
+  "scoreTokens": [
+    "95bd6a698ecfc4bd82359f92a55dfce4c0eefce23b4089101246ac983fe560cb",
+    "3070195f26c5a9d20dd12d915c1994f557489d1a7be8d25aa77af4a2f835dffb",
+    "17f01235682975688354086712b1344dc9373b5c1571114b77abdc5305e54f5b",
+    "35f01f7627b854d3df665a427b5c011617b7b4b2076f158cdc91db463eafae7a",
+    "03baf39af19f250faf0e29610bca2d4d9e2137ffbee54214db2843222923feb2"
+  ]
+}
