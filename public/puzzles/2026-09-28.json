@@ -1,0 +1,156 @@
+{
+  "start": "moa",
+  "target": [
+    "lampions",
+    "mariposa",
+    "moralise",
+    "proemial"
+  ],
+  "steps": [
+    {
+      "options": "bnr"
+    },
+    {
+      "options": "sue"
+    },
+    {
+      "options": "bal"
+    },
+    {
+      "options": "pje"
+    },
+    {
+      "options": "mix"
+    }
+  ],
+  "dictionary": {
+    "b": [
+      "ambo"
+    ],
+    "bs": [
+      "ambos",
+      "sambo"
+    ],
+    "bsb": [],
+    "bsa": [
+      "abomas"
+    ],
+    "bsap": [],
+    "bsaj": [],
+    "bsae": [
+      "amoebas"
+    ],
+    "bsaem": [],
+    "bsaei": [],
+    "bsaex": [],
+    "bsl": [],
+    "bu": [],
+    "be": [],
+    "n": [
+      "mano",
+      "moan",
+      "noma"
+    ],
+    "ns": [
+      "manos",
+      "mason",
+      "moans",
+      "monas",
+      "nomas"
+    ],
+    "nsb": [],
+    "nsa": [],
+    "nsl": [
+      "salmon"
+    ],
+    "nslp": [
+      "plasmon"
+    ],
+    "nslpm": [],
+    "nslpi": [
+      "lampions"
+    ],
+    "nslpx": [],
+    "nslj": [],
+    "nsle": [],
+    "nu": [],
+    "ne": [],
+    "r": [
+      "mora",
+      "roam"
+    ],
+    "rs": [
+      "moras",
+      "roams"
+    ],
+    "rsb": [],
+    "rsa": [
+      "aromas"
+    ],
+    "rsap": [
+      "paramos"
+    ],
+    "rsapm": [],
+    "rsapi": [
+      "mariposa"
+    ],
+    "rsapx": [],
+    "rsaj": [],
+    "rsae": [],
+    "rsl": [
+      "molars",
+      "morals"
+    ],
+    "rslp": [],
+    "rslj": [],
+    "rsle": [
+      "morales"
+    ],
+    "rslem": [],
+    "rslei": [
+      "moralise"
+    ],
+    "rslex": [],
+    "ru": [
+      "amour"
+    ],
+    "rub": [],
+    "rua": [],
+    "rul": [
+      "morula"
+    ],
+    "rulp": [],
+    "rulj": [],
+    "rule": [
+      "morulae"
+    ],
+    "rulem": [],
+    "rulei": [],
+    "rulex": [],
+    "re": [
+      "morae"
+    ],
+    "reb": [],
+    "rea": [],
+    "rel": [
+      "morale"
+    ],
+    "relp": [
+      "rampole"
+    ],
+    "relpm": [],
+    "relpi": [
+      "proemial"
+    ],
+    "relpx": [],
+    "relj": [],
+    "rele": []
+  },
+  "scoreTokens": [
+    "d1091b2f41383c167873b182d13701587897a75cce3e52e0a1108f5c4df39fcf",
+    "8c8574eb4b38d0a0b663d4b406ed597795eb8e634be6234166099de30fa4a6cd",
+    "ffb6eed4a37698470b178e7a6f06106ea90e12a823de28901b6d69a46da83cdd",
+    "f80e9a252c43ba7949f20be5d47cb1754e58e9ee520d258f5f22b37add40949e",
+    "b2fcbc1c7cf596edc8fae2c222052438b56f54250dc9e30eefa9399c2fd23e3b"
+  ]
+}
