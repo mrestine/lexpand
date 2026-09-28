@@ -1,0 +1,154 @@
+{
+  "start": "gin",
+  "target": [
+    "stumming",
+    "trimming"
+  ],
+  "steps": [
+    {
+      "options": "tsr"
+    },
+    {
+      "options": "iuo"
+    },
+    {
+      "options": "mwo"
+    },
+    {
+      "options": "oam"
+    },
+    {
+      "options": "wtd"
+    }
+  ],
+  "dictionary": {
+    "t": [
+      "ting"
+    ],
+    "ti": [],
+    "tu": [],
+    "to": [
+      "ingot",
+      "tigon"
+    ],
+    "tom": [],
+    "tow": [
+      "towing"
+    ],
+    "towo": [],
+    "towa": [],
+    "towm": [],
+    "too": [],
+    "s": [
+      "gins",
+      "sign",
+      "sing"
+    ],
+    "si": [],
+    "su": [
+      "suing",
+      "using"
+    ],
+    "sum": [
+      "musing"
+    ],
+    "sumo": [
+      "mousing"
+    ],
+    "sumow": [],
+    "sumot": [],
+    "sumod": [],
+    "suma": [
+      "amusing"
+    ],
+    "sumaw": [],
+    "sumat": [],
+    "sumad": [],
+    "summ": [
+      "summing"
+    ],
+    "summw": [],
+    "summt": [
+      "stumming"
+    ],
+    "summd": [],
+    "suw": [],
+    "suo": [],
+    "so": [],
+    "r": [
+      "girn",
+      "grin",
+      "ring"
+    ],
+    "ri": [
+      "iring"
+    ],
+    "rim": [
+      "miring",
+      "riming"
+    ],
+    "rimo": [],
+    "rima": [],
+    "rimm": [
+      "rimming"
+    ],
+    "rimmw": [],
+    "rimmt": [
+      "trimming"
+    ],
+    "rimmd": [],
+    "riw": [
+      "wiring"
+    ],
+    "riwo": [],
+    "riwa": [
+      "wairing"
+    ],
+    "riwaw": [],
+    "riwat": [],
+    "riwad": [],
+    "riwm": [],
+    "rio": [
+      "origin"
+    ],
+    "rioo": [],
+    "rioa": [],
+    "riom": [],
+    "ru": [
+      "ruing",
+      "unrig"
+    ],
+    "rum": [
+      "muring"
+    ],
+    "rumo": [],
+    "ruma": [],
+    "rumm": [],
+    "ruw": [],
+    "ruo": [],
+    "ro": [
+      "giron",
+      "groin"
+    ],
+    "rom": [],
+    "row": [
+      "rowing"
+    ],
+    "rowo": [],
+    "rowa": [],
+    "rowm": [
+      "worming"
+    ],
+    "rowmw": [],
+    "rowmt": [],
+    "rowmd": [],
+    "roo": []
+  },
+  "scoreTokens": [
+    "61b29e216c34e0378b5bcbd75bec2d5918da10b98a7152eaf75962f52bd68e46",
+    "35cbaa1e5f89d5389673d299e61ac78751da30f8939b0222ae649bfc778f505d",
+    "922311237830aa52840cc11e7e7ed65eecf1bf16d122d0860a5d28d0029705d7",
+    "f808f5cb6f97167b28b0e666ea68ff98317a87747c112d066a8021d765d5965e",
+    "15a48e3aa24c4f5607d93a96b70cef11fdef0482b42d2da512c02a20a9b27dc6"
+  ]
+}
