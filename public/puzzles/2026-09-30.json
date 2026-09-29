@@ -1,0 +1,279 @@
+{
+  "start": "sei",
+  "target": [
+    "valorise",
+    "varioles",
+    "savories",
+    "devisors",
+    "brasiers",
+    "brassier",
+    "isobares",
+    "bridlers",
+    "disrobes",
+    "ravelins",
+    "evasions",
+    "servings",
+    "basenjis"
+  ],
+  "steps": [
+    {
+      "options": "rng"
+    },
+    {
+      "options": "vbq"
+    },
+    {
+      "options": "adg"
+    },
+    {
+      "options": "jro"
+    },
+    {
+      "options": "lsf"
+    }
+  ],
+  "dictionary": {
+    "r": [
+      "ires",
+      "reis",
+      "rise",
+      "sire"
+    ],
+    "rv": [
+      "rives",
+      "siver",
+      "viers",
+      "vires"
+    ],
+    "rva": [
+      "aivers",
+      "varies"
+    ],
+    "rvaj": [],
+    "rvar": [
+      "arrives",
+      "variers"
+    ],
+    "rvarl": [],
+    "rvars": [],
+    "rvarf": [],
+    "rvao": [
+      "ovaries"
+    ],
+    "rvaol": [
+      "valorise",
+      "varioles"
+    ],
+    "rvaos": [
+      "savories"
+    ],
+    "rvaof": [],
+    "rvd": [
+      "divers",
+      "drives"
+    ],
+    "rvdj": [],
+    "rvdr": [
+      "drivers"
+    ],
+    "rvdrl": [],
+    "rvdrs": [],
+    "rvdrf": [],
+    "rvdo": [
+      "devisor",
+      "devoirs",
+      "visored",
+      "voiders"
+    ],
+    "rvdol": [],
+    "rvdos": [
+      "devisors"
+    ],
+    "rvdof": [],
+    "rvg": [
+      "givers"
+    ],
+    "rvgj": [],
+    "rvgr": [],
+    "rvgo": [],
+    "rb": [
+      "biers",
+      "birse",
+      "bries",
+      "ribes"
+    ],
+    "rba": [
+      "braise",
+      "rabies"
+    ],
+    "rbaj": [],
+    "rbar": [
+      "brasier"
+    ],
+    "rbarl": [],
+    "rbars": [
+      "brasiers",
+      "brassier"
+    ],
+    "rbarf": [],
+    "rbao": [
+      "isobare"
+    ],
+    "rbaol": [],
+    "rbaos": [
+      "isobares"
+    ],
+    "rbaof": [],
+    "rbd": [
+      "biders",
+      "brides",
+      "debris",
+      "rebids"
+    ],
+    "rbdj": [],
+    "rbdr": [
+      "birders"
+    ],
+    "rbdrl": [
+      "bridlers"
+    ],
+    "rbdrs": [],
+    "rbdrf": [],
+    "rbdo": [
+      "borides",
+      "disrobe"
+    ],
+    "rbdol": [],
+    "rbdos": [
+      "disrobes"
+    ],
+    "rbdof": [],
+    "rbg": [
+      "gibers"
+    ],
+    "rbgj": [],
+    "rbgr": [],
+    "rbgo": [],
+    "rq": [],
+    "n": [
+      "sine"
+    ],
+    "nv": [
+      "veins",
+      "vines"
+    ],
+    "nva": [
+      "naives",
+      "navies",
+      "savine"
+    ],
+    "nvaj": [],
+    "nvar": [
+      "ravines"
+    ],
+    "nvarl": [
+      "ravelins"
+    ],
+    "nvars": [],
+    "nvarf": [],
+    "nvao": [
+      "evasion"
+    ],
+    "nvaol": [],
+    "nvaos": [
+      "evasions"
+    ],
+    "nvaof": [],
+    "nvd": [],
+    "nvg": [
+      "givens"
+    ],
+    "nvgj": [],
+    "nvgr": [
+      "serving",
+      "versing"
+    ],
+    "nvgrl": [],
+    "nvgrs": [
+      "servings"
+    ],
+    "nvgrf": [],
+    "nvgo": [],
+    "nb": [
+      "bines"
+    ],
+    "nba": [
+      "sabine"
+    ],
+    "nbaj": [
+      "basenji"
+    ],
+    "nbajl": [],
+    "nbajs": [
+      "basenjis"
+    ],
+    "nbajf": [],
+    "nbar": [],
+    "nbao": [],
+    "nbd": [],
+    "nbg": [
+      "begins",
+      "beings",
+      "binges"
+    ],
+    "nbgj": [],
+    "nbgr": [
+      "bingers"
+    ],
+    "nbgrl": [],
+    "nbgrs": [],
+    "nbgrf": [],
+    "nbgo": [
+      "biogens"
+    ],
+    "nbgol": [],
+    "nbgos": [],
+    "nbgof": [],
+    "nq": [],
+    "g": [
+      "egis",
+      "gies"
+    ],
+    "gv": [
+      "gives"
+    ],
+    "gva": [
+      "visage"
+    ],
+    "gvaj": [],
+    "gvar": [
+      "gravies",
+      "rivages"
+    ],
+    "gvarl": [],
+    "gvars": [],
+    "gvarf": [],
+    "gvao": [],
+    "gvd": [],
+    "gvg": [],
+    "gb": [
+      "gibes"
+    ],
+    "gba": [
+      "gabies"
+    ],
+    "gbaj": [],
+    "gbar": [],
+    "gbao": [],
+    "gbd": [],
+    "gbg": [],
+    "gq": []
+  },
+  "scoreTokens": [
+    "20c4f73d881e49c1e3545bc83cc5399cf3bde1ce51bada04ef93787eff176192",
+    "3b27424bda0ed9e8f40fd48eb6ed7c6fc9a663b2fbfabda76a07829cf5660dad",
+    "a23ab6b92c25880985464e807da05b28aa0028c6ec42d858a98f660b2407ea5b",
+    "928a099e034d2c92f6c8b378356c13d43eca57e6faa0c1bbd00c0ce30c86bf01",
+    "41e6330e56cbb82c57405e45ceea7da5e706c73959b4f1c8d64baf35685d84df"
+  ]
+}
