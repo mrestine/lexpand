@@ -1,0 +1,120 @@
+{
+  "start": "emu",
+  "target": [
+    "marquise"
+  ],
+  "steps": [
+    {
+      "options": "ose"
+    },
+    {
+      "options": "atn"
+    },
+    {
+      "options": "rmh"
+    },
+    {
+      "options": "qsx"
+    },
+    {
+      "options": "irg"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "meou",
+      "moue"
+    ],
+    "oa": [],
+    "ot": [],
+    "on": [],
+    "s": [
+      "emus",
+      "muse"
+    ],
+    "sa": [
+      "amuse"
+    ],
+    "sar": [
+      "amuser"
+    ],
+    "sarq": [
+      "marques",
+      "masquer"
+    ],
+    "sarqi": [
+      "marquise"
+    ],
+    "sarqr": [],
+    "sarqg": [],
+    "sars": [
+      "amusers",
+      "assumer",
+      "masseur"
+    ],
+    "sarsi": [],
+    "sarsr": [],
+    "sarsg": [],
+    "sarx": [],
+    "sam": [
+      "summae"
+    ],
+    "samq": [],
+    "sams": [],
+    "samx": [],
+    "sah": [],
+    "st": [
+      "mutes"
+    ],
+    "str": [
+      "estrum",
+      "muster"
+    ],
+    "strq": [],
+    "strs": [
+      "estrums",
+      "musters"
+    ],
+    "strsi": [],
+    "strsr": [],
+    "strsg": [],
+    "strx": [],
+    "stm": [],
+    "sth": [],
+    "sn": [
+      "menus",
+      "neums"
+    ],
+    "snr": [
+      "rumens"
+    ],
+    "snrq": [],
+    "snrs": [],
+    "snrx": [],
+    "snm": [],
+    "snh": [
+      "unmesh"
+    ],
+    "snhq": [],
+    "snhs": [],
+    "snhx": [],
+    "e": [
+      "emeu"
+    ],
+    "ea": [],
+    "et": [],
+    "en": [
+      "neume"
+    ],
+    "enr": [],
+    "enm": [],
+    "enh": []
+  },
+  "scoreTokens": [
+    "6d22efc1f158bfd4cbb0838f91f02f105386d72399895bc636e0fbbe6967b034",
+    "37a14230d77443e6ec5341a9ead6f5a036efd94181699a0446e7947c6337f396",
+    "cd6788c7ca24d34f52616e278f8df9b954eac6dd66ba8d18244d7b231725c0bd",
+    "a287ede07fad1901cac6729fb559bd1573c4c499b9b472ee13b7c1a5bd1a4202",
+    "d67b9773fd5c480bff214fa1df84c8eccc4665b204356912dece110a285b0d40"
+  ]
+}
