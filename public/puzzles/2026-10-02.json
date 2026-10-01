@@ -1,0 +1,84 @@
+{
+  "start": "goo",
+  "target": [
+    "mycology"
+  ],
+  "steps": [
+    {
+      "options": "flg"
+    },
+    {
+      "options": "miq"
+    },
+    {
+      "options": "pny"
+    },
+    {
+      "options": "dyr"
+    },
+    {
+      "options": "icj"
+    }
+  ],
+  "dictionary": {
+    "f": [
+      "goof"
+    ],
+    "fm": [],
+    "fi": [],
+    "fq": [],
+    "l": [
+      "logo"
+    ],
+    "lm": [
+      "gloom"
+    ],
+    "lmp": [],
+    "lmn": [
+      "mongol"
+    ],
+    "lmnd": [],
+    "lmny": [],
+    "lmnr": [],
+    "lmy": [
+      "gloomy"
+    ],
+    "lmyd": [],
+    "lmyy": [
+      "myology"
+    ],
+    "lmyyi": [],
+    "lmyyc": [
+      "mycology"
+    ],
+    "lmyyj": [],
+    "lmyr": [],
+    "li": [
+      "igloo",
+      "logoi"
+    ],
+    "lip": [],
+    "lin": [
+      "logion",
+      "looing"
+    ],
+    "lind": [],
+    "liny": [],
+    "linr": [],
+    "liy": [],
+    "lq": [],
+    "g": [
+      "gogo"
+    ],
+    "gm": [],
+    "gi": [],
+    "gq": []
+  },
+  "scoreTokens": [
+    "cbdefab36c003ad0b570ed030c3957111c6e87e0d0adfce3dfb2b4304e5c78e3",
+    "3257ef730ad5b119b432a7c569e9765a6801c298db904c8e1242b3d51b409c65",
+    "5e6cc51b0a321ac7faca07d2bc2c814da247c403851e05b3368db15d4e930b95",
+    "cc973179b511971f39e884036d6cec6156e5e3eae55d009b7231f1e3951dd60c",
+    "655bc93235b2c5b25fc239a82059d9aee9f98847d281a38b8487fc3ff59e1d55"
+  ]
+}
