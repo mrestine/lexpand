@@ -1,0 +1,188 @@
+{
+  "start": "ged",
+  "target": [
+    "repledge",
+    "pledgees",
+    "weregild",
+    "greedily"
+  ],
+  "steps": [
+    {
+      "options": "eui"
+    },
+    {
+      "options": "lsk"
+    },
+    {
+      "options": "rhl"
+    },
+    {
+      "options": "qpe"
+    },
+    {
+      "options": "wye"
+    }
+  ],
+  "dictionary": {
+    "e": [
+      "edge",
+      "geed"
+    ],
+    "el": [
+      "glede",
+      "gleed",
+      "ledge"
+    ],
+    "elr": [
+      "gelder",
+      "ledger",
+      "redleg"
+    ],
+    "elrq": [],
+    "elrp": [
+      "pledger"
+    ],
+    "elrpw": [],
+    "elrpy": [],
+    "elrpe": [
+      "repledge"
+    ],
+    "elre": [],
+    "elh": [],
+    "ell": [
+      "gelled"
+    ],
+    "ellq": [],
+    "ellp": [],
+    "elle": [],
+    "es": [
+      "edges",
+      "sedge"
+    ],
+    "esr": [
+      "edgers",
+      "greeds"
+    ],
+    "esrq": [],
+    "esrp": [],
+    "esre": [
+      "degrees"
+    ],
+    "esrew": [],
+    "esrey": [],
+    "esree": [],
+    "esh": [
+      "hedges"
+    ],
+    "eshq": [],
+    "eshp": [],
+    "eshe": [],
+    "esl": [
+      "gledes",
+      "gleeds",
+      "ledges",
+      "sledge"
+    ],
+    "eslq": [],
+    "eslp": [
+      "pledges"
+    ],
+    "eslpw": [],
+    "eslpy": [],
+    "eslpe": [
+      "pledgees"
+    ],
+    "esle": [],
+    "ek": [
+      "kedge"
+    ],
+    "ekr": [],
+    "ekh": [],
+    "ekl": [],
+    "u": [
+      "gude"
+    ],
+    "ul": [
+      "glued",
+      "luged"
+    ],
+    "ulr": [],
+    "ulh": [],
+    "ull": [
+      "gulled"
+    ],
+    "ullq": [],
+    "ullp": [],
+    "ulle": [],
+    "us": [
+      "gudes"
+    ],
+    "usr": [
+      "surged"
+    ],
+    "usrq": [],
+    "usrp": [],
+    "usre": [],
+    "ush": [
+      "gushed",
+      "sughed"
+    ],
+    "ushq": [],
+    "ushp": [],
+    "ushe": [],
+    "usl": [
+      "sludge"
+    ],
+    "uslq": [],
+    "uslp": [],
+    "usle": [
+      "deluges"
+    ],
+    "uslew": [],
+    "usley": [],
+    "uslee": [],
+    "uk": [],
+    "i": [
+      "gied"
+    ],
+    "il": [
+      "gelid",
+      "glide"
+    ],
+    "ilr": [
+      "gilder",
+      "girdle",
+      "glider",
+      "regild",
+      "ridgel"
+    ],
+    "ilrq": [],
+    "ilrp": [],
+    "ilre": [
+      "ledgier"
+    ],
+    "ilrew": [
+      "weregild"
+    ],
+    "ilrey": [
+      "greedily"
+    ],
+    "ilree": [],
+    "ilh": [],
+    "ill": [
+      "gilled"
+    ],
+    "illq": [],
+    "illp": [],
+    "ille": [],
+    "is": [],
+    "ik": []
+  },
+  "scoreTokens": [
+    "a980c7b2ef08748886ca25e07ce4c348f004ff2f71a6d3afb8ae6641533df1a3",
+    "5fe6bfaf0aede5da5e07a0ed2d88b78b4a1f6c4e980836830f92b944c79c69a0",
+    "b10013cbcbc87786285f4a3ba60d01806dd4052840da32e2b1e2dafdd3b8e121",
+    "47ebac537e534df2623b57e9eaa4fa0e2394469fef1b6c8c5313946ee102cfc9",
+    "9aedd43e4214e54090ecb541d6c87831c31812793a94521e15e8ec302a8d025c"
+  ]
+}
