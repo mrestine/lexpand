@@ -1,0 +1,136 @@
+{
+  "start": "ors",
+  "target": [
+    "incloser",
+    "licensor"
+  ],
+  "steps": [
+    {
+      "options": "niy"
+    },
+    {
+      "options": "mgi"
+    },
+    {
+      "options": "nej"
+    },
+    {
+      "options": "zcb"
+    },
+    {
+      "options": "lxq"
+    }
+  ],
+  "dictionary": {
+    "n": [
+      "sorn"
+    ],
+    "nm": [
+      "morns",
+      "norms"
+    ],
+    "nmn": [],
+    "nme": [
+      "sermon"
+    ],
+    "nmez": [],
+    "nmec": [],
+    "nmeb": [],
+    "nmj": [],
+    "ng": [],
+    "ni": [
+      "irons",
+      "noirs",
+      "noris",
+      "ornis",
+      "rosin"
+    ],
+    "nin": [],
+    "nie": [
+      "irones",
+      "nosier",
+      "senior"
+    ],
+    "niez": [],
+    "niec": [
+      "coiners",
+      "cronies",
+      "orceins",
+      "recoins"
+    ],
+    "niecl": [
+      "incloser",
+      "licensor"
+    ],
+    "niecx": [],
+    "niecq": [],
+    "nieb": [],
+    "nij": [],
+    "i": [
+      "sori"
+    ],
+    "im": [],
+    "ig": [
+      "giros"
+    ],
+    "ign": [
+      "girons",
+      "grison",
+      "groins",
+      "rosing",
+      "signor",
+      "soring"
+    ],
+    "ignz": [],
+    "ignc": [
+      "scoring"
+    ],
+    "igncl": [],
+    "igncx": [],
+    "igncq": [],
+    "ignb": [
+      "borings",
+      "sorbing"
+    ],
+    "ignbl": [],
+    "ignbx": [],
+    "ignbq": [],
+    "ige": [
+      "orgies"
+    ],
+    "igez": [],
+    "igec": [],
+    "igeb": [],
+    "igj": [],
+    "ii": [],
+    "y": [
+      "rosy"
+    ],
+    "ym": [],
+    "yg": [
+      "gorsy",
+      "gyros"
+    ],
+    "ygn": [
+      "gyrons"
+    ],
+    "ygnz": [],
+    "ygnc": [],
+    "ygnb": [],
+    "yge": [
+      "gyrose"
+    ],
+    "ygez": [],
+    "ygec": [],
+    "ygeb": [],
+    "ygj": [],
+    "yi": []
+  },
+  "scoreTokens": [
+    "ebc6f3bb2fecd02eae77382d357ce7aa21b375404dc13ddecae961abfd3df020",
+    "c06545c44b259c10f99a98315388ad30f35d8f8e379cd8d20b747fa6939beb25",
+    "27921dd5bd75b76876da0e909d4d887cc64001a5a0eaba8efbb01bb36b045eb8",
+    "e8d4454472bd3221316f2e26efa6d5a9feb44df7e5b199867c4545de80222317",
+    "a102e359d37d01a4726450cb9266c24aaed7298662acae81140c2b7d569b5fbe"
+  ]
+}
