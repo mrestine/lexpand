@@ -1,0 +1,98 @@
+{
+  "start": "ape",
+  "target": [
+    "allspice"
+  ],
+  "steps": [
+    {
+      "options": "skh"
+    },
+    {
+      "options": "pia"
+    },
+    {
+      "options": "osl"
+    },
+    {
+      "options": "lhc"
+    },
+    {
+      "options": "hvl"
+    }
+  ],
+  "dictionary": {
+    "s": [
+      "apes",
+      "apse",
+      "pase",
+      "peas",
+      "spae"
+    ],
+    "sp": [],
+    "si": [
+      "paise",
+      "sepia"
+    ],
+    "sio": [],
+    "sis": [
+      "sepias"
+    ],
+    "sisl": [
+      "espials",
+      "lapises",
+      "lipases",
+      "palsies"
+    ],
+    "sislh": [],
+    "sislv": [],
+    "sisll": [],
+    "sish": [
+      "aphesis"
+    ],
+    "sishh": [],
+    "sishv": [],
+    "sishl": [],
+    "sisc": [],
+    "sil": [
+      "espial",
+      "lipase"
+    ],
+    "sill": [],
+    "silh": [],
+    "silc": [
+      "plaices",
+      "special"
+    ],
+    "silch": [],
+    "silcv": [],
+    "silcl": [
+      "allspice"
+    ],
+    "sa": [],
+    "k": [
+      "peak"
+    ],
+    "kp": [],
+    "ki": [],
+    "ka": [
+      "apeak"
+    ],
+    "kao": [],
+    "kas": [],
+    "kal": [],
+    "h": [
+      "epha",
+      "heap"
+    ],
+    "hp": [],
+    "hi": [],
+    "ha": []
+  },
+  "scoreTokens": [
+    "29cae03e2d5e01c29725a8b41983ff1f7e2ce2f543625c898ece9684f3f78cf7",
+    "b571d80396742a741134a158ce13de4a90b422624e580eeefad09c98d8cf77f6",
+    "7e3e534f9875cf49f56b6fc35d4a9be0e21ce3a0e203d84eb391de60b47a956b",
+    "1be74daee5f49b6e16f05f71908b1ea2a8fa7cddf12b8d8c515edf47a3f65e33",
+    "5214632550be49f224126c85e9a0ff97862ecd80bc2da6216d24b5c2eaae2241"
+  ]
+}
