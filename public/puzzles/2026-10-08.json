@@ -1,0 +1,200 @@
+{
+  "start": "ens",
+  "target": [
+    "lostness",
+    "solvents",
+    "expenses",
+    "ventless"
+  ],
+  "steps": [
+    {
+      "options": "tes"
+    },
+    {
+      "options": "pot"
+    },
+    {
+      "options": "elq"
+    },
+    {
+      "options": "xhs"
+    },
+    {
+      "options": "smv"
+    }
+  ],
+  "dictionary": {
+    "t": [
+      "nest",
+      "nets",
+      "sent",
+      "tens"
+    ],
+    "tp": [
+      "spent"
+    ],
+    "tpe": [],
+    "tpl": [
+      "splent"
+    ],
+    "tplx": [],
+    "tplh": [],
+    "tpls": [
+      "splents"
+    ],
+    "tplss": [],
+    "tplsm": [],
+    "tplsv": [],
+    "tpq": [],
+    "to": [
+      "notes",
+      "onset",
+      "seton",
+      "steno",
+      "stone",
+      "tones"
+    ],
+    "toe": [],
+    "tol": [
+      "lentos",
+      "stolen",
+      "telson"
+    ],
+    "tolx": [],
+    "tolh": [],
+    "tols": [
+      "telsons"
+    ],
+    "tolss": [
+      "lostness"
+    ],
+    "tolsm": [],
+    "tolsv": [
+      "solvents"
+    ],
+    "toq": [],
+    "tt": [
+      "netts",
+      "tents"
+    ],
+    "tte": [
+      "tenets"
+    ],
+    "ttex": [
+      "extents"
+    ],
+    "ttexs": [],
+    "ttexm": [],
+    "ttexv": [],
+    "tteh": [],
+    "ttes": [
+      "tensest"
+    ],
+    "ttess": [],
+    "ttesm": [],
+    "ttesv": [],
+    "ttl": [],
+    "ttq": [],
+    "e": [
+      "seen",
+      "sene"
+    ],
+    "ep": [
+      "neeps",
+      "peens",
+      "penes"
+    ],
+    "epe": [
+      "pensee"
+    ],
+    "epex": [
+      "expense"
+    ],
+    "epexs": [
+      "expenses"
+    ],
+    "epexm": [],
+    "epexv": [],
+    "epeh": [],
+    "epes": [
+      "pensees"
+    ],
+    "epess": [],
+    "epesm": [],
+    "epesv": [],
+    "epl": [
+      "spleen"
+    ],
+    "eplx": [],
+    "eplh": [],
+    "epls": [
+      "spleens"
+    ],
+    "eplss": [],
+    "eplsm": [],
+    "eplsv": [],
+    "epq": [],
+    "eo": [],
+    "et": [
+      "sente",
+      "teens",
+      "tense"
+    ],
+    "ete": [],
+    "etl": [
+      "nestle"
+    ],
+    "etlx": [],
+    "etlh": [],
+    "etls": [
+      "nestles",
+      "netless"
+    ],
+    "etlss": [],
+    "etlsm": [],
+    "etlsv": [
+      "ventless"
+    ],
+    "etq": [],
+    "s": [
+      "ness"
+    ],
+    "sp": [],
+    "so": [
+      "noses",
+      "sones"
+    ],
+    "soe": [],
+    "sol": [
+      "lesson"
+    ],
+    "solx": [],
+    "solh": [],
+    "sols": [
+      "lessons",
+      "sonless"
+    ],
+    "solss": [],
+    "solsm": [],
+    "solsv": [],
+    "soq": [],
+    "st": [
+      "nests"
+    ],
+    "ste": [
+      "tenses"
+    ],
+    "stex": [],
+    "steh": [],
+    "stes": [],
+    "stl": [],
+    "stq": []
+  },
+  "scoreTokens": [
+    "b29e83095fa629efe15142e7deef78c3e83baf39373ac5455e5291d46bf228a2",
+    "4473145760c12c6d365f726ec7e479a51e42bc14badadabfe0906aafb29ee32a",
+    "6d5a16dd97178b45ddd8394f16ac6ba2a69857700b1ef5fb0921b9d8c8e62658",
+    "76a0afcab4c5ac6220dba1cb078a797a65d9f0106a18e3007971623294cb0f30",
+    "31ff90b88631199a7ca0c8e8024dc8dd21aee0946f420a9ef81c173319ae914a"
+  ]
+}
