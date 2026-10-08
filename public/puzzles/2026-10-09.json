@@ -1,0 +1,81 @@
+{
+  "start": "asp",
+  "target": [
+    "exposals"
+  ],
+  "steps": [
+    {
+      "options": "dwo"
+    },
+    {
+      "options": "tul"
+    },
+    {
+      "options": "cez"
+    },
+    {
+      "options": "jsx"
+    },
+    {
+      "options": "syb"
+    }
+  ],
+  "dictionary": {
+    "d": [
+      "daps",
+      "pads"
+    ],
+    "dt": [],
+    "du": [],
+    "dl": [],
+    "w": [
+      "paws",
+      "swap",
+      "waps",
+      "wasp"
+    ],
+    "wt": [],
+    "wu": [],
+    "wl": [
+      "pawls"
+    ],
+    "wlc": [],
+    "wle": [],
+    "wlz": [],
+    "o": [
+      "soap"
+    ],
+    "ot": [],
+    "ou": [],
+    "ol": [
+      "opals"
+    ],
+    "olc": [
+      "copals"
+    ],
+    "olcj": [],
+    "olcs": [],
+    "olcx": [],
+    "ole": [
+      "aslope"
+    ],
+    "olej": [],
+    "oles": [],
+    "olex": [
+      "exposal"
+    ],
+    "olexs": [
+      "exposals"
+    ],
+    "olexy": [],
+    "olexb": [],
+    "olz": []
+  },
+  "scoreTokens": [
+    "6ddcdb8769d2ada2839b776fd5820afa4242d438807a7559e4cd6fe23dffcc2f",
+    "34bbbea84ebd1c75f14e2274f2f585f95b3a764e04a79a4a4e78eb202b6d0d47",
+    "ed9f5be1cfcef4caadce3088563f53bd84a20a0652a32449f7aac06304de8d39",
+    "2fdc1dbe840f058b45142de1031265511a97aec5ad6dafa49a7adba0a27818d5",
+    "bc87f77307d31d6bf777fd01da5e9a66d32b4fb1bc73096ac1eda0faf45a8930"
+  ]
+}
