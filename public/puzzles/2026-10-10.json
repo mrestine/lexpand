@@ -1,0 +1,172 @@
+{
+  "start": "seg",
+  "target": [
+    "sennight",
+    "lightens",
+    "smelting",
+    "glistens",
+    "singlets",
+    "unhinges"
+  ],
+  "steps": [
+    {
+      "options": "tai"
+    },
+    {
+      "options": "bnu"
+    },
+    {
+      "options": "ngi"
+    },
+    {
+      "options": "npl"
+    },
+    {
+      "options": "hms"
+    }
+  ],
+  "dictionary": {
+    "t": [
+      "gest",
+      "gets",
+      "tegs"
+    ],
+    "tb": [],
+    "tn": [
+      "gents"
+    ],
+    "tnn": [],
+    "tng": [],
+    "tni": [
+      "ingest",
+      "signet",
+      "tinges"
+    ],
+    "tnin": [
+      "nesting",
+      "tensing"
+    ],
+    "tninh": [
+      "sennight"
+    ],
+    "tninm": [],
+    "tnins": [],
+    "tnip": [],
+    "tnil": [
+      "glisten",
+      "singlet",
+      "tingles"
+    ],
+    "tnilh": [
+      "lightens"
+    ],
+    "tnilm": [
+      "smelting"
+    ],
+    "tnils": [
+      "glistens",
+      "singlets"
+    ],
+    "tu": [
+      "guest"
+    ],
+    "tun": [],
+    "tug": [],
+    "tui": [],
+    "a": [
+      "ages",
+      "gaes",
+      "sage"
+    ],
+    "ab": [],
+    "an": [],
+    "au": [
+      "agues",
+      "usage"
+    ],
+    "aun": [],
+    "aug": [
+      "gauges"
+    ],
+    "augn": [
+      "gangues"
+    ],
+    "augnh": [],
+    "augnm": [],
+    "augns": [],
+    "augp": [],
+    "augl": [],
+    "aui": [],
+    "i": [
+      "egis",
+      "gies"
+    ],
+    "ib": [
+      "gibes"
+    ],
+    "ibn": [
+      "begins",
+      "beings",
+      "binges"
+    ],
+    "ibnn": [],
+    "ibnp": [],
+    "ibnl": [],
+    "ibg": [],
+    "ibi": [],
+    "in": [
+      "segni",
+      "sengi",
+      "singe"
+    ],
+    "inn": [
+      "ensign"
+    ],
+    "innn": [],
+    "innp": [],
+    "innl": [
+      "lensing"
+    ],
+    "innlh": [],
+    "innlm": [],
+    "innls": [],
+    "ing": [],
+    "ini": [],
+    "iu": [
+      "guise"
+    ],
+    "iun": [
+      "genius"
+    ],
+    "iunn": [
+      "ensuing",
+      "gunnies"
+    ],
+    "iunnh": [
+      "unhinges"
+    ],
+    "iunnm": [],
+    "iunns": [],
+    "iunp": [],
+    "iunl": [],
+    "iug": [
+      "gigues"
+    ],
+    "iugn": [],
+    "iugp": [],
+    "iugl": [
+      "luggies"
+    ],
+    "iuglh": [],
+    "iuglm": [],
+    "iugls": [],
+    "iui": []
+  },
+  "scoreTokens": [
+    "7c4f1ef4851be4ca11cb740a620201499cf92ecc7acccbb82cad98e0217f3075",
+    "95f851c29770cab07ef856a02ae758abe47ad959544235a2199035e4c788b696",
+    "f2756e85a70ea0bb872bebcb598c6f26972bca9421e2e3a9f2a9d3c784954792",
+    "3a84613ef0fa3c0b66dac8ec490ad948004e77fa3547c633b16c2212f13fde8f",
+    "239ae4ec5922f2be17f65c54341b4436b1ea3a9003a0d4c26ca689497853c63b"
+  ]
+}
