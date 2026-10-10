@@ -1,0 +1,100 @@
+{
+  "start": "sae",
+  "target": [
+    "defacers"
+  ],
+  "steps": [
+    {
+      "options": "akd"
+    },
+    {
+      "options": "wyc"
+    },
+    {
+      "options": "qke"
+    },
+    {
+      "options": "ofb"
+    },
+    {
+      "options": "trj"
+    }
+  ],
+  "dictionary": {
+    "a": [
+      "asea"
+    ],
+    "aw": [],
+    "ay": [],
+    "ac": [],
+    "k": [
+      "kaes",
+      "keas",
+      "sake"
+    ],
+    "kw": [
+      "askew",
+      "wakes",
+      "wekas"
+    ],
+    "kwq": [],
+    "kwk": [],
+    "kwe": [],
+    "ky": [],
+    "kc": [
+      "cakes"
+    ],
+    "kcq": [],
+    "kck": [],
+    "kce": [
+      "ackees"
+    ],
+    "kceo": [],
+    "kcef": [],
+    "kceb": [],
+    "d": [
+      "sade"
+    ],
+    "dw": [
+      "sawed",
+      "wades"
+    ],
+    "dwq": [],
+    "dwk": [],
+    "dwe": [],
+    "dy": [],
+    "dc": [
+      "cades",
+      "cased",
+      "daces"
+    ],
+    "dcq": [],
+    "dck": [
+      "casked",
+      "sacked"
+    ],
+    "dcko": [],
+    "dckf": [],
+    "dckb": [],
+    "dce": [
+      "ceased"
+    ],
+    "dceo": [],
+    "dcef": [
+      "defaces"
+    ],
+    "dceft": [],
+    "dcefr": [
+      "defacers"
+    ],
+    "dcefj": [],
+    "dceb": []
+  },
+  "scoreTokens": [
+    "b772857f369a24f02094389b12b694503d833dde55b3ae44da44162e71b87291",
+    "9d1b878c9acd91795e29d153b1249643a2dd048d1720684e5e50774b220d3481",
+    "620621c3de62716ae028c4c33db3b5e5a7125ba0f8bcf8b67f40edc4f37e396c",
+    "bb7d49bba14157ece083478cf8a32726ab14f83a9db0799535d4184b051a2b9a",
+    "963d21084617da9cd7295591c0fea4b0da4f6c9d386cb14a0a408c55388f4a2c"
+  ]
+}
