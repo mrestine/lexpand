@@ -1,0 +1,333 @@
+{
+  "start": "gin",
+  "target": [
+    "dealings",
+    "leadings",
+    "signaled",
+    "seedling",
+    "agonised",
+    "diagnose",
+    "singular",
+    "arousing",
+    "aligners",
+    "engrails",
+    "nargiles",
+    "realigns",
+    "signaler",
+    "slangier",
+    "organise",
+    "eringoes",
+    "bearings",
+    "sabering",
+    "rebegins",
+    "epigonus",
+    "epigones",
+    "perigons",
+    "reposing",
+    "spongier"
+  ],
+  "steps": [
+    {
+      "options": "drp"
+    },
+    {
+      "options": "soi"
+    },
+    {
+      "options": "uer"
+    },
+    {
+      "options": "lob"
+    },
+    {
+      "options": "vae"
+    }
+  ],
+  "dictionary": {
+    "d": [
+      "ding"
+    ],
+    "ds": [
+      "dings"
+    ],
+    "dsu": [
+      "dingus"
+    ],
+    "dsul": [],
+    "dsuo": [
+      "dousing",
+      "guidons"
+    ],
+    "dsuov": [],
+    "dsuoa": [],
+    "dsuoe": [],
+    "dsub": [],
+    "dse": [
+      "deigns",
+      "design",
+      "dinges",
+      "signed",
+      "singed"
+    ],
+    "dsel": [
+      "dingles",
+      "engilds",
+      "singled"
+    ],
+    "dselv": [],
+    "dsela": [
+      "dealings",
+      "leadings",
+      "signaled"
+    ],
+    "dsele": [
+      "seedling"
+    ],
+    "dseo": [
+      "dingoes"
+    ],
+    "dseov": [],
+    "dseoa": [
+      "agonised",
+      "diagnose"
+    ],
+    "dseoe": [],
+    "dseb": [],
+    "dsr": [
+      "grinds"
+    ],
+    "dsrl": [],
+    "dsro": [],
+    "dsrb": [],
+    "do": [
+      "dingo",
+      "doing"
+    ],
+    "dou": [
+      "guidon"
+    ],
+    "doul": [],
+    "douo": [],
+    "doub": [],
+    "doe": [],
+    "dor": [],
+    "di": [],
+    "r": [
+      "girn",
+      "grin",
+      "ring"
+    ],
+    "rs": [
+      "girns",
+      "grins",
+      "rings"
+    ],
+    "rsu": [
+      "unrigs"
+    ],
+    "rsul": [
+      "rulings"
+    ],
+    "rsulv": [],
+    "rsula": [
+      "singular"
+    ],
+    "rsule": [],
+    "rsuo": [
+      "rousing",
+      "souring"
+    ],
+    "rsuov": [],
+    "rsuoa": [
+      "arousing"
+    ],
+    "rsuoe": [],
+    "rsub": [
+      "subring"
+    ],
+    "rsubv": [],
+    "rsuba": [],
+    "rsube": [],
+    "rse": [
+      "reigns",
+      "renigs",
+      "resign",
+      "sering",
+      "signer",
+      "singer"
+    ],
+    "rsel": [
+      "lingers",
+      "slinger"
+    ],
+    "rselv": [],
+    "rsela": [
+      "aligners",
+      "engrails",
+      "nargiles",
+      "realigns",
+      "signaler",
+      "slangier"
+    ],
+    "rsele": [],
+    "rseo": [
+      "eringos",
+      "ignores",
+      "regions",
+      "signore"
+    ],
+    "rseov": [],
+    "rseoa": [
+      "organise"
+    ],
+    "rseoe": [
+      "eringoes"
+    ],
+    "rseb": [
+      "bingers"
+    ],
+    "rsebv": [],
+    "rseba": [
+      "bearings",
+      "sabering"
+    ],
+    "rsebe": [
+      "rebegins"
+    ],
+    "rsr": [],
+    "ro": [
+      "giron",
+      "groin"
+    ],
+    "rou": [],
+    "roe": [
+      "eringo",
+      "ignore",
+      "region"
+    ],
+    "roel": [],
+    "roeo": [],
+    "roeb": [],
+    "ror": [],
+    "ri": [
+      "iring"
+    ],
+    "riu": [],
+    "rie": [],
+    "rir": [],
+    "p": [
+      "ping"
+    ],
+    "ps": [
+      "pings"
+    ],
+    "psu": [
+      "pignus",
+      "spuing"
+    ],
+    "psul": [
+      "pulings",
+      "pulsing"
+    ],
+    "psulv": [],
+    "psula": [],
+    "psule": [],
+    "psuo": [
+      "souping"
+    ],
+    "psuov": [],
+    "psuoa": [],
+    "psuoe": [
+      "epigonus"
+    ],
+    "psub": [],
+    "pse": [
+      "genips"
+    ],
+    "psel": [],
+    "pseo": [
+      "epigons",
+      "pigeons"
+    ],
+    "pseov": [],
+    "pseoa": [],
+    "pseoe": [
+      "epigones"
+    ],
+    "pseb": [],
+    "psr": [
+      "spring"
+    ],
+    "psrl": [],
+    "psro": [
+      "prosing",
+      "sporing"
+    ],
+    "psrov": [],
+    "psroa": [],
+    "psroe": [
+      "perigons",
+      "reposing",
+      "spongier"
+    ],
+    "psrb": [],
+    "po": [
+      "gipon",
+      "oping",
+      "pingo"
+    ],
+    "pou": [],
+    "poe": [
+      "epigon",
+      "pigeon"
+    ],
+    "poel": [
+      "eloping"
+    ],
+    "poelv": [],
+    "poela": [],
+    "poele": [],
+    "poeo": [],
+    "poeb": [],
+    "por": [
+      "poring",
+      "roping"
+    ],
+    "porl": [],
+    "poro": [],
+    "porb": [
+      "probing"
+    ],
+    "porbv": [],
+    "porba": [],
+    "porbe": [],
+    "pi": [
+      "piing"
+    ],
+    "piu": [],
+    "pie": [
+      "pieing"
+    ],
+    "piel": [],
+    "pieo": [
+      "epigoni"
+    ],
+    "pieov": [],
+    "pieoa": [],
+    "pieoe": [],
+    "pieb": [],
+    "pir": [
+      "riping"
+    ],
+    "pirl": [],
+    "piro": [],
+    "pirb": []
+  },
+  "scoreTokens": [
+    "816ea37c8c5df249e28803fb35665a7d21722addd64cecd489e0ff44aa4ce584",
+    "aeb6ab8d2f8b8943e2dd0874338f7fbbfbe37955767f79e7ff6ce383d261a264",
+    "d0da853a7ae1d4b7943baa873282d8ed6b299400a2f7b690959aa8c4116dc7dc",
+    "4714366505f0a3444f4137444d663a3d135724d201bcf7870b15b7e5743afc65",
+    "1c8e4cd0b066f9c83b405da833e79dff41e9db1c7693733ddb9b07bc4ccc8213"
+  ]
+}
