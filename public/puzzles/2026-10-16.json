@@ -1,0 +1,119 @@
+{
+  "start": "dor",
+  "target": [
+    "overfond"
+  ],
+  "steps": [
+    {
+      "options": "mco"
+    },
+    {
+      "options": "fks"
+    },
+    {
+      "options": "rxe"
+    },
+    {
+      "options": "xcn"
+    },
+    {
+      "options": "rnv"
+    }
+  ],
+  "dictionary": {
+    "m": [
+      "dorm"
+    ],
+    "mf": [],
+    "mk": [],
+    "ms": [
+      "dorms"
+    ],
+    "msr": [],
+    "msx": [],
+    "mse": [],
+    "c": [
+      "cord"
+    ],
+    "cf": [],
+    "ck": [],
+    "cs": [
+      "cords",
+      "scrod"
+    ],
+    "csr": [],
+    "csx": [],
+    "cse": [
+      "coders",
+      "credos",
+      "decors",
+      "scored"
+    ],
+    "csex": [],
+    "csec": [],
+    "csen": [
+      "scorned"
+    ],
+    "csenr": [],
+    "csenn": [],
+    "csenv": [],
+    "o": [
+      "door",
+      "odor",
+      "ordo",
+      "rood"
+    ],
+    "of": [
+      "fordo"
+    ],
+    "ofr": [],
+    "ofx": [
+      "oxford"
+    ],
+    "ofxx": [],
+    "ofxc": [],
+    "ofxn": [],
+    "ofe": [
+      "foredo",
+      "roofed"
+    ],
+    "ofex": [],
+    "ofec": [],
+    "ofen": [
+      "fordone"
+    ],
+    "ofenr": [],
+    "ofenn": [],
+    "ofenv": [
+      "overfond"
+    ],
+    "ok": [],
+    "os": [
+      "doors",
+      "odors",
+      "ordos",
+      "roods"
+    ],
+    "osr": [
+      "sordor"
+    ],
+    "osrx": [],
+    "osrc": [],
+    "osrn": [],
+    "osx": [],
+    "ose": [
+      "rodeos",
+      "roosed"
+    ],
+    "osex": [],
+    "osec": [],
+    "osen": []
+  },
+  "scoreTokens": [
+    "a4c177eae0a2f9a1cc6ae7f5da8a9b493dfb60ca0e0e82794e6125da7a853b81",
+    "80d7d4384e4dd64a44644aac6d95c02d049fa45364304a1a455460380f2fc21d",
+    "a3a42d9c0f373e47758c0718f43ca3c177220375ff87ba13698a3f9a05de3c05",
+    "55cb411c1245210f106aa716cb35650f4e712ea854606b5b44222521178da678",
+    "43cd83b50ed604e1e5f1ffad90b9fbc1deb5531f2594ec1ad82714d089d74f99"
+  ]
+}
