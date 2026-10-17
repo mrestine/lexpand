@@ -1,0 +1,148 @@
+{
+  "start": "via",
+  "target": [
+    "silvical",
+    "cavilers",
+    "claviers",
+    "visceral",
+    "avarices",
+    "caviares",
+    "archives",
+    "cavalier"
+  ],
+  "steps": [
+    {
+      "options": "lrd"
+    },
+    {
+      "options": "saw"
+    },
+    {
+      "options": "acw"
+    },
+    {
+      "options": "aei"
+    },
+    {
+      "options": "lah"
+    }
+  ],
+  "dictionary": {
+    "l": [
+      "vail",
+      "vial"
+    ],
+    "ls": [
+      "silva",
+      "vails",
+      "vials"
+    ],
+    "lsa": [
+      "avails",
+      "saliva",
+      "salvia"
+    ],
+    "lsaa": [],
+    "lsae": [],
+    "lsai": [],
+    "lsc": [
+      "cavils"
+    ],
+    "lsca": [],
+    "lsce": [
+      "vesical"
+    ],
+    "lscel": [],
+    "lscea": [],
+    "lsceh": [],
+    "lsci": [
+      "clivias"
+    ],
+    "lscil": [
+      "silvical"
+    ],
+    "lscia": [],
+    "lscih": [],
+    "lsw": [],
+    "la": [
+      "avail"
+    ],
+    "laa": [],
+    "lac": [],
+    "law": [],
+    "lw": [],
+    "r": [
+      "vair"
+    ],
+    "rs": [
+      "vairs"
+    ],
+    "rsa": [],
+    "rsc": [
+      "vicars"
+    ],
+    "rsca": [
+      "caviars"
+    ],
+    "rscal": [],
+    "rscaa": [],
+    "rscah": [],
+    "rsce": [
+      "varices",
+      "viscera"
+    ],
+    "rscel": [
+      "cavilers",
+      "claviers",
+      "visceral"
+    ],
+    "rscea": [
+      "avarices",
+      "caviares"
+    ],
+    "rsceh": [
+      "archives"
+    ],
+    "rsci": [],
+    "rsw": [],
+    "ra": [
+      "varia"
+    ],
+    "raa": [],
+    "rac": [
+      "caviar"
+    ],
+    "raca": [],
+    "race": [
+      "avarice",
+      "caviare"
+    ],
+    "racel": [
+      "cavalier"
+    ],
+    "racea": [],
+    "raceh": [],
+    "raci": [],
+    "raw": [],
+    "rw": [],
+    "d": [
+      "avid",
+      "diva"
+    ],
+    "ds": [
+      "divas"
+    ],
+    "dsa": [],
+    "dsc": [],
+    "dsw": [],
+    "da": [],
+    "dw": []
+  },
+  "scoreTokens": [
+    "3788ee2ea392ba8d1757be98e27da960dc67fd24a91b12e73168c98588ea5a34",
+    "1784b1827738e5d96b300f16a3bfb58b7bf76ebe0c32933df6fcbb670325aeea",
+    "65aba39747ad9e0bc7c84938ca894f9b6b4a3dfac3fff15ad30a63ab51b1049f",
+    "bb144d6cb2ceb80251e59288d4242ebb997ee395d9f0cc54762e62602eb373a1",
+    "798a3deeeeba34509792dc7c897f748cc7eea8ef3a94f8846e86b8b3aca36c0f"
+  ]
+}
