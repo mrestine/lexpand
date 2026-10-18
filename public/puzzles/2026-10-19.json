@@ -1,0 +1,142 @@
+{
+  "start": "cos",
+  "target": [
+    "cathodes",
+    "outcaste",
+    "lacteous",
+    "locustae",
+    "osculate",
+    "cholates",
+    "eschalot"
+  ],
+  "steps": [
+    {
+      "options": "yag"
+    },
+    {
+      "options": "tlo"
+    },
+    {
+      "options": "hdt"
+    },
+    {
+      "options": "eiq"
+    },
+    {
+      "options": "uhq"
+    }
+  ],
+  "dictionary": {
+    "y": [
+      "cosy",
+      "coys"
+    ],
+    "yt": [],
+    "yl": [
+      "cloys"
+    ],
+    "ylh": [],
+    "yld": [],
+    "ylt": [
+      "costly",
+      "octyls"
+    ],
+    "ylte": [],
+    "ylti": [],
+    "yltq": [],
+    "yo": [],
+    "a": [
+      "ocas"
+    ],
+    "at": [
+      "ascot",
+      "coast",
+      "coats",
+      "costa",
+      "tacos"
+    ],
+    "ath": [],
+    "atd": [
+      "octads"
+    ],
+    "atde": [
+      "coasted"
+    ],
+    "atdeu": [],
+    "atdeh": [
+      "cathodes"
+    ],
+    "atdeq": [],
+    "atdi": [
+      "dacoits"
+    ],
+    "atdiu": [],
+    "atdih": [],
+    "atdiq": [],
+    "atdq": [],
+    "att": [
+      "cottas"
+    ],
+    "atte": [
+      "costate"
+    ],
+    "atteu": [
+      "outcaste"
+    ],
+    "atteh": [],
+    "atteq": [],
+    "atti": [],
+    "attq": [],
+    "al": [
+      "coals",
+      "colas"
+    ],
+    "alh": [],
+    "ald": [],
+    "alt": [
+      "costal"
+    ],
+    "alte": [
+      "lactose",
+      "locates",
+      "talcose"
+    ],
+    "alteu": [
+      "lacteous",
+      "locustae",
+      "osculate"
+    ],
+    "alteh": [
+      "cholates",
+      "eschalot"
+    ],
+    "alteq": [],
+    "alti": [
+      "citolas",
+      "stoical"
+    ],
+    "altiu": [],
+    "altih": [],
+    "altiq": [],
+    "altq": [],
+    "ao": [],
+    "g": [
+      "cogs"
+    ],
+    "gt": [],
+    "gl": [
+      "clogs"
+    ],
+    "glh": [],
+    "gld": [],
+    "glt": [],
+    "go": []
+  },
+  "scoreTokens": [
+    "cf56112a13eb71243278169bfc5017fa464a1265ef7c72fc8db2f5ea29ea0518",
+    "4b7ecb1a66a0401a0c50c561bf402284faf3b250adb1b466812fabf02e3f1c57",
+    "d140e30fb300b7d2bbd8f3eecae85970a5ba5c819dbb0c0a3e7e7438eb3158be",
+    "4b40ae178d35af012bfbccc6671ea07693dc1d2cdf5c5e5312ba63501ce11a1b",
+    "8f0fa79d1b99b8edd5bd0d1f65432a89b240531a6745d8674562894193d5471d"
+  ]
+}
