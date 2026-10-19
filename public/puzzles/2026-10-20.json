@@ -1,0 +1,245 @@
+{
+  "start": "eon",
+  "target": [
+    "roundels",
+    "unsolder",
+    "venulose",
+    "swooners",
+    "nouvelle",
+    "felstone"
+  ],
+  "steps": [
+    {
+      "options": "dsl"
+    },
+    {
+      "options": "vms"
+    },
+    {
+      "options": "erb"
+    },
+    {
+      "options": "flw"
+    },
+    {
+      "options": "tuo"
+    }
+  ],
+  "dictionary": {
+    "d": [
+      "done",
+      "node"
+    ],
+    "dv": [
+      "devon",
+      "doven"
+    ],
+    "dve": [],
+    "dvr": [
+      "vendor"
+    ],
+    "dvrf": [],
+    "dvrl": [],
+    "dvrw": [],
+    "dvb": [],
+    "dm": [
+      "demon",
+      "monde"
+    ],
+    "dme": [
+      "omened"
+    ],
+    "dmef": [],
+    "dmel": [],
+    "dmew": [],
+    "dmr": [
+      "modern",
+      "normed",
+      "rodmen"
+    ],
+    "dmrf": [],
+    "dmrl": [],
+    "dmrw": [],
+    "dmb": [],
+    "ds": [
+      "nodes",
+      "nosed",
+      "sonde"
+    ],
+    "dse": [
+      "donees"
+    ],
+    "dsef": [],
+    "dsel": [],
+    "dsew": [],
+    "dsr": [
+      "drones",
+      "redons",
+      "snored",
+      "sonder",
+      "sorned"
+    ],
+    "dsrf": [],
+    "dsrl": [
+      "rondels"
+    ],
+    "dsrlt": [],
+    "dsrlu": [
+      "roundels",
+      "unsolder"
+    ],
+    "dsrlo": [],
+    "dsrw": [
+      "downers",
+      "wonders"
+    ],
+    "dsrwt": [],
+    "dsrwu": [],
+    "dsrwo": [],
+    "dsb": [],
+    "s": [
+      "eons",
+      "noes",
+      "nose",
+      "ones",
+      "sone"
+    ],
+    "sv": [
+      "ovens"
+    ],
+    "sve": [
+      "venose"
+    ],
+    "svef": [],
+    "svel": [
+      "elevons"
+    ],
+    "svelt": [],
+    "svelu": [
+      "venulose"
+    ],
+    "svelo": [],
+    "svew": [],
+    "svr": [],
+    "svb": [],
+    "sm": [
+      "meson",
+      "nomes",
+      "omens"
+    ],
+    "sme": [],
+    "smr": [
+      "sermon"
+    ],
+    "smrf": [],
+    "smrl": [
+      "merlons"
+    ],
+    "smrlt": [],
+    "smrlu": [],
+    "smrlo": [],
+    "smrw": [],
+    "smb": [],
+    "ss": [
+      "noses",
+      "sones"
+    ],
+    "sse": [],
+    "ssr": [
+      "senors",
+      "sensor",
+      "snores"
+    ],
+    "ssrf": [],
+    "ssrl": [],
+    "ssrw": [
+      "worsens"
+    ],
+    "ssrwt": [],
+    "ssrwu": [],
+    "ssrwo": [
+      "swooners"
+    ],
+    "ssb": [],
+    "l": [
+      "enol",
+      "leno",
+      "lone",
+      "noel"
+    ],
+    "lv": [
+      "novel"
+    ],
+    "lve": [
+      "elevon"
+    ],
+    "lvef": [],
+    "lvel": [
+      "novelle"
+    ],
+    "lvelt": [],
+    "lvelu": [
+      "nouvelle"
+    ],
+    "lvelo": [],
+    "lvew": [],
+    "lvr": [],
+    "lvb": [],
+    "lm": [
+      "lemon",
+      "melon"
+    ],
+    "lme": [],
+    "lmr": [
+      "merlon"
+    ],
+    "lmrf": [],
+    "lmrl": [],
+    "lmrw": [],
+    "lmb": [],
+    "ls": [
+      "enols",
+      "lenos",
+      "noels"
+    ],
+    "lse": [
+      "leones"
+    ],
+    "lsef": [
+      "oneself"
+    ],
+    "lseft": [
+      "felstone"
+    ],
+    "lsefu": [],
+    "lsefo": [],
+    "lsel": [],
+    "lsew": [],
+    "lsr": [
+      "enrols",
+      "loners",
+      "nerols"
+    ],
+    "lsrf": [],
+    "lsrl": [
+      "enrolls"
+    ],
+    "lsrlt": [],
+    "lsrlu": [],
+    "lsrlo": [],
+    "lsrw": [],
+    "lsb": [
+      "nobles"
+    ],
+    "lsbf": [],
+    "lsbl": [],
+    "lsbw": []
+  },
+  "scoreTokens": [
+    "aaaab903b6a935241b43c2336ee69bebb011df3f5450e9845469028e3d9e8cd7",
+    "bf4de582ff795b25a6251cdf5d2498a9f01e3f7d7e6c9e7a8fbc592bbfe064ef",
+    "692d6c4d770b67feea00fe939904e7e2b4cfa1fe52defac62d6d13f0665c35ff",
+    "20b29db14c703c9f7e982d20fc82a30551785d3dacba7e80d150d6e4a6694b1d",
+    "841d8718f550497d20700a019aa21c83c478d5341d8b8065051fcc77755a5ba4"
+  ]
+}
