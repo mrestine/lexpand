@@ -1,0 +1,241 @@
+{
+  "start": "sei",
+  "target": [
+    "pollices",
+    "eclipsed",
+    "pedicels",
+    "pedicles",
+    "chiseled",
+    "delivers",
+    "desilver",
+    "silvered",
+    "slivered",
+    "hirseled",
+    "relished",
+    "shielder",
+    "novelise",
+    "hellions",
+    "olivines"
+  ],
+  "steps": [
+    {
+      "options": "crn"
+    },
+    {
+      "options": "liq"
+    },
+    {
+      "options": "mod"
+    },
+    {
+      "options": "elw"
+    },
+    {
+      "options": "vph"
+    }
+  ],
+  "dictionary": {
+    "c": [
+      "ices",
+      "sice"
+    ],
+    "cl": [
+      "ceils",
+      "slice"
+    ],
+    "clm": [
+      "climes"
+    ],
+    "clme": [],
+    "clml": [
+      "micells"
+    ],
+    "clmlv": [],
+    "clmlp": [],
+    "clmlh": [],
+    "clmw": [],
+    "clo": [
+      "colies"
+    ],
+    "cloe": [],
+    "clol": [
+      "collies"
+    ],
+    "clolv": [],
+    "clolp": [
+      "pollices"
+    ],
+    "clolh": [],
+    "clow": [],
+    "cld": [
+      "sliced"
+    ],
+    "clde": [
+      "deciles"
+    ],
+    "cldev": [],
+    "cldep": [
+      "eclipsed",
+      "pedicels",
+      "pedicles"
+    ],
+    "cldeh": [
+      "chiseled"
+    ],
+    "cldl": [],
+    "cldw": [],
+    "ci": [],
+    "cq": [],
+    "r": [
+      "ires",
+      "reis",
+      "rise",
+      "sire"
+    ],
+    "rl": [
+      "liers",
+      "riels",
+      "riles",
+      "slier"
+    ],
+    "rlm": [
+      "milers",
+      "smiler"
+    ],
+    "rlme": [],
+    "rlml": [
+      "millers"
+    ],
+    "rlmlv": [],
+    "rlmlp": [],
+    "rlmlh": [],
+    "rlmw": [],
+    "rlo": [
+      "lories",
+      "oilers",
+      "oriels",
+      "reoils"
+    ],
+    "rloe": [],
+    "rlol": [],
+    "rlow": [],
+    "rld": [
+      "idlers",
+      "sidler",
+      "slider"
+    ],
+    "rlde": [
+      "resiled"
+    ],
+    "rldev": [
+      "delivers",
+      "desilver",
+      "silvered",
+      "slivered"
+    ],
+    "rldep": [],
+    "rldeh": [
+      "hirseled",
+      "relished",
+      "shielder"
+    ],
+    "rldl": [],
+    "rldw": [
+      "swirled",
+      "wilders"
+    ],
+    "rldwv": [],
+    "rldwp": [],
+    "rldwh": [],
+    "ri": [],
+    "rq": [],
+    "n": [
+      "sine"
+    ],
+    "nl": [
+      "lenis",
+      "liens",
+      "lines"
+    ],
+    "nlm": [
+      "limens",
+      "simnel"
+    ],
+    "nlme": [],
+    "nlml": [],
+    "nlmw": [],
+    "nlo": [
+      "eloins",
+      "insole",
+      "lesion",
+      "oleins"
+    ],
+    "nloe": [
+      "oleines"
+    ],
+    "nloev": [
+      "novelise"
+    ],
+    "nloep": [],
+    "nloeh": [],
+    "nlol": [
+      "niellos"
+    ],
+    "nlolv": [],
+    "nlolp": [],
+    "nlolh": [
+      "hellions"
+    ],
+    "nlow": [],
+    "nld": [],
+    "ni": [
+      "nisei"
+    ],
+    "nim": [
+      "imines"
+    ],
+    "nime": [
+      "meinies"
+    ],
+    "nimev": [],
+    "nimep": [],
+    "nimeh": [],
+    "niml": [],
+    "nimw": [],
+    "nio": [
+      "ionise"
+    ],
+    "nioe": [],
+    "niol": [
+      "elision",
+      "isoline",
+      "lionise"
+    ],
+    "niolv": [
+      "olivines"
+    ],
+    "niolp": [],
+    "niolh": [],
+    "niow": [],
+    "nid": [
+      "indies",
+      "inside"
+    ],
+    "nide": [],
+    "nidl": [
+      "lindies"
+    ],
+    "nidlv": [],
+    "nidlp": [],
+    "nidlh": [],
+    "nidw": [],
+    "nq": []
+  },
+  "scoreTokens": [
+    "57c9b35908998b23fbca3888fce26c9a534bc3ad5f92ad0cd9797e2e7016e36b",
+    "ac1c33a27520490b1e56ba3697ff4a156855a2f178386bbf8a1a34154139317f",
+    "8d44dc7365bab5cdb40dd6f537c08f1ea9bebde163f4da66b96079faed1d405e",
+    "3b831f2a6d9453b2793091f870954f2224af20d444d23b773317dadda25d4da7",
+    "6ce3cc19769b68e248e667b1295afecac0ecaeceb5496d61ded2a7eef0c8d69b"
+  ]
+}
