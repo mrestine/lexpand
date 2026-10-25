@@ -1,0 +1,145 @@
+{
+  "start": "rin",
+  "target": [
+    "carpings",
+    "scarping",
+    "scraping",
+    "impregns"
+  ],
+  "steps": [
+    {
+      "options": "obs"
+    },
+    {
+      "options": "awe"
+    },
+    {
+      "options": "pqx"
+    },
+    {
+      "options": "gxu"
+    },
+    {
+      "options": "mfc"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "inro",
+      "iron",
+      "noir",
+      "nori"
+    ],
+    "oa": [
+      "noria"
+    ],
+    "oap": [],
+    "oaq": [],
+    "oax": [],
+    "ow": [],
+    "oe": [
+      "irone"
+    ],
+    "oep": [
+      "orpine"
+    ],
+    "oepg": [
+      "perigon",
+      "pirogen"
+    ],
+    "oepgm": [],
+    "oepgf": [],
+    "oepgc": [],
+    "oepx": [],
+    "oepu": [],
+    "oeq": [],
+    "oex": [],
+    "b": [
+      "brin"
+    ],
+    "ba": [
+      "bairn",
+      "brain"
+    ],
+    "bap": [],
+    "baq": [],
+    "bax": [],
+    "bw": [],
+    "be": [
+      "brine"
+    ],
+    "bep": [],
+    "beq": [],
+    "bex": [],
+    "s": [
+      "rins"
+    ],
+    "sa": [
+      "airns",
+      "naris",
+      "rains",
+      "ranis",
+      "sarin"
+    ],
+    "sap": [
+      "sprain"
+    ],
+    "sapg": [
+      "parings",
+      "parsing",
+      "rasping",
+      "sparing"
+    ],
+    "sapgm": [],
+    "sapgf": [],
+    "sapgc": [
+      "carpings",
+      "scarping",
+      "scraping"
+    ],
+    "sapx": [],
+    "sapu": [],
+    "saq": [],
+    "sax": [],
+    "sw": [],
+    "se": [
+      "reins",
+      "resin",
+      "rinse",
+      "risen",
+      "serin",
+      "siren"
+    ],
+    "sep": [
+      "repins",
+      "ripens",
+      "sniper"
+    ],
+    "sepg": [
+      "pingers",
+      "springe"
+    ],
+    "sepgm": [
+      "impregns"
+    ],
+    "sepgf": [],
+    "sepgc": [],
+    "sepx": [],
+    "sepu": [
+      "purines",
+      "uprisen"
+    ],
+    "sepum": [],
+    "sepuf": [],
+    "sepuc": [],
+    "seq": [],
+    "sex": []
+  },
+  "scoreTokens": [
+    "4717a4976248c8355bcb032e9ef0fcc234d517e0c49c74fc42a0713bdd6b7d0d",
+    "2f96a7a9a246f7b7748b8195f299bf6586216f029626b5528817953cb9e0815c",
+    "dfd81d5a26160210f255238349606802291930194280fb7e6285392a41b513ab",
+    "1cf44271b867c2cda8f502d2c133d57f9fa794df1b59c14c34af15094a95ff3b",
+    "7c0319b7b580064ee227dcad153cfa1f36fd0838dace201f05fb15eb27eeaf58"
+  ]
+}
