@@ -1,0 +1,167 @@
+{
+  "start": "sol",
+  "target": [
+    "solitons",
+    "ostioles",
+    "stoolies",
+    "oologist",
+    "ologists"
+  ],
+  "steps": [
+    {
+      "options": "ois"
+    },
+    {
+      "options": "isz"
+    },
+    {
+      "options": "neg"
+    },
+    {
+      "options": "tam"
+    },
+    {
+      "options": "osh"
+    }
+  ],
+  "dictionary": {
+    "o": [
+      "loos",
+      "solo"
+    ],
+    "oi": [
+      "olios"
+    ],
+    "oin": [
+      "solion"
+    ],
+    "oint": [
+      "lotions",
+      "soliton"
+    ],
+    "ointo": [],
+    "oints": [
+      "solitons"
+    ],
+    "ointh": [],
+    "oina": [],
+    "oinm": [],
+    "oie": [
+      "looies"
+    ],
+    "oiet": [
+      "oolites",
+      "ostiole",
+      "stoolie"
+    ],
+    "oieto": [],
+    "oiets": [
+      "ostioles",
+      "stoolies"
+    ],
+    "oieth": [],
+    "oiea": [],
+    "oiem": [],
+    "oig": [
+      "igloos",
+      "isolog"
+    ],
+    "oigt": [
+      "ologist"
+    ],
+    "oigto": [
+      "oologist"
+    ],
+    "oigts": [
+      "ologists"
+    ],
+    "oigth": [],
+    "oiga": [],
+    "oigm": [],
+    "os": [
+      "solos"
+    ],
+    "osn": [
+      "snools",
+      "solons"
+    ],
+    "osnt": [
+      "stolons"
+    ],
+    "osnto": [],
+    "osnts": [],
+    "osnth": [],
+    "osna": [
+      "saloons",
+      "solanos"
+    ],
+    "osnao": [],
+    "osnas": [],
+    "osnah": [],
+    "osnm": [],
+    "ose": [
+      "looses"
+    ],
+    "oset": [
+      "loosest",
+      "lotoses"
+    ],
+    "oseto": [],
+    "osets": [],
+    "oseth": [],
+    "osea": [],
+    "osem": [
+      "osmoles"
+    ],
+    "osemo": [],
+    "osems": [],
+    "osemh": [],
+    "osg": [],
+    "oz": [],
+    "i": [
+      "oils",
+      "silo",
+      "soil",
+      "soli"
+    ],
+    "ii": [],
+    "is": [
+      "silos",
+      "soils"
+    ],
+    "isn": [],
+    "ise": [],
+    "isg": [
+      "siglos"
+    ],
+    "isgt": [],
+    "isga": [],
+    "isgm": [],
+    "iz": [],
+    "s": [
+      "loss",
+      "sols"
+    ],
+    "si": [
+      "silos",
+      "soils"
+    ],
+    "sin": [],
+    "sie": [],
+    "sig": [
+      "siglos"
+    ],
+    "sigt": [],
+    "siga": [],
+    "sigm": [],
+    "ss": [],
+    "sz": []
+  },
+  "scoreTokens": [
+    "4a510442f9e960ece5d54d1734246760d1224bc2e22fa0d419e9d49ec1843afd",
+    "fcd5e0a08d3fb1dde5a6af07a23d0a408a67f9071f90ceb29121f0c64bb40ce2",
+    "e6340cc67352e0f1b3174270e27e0efbbc539670c9a3a4a243fbdd23c3382a42",
+    "4f4365e2bd6158a6dd762aa0c3b160d102569f66bd9379e283113d7e5c9db8ab",
+    "717fa3aab19cbd61822b826e8e07a7a016bebc1a00c2018673ee0977bfb82b0e"
+  ]
+}
