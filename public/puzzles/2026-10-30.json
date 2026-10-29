@@ -1,0 +1,148 @@
+{
+  "start": "uts",
+  "target": [
+    "quittors"
+  ],
+  "steps": [
+    {
+      "options": "rbt"
+    },
+    {
+      "options": "iso"
+    },
+    {
+      "options": "dim"
+    },
+    {
+      "options": "wtq"
+    },
+    {
+      "options": "qjr"
+    }
+  ],
+  "dictionary": {
+    "r": [
+      "rust",
+      "ruts"
+    ],
+    "ri": [],
+    "rs": [
+      "rusts",
+      "truss"
+    ],
+    "rsd": [],
+    "rsi": [
+      "tsuris"
+    ],
+    "rsiw": [],
+    "rsit": [],
+    "rsiq": [
+      "squirts"
+    ],
+    "rsiqq": [],
+    "rsiqj": [],
+    "rsiqr": [],
+    "rsm": [
+      "strums"
+    ],
+    "rsmw": [],
+    "rsmt": [],
+    "rsmq": [],
+    "ro": [
+      "roust",
+      "routs",
+      "stour",
+      "torus",
+      "tours"
+    ],
+    "rod": [
+      "stroud"
+    ],
+    "rodw": [],
+    "rodt": [],
+    "rodq": [],
+    "roi": [
+      "suitor"
+    ],
+    "roiw": [],
+    "roit": [
+      "tourist"
+    ],
+    "roitq": [
+      "quittors"
+    ],
+    "roitj": [],
+    "roitr": [],
+    "roiq": [],
+    "rom": [
+      "tumors"
+    ],
+    "romw": [],
+    "romt": [],
+    "romq": [],
+    "b": [
+      "bust",
+      "buts",
+      "stub",
+      "tubs"
+    ],
+    "bi": [],
+    "bs": [
+      "busts",
+      "stubs"
+    ],
+    "bsd": [],
+    "bsi": [],
+    "bsm": [],
+    "bo": [
+      "bouts"
+    ],
+    "bod": [
+      "doubts"
+    ],
+    "bodw": [],
+    "bodt": [],
+    "bodq": [],
+    "boi": [
+      "subito"
+    ],
+    "boiw": [],
+    "boit": [],
+    "boiq": [],
+    "bom": [],
+    "t": [
+      "tuts"
+    ],
+    "ti": [],
+    "ts": [],
+    "to": [
+      "stout",
+      "touts"
+    ],
+    "tod": [],
+    "toi": [
+      "outsit"
+    ],
+    "toiw": [
+      "outwits"
+    ],
+    "toiwq": [],
+    "toiwj": [],
+    "toiwr": [],
+    "toit": [],
+    "toiq": [],
+    "tom": [
+      "utmost"
+    ],
+    "tomw": [],
+    "tomt": [],
+    "tomq": []
+  },
+  "scoreTokens": [
+    "7491a6c557f5818a5b24d1a422da554cf2b4dfc82d661167eb3476aef1928efb",
+    "2d88cd248c668875350e83e21bbce284823c030a6e1d27b5bf4dc1452fd710fc",
+    "56316a580696495074c848a5d4b9b6bb88c8514febaf145b7cf27620f64f389a",
+    "ef7fd6bfd6be0973e3de1f77d64c5f7daa249ca154cfbf7de3498b096b062eca",
+    "c7b39111fa894b067d114e3b17b97665b8b52a6b1b15971fef9ebeacecaabded"
+  ]
+}
