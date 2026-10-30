@@ -1,0 +1,117 @@
+{
+  "start": "fid",
+  "target": [
+    "flurried"
+  ],
+  "steps": [
+    {
+      "options": "neo"
+    },
+    {
+      "options": "lrg"
+    },
+    {
+      "options": "row"
+    },
+    {
+      "options": "ugt"
+    },
+    {
+      "options": "mvr"
+    }
+  ],
+  "dictionary": {
+    "n": [
+      "find"
+    ],
+    "nl": [],
+    "nr": [],
+    "ng": [],
+    "e": [
+      "defi"
+    ],
+    "el": [
+      "felid",
+      "field",
+      "filed",
+      "flied"
+    ],
+    "elr": [
+      "rifled"
+    ],
+    "elru": [
+      "direful"
+    ],
+    "elrum": [],
+    "elruv": [],
+    "elrur": [
+      "flurried"
+    ],
+    "elrg": [],
+    "elrt": [
+      "flirted",
+      "trifled"
+    ],
+    "elrtm": [],
+    "elrtv": [],
+    "elrtr": [],
+    "elo": [
+      "foiled"
+    ],
+    "elou": [],
+    "elog": [],
+    "elot": [],
+    "elw": [],
+    "er": [
+      "fired",
+      "fried"
+    ],
+    "err": [],
+    "ero": [],
+    "erw": [],
+    "eg": [
+      "fidge"
+    ],
+    "egr": [
+      "fridge"
+    ],
+    "egru": [
+      "figured"
+    ],
+    "egrum": [],
+    "egruv": [],
+    "egrur": [],
+    "egrg": [
+      "frigged"
+    ],
+    "egrgm": [],
+    "egrgv": [],
+    "egrgr": [],
+    "egrt": [
+      "grifted"
+    ],
+    "egrtm": [],
+    "egrtv": [],
+    "egrtr": [],
+    "ego": [],
+    "egw": [],
+    "o": [
+      "fido"
+    ],
+    "ol": [],
+    "or": [
+      "fiord"
+    ],
+    "orr": [],
+    "oro": [],
+    "orw": [],
+    "og": []
+  },
+  "scoreTokens": [
+    "2633f31169e3771479ce1c904a2bcb27f6a2ad052c1287279321672cdd2841b8",
+    "e285ac5312d8a4e0cf772fd93f86637ea4a39a9e225847858ea16957da2bb9e7",
+    "9d50e7ace4d413d295a3b938b9988230b4010411ad1e15c437f52be6373cbecd",
+    "b0f15e780e75519b97687842b23c00c24092601d754d16489f153d806304e749",
+    "ff26ca4f0ad416978e4c1afcf238332446d6bb7f77dd422bfe3638be35ddc880"
+  ]
+}
