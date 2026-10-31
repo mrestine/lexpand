@@ -1,0 +1,210 @@
+{
+  "start": "els",
+  "target": [
+    "realises",
+    "solarise",
+    "alieners",
+    "ailerons",
+    "alienors",
+    "quinelas",
+    "selenous",
+    "unlooses",
+    "eloiners"
+  ],
+  "steps": [
+    {
+      "options": "iao"
+    },
+    {
+      "options": "esi"
+    },
+    {
+      "options": "noa"
+    },
+    {
+      "options": "ruj"
+    },
+    {
+      "options": "eqo"
+    }
+  ],
+  "dictionary": {
+    "i": [
+      "isle",
+      "leis",
+      "lies"
+    ],
+    "ie": [],
+    "is": [
+      "isles"
+    ],
+    "isn": [],
+    "iso": [],
+    "isa": [
+      "aisles",
+      "lassie"
+    ],
+    "isar": [
+      "airless",
+      "resails",
+      "sailers",
+      "serails",
+      "serials"
+    ],
+    "isare": [
+      "realises"
+    ],
+    "isarq": [],
+    "isaro": [
+      "solarise"
+    ],
+    "isau": [],
+    "isaj": [],
+    "ii": [],
+    "a": [
+      "ales",
+      "lase",
+      "leas",
+      "sale",
+      "seal"
+    ],
+    "ae": [
+      "easel",
+      "lease"
+    ],
+    "aen": [
+      "aneles"
+    ],
+    "aenr": [
+      "leaners"
+    ],
+    "aenre": [],
+    "aenrq": [],
+    "aenro": [],
+    "aenu": [],
+    "aenj": [],
+    "aeo": [],
+    "aea": [],
+    "as": [
+      "lases",
+      "sales",
+      "seals"
+    ],
+    "asn": [],
+    "aso": [],
+    "asa": [],
+    "ai": [
+      "aisle"
+    ],
+    "ain": [
+      "aliens",
+      "alines",
+      "elains",
+      "lianes",
+      "saline",
+      "silane"
+    ],
+    "ainr": [
+      "aliners",
+      "nailers",
+      "renails"
+    ],
+    "ainre": [
+      "alieners"
+    ],
+    "ainrq": [],
+    "ainro": [
+      "ailerons",
+      "alienors"
+    ],
+    "ainu": [
+      "inulase"
+    ],
+    "ainue": [],
+    "ainuq": [
+      "quinelas"
+    ],
+    "ainuo": [],
+    "ainj": [],
+    "aio": [],
+    "aia": [],
+    "o": [
+      "lose",
+      "oles",
+      "sloe",
+      "sole"
+    ],
+    "oe": [],
+    "os": [
+      "loess",
+      "loses",
+      "sloes",
+      "soles"
+    ],
+    "osn": [
+      "lesson"
+    ],
+    "osnr": [],
+    "osnu": [
+      "ensouls"
+    ],
+    "osnue": [
+      "selenous"
+    ],
+    "osnuq": [],
+    "osnuo": [
+      "unlooses"
+    ],
+    "osnj": [],
+    "oso": [
+      "looses"
+    ],
+    "osor": [],
+    "osou": [],
+    "osoj": [],
+    "osa": [],
+    "oi": [
+      "solei"
+    ],
+    "oin": [
+      "eloins",
+      "insole",
+      "lesion",
+      "oleins"
+    ],
+    "oinr": [
+      "nerolis"
+    ],
+    "oinre": [
+      "eloiners"
+    ],
+    "oinrq": [],
+    "oinro": [],
+    "oinu": [
+      "elusion"
+    ],
+    "oinue": [],
+    "oinuq": [],
+    "oinuo": [],
+    "oinj": [],
+    "oio": [
+      "looies"
+    ],
+    "oior": [
+      "orioles"
+    ],
+    "oiore": [],
+    "oiorq": [],
+    "oioro": [],
+    "oiou": [],
+    "oioj": [],
+    "oia": []
+  },
+  "scoreTokens": [
+    "9d1acec57fb9eabc9d3596531e804358ca8cea65f2683984687ef8bf83a75d13",
+    "30fcd52838a86ace41a8ddeae8a34a53f2e7cf4b75964e7d031821f4e7e1c41d",
+    "569b47ad7258700c41cfd1c2b127edee50d8a184f42f43ee244394a08044f3dd",
+    "c0f32fbfb3740c6714f9a0725dbd16b9df134952bc7cfdda752938a529ac06c4",
+    "173d3069248511c4d75a4b3a6e176a9bd19308369e4c8855203878131ee3a62c"
+  ]
+}
