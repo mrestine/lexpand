@@ -1,0 +1,160 @@
+{
+  "start": "are",
+  "target": [
+    "variable"
+  ],
+  "steps": [
+    {
+      "options": "lmh"
+    },
+    {
+      "options": "ivn"
+    },
+    {
+      "options": "eab"
+    },
+    {
+      "options": "kxv"
+    },
+    {
+      "options": "dbw"
+    }
+  ],
+  "dictionary": {
+    "l": [
+      "earl",
+      "lear",
+      "rale",
+      "real"
+    ],
+    "li": [
+      "ariel"
+    ],
+    "lie": [],
+    "lia": [
+      "aerial",
+      "realia"
+    ],
+    "liak": [],
+    "liax": [],
+    "liav": [
+      "reavail",
+      "velaria"
+    ],
+    "liavd": [],
+    "liavb": [
+      "variable"
+    ],
+    "liavw": [],
+    "lib": [
+      "bailer",
+      "librae"
+    ],
+    "libk": [
+      "balkier"
+    ],
+    "libkd": [],
+    "libkb": [],
+    "libkw": [],
+    "libx": [],
+    "libv": [],
+    "lv": [
+      "laver",
+      "ravel",
+      "velar"
+    ],
+    "lve": [
+      "laveer",
+      "leaver",
+      "reveal",
+      "vealer"
+    ],
+    "lvek": [],
+    "lvex": [],
+    "lvev": [],
+    "lva": [
+      "larvae"
+    ],
+    "lvak": [],
+    "lvax": [],
+    "lvav": [],
+    "lvb": [
+      "verbal"
+    ],
+    "lvbk": [],
+    "lvbx": [],
+    "lvbv": [],
+    "ln": [
+      "learn",
+      "renal"
+    ],
+    "lne": [
+      "leaner"
+    ],
+    "lnek": [],
+    "lnex": [],
+    "lnev": [],
+    "lna": [],
+    "lnb": [],
+    "m": [
+      "mare",
+      "ream"
+    ],
+    "mi": [
+      "aimer",
+      "ramie"
+    ],
+    "mie": [],
+    "mia": [],
+    "mib": [
+      "barmie"
+    ],
+    "mibk": [],
+    "mibx": [],
+    "mibv": [],
+    "mv": [],
+    "mn": [
+      "namer",
+      "reman"
+    ],
+    "mne": [
+      "meaner",
+      "rename"
+    ],
+    "mnek": [],
+    "mnex": [],
+    "mnev": [],
+    "mna": [],
+    "mnb": [
+      "barmen"
+    ],
+    "mnbk": [],
+    "mnbx": [],
+    "mnbv": [],
+    "h": [
+      "hare",
+      "hear",
+      "rhea"
+    ],
+    "hi": [],
+    "hv": [
+      "haver"
+    ],
+    "hve": [
+      "heaver"
+    ],
+    "hvek": [],
+    "hvex": [],
+    "hvev": [],
+    "hva": [],
+    "hvb": [],
+    "hn": []
+  },
+  "scoreTokens": [
+    "17c4621c8ccafb69d746dcc9e04218a5ec710ffcabff2630c4041e93fb64be17",
+    "b324b959575fc27913bfe7ce870f249af5bf46e9f6a332ba6f4a7348054af962",
+    "b4c92a24b76e1eb569d91fe137da2eb782d59252ffd715ed7cc856237dd4dcb0",
+    "08ca2d585c97b961199041dfcc761d823ffcf24b71a5a322aefe2a4ceea9d3b2",
+    "485e2ed8e29493a269c2c9bdb73e6d26c851a4e5bbe711ba1cdc5caf33f15a89"
+  ]
+}
