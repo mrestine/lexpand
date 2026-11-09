@@ -1,0 +1,132 @@
+{
+  "start": "red",
+  "target": [
+    "endorser"
+  ],
+  "steps": [
+    {
+      "options": "ubn"
+    },
+    {
+      "options": "ebt"
+    },
+    {
+      "options": "szc"
+    },
+    {
+      "options": "rjq"
+    },
+    {
+      "options": "wyo"
+    }
+  ],
+  "dictionary": {
+    "u": [
+      "dure",
+      "rude",
+      "rued"
+    ],
+    "ue": [],
+    "ub": [
+      "redub"
+    ],
+    "ubs": [
+      "redubs"
+    ],
+    "ubsr": [],
+    "ubsj": [],
+    "ubsq": [],
+    "ubz": [],
+    "ubc": [
+      "curbed"
+    ],
+    "ubcr": [],
+    "ubcj": [],
+    "ubcq": [],
+    "ut": [
+      "trued"
+    ],
+    "uts": [
+      "duster",
+      "rudest",
+      "rusted"
+    ],
+    "utsr": [],
+    "utsj": [],
+    "utsq": [],
+    "utz": [],
+    "utc": [
+      "truced"
+    ],
+    "utcr": [],
+    "utcj": [],
+    "utcq": [],
+    "b": [
+      "bred"
+    ],
+    "be": [
+      "brede",
+      "breed"
+    ],
+    "bes": [
+      "bredes",
+      "breeds"
+    ],
+    "besr": [],
+    "besj": [],
+    "besq": [],
+    "bez": [],
+    "bec": [],
+    "bb": [],
+    "bt": [],
+    "n": [
+      "nerd",
+      "rend"
+    ],
+    "ne": [
+      "ender"
+    ],
+    "nes": [
+      "denser",
+      "enders",
+      "resend",
+      "sender"
+    ],
+    "nesr": [
+      "renders"
+    ],
+    "nesrw": [],
+    "nesry": [],
+    "nesro": [
+      "endorser"
+    ],
+    "nesj": [],
+    "nesq": [],
+    "nez": [],
+    "nec": [
+      "decern"
+    ],
+    "necr": [],
+    "necj": [],
+    "necq": [],
+    "nb": [],
+    "nt": [
+      "trend"
+    ],
+    "nts": [
+      "trends"
+    ],
+    "ntsr": [],
+    "ntsj": [],
+    "ntsq": [],
+    "ntz": [],
+    "ntc": []
+  },
+  "scoreTokens": [
+    "b4e37eb2f9280262df835f6b71b3cf24d8c197f662fd55b04327231bb798416a",
+    "bcbff4aadb5acc288879b23bcf691f6e95764584030fb8f55c30c5266fde7ace",
+    "3f54db6ef1279f9b41f69b45a7c747fd810101f9e02d535487d4048c911a5127",
+    "00833f20e88f24da00dc3f38b0bf5551ed29b92d000122f95b9a209608dffdda",
+    "86ebc4e17699a157af0efa395df594669a42e14a3d7a0a9ebfa8d8f093e25d55"
+  ]
+}
