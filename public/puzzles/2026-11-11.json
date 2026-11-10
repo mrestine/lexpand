@@ -1,0 +1,183 @@
+{
+  "start": "den",
+  "target": [
+    "indurate",
+    "ruinated",
+    "urinated",
+    "uredinia"
+  ],
+  "steps": [
+    {
+      "options": "rwu"
+    },
+    {
+      "options": "tia"
+    },
+    {
+      "options": "qag"
+    },
+    {
+      "options": "fwi"
+    },
+    {
+      "options": "uwk"
+    }
+  ],
+  "dictionary": {
+    "r": [
+      "nerd",
+      "rend"
+    ],
+    "rt": [
+      "trend"
+    ],
+    "rtq": [],
+    "rta": [
+      "ardent",
+      "ranted"
+    ],
+    "rtaf": [],
+    "rtaw": [],
+    "rtai": [
+      "antired",
+      "detrain",
+      "trained"
+    ],
+    "rtaiu": [
+      "indurate",
+      "ruinated",
+      "urinated"
+    ],
+    "rtaiw": [],
+    "rtaik": [],
+    "rtg": [],
+    "ri": [
+      "diner"
+    ],
+    "riq": [],
+    "ria": [
+      "rained"
+    ],
+    "riaf": [],
+    "riaw": [],
+    "riai": [
+      "denarii"
+    ],
+    "riaiu": [
+      "uredinia"
+    ],
+    "riaiw": [],
+    "riaik": [],
+    "rig": [
+      "dinger",
+      "engird",
+      "girned",
+      "reding",
+      "ringed"
+    ],
+    "rigf": [
+      "fringed"
+    ],
+    "rigfu": [],
+    "rigfw": [],
+    "rigfk": [],
+    "rigw": [
+      "redwing",
+      "wringed"
+    ],
+    "rigwu": [],
+    "rigww": [],
+    "rigwk": [],
+    "rigi": [
+      "dingier"
+    ],
+    "rigiu": [],
+    "rigiw": [],
+    "rigik": [],
+    "ra": [
+      "redan"
+    ],
+    "raq": [],
+    "raa": [],
+    "rag": [
+      "danger",
+      "gander",
+      "garden",
+      "ranged"
+    ],
+    "ragf": [],
+    "ragw": [],
+    "ragi": [
+      "deraign",
+      "gradine",
+      "grained",
+      "reading"
+    ],
+    "ragiu": [],
+    "ragiw": [],
+    "ragik": [],
+    "w": [
+      "wend"
+    ],
+    "wt": [],
+    "wi": [
+      "dwine",
+      "widen",
+      "wined"
+    ],
+    "wiq": [],
+    "wia": [],
+    "wig": [
+      "dewing",
+      "winged"
+    ],
+    "wigf": [],
+    "wigw": [],
+    "wigi": [],
+    "wa": [
+      "awned",
+      "dawen",
+      "dewan",
+      "waned"
+    ],
+    "waq": [],
+    "waa": [],
+    "wag": [
+      "gnawed"
+    ],
+    "wagf": [],
+    "wagw": [],
+    "wagi": [
+      "windage"
+    ],
+    "wagiu": [],
+    "wagiw": [],
+    "wagik": [],
+    "u": [
+      "dune",
+      "nude",
+      "unde"
+    ],
+    "ut": [
+      "tuned"
+    ],
+    "utq": [],
+    "uta": [],
+    "utg": [],
+    "ui": [
+      "indue",
+      "nudie"
+    ],
+    "uiq": [],
+    "uia": [],
+    "uig": [],
+    "ua": []
+  },
+  "scoreTokens": [
+    "74910e5cca5c91377b15eb54f6e7bc419e65490a726c7ed706ed6f4b4e8507a9",
+    "29c42ef5b21e70d7030b66db3b5b29b13d221307d8cc8b338372ca556cfae813",
+    "9563d1b360a018b04c2ed74cb06539333c3c7e0aeb0ed6644949a9dae3af313d",
+    "8e4c551b3ffd97a4f23846a96f37fae57784b5684f9408ec1c77e73590bcec56",
+    "276565403e1e23d953aa07c935d2511c90a8f406c5708f47a0d45da301279c76"
+  ]
+}
