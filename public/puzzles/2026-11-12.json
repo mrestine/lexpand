@@ -1,0 +1,188 @@
+{
+  "start": "set",
+  "target": [
+    "stargaze"
+  ],
+  "steps": [
+    {
+      "options": "lgb"
+    },
+    {
+      "options": "qas"
+    },
+    {
+      "options": "ujr"
+    },
+    {
+      "options": "azm"
+    },
+    {
+      "options": "zox"
+    }
+  ],
+  "dictionary": {
+    "l": [
+      "lest",
+      "lets",
+      "tels"
+    ],
+    "lq": [],
+    "la": [
+      "least",
+      "setal",
+      "slate",
+      "stale",
+      "steal",
+      "stela",
+      "taels",
+      "tales",
+      "teals",
+      "tesla"
+    ],
+    "lau": [
+      "salute"
+    ],
+    "laua": [],
+    "lauz": [],
+    "laum": [
+      "amulets",
+      "muletas"
+    ],
+    "laumz": [],
+    "laumo": [],
+    "laumx": [],
+    "laj": [],
+    "lar": [
+      "alerts",
+      "alters",
+      "artels",
+      "estral",
+      "laster",
+      "ratels",
+      "salter",
+      "slater",
+      "staler",
+      "stelar",
+      "talers"
+    ],
+    "lara": [],
+    "larz": [],
+    "larm": [
+      "armlets",
+      "lamster",
+      "tramels"
+    ],
+    "larmz": [],
+    "larmo": [],
+    "larmx": [],
+    "ls": [],
+    "g": [
+      "gest",
+      "gets",
+      "tegs"
+    ],
+    "gq": [],
+    "ga": [
+      "gates",
+      "getas",
+      "stage"
+    ],
+    "gau": [
+      "teguas"
+    ],
+    "gaua": [],
+    "gauz": [],
+    "gaum": [],
+    "gaj": [],
+    "gar": [
+      "gaster",
+      "grates",
+      "greats",
+      "retags",
+      "stager",
+      "targes"
+    ],
+    "gara": [
+      "gastrea",
+      "teargas"
+    ],
+    "garaz": [
+      "stargaze"
+    ],
+    "garao": [],
+    "garax": [],
+    "garz": [],
+    "garm": [],
+    "gs": [
+      "gests"
+    ],
+    "gsu": [
+      "guests",
+      "gusset"
+    ],
+    "gsua": [],
+    "gsuz": [],
+    "gsum": [],
+    "gsj": [],
+    "gsr": [],
+    "b": [
+      "best",
+      "bets"
+    ],
+    "bq": [],
+    "ba": [
+      "abets",
+      "baste",
+      "bates",
+      "beast",
+      "beats",
+      "betas",
+      "tabes"
+    ],
+    "bau": [
+      "beauts"
+    ],
+    "baua": [],
+    "bauz": [],
+    "baum": [],
+    "baj": [],
+    "bar": [
+      "barest",
+      "baster",
+      "breast",
+      "tabers"
+    ],
+    "bara": [
+      "abaters",
+      "abreast"
+    ],
+    "baraz": [],
+    "barao": [],
+    "barax": [],
+    "barz": [],
+    "barm": [],
+    "bs": [
+      "bests"
+    ],
+    "bsu": [
+      "subset"
+    ],
+    "bsua": [],
+    "bsuz": [],
+    "bsum": [
+      "besmuts"
+    ],
+    "bsumz": [],
+    "bsumo": [],
+    "bsumx": [],
+    "bsj": [],
+    "bsr": []
+  },
+  "scoreTokens": [
+    "a2b00dff5745fdfbd33f6401edaac9258af5b5aaa5bf68df5811b3aa2f7872d0",
+    "e1f6e99fca96891339587c7a4cab7460340546bfa0ea8aa2c8f79e40f100f658",
+    "7f34cd024c0d2f8598bdc0306f36939cab902ceeeccccc0eeb851f63a030a81b",
+    "8708bccb416f9eaa64e785ffce879c3844247e19223f35a75637d3b9503c5357",
+    "adc47d7706a75c45ab2961a44f89f09395f44f0bbdab04b3f9bbe6bcfca0a862"
+  ]
+}
