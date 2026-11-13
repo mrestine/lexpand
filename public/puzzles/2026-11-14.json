@@ -1,0 +1,182 @@
+{
+  "start": "oes",
+  "target": [
+    "borsches"
+  ],
+  "steps": [
+    {
+      "options": "hvd"
+    },
+    {
+      "options": "cbm"
+    },
+    {
+      "options": "arx"
+    },
+    {
+      "options": "bsv"
+    },
+    {
+      "options": "tdb"
+    }
+  ],
+  "dictionary": {
+    "h": [
+      "hoes",
+      "hose",
+      "shoe"
+    ],
+    "hc": [
+      "chose",
+      "echos"
+    ],
+    "hca": [],
+    "hcr": [
+      "chores",
+      "cosher",
+      "ochers",
+      "ochres"
+    ],
+    "hcrb": [],
+    "hcrs": [
+      "coshers"
+    ],
+    "hcrst": [],
+    "hcrsd": [],
+    "hcrsb": [
+      "borsches"
+    ],
+    "hcrv": [],
+    "hcx": [],
+    "hb": [],
+    "hm": [
+      "homes"
+    ],
+    "hma": [
+      "mahoes"
+    ],
+    "hmab": [],
+    "hmas": [],
+    "hmav": [],
+    "hmr": [
+      "homers"
+    ],
+    "hmrb": [
+      "hombres"
+    ],
+    "hmrbt": [],
+    "hmrbd": [],
+    "hmrbb": [],
+    "hmrs": [],
+    "hmrv": [],
+    "hmx": [],
+    "v": [
+      "voes"
+    ],
+    "vc": [
+      "coves",
+      "voces"
+    ],
+    "vca": [],
+    "vcr": [
+      "corves",
+      "covers"
+    ],
+    "vcrb": [],
+    "vcrs": [],
+    "vcrv": [],
+    "vcx": [],
+    "vb": [],
+    "vm": [
+      "moves"
+    ],
+    "vma": [
+      "vamose"
+    ],
+    "vmab": [],
+    "vmas": [
+      "vamoses"
+    ],
+    "vmast": [],
+    "vmasd": [],
+    "vmasb": [],
+    "vmav": [],
+    "vmr": [
+      "movers",
+      "vomers"
+    ],
+    "vmrb": [],
+    "vmrs": [],
+    "vmrv": [],
+    "vmx": [],
+    "d": [
+      "does",
+      "dose",
+      "odes"
+    ],
+    "dc": [
+      "codes",
+      "coeds",
+      "decos"
+    ],
+    "dca": [],
+    "dcr": [
+      "coders",
+      "credos",
+      "decors",
+      "scored"
+    ],
+    "dcrb": [],
+    "dcrs": [
+      "crossed"
+    ],
+    "dcrst": [],
+    "dcrsd": [],
+    "dcrsb": [],
+    "dcrv": [],
+    "dcx": [],
+    "db": [
+      "bodes"
+    ],
+    "dba": [
+      "abodes",
+      "adobes"
+    ],
+    "dbab": [],
+    "dbas": [],
+    "dbav": [],
+    "dbr": [
+      "desorb",
+      "sorbed"
+    ],
+    "dbrb": [
+      "dobbers"
+    ],
+    "dbrbt": [],
+    "dbrbd": [],
+    "dbrbb": [],
+    "dbrs": [
+      "desorbs"
+    ],
+    "dbrst": [],
+    "dbrsd": [],
+    "dbrsb": [],
+    "dbrv": [],
+    "dbx": [],
+    "dm": [
+      "demos",
+      "domes",
+      "modes"
+    ],
+    "dma": [],
+    "dmr": [],
+    "dmx": []
+  },
+  "scoreTokens": [
+    "24207f91fbaf246f9e410765df5e6bc7551ee36afd5c4e784b8daff2ca846471",
+    "a8c35766671ae934a61a9b74ee161766814364b155c900c7c9b0e3a9e980de53",
+    "dace39a2cf4f83c16470d2ef70f18771bfbcc6a8bb8ade973af994792a0f03e4",
+    "6ce06d6aaaad61e1d871b2b02f0b762e4657478484e6e0835bd798140617976d",
+    "e1e20b7ab075be252f75e7caf96b2b655bda9187e3d84d7e5fe89e8fe7f3ee0f"
+  ]
+}
