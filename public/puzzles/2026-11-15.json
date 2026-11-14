@@ -1,0 +1,290 @@
+{
+  "start": "oat",
+  "target": [
+    "outpaced",
+    "aconitum",
+    "catenoid",
+    "coinmate",
+    "tornadic",
+    "romantic",
+    "aeroduct",
+    "educator",
+    "outraced",
+    "ceratoid",
+    "outraged",
+    "ragouted",
+    "duration",
+    "routeman"
+  ],
+  "steps": [
+    {
+      "options": "cgn"
+    },
+    {
+      "options": "pnr"
+    },
+    {
+      "options": "nie"
+    },
+    {
+      "options": "uji"
+    },
+    {
+      "options": "dmj"
+    }
+  ],
+  "dictionary": {
+    "c": [
+      "coat",
+      "taco"
+    ],
+    "cp": [
+      "coapt"
+    ],
+    "cpn": [],
+    "cpi": [
+      "atopic"
+    ],
+    "cpiu": [],
+    "cpij": [],
+    "cpii": [],
+    "cpe": [
+      "capote",
+      "toecap"
+    ],
+    "cpeu": [
+      "outpace"
+    ],
+    "cpeud": [
+      "outpaced"
+    ],
+    "cpeum": [],
+    "cpeuj": [],
+    "cpej": [],
+    "cpei": [
+      "ectopia"
+    ],
+    "cpeid": [],
+    "cpeim": [],
+    "cpeij": [],
+    "cn": [
+      "canto",
+      "cotan",
+      "octan"
+    ],
+    "cnn": [
+      "cannot",
+      "canton"
+    ],
+    "cnnu": [],
+    "cnnj": [],
+    "cnni": [
+      "actinon",
+      "contain"
+    ],
+    "cnnid": [],
+    "cnnim": [],
+    "cnnij": [],
+    "cni": [
+      "action",
+      "atonic",
+      "cation"
+    ],
+    "cniu": [
+      "auction",
+      "caution"
+    ],
+    "cniud": [],
+    "cnium": [
+      "aconitum"
+    ],
+    "cniuj": [],
+    "cnij": [],
+    "cnii": [],
+    "cne": [
+      "octane"
+    ],
+    "cneu": [],
+    "cnej": [
+      "jaconet"
+    ],
+    "cnejd": [],
+    "cnejm": [],
+    "cnejj": [],
+    "cnei": [
+      "aconite"
+    ],
+    "cneid": [
+      "catenoid"
+    ],
+    "cneim": [
+      "coinmate"
+    ],
+    "cneij": [],
+    "cr": [
+      "actor",
+      "taroc"
+    ],
+    "crn": [
+      "cantor",
+      "carton",
+      "contra",
+      "craton"
+    ],
+    "crnu": [
+      "courant"
+    ],
+    "crnud": [],
+    "crnum": [],
+    "crnuj": [],
+    "crnj": [],
+    "crni": [
+      "carotin"
+    ],
+    "crnid": [
+      "tornadic"
+    ],
+    "crnim": [
+      "romantic"
+    ],
+    "crnij": [],
+    "cri": [
+      "aortic"
+    ],
+    "criu": [],
+    "crij": [],
+    "crii": [],
+    "cre": [
+      "coater"
+    ],
+    "creu": [
+      "outrace"
+    ],
+    "creud": [
+      "aeroduct",
+      "educator",
+      "outraced"
+    ],
+    "creum": [],
+    "creuj": [],
+    "crej": [],
+    "crei": [
+      "erotica"
+    ],
+    "creid": [
+      "ceratoid"
+    ],
+    "creim": [],
+    "creij": [],
+    "g": [
+      "goat",
+      "toga"
+    ],
+    "gp": [],
+    "gn": [
+      "tango",
+      "tonga"
+    ],
+    "gnn": [],
+    "gni": [
+      "gitano"
+    ],
+    "gniu": [
+      "autoing",
+      "outgain"
+    ],
+    "gniud": [],
+    "gnium": [],
+    "gniuj": [],
+    "gnij": [],
+    "gnii": [],
+    "gne": [],
+    "gr": [
+      "argot",
+      "gator",
+      "groat"
+    ],
+    "grn": [],
+    "gri": [],
+    "gre": [
+      "garote",
+      "orgeat"
+    ],
+    "greu": [
+      "outrage"
+    ],
+    "greud": [
+      "outraged",
+      "ragouted"
+    ],
+    "greum": [],
+    "greuj": [],
+    "grej": [],
+    "grei": [],
+    "n": [
+      "nota"
+    ],
+    "np": [
+      "panto"
+    ],
+    "npn": [],
+    "npi": [],
+    "npe": [
+      "teopan"
+    ],
+    "npeu": [],
+    "npej": [],
+    "npei": [],
+    "nn": [],
+    "nr": [
+      "trona"
+    ],
+    "nrn": [
+      "natron",
+      "nonart"
+    ],
+    "nrnu": [],
+    "nrnj": [],
+    "nrni": [],
+    "nri": [
+      "aroint",
+      "ration"
+    ],
+    "nriu": [
+      "rainout"
+    ],
+    "nriud": [
+      "duration"
+    ],
+    "nrium": [],
+    "nriuj": [],
+    "nrij": [
+      "janitor"
+    ],
+    "nrijd": [],
+    "nrijm": [],
+    "nrijj": [],
+    "nrii": [],
+    "nre": [
+      "atoner",
+      "ornate"
+    ],
+    "nreu": [
+      "outearn"
+    ],
+    "nreud": [],
+    "nreum": [
+      "routeman"
+    ],
+    "nreuj": [],
+    "nrej": [],
+    "nrei": []
+  },
+  "scoreTokens": [
+    "c999489ece6e58ec66c894c4cc6174f9c335b050742962af40340055a56586de",
+    "36f797ade65812b5efe73ad5c7f8d6836cf8d747c8e5286a85afe7ccbed85398",
+    "a9f034ccb28aba013083116f9a5c1764944eb2b49747d1efb5200e076f071d1b",
+    "3f792c9079a82bfd1ef1b8d7aa3367a03cf629e95d38172c6f6d2c9962462b0b",
+    "9d2a27061c9ba9e1699e91fa19e79436d87f4e0ed376e2cdbe770c7782a055ac"
+  ]
+}
