@@ -1,0 +1,140 @@
+{
+  "start": "nim",
+  "target": [
+    "albumins",
+    "bimanual"
+  ],
+  "steps": [
+    {
+      "options": "xsa"
+    },
+    {
+      "options": "ocl"
+    },
+    {
+      "options": "mao"
+    },
+    {
+      "options": "mdu"
+    },
+    {
+      "options": "bgk"
+    }
+  ],
+  "dictionary": {
+    "x": [
+      "minx"
+    ],
+    "xo": [],
+    "xc": [],
+    "xl": [],
+    "s": [
+      "nims"
+    ],
+    "so": [],
+    "sc": [],
+    "sl": [
+      "limns"
+    ],
+    "slm": [],
+    "sla": [
+      "limans"
+    ],
+    "slam": [],
+    "slad": [],
+    "slau": [
+      "alumins"
+    ],
+    "slaub": [
+      "albumins"
+    ],
+    "slaug": [],
+    "slauk": [],
+    "slo": [],
+    "a": [
+      "amin",
+      "main",
+      "mina"
+    ],
+    "ao": [
+      "amino"
+    ],
+    "aom": [
+      "ammino"
+    ],
+    "aomm": [],
+    "aomd": [],
+    "aomu": [],
+    "aoa": [],
+    "aoo": [],
+    "ac": [
+      "amnic",
+      "manic"
+    ],
+    "acm": [],
+    "aca": [
+      "caiman",
+      "maniac"
+    ],
+    "acam": [],
+    "acad": [],
+    "acau": [],
+    "aco": [
+      "anomic",
+      "camion",
+      "manioc"
+    ],
+    "acom": [
+      "ammonic"
+    ],
+    "acomb": [],
+    "acomg": [],
+    "acomk": [],
+    "acod": [
+      "monacid",
+      "monadic",
+      "nomadic"
+    ],
+    "acodb": [],
+    "acodg": [],
+    "acodk": [],
+    "acou": [],
+    "al": [
+      "liman"
+    ],
+    "alm": [],
+    "ala": [
+      "animal",
+      "lamina",
+      "manila"
+    ],
+    "alam": [
+      "mailman"
+    ],
+    "alamb": [],
+    "alamg": [],
+    "alamk": [],
+    "alad": [],
+    "alau": [
+      "alumina"
+    ],
+    "alaub": [
+      "bimanual"
+    ],
+    "alaug": [],
+    "alauk": [],
+    "alo": [
+      "oilman"
+    ],
+    "alom": [],
+    "alod": [],
+    "alou": []
+  },
+  "scoreTokens": [
+    "64fbcade6d4ec18ebbf1a31855370737d406866bfdd1de30f0e38688bd56430a",
+    "63242daf315d5f8b1057d6406d268ad3f8c4ccc68a464e6620c915bfbf423d73",
+    "e502bff49cdb89d0121237b3821286603cac9a8fd7343e4dddb779197885b11d",
+    "5f8d4e3be25155c013c1cdd4da6f43d2ebf3e6b7e1e7308b3fda22adf948b533",
+    "bfa690a9fcef38e4050b54ea84c52a5f693b9e25b123efb901b06f5432b92459"
+  ]
+}
