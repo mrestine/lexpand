@@ -1,0 +1,167 @@
+{
+  "start": "els",
+  "target": [
+    "timeless",
+    "exitless",
+    "sextiles"
+  ],
+  "steps": [
+    {
+      "options": "dai"
+    },
+    {
+      "options": "zmx"
+    },
+    {
+      "options": "yje"
+    },
+    {
+      "options": "thw"
+    },
+    {
+      "options": "sjv"
+    }
+  ],
+  "dictionary": {
+    "d": [
+      "dels",
+      "elds",
+      "sled"
+    ],
+    "dz": [],
+    "dm": [
+      "melds"
+    ],
+    "dmy": [],
+    "dmj": [],
+    "dme": [],
+    "dx": [],
+    "a": [
+      "ales",
+      "lase",
+      "leas",
+      "sale",
+      "seal"
+    ],
+    "az": [
+      "lazes",
+      "zeals"
+    ],
+    "azy": [
+      "sleazy"
+    ],
+    "azyt": [],
+    "azyh": [],
+    "azyw": [],
+    "azj": [],
+    "aze": [
+      "sleaze"
+    ],
+    "azet": [
+      "teazels",
+      "teazles"
+    ],
+    "azets": [],
+    "azetj": [],
+    "azetv": [],
+    "azeh": [],
+    "azew": [],
+    "am": [
+      "almes",
+      "lames",
+      "males",
+      "meals"
+    ],
+    "amy": [
+      "measly"
+    ],
+    "amyt": [],
+    "amyh": [],
+    "amyw": [],
+    "amj": [],
+    "ame": [
+      "measle"
+    ],
+    "amet": [],
+    "ameh": [],
+    "amew": [],
+    "ax": [
+      "axels",
+      "axles"
+    ],
+    "axy": [],
+    "axj": [],
+    "axe": [],
+    "i": [
+      "isle",
+      "leis",
+      "lies"
+    ],
+    "iz": [],
+    "im": [
+      "limes",
+      "miles",
+      "slime",
+      "smile"
+    ],
+    "imy": [
+      "limeys",
+      "smiley"
+    ],
+    "imyt": [],
+    "imyh": [],
+    "imyw": [],
+    "imj": [],
+    "ime": [
+      "elemis"
+    ],
+    "imet": [
+      "elmiest"
+    ],
+    "imets": [
+      "timeless"
+    ],
+    "imetj": [],
+    "imetv": [],
+    "imeh": [],
+    "imew": [],
+    "ix": [
+      "lexis",
+      "silex"
+    ],
+    "ixy": [
+      "sexily"
+    ],
+    "ixyt": [],
+    "ixyh": [],
+    "ixyw": [],
+    "ixj": [],
+    "ixe": [
+      "exiles",
+      "ilexes"
+    ],
+    "ixet": [
+      "sextile"
+    ],
+    "ixets": [
+      "exitless",
+      "sextiles"
+    ],
+    "ixetj": [],
+    "ixetv": [],
+    "ixeh": [
+      "helixes"
+    ],
+    "ixehs": [],
+    "ixehj": [],
+    "ixehv": [],
+    "ixew": []
+  },
+  "scoreTokens": [
+    "979b10d0378de0a496d47d4b505cd7bc0a9d1a01d66e525b31528ed7327f8f07",
+    "c231ad0cad22b4f3897e24b2b3ad97968a8e18213993336eb0b0d9905ad7d1d9",
+    "02f4ce10af4695af81b89d05482350bd22e0c21af94b692f770e6e1e3bea03c7",
+    "039b35ff7776e037b9efd8793e94b2d7c3509898f8105af3be25d2f1012107ae",
+    "101350251f757badab5d45d180a0f19a0891242f6967429d76e7d5a1aeb51f89"
+  ]
+}
