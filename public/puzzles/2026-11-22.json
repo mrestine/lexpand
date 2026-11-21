@@ -1,0 +1,125 @@
+{
+  "start": "set",
+  "target": [
+    "anapests",
+    "peasants"
+  ],
+  "steps": [
+    {
+      "options": "msa"
+    },
+    {
+      "options": "hnz"
+    },
+    {
+      "options": "wqp"
+    },
+    {
+      "options": "axg"
+    },
+    {
+      "options": "wks"
+    }
+  ],
+  "dictionary": {
+    "m": [
+      "stem"
+    ],
+    "mh": [
+      "meths"
+    ],
+    "mhw": [],
+    "mhq": [],
+    "mhp": [],
+    "mn": [],
+    "mz": [],
+    "s": [
+      "sets"
+    ],
+    "sh": [
+      "hests"
+    ],
+    "shw": [],
+    "shq": [],
+    "shp": [],
+    "sn": [
+      "nests"
+    ],
+    "snw": [],
+    "snq": [],
+    "snp": [],
+    "sz": [
+      "zests"
+    ],
+    "szw": [],
+    "szq": [],
+    "szp": [],
+    "a": [
+      "ates",
+      "east",
+      "eats",
+      "etas",
+      "sate",
+      "seat",
+      "seta",
+      "teas"
+    ],
+    "ah": [
+      "haets",
+      "haste",
+      "hates",
+      "heats"
+    ],
+    "ahw": [
+      "swathe",
+      "wheats"
+    ],
+    "ahwa": [],
+    "ahwx": [],
+    "ahwg": [],
+    "ahq": [],
+    "ahp": [
+      "spathe"
+    ],
+    "ahpa": [],
+    "ahpx": [],
+    "ahpg": [],
+    "an": [
+      "antes",
+      "etnas",
+      "nates",
+      "neats",
+      "stane"
+    ],
+    "anw": [],
+    "anq": [],
+    "anp": [
+      "patens"
+    ],
+    "anpa": [
+      "anapest",
+      "peasant"
+    ],
+    "anpaw": [],
+    "anpak": [],
+    "anpas": [
+      "anapests",
+      "peasants"
+    ],
+    "anpx": [],
+    "anpg": [],
+    "az": [
+      "zetas"
+    ],
+    "azw": [],
+    "azq": [],
+    "azp": []
+  },
+  "scoreTokens": [
+    "0810e120a761ed8c78dce1ee0237778460c2945d4af3a8a8c0b398a29aaeac29",
+    "578549e58f12a945ada7cb6b9ab776d743fe36c07b8979019547f84f59dd64b3",
+    "e78dd5508fb41a5a4e362d88c5842c74bd63b420baf70a8aadd4b9263748953f",
+    "f5b39f4e304e33dc49b99e52ac8a23a2631a26c3597cadf0c80f7e663792a1fb",
+    "3b18d1637a4ad777198af802ed205302d09fc982bff685c41c4bfefebd6baa56"
+  ]
+}
