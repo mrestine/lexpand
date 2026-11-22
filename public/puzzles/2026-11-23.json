@@ -1,0 +1,95 @@
+{
+  "start": "hin",
+  "target": [
+    "echidnae"
+  ],
+  "steps": [
+    {
+      "options": "cwg"
+    },
+    {
+      "options": "oca"
+    },
+    {
+      "options": "wfe"
+    },
+    {
+      "options": "hdb"
+    },
+    {
+      "options": "xze"
+    }
+  ],
+  "dictionary": {
+    "c": [
+      "chin",
+      "inch"
+    ],
+    "co": [
+      "chino"
+    ],
+    "cow": [],
+    "cof": [],
+    "coe": [],
+    "cc": [
+      "cinch"
+    ],
+    "ccw": [],
+    "ccf": [],
+    "cce": [],
+    "ca": [
+      "chain",
+      "china"
+    ],
+    "caw": [],
+    "caf": [],
+    "cae": [
+      "chaine"
+    ],
+    "caeh": [],
+    "caed": [
+      "chained",
+      "echidna"
+    ],
+    "caedx": [],
+    "caedz": [],
+    "caede": [
+      "echidnae"
+    ],
+    "caeb": [],
+    "w": [
+      "whin"
+    ],
+    "wo": [],
+    "wc": [
+      "winch"
+    ],
+    "wcw": [],
+    "wcf": [],
+    "wce": [],
+    "wa": [],
+    "g": [
+      "nigh"
+    ],
+    "go": [
+      "ohing"
+    ],
+    "gow": [],
+    "gof": [],
+    "goe": [
+      "hoeing"
+    ],
+    "goeh": [],
+    "goed": [],
+    "goeb": [],
+    "gc": [],
+    "ga": []
+  },
+  "scoreTokens": [
+    "920fa512297a07604d5d7e866abf07de75bc73d87cdd55451a70edfb2cffa75d",
+    "beb606b997858f7ffa24884f656690208244cb5ea02bb5e9acf7095207e432b2",
+    "b4b0f86e16c65a9735066758e8669b5674a25370335b920f3d66a2107c49fcef",
+    "36f0980ad967766a5fb6b554eb703a99227c38c581ecc7973f76f8f6830e8bb6",
+    "56b51e1a591e5314dc4bcff2a6e4972dff14820a91cbde8b17788f7f817ee850"
+  ]
+}
