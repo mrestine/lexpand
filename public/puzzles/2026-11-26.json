@@ -1,0 +1,179 @@
+{
+  "start": "att",
+  "target": [
+    "tutorage",
+    "outskate",
+    "outtakes",
+    "stakeout",
+    "takeouts",
+    "lathiest"
+  ],
+  "steps": [
+    {
+      "options": "mse"
+    },
+    {
+      "options": "rls"
+    },
+    {
+      "options": "uoh"
+    },
+    {
+      "options": "zol"
+    },
+    {
+      "options": "ikg"
+    }
+  ],
+  "dictionary": {
+    "m": [
+      "matt"
+    ],
+    "mr": [],
+    "ml": [],
+    "ms": [
+      "matts"
+    ],
+    "msu": [],
+    "mso": [],
+    "msh": [],
+    "s": [
+      "stat",
+      "tats"
+    ],
+    "sr": [
+      "start",
+      "tarts"
+    ],
+    "sru": [],
+    "sro": [
+      "ottars",
+      "stator",
+      "tarots"
+    ],
+    "sroz": [],
+    "sroo": [],
+    "srol": [],
+    "srh": [
+      "strath"
+    ],
+    "srhz": [],
+    "srho": [
+      "throats"
+    ],
+    "srhoi": [],
+    "srhok": [],
+    "srhog": [],
+    "srhl": [],
+    "sl": [],
+    "ss": [
+      "stats"
+    ],
+    "ssu": [
+      "status",
+      "suttas"
+    ],
+    "ssuz": [],
+    "ssuo": [],
+    "ssul": [],
+    "sso": [
+      "stoats",
+      "toasts"
+    ],
+    "ssoz": [],
+    "ssoo": [],
+    "ssol": [],
+    "ssh": [],
+    "e": [
+      "tate",
+      "teat"
+    ],
+    "er": [
+      "tater",
+      "tetra",
+      "treat"
+    ],
+    "eru": [
+      "tauter"
+    ],
+    "eruz": [],
+    "eruo": [
+      "outrate"
+    ],
+    "eruoi": [],
+    "eruok": [],
+    "eruog": [
+      "tutorage"
+    ],
+    "erul": [
+      "tutelar"
+    ],
+    "eruli": [],
+    "erulk": [],
+    "erulg": [],
+    "ero": [
+      "rotate"
+    ],
+    "eroz": [],
+    "eroo": [],
+    "erol": [],
+    "erh": [
+      "hatter",
+      "threat"
+    ],
+    "erhz": [],
+    "erho": [],
+    "erhl": [],
+    "el": [
+      "latte"
+    ],
+    "elu": [],
+    "elo": [],
+    "elh": [],
+    "es": [
+      "state",
+      "taste",
+      "tates",
+      "teats",
+      "testa"
+    ],
+    "esu": [
+      "astute",
+      "statue"
+    ],
+    "esuz": [],
+    "esuo": [
+      "outeats"
+    ],
+    "esuoi": [],
+    "esuok": [
+      "outskate",
+      "outtakes",
+      "stakeout",
+      "takeouts"
+    ],
+    "esuog": [],
+    "esul": [],
+    "eso": [],
+    "esh": [
+      "thetas"
+    ],
+    "eshz": [],
+    "esho": [],
+    "eshl": [
+      "stealth"
+    ],
+    "eshli": [
+      "lathiest"
+    ],
+    "eshlk": [],
+    "eshlg": []
+  },
+  "scoreTokens": [
+    "b53f17bb475999c085d49c7dd80046abfbd537200587fcb2f192eed7db79d278",
+    "a22f79eb73273ab44a5dea59ec315e5e1d43ae2c71051050ccf1a6153cf2ff87",
+    "ef5d0203613fbb8c535f969541390b7ca44c54d15d0350483c20c4f54171630b",
+    "db6beaa3c429b541c11236c1bbc1df7faf68bac99c1a114ff37d9682bed99a72",
+    "b933792b34bc8da8553a90bd45c4eac26cc2de46b4ffebc99d85d5d11ba16c5e"
+  ]
+}
